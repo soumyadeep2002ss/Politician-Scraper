@@ -11,7 +11,7 @@ yarn install
 ```
 # Usage
 
-const csvFilePath = 'sample.csv'; // Replace with your actual CSV file path
+const csvFilePath = 'Politicians/sample.csv'; // Replace with your actual CSV file path
 
 ## Run the script:
 ```bash
