@@ -1,0 +1,278 @@
+Jump to content
+Main menu
+Search
+Create account
+Log in
+Personal tools
+Toggle the table of contents
+European Centre for Medium-Range Weather Forecasts
+16 languages
+Article
+Talk
+Read
+Edit
+View history
+Tools
+Coordinates: 51°25′11″N 0°57′03″W
+From Wikipedia, the free encyclopedia
+	
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.
+Find sources: "European Centre for Medium-Range Weather Forecasts" – news · newspapers · books · scholar · JSTOR (August 2010) (Learn how and when to remove this template message)
+European Centre for Medium-Range Weather Forecasts
+
+
+Established	1975  (49 years ago)
+Headquarters	Reading 
+Country	United Kingdom 
+Coordinates	51°25′11″N 0°57′03″W 
+Chief Executives	Florence Rabier 
+Directors	Florence Rabier
+Website	www.ecmwf.int 
+
+The European Centre for Medium-Range Weather Forecasts (ECMWF) is an independent intergovernmental organisation supported by most of the nations of Europe. It is based at three sites: Shinfield Park, Reading, United Kingdom; Bologna, Italy; and Bonn, Germany. It operates one of the largest supercomputer complexes in Europe and the world's largest archive of numerical weather prediction data.[1]
+
+History[edit]
+  members as of 2015
+  co-operation agreement
+
+ECMWF was established in 1975, in recognition of the need to pool the scientific and technical resources of Europe's meteorological services and institutions for the production of weather forecasts for medium-range timescales (up to approximately two weeks) and of the economic and social benefits expected from it. The Centre employs about 350 staff, mostly appointed from across the member states and co-operating states.[1]
+
+In 2017, the centre's member states accepted an offer from the Italian Government to move ECMWF's data centre to Bologna, Italy.[2] The new site, a former tobacco factory, would be redesigned by the architecture firm gmp.
+
+During 2020, the Centre arranged to move its Copernicus operations away from Reading and into European Union territory.[3] Following bids from Toulouse,[3] Italy,[4] Austria,[5] Germany,[6] Spain[7] and Ireland,[8] eventually Bonn (Germany) was chosen.[9] The move has been directly attributed to Brexit.[9][10]
+
+Objectives[edit]
+
+ECMWF aims to provide accurate medium-range global weather forecasts out to 15 days and seasonal forecasts out to 12 months.[11] Its products are provided to the national weather services of its member states and co-operating states as a complement to their national short-range and climatological activities, and those national states use ECMWF's products for their own national duties, in particular to give early warning of potentially damaging severe weather.
+
+ECMWF's core mission is to:[12]
+
+Produce numerical weather forecasts and monitor planetary systems that influence weather
+Carry out scientific and technical research to improve forecast skill
+Maintain an archive of meteorological data
+
+To deliver this core mission, the Centre provides:
+
+Twice-daily global numerical weather forecasts
+Air quality analysis
+Atmospheric composition monitoring
+Climate monitoring
+Ocean circulation analysis
+Hydrological prediction
+
+The Centre develops and operates global atmospheric models and data assimilation systems for the dynamics, thermodynamics and composition of the Earth's atmosphere and for interacting parts of the Earth-system. It uses numerical weather prediction methods to prepare forecasts and their initial conditions, and it contributes to monitoring the relevant parts of the Earth system.
+
+Work and projects[edit]
+Forecasting[edit]
+
+Numerical weather prediction (NWP) requires input of meteorological data, collected by satellites and earth observation systems such as automatic and crewed weather stations, aircraft (including commercial flights[13]), ships and weather balloons. Assimilation of this data is used to produce an initial state of a computer model of the atmosphere, from which an atmospheric model is used to forecast the weather. These forecasts are typically:
+
+medium-range forecasts, predicting the weather up to 15 days ahead
+monthly forecasts, predicting the weather on a weekly basis 30 days ahead
+seasonal forecasts up to 12 months ahead.
+
+Over the past three decades ECMWF's wide-ranging programme of research has played a major role in developing such assimilation and modelling systems. This improves the accuracy and reliability of weather forecasting by about a day per decade, so that a seven-day forecast now (2015) is as accurate as a three-day forecast was four decades ago (1975).[14]
+
+Monthly and seasonal forecasts[edit]
+
+ECMWF's monthly and seasonal forecasts provide early predictions of events such as heat waves, cold spells and droughts, as well as their impacts on sectors such as agriculture, energy and health. Since ECMWF runs a wave model, there are also predictions of coastal waves and storm surges in European waters which can be used to provide warnings.
+
+Early warning of severe weather events[edit]
+
+Forecasts of severe weather events allow appropriate mitigating action to be taken and contingency plans to be put into place by the authorities and the public. The increased time gained by issuing accurate warnings can save lives, for instance by evacuating people from a storm surge area. Authorities and businesses can plan to maintain services around threats such as high winds, floods or snow.
+
+In October 2012 the ECMWF model suggested seven days in advance that Hurricane Sandy was likely to make landfall on the East Coast of the United States.[15] It also predicted the intensity and track of the November 2012 nor'easter, which impacted the east coast a week after Sandy.[16]
+
+ECMWF's Extreme Forecast Index (EFI) was developed as a tool to identify where the EPS (Ensemble Prediction System) forecast distribution differs substantially from that of the model climate[clarification needed]. It contains information regarding variability of weather parameters, in location and time and can highlight an abnormality of a weather situation without having to define specific space- and time-dependent thresholds.
+
+Satellite data[edit]
+
+ECMWF, through its partnerships with EUMETSAT, ESA, the EU and others, exploits satellite data for operational numerical weather prediction and operational seasonal forecasting with coupled atmosphere–ocean–land models. The increasing amount of satellite data and the development of more sophisticated ways of extracting information from that data have made a major contribution to improving the accuracy and utility of NWP forecasts.[citation needed] ECMWF continuously endeavours to improve the use of satellite observations for NWP.
+
+Reanalysis[edit]
+Main article: ECMWF re-analysis
+
+ECMWF supports research on climate variability using an approach known as reanalysis. This involves feeding weather observations collected over decades into a NWP system to recreate past atmospheric, sea- and land-surface conditions over specific time periods to obtain a clearer picture of how the climate has changed. Reanalysis provides a four-dimensional picture of the atmosphere and effectively allows monitoring of the variability and change of global climate, thereby contributing also to the understanding and attribution of climate change.
+
+To date, and with support from Europe's National Meteorological Services and the European Commission, ECMWF has conducted several major reanalyses of the global atmosphere: the first ECMWF re-analysis (ERA-15) project generated reanalyses from December 1978 to February 1994; the ERA-40 project generated reanalyses from September 1957 to August 2002. The ERA-Interim reanalysis[17] covered the period from 1979 onwards. A reanalysis product (ERA5)[18] with higher spatial resolution (31 km) was released by ECMWF in 2019 as part of the Copernicus Climate Change Service.[19]
+
+Operational forecast model[edit]
+Main article: Integrated Forecast System
+
+ECMWF's operational forecasts are produced from its "Integrated Forecast System" (sometimes informally known in the United States as the "European model") which is run every twelve hours and forecasts out to ten days.
+
+It includes both a "deterministic forecast" mode and an ensemble. The deterministic forecast is a single model run that is relatively high in resolution as well as in computational expense. The ensemble is relatively low (about half that of the deterministic) in resolution (and in computational expense), so less accurate. But it is run 51 times in parallel, from slightly different initial conditions to give a spread of likelihood over the range of the forecast.[20]
+
+As of 2021, the ECMWF's weather model is generally considered to be the most accurate weather forecasting model.[21]
+
+Copernicus[edit]
+
+The centre currently serves as the Entrusted Entity responsible for delivery of two of the Services of the EU's Copernicus Programme. The two services are the Copernicus Atmosphere Monitoring Service (CAMS)[22] and the Copernicus Climate Change Service (C3S).[23]
+
+The Centre arranged to move its Copernicus operations away from Reading and into Bonn (Germany).[3][9] The move has been directly attributed to Brexit.[9][10]
+
+Member and co-operating states[edit]
+
+ECMWF comprises 23 European countries:
+
+the eighteen founding states of 1975: Austria, Belgium, Denmark, Finland, France, Germany, Greece, Republic of Ireland, Italy, Luxembourg, Netherlands, Norway, Portugal, Spain, Sweden, Switzerland, Turkey, United Kingdom.
+five states that joined since 2010: Iceland (April 2011),[24] Slovenia (December 2012),[25] Serbia (January 2015),[26] Croatia (January 2016),[27] Estonia (December 2020)[28]
+
+It also has co-operation agreements with other states: Bulgaria, Czech Republic, Hungary, Israel, Latvia, Lithuania, North Macedonia, Montenegro, Morocco, Romania and Slovakia.
+
+Member state[29]	Year of joining
+Co-operating State[30]	Year of joining
+Co-operating agreements[31]	Year of joining
+See also[edit]
+	Weather portal
+	Europe portal
+EUMETNET
+EUMETSAT
+Copernicus Programme
+References[edit]
+^ a b "Who we are". ECMWF. 28 November 2013. Retrieved 1 January 2016.
+^ "Press kit: Bologna to host ECMWF's new data centre". 3 March 2017.
+^ a b c "France Applies to Host Top Weather Forecaster Now Based in U.K." Bloomberg. 30 May 2020.
+^ "Tecnopolo di Bologna. Il Governo autorizza la spesa di 40 milioni nel prossimo triennio, di cui 10 milioni nel 2020". CONFERENZA DELLE REGIONI E DELLE PROVINCE AUTONOME. 20 May 2020. Retrieved 18 June 2020.
+^ "Regierung will Klimawandel-Überwachungsdienst nach Österreich holen". Die Presse. 20 May 2020. Retrieved 18 June 2020.
+^ "SO WILL BONN EUROPÄISCHES WETTER-ZENTRUM WERDEN!". TAG24. 16 June 2020. Retrieved 18 June 2020.
+^ "España postulará a Barcelona como sede del Centro Europeo de Predicciones Meteorológicas a Plazo Medio". europa press. 29 May 2020. Retrieved 18 June 2020.
+^ "Govt to bid for relocation of EU forecaster from UK to Ireland". Radió Telefis Éireann. 23 September 2020. Retrieved 24 September 2020.
+^ a b c d ""European weather authority relocates to Bonn"". City of Bonn. 9 December 2020. Archived from the original on 16 December 2020. Retrieved 9 December 2020.
+^ a b "European Center for Weather Forecasting: France selects Toulouse candidate". en24 news. 30 May 2020. Retrieved 1 June 2020.
+^ Deutscher Wetterdienst. "ECMWF - European Centre for Medium-Range Weather Forecasts". Berlin, Germany: Federal Ministry of Transport and Digital Infrastructure. Retrieved 29 April 2014. Established in 1975, ECMWF is renowned worldwide for providing the most accurate medium-range global weather forecasts up to 10 days ahead, monthly forecasts and seasonal outlooks to six months ahead.
+^ ECMWF (30 December 2013), What we do, retrieved 11 June 2019
+^ "COVID-19: Aeolus and weather forecasts". www.esa.int. Retrieved 30 July 2023.
+^ "The Forecast For Weather Technology". Sky News. 17 July 2015. Retrieved 1 January 2016.
+^ Roulstone, Ian; Norbury, John (25 July 2013). "How Math helped forecast Hurricane Sandy". Scientific American. Retrieved 9 August 2013.
+^ "Moderate-strength Nor'easter may hit Sandy-devastated areas Wednesday | Category 6™". www.wunderground.com. Retrieved 1 May 2017.
+^ Dee, D. P.; Uppala, S. M.; Simmons, A. J.; Berrisford, P.; Poli, P.; et al. (2011). "The ERA-Interim reanalysis: Configuration and performance of the data assimilation system". Quarterly Journal of the Royal Meteorological Society. 137 (656): 553–597. Bibcode:2011QJRMS.137..553D. doi:10.1002/qj.828. hdl:20.500.11824/1106.
+^ Hersbach, H.; Bell, B.; Berrisford, P.; Hirahara, S.; Horányi, A.; Muñoz-Sabater, J.; et al. (2020). "The ERA5 global reanalysis". Quarterly Journal of the Royal Meteorological Society. 146 (730): 1999–2049. doi:10.1002/qj.3803.
+^ "New ERA5 dataset provides weather and climate details back to 1979". 17 January 2019.
+^ "Modelling and Prediction". ECMWF. 29 November 2013. Retrieved 2 January 2016.
+^ Paul Douglas (18 April 2021). "Will a New GFS Weather Model Upgrade Close the Gap with The European Model?". AerisWeather. Retrieved 14 September 2021.
+^ "Copernicus Atmosphere Monitoring Service". ECMWF. 11 November 2014. Retrieved 23 October 2019.
+^ "Copernicus Climate Change Service". ECMWF. 11 November 2014. Retrieved 23 October 2019.
+^ "MeteoWorld". 22 September 2015.
+^ "Slovenia becomes ECMWF's 20th Member State". ecmwf.int. ECMWF. Archived from the original on 3 September 2013. Retrieved 8 December 2012.
+^ Jeppesen, Joanne (5 January 2015). "Serbia becomes ECMWF's 21st Member State". ECMWF.
+^ Jeppesen, Joanne (1 July 2016). "News". ECMWF.
+^ "ECMWF welcomes Estonia as 23rd Member State". 1 December 2020.
+^ "ECMWF Member States". ECMWF. 2017.
+^ "ECMWF Co-operating States". ECMWF. 2017.
+^ "ECMWF Co-operating Agreements". ECMWF. 2017.
+Further reading[edit]
+Woods, Austin (2006). Medium-Range Weather Prediction – the European Approach. Springer. ISBN 978-0-387-26928-3.
+External links[edit]
+Official website 
+ECMWF Re-analysis (ERA)
+"ERA-15". Archived from the original on 11 August 2004.
+"ERA-40". Archived from the original on 11 August 2004.
+ECMWF on TOP500
+vte
+National meteorological organizations
+
+Africa	
+AlgeriaGhanaMozambiqueSouth Africa
+
+Americas	
+ArgentinaBermudaBrazilCanadaChileColombiaCosta RicaEcuadorGuatemalaMexicoUnited StatesUruguay
+
+Asia	
+AfghanistanBangladeshBhutanChina (PRC)China (ROC)IndiaIndonesiaIranIsraelJapanKorea (DPRK)Korea (ROK)MalaysiaPakistanPalestinePhilippinesRussiaSaudi ArabiaSingaporeThailandTurkeyTurkmenistanVietnam
+
+Europe	
+AustriaBelgiumCroatiaCzech RepublicDenmarkEstoniaFinlandFranceGermanyGreeceIcelandIrelandItalyLatviaLithuaniaMontenegroNetherlandsNorwayPortugalRomaniaRussiaSerbiaSloveniaSpainSwedenSwitzerlandTurkeyUnited KingdomUkraine
+
+Oceania	
+AustraliaFijiNew ZealandTongaTuvalu
+
+
+Regional: Caribbean Institute for Meteorology and HydrologyEuropean Centre for Medium-Range Weather ForecastsEuropean Severe Storms LaboratoryGlobal: World Meteorological Organization
+vte
+Major physics research facilities based in the United Kingdom
+
+Fusion	
+Joint European Torus (JET)Mega Ampere Spherical Tokamak (MAST)
+
+Synchrotron light sources	
+Diamond Light Source
+
+Lasers	
+Central Laser Facility
+
+Neutron and muon sources	
+ISIS Neutron and Muon Source
+
+Atmospheric, astronomy and space science	
+UK Astronomy Technology CentreChilbolton ObservatoryJodrell Bank ObservatoryECMWF
+
+Miscellaneous	
+Medium Energy Ion Scattering Facility
+vte
+Atmospheric, oceanographic, cryospheric, and climate models
+
+
+Model types
+
+
+Atmospheric modelOceanographic modelCryospheric modelClimate modelNumerical weather predictionTropical cyclone forecast modelAtmospheric dispersion modelingChemical transport modelUpper-atmospheric modelsEnsemble forecastingModel output statisticsMeteorological reanalysisParametrization
+
+
+Specific models
+
+
+Climate	
+IGCMHadCM3HadGEM1GFDL CM2.XCGCMCCSMCESMCFSv2ECHAM
+
+Global weather	
+IFS (ECMWF)FIMGEM / GDPSGFSMPASNAEFSNAVGEMUMJMA-GSMGME / ICONARPEGE
+
+Regional and mesoscale atmospheric	
+NAMRR / RAPRAMSWRFRAQMSHIRLAMLAPSRPMHWRFRGEMHRDPS
+
+Regional and mesoscale oceanographic	
+HyCOMROMSPOMMOMFVCOMMITgcmFESOMADCIRC
+
+Atmospheric dispersion	
+ADMSAERMODATSTEPAUSTAL2000CALPUFFDISPERSION21ISC3MEMOMERCURENAMEOSPMPUFF-PLUMERIMPUFFSAFE AIRSILAM
+
+Chemical transport	
+CLaMSMOZARTGEOS-ChemCHIMERE
+
+Land surface parametrization	
+JULESCLASSISBA
+
+Cryospheric models	
+CICE
+
+Discontinued	
+EtaLFMMM5NGMNOGAPSRUC
+
+
+Mathematical modelStatistical modelScientific modellingComputer simulation
+Authority control databases 
+
+International	
+ISNIVIAF
+
+National	
+NorwayFranceBnF dataCataloniaGermanyIsraelUnited StatesAustralia
+
+Academics	
+CiNii
+
+Other	
+IdRef
+Categories: 1975 establishments in the United KingdomClimate of EuropeClimate of the United KingdomEuropean research networksGovernment agencies established in 1975Governmental meteorological agencies in EuropeInformation technology organisations based in the United KingdomMeteorological organizationsOrganisations based in Reading, BerkshireResearch institutes established in 1975Research institutes in BerkshireBorough of Wokingham
+This page was last edited on 23 January 2024, at 10:14 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License 4.0; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view

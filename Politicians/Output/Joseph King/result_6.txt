@@ -1,0 +1,292 @@
+Encyclopedia
+Entry
+Journal
+Book
+Video
+Image
+About
+Entry
+Entry
+Video
+Image
+  
+Log in/Sign up
+Submit
+Home Entry Topic Review 
+Current:
+Conservation-Restoration of Cultural Heritage
+Conservation-Restoration of Cultural Heritage  Edit
+The content is sourced from: https://handwiki.org/wiki/Social:Conservation-restoration_of_cultural_heritage
+ 0
+ 0
+ 0
+
+The conservation-restoration of cultural heritage focuses on protection and care of tangible cultural heritage, including artworks, architecture, archaeology, and museum collections. Conservation activities include preventive conservation, examination, documentation, research, treatment, and education. This field is closely allied with conservation science, curators and registrars.
+
+cultural heritage conservation-restoration conservation
+1. Definition
+Revision and conservation of the Holy Trinity Column in Olomouc (Czech Republic) in 2006. https://handwiki.org/wiki/index.php?curid=1919816
+
+Conservation of cultural heritage involves protection and restoration using "any methods that prove effective in keeping that property in as close to its original condition as possible for as long as possible."[1] Conservation of cultural heritage is often associated with art collections and museums and involves collection care and management through tracking, examination, documentation, exhibition, storage, preventative conservation, and restoration.[2]
+
+The scope has widened from art conservation, involving protection and care of artwork and architecture, to conservation of cultural heritage, also including protection and care of a broad set of other cultural and historical works. Conservation of cultural heritage can be described as a type of ethical stewardship.
+
+Conservation of cultural heritage applies simple ethical guidelines:
+
+Minimal intervention;
+Appropriate materials and reversible methods;
+Full documentation of all work undertaken.
+
+Often there are compromises between preserving appearance, maintaining original design and material properties, and ability to reverse changes. Reversibility is now emphasized so as to reduce problems with future treatment, investigation, and use.
+
+In order for conservators to decide upon an appropriate conservation strategy and apply their professional expertise accordingly, they must take into account views of the stakeholder, the values and meaning of the work, and the physical needs of the material.
+
+Cesare Brandi in his Theory of Restoration, describes restoration as "the methodological moment in which the work of art is appreciated in its material form and in its historical and aesthetic duality, with a view to transmitting it to the future".[3]
+
+2. History
+2.1. Key Dates
+
+Some consider the tradition of conservation of cultural heritage in Europe to have begun in 1565 with the restoration of the Sistine Chapel frescoes, but more ancient examples include the work of Cassiodorus.[4]
+
+2.2. Brief History
+
+File:Achter de schermen van het Rijksmuseum Weeknummer 50-11 - Open Beelden - 30641.ogv
+
+A temporary windowed partition along restoration work area in the cloister of the Church of St. Trophime, Arles. https://handwiki.org/wiki/index.php?curid=1301986
+
+The care of cultural heritage has a long history, one that was primarily aimed at fixing and mending objects for their continued use and aesthetic enjoyment.[5] Until the early 20th century, artists were normally the ones called upon to repair damaged artworks. During the 19th century, however, the fields of science and art became increasingly intertwined as scientists such as Michael Faraday began to study the damaging effects of the environment to works of art. Louis Pasteur carried out scientific analysis on paint as well.[6] However, perhaps the first organized attempt to apply a theoretical framework to the conservation of cultural heritage came with the founding in the United Kingdom of the Society for the Protection of Ancient Buildings in 1877. The society was founded by William Morris and Philip Webb, both of whom were deeply influenced by the writings of John Ruskin. During the same period, a French movement with similar aims was being developed under the direction of Eugène Viollet-le-Duc, an architect and theorist, famous for his restorations of medieval buildings.
+
+Since 1998, Harvard University wraps some of the valuable statues on its campus, such as this "Chinese stele", with waterproof covers every winter, in order to protect them from erosion caused by acid rain. https://handwiki.org/wiki/index.php?curid=1884408
+
+Conservation of cultural heritage as a distinct field of study initially developed in Germany, where in 1888 Friedrich Rathgen became the first chemist to be employed by a Museum, the Koniglichen Museen, Berlin (Royal Museums of Berlin). He not only developed a scientific approach to the care of objects in the collections, but disseminated this approach by publishing a Handbook of Conservation in 1898.[8] The early development of conservation of cultural heritage in any area of the world is usually linked to the creation of positions for chemists within museums. In the United Kingdom, pioneering research into painting materials and conservation, ceramics, and stone conservation was conducted by Arthur Pillans Laurie, academic chemist and Principal of Heriot-Watt University from 1900. Laurie's interests were fostered by William Holman Hunt.[9] In 1924 the chemist Dr Harold Plenderleith began to work at the British Museum with Dr. Alexander Scott in the recently created Research Laboratory, although he was actually employed by the Department of Scientific and Industrial Research in the early years. Plenderleith's appointment may be said to have given birth to the conservation profession in the UK, although there had been craftsmen in many museums and in the commercial art world for generations.[10] This department was created by the museum to address the deteriorating condition of objects in the collection, damages which were a result of their being stored in the London Underground tunnels during the First World War. The creation of this department moved the focus for the development of conservation theory and practice from Germany to Britain, and made the latter a prime force in this fledgling field. In 1956 Plenderleith wrote a significant handbook called The Conservation of Antiquities and Works of Art, which supplanted Rathgen's earlier tome and set new standards for the development of art and conservation science.
+
+In the United States , the development of conservation of cultural heritage can be traced to the Fogg Art Museum, and Edward Waldo Forbes, its director from 1909 to 1944. He encouraged technical investigation, and was Chairman of the Advisory Committee for the first technical journal, Technical Studies in the Field of the Fine Arts, published by the Fogg from 1932 to 1942. Importantly he also brought onto the museum staff chemists. Rutherford John Gettens was the first of usch in the US to be permanently employed by an art museum. He worked with George L. Stout, the founder and first editor of Technical Studies. Gettens and Stout co-authored Painting Materials: A Short Encyclopaedia in 1942, reprinted in 1966. This compendium is still cited regularly. Only a few dates and descriptions in Gettens' and Stout's book are now outdated.[11]
+
+George T. Oliver, of Oliver Brothers Art Restoration and Art Conservation-Boston (Est. 1850 in New York City) invented the vacuum hot table for relining paintings in 1920s; he filed a patent for the table in 1937.[12] Taylor's prototype table, which he designed and constructed, is still in operation. Oliver Brothers is believed to be the first and the oldest continuously operating art restoration company in the United States.
+
+The focus of conservation development then accelerated in Britain and America, and it was in Britain that the first International Conservation Organisations developed. The International Institute for Conservation of Historic and Artistic Works (IIC) was incorporated under British law in 1950 as "a permanent organization to co-ordinate and improve the knowledge, methods, and working standards needed to protect and preserve precious materials of all kinds."[11] The rapid growth of conservation professional organizations, publications, journals, newsletters, both internationally and in localities, has spearheaded the development of the conservation profession, both practically and theoretically. Art historians and theorists such as Cesare Brandi have also played a significant role in developing conservation science theory. In recent years ethical concerns have been at the forefront of developments in conservation. Most significantly has been the idea of preventive conservation. This concept is based in part on the pioneering work by Garry Thomson CBE, and his book the Museum Environment, first published in 1978.[13] Thomson was associated with the National Gallery in London; it was here that he established a set of guidelines or environmental controls for the best conditions in which objects could be stored and displayed within the museum environment. Although his exact guidelines are no longer rigidly followed, they did inspire this field of conservation.
+
+3. Ethics
+
+The conservator's work is guided by ethical standards. These take the form of applied ethics. Ethical standards have been established across the world, and national and international ethical guidelines have been written. One such example is:
+
+American Institute for Conservation Code of Ethics and Guidelines for Practice [14]
+
+Conservation OnLine provides resources on ethical issues in conservation,[15] including examples of codes of ethics and guidelines for professional conduct in conservation and allied fields; and charters and treaties pertaining to ethical issues involving the preservation of cultural property.
+
+As well as standards of practice conservators deal with wider ethical concerns, such as the debates as to whether all art is worth preserving.[16]
+
+Castle gate of Krnov before (2001) https://handwiki.org/wiki/index.php?curid=1494246 and after (2009) restoration https://handwiki.org/wiki/index.php?curid=1925181
+Preserved historical quarter in Beirut Central District. https://handwiki.org/wiki/index.php?curid=1764648
+4. Caring for Cultural Heritage
+4.1. Collections Care
+
+Many cultural works are sensitive to environmental conditions such as temperature, humidity and exposure to visible light and ultraviolet radiation. These works must be protected in controlled environments where such variables are maintained within a range of damage-limiting levels. For example, watercolour paintings usually require shielding from sunlight to prevent fading of pigments.
+
+Collections care is an important element of museum policy. It is an essential responsibility of members of the museum profession to create and maintain a protective environment for the collections in their care, whether in store, on display, or in transit. A museum should carefully monitor the condition of collections to determine when an artifact requires conservation work and the services of a qualified conservator.
+
+Work of preventive conservation in a rock wall with prehistoric paintings at the Serra da Capivara National Park. The work consists of filling the cracks to prevent the fragmentation of the wall. https://handwiki.org/wiki/index.php?curid=1550865
+4.2. Interventive Conservation
+Furniture conservation – Re-glueing loose element of solid nut marriage chest (probably Italy, 19th century). https://handwiki.org/wiki/index.php?curid=1550679
+
+A principal aim of a cultural conservator is to reduce the rate of deterioration of an object. Both non-interventive and interventive methodologies may be employed in pursuit of this goal. Interventive conservation refers to any direct interaction between the conservator and the material fabric of the object. Interventive actions are carried out for a variety of reasons, including aesthetic choices, stabilization needs for structural integrity, or cultural requirements for intangible continuity. Examples of interventive treatments include the removal of discolored varnish from a painting, the application of wax to a sculpture, and the washing and rebinding of a book. Ethical standards within the field require that the conservator fully justify interventive actions and carry out documentation before, during, and after the treatment.
+
+One of the guiding principles of conservation of cultural heritage has traditionally been the idea of reversibility, that all interventions with the object should be fully reversible and that the object should be able to be returned to the state in which it was prior to the conservator's intervention. Although this concept remains a guiding principle of the profession, it has been widely critiqued within the conservation profession[17] and is now considered by many to be "a fuzzy concept."[18] Another important principle of conservation is that all alterations should be well documented and should be clearly distinguishable from the original object.[19]
+
+An example of a highly publicized interventive conservation effort would be the conservation work conducted on the Sistine Chapel.
+
+5. Conservation Laboratories
+The Lunder Conservation Center. Conservation staff for both the Smithsonian American Art Museum and the National Portrait Gallery are visible to the public through floor-to-ceiling glass walls that allow visitors to see firsthand all the techniques that conservators use to examine, treat and preserve artworks within a functioning conservation Laboratory. https://handwiki.org/wiki/index.php?curid=1808063
+
+Conservators routinely use chemical and scientific analysis for the examination and treatment of cultural works. The modern conservation laboratory uses equipment such as microscopes, spectrometers, and various x-ray regime instruments to better understand objects and their components. The data thus collected helps in deciding the conservation treatments to be provided to the object.
+
+6. Country by Country Look
+6.1. United States
+
+Heritage Preservation, in partnership with the Institute of Museum and Library Services, a U.S. federal agency, produced The Heritage Health Index. The results of this work was the report A Public Trust at Risk: The Heritage Health Index Report on the State of America's Collections, which was published in December 2005 and concluded that immediate action is needed to prevent the loss of 190 million artifacts that are in need of conservation treatment. The report made four recommendations:
+
+Institutions must give priority to providing safe conditions for the collections they hold in trust.
+Every collecting institution must develop an emergency plan to protect its collections and train staff to carry it out.
+Every institution must assign responsibility for caring for collections to members of its staff.
+Individuals at all levels of government and in the private sector must assume responsibility for providing the support that will allow these collections to survive.[20]
+6.2. United Kingdom
+Conservation in Progress note, Victoria and Albert Museum (2014). https://handwiki.org/wiki/index.php?curid=1224201
+
+In October 2006, the Department for Culture, Media and Sport, a governmental department, authored a document: "Understanding the Future: Priorities for England's Museums".[21] This document was based on several years of consultation aimed to lay out the government's priorities for museums in the 21st century.
+
+The document listed the following as priorities for the next decade:
+
+Museums will fulfil their potential as learning resources (pp 7–10).
+Museums will be embedded into the delivery of education in every school in the country.
+Understanding of the effectiveness of museum education will be improved further and best practice built into education programmes.
+The value of museums' collections as a research resource will be well understood and better links built between the academic community and museums.
+Museums will embrace their role in fostering, exploring, celebrating and questioning the identities of diverse communities (pp 11–14).
+The sector needs to work with partners in academia and beyond to create an intellectual framework supporting museums' capacity to tackle issues of identity.
+The museum sector must continue to develop improved practical techniques for engaging communities of all sorts.
+Museums' collections will be more dynamic and better used (pp 15–18).
+Government and the sector will find new ways to encourage museums to collect actively and strategically, especially the record of contemporary society.
+The sector will develop new collaborative approaches to sharing and developing collections and related expertise.
+Museums' workforces will be dynamic, highly skilled and representative (pp 17–22).
+Museums' governing bodies and workforces will be representative of the communities they serve.
+Find more varied ways for a broader range of skills to come into museums.
+Improve continuing professional development.
+Museums will work more closely with each other and partners outside the sector (pp 23–26).
+A consistent evidence base of the contribution of all kinds of museums to the full range of public service agendas will be developed.
+There will be deeper and longer lasting partnerships between the national museums and a broader range of regional partners.
+Museums' international roles will be strengthened to improve museum programmes in this country and Britain's image, reputation and relationships abroad.
+
+The conservation profession response to this report was on the whole less than favourable, the Institute of Conservation (ICON) published their response under the title "A Failure of Vision".[22] It had the following to say:
+
+"No sector can look with confidence to the future if its key asset is worked harder and harder across an ever broadening range of objectives while the inputs required to sustain it are neglected."
+"It is of major concern to us that the only part of this section which makes any acknowledgement of the need for greater resourcing is the part which refers to acquisitions. The original consultation paper made quite extensive reference to the importance of collections, the role of new technologies, and cultural property issues, but this appears to have been whittled away in the present document."
+
+Concluding:
+
+"When asked by the Commons Culture Media and Sport elect Committee CMS committee what he would like to see as a priority in the DCMS document arising from the 'Understanding the Future' consultation, Mr MacGregor responded 'I would like to see added there the need to conserve and research the collections, so that the collections can really play the role across the whole of the United Kingdom that they should.' So would we."
+
+Further to this the ICON website summary report[23] lists the following specific recommendations:
+
+A national survey to find out what the public want from museums, what motivates them to visit them and what makes for a rewarding visit.
+A review of survey results and prioritisation of the various intrinsic, instrumental and institutional values to provide a clear basis for a 10-year strategy
+HR consultants to be brought in from the commercial sector to review recruitment, career development and working practices in the national and regional museums.
+A commitment to examine the potential for using Museum Accreditation as a more effective driver for improving recruitment, diversity, and career development across the sector.
+DCMS to take full account of the eventual findings of the current Commons Select Committee enquiry into Care of Collections in the final version of this document
+The adoption of those recommendations of the recent House of Lords enquiry into Science and Heritage which have a potential impact on the future of museums.
+
+In November 2008, the UK-based think tank Demos published an influential pamphlet entitled It's a material world: caring for the public realm,[24] in which they argue for integrating the public directly into efforts to conserve material culture, particularly that which is in the public, their argument, as stated on page 16, demonstrates their belief that society can benefit from conservation as a paradigm as well as a profession:
+
+"conservators provide a paradigm not just for fixing things when they are broken, but for a wider social ethos of care, where we individually and collectively take responsibility and action"
+7. Training
+
+Training in conservation of cultural heritage for many years took the form of an apprenticeship, whereby an apprentice slowly developed the necessary skills to undertake their job. For some specializations within conservation this is still the case. However, it is more common in the field of conservation today that the training required to become a practicing conservator comes from a recognized university course in conservation of cultural heritage.[25]
+
+The University can rarely provide all the necessary training in first hand experience that an apprenticeship can, and therefore in addition to graduate level training the profession also tends towards encouraging conservation students to spend time as an intern.
+
+Conservation of cultural heritage is an interdisciplinary field as conservators have backgrounds in the fine arts, sciences (including chemistry, biology, and materials science), and closely related disciplines, such as art history, archaeology, studio art, and anthropology. They also have design, fabrication, artistic, and other special skills necessary for the practical application of that knowledge.
+
+Within the various schools that teach conservation of cultural heritage, the approach differs according to the educational and vocational system within the country, and the focus of the school itself. This is acknowledged by the American Institute for Conservation who advise "Specific admission requirements differ and potential candidates are encouraged to contact the programs directly for details on prerequisites, application procedures, and program curriculum".[25]
+
+In France, training for heritage conservation is taught by the Institut national du patrimoine (The National Institute of Cultural Heritage).
+
+8. Associations and Professional Organizations
+
+Societies devoted to the care of cultural heritage have been in existence around the world for many years. One early example is the founding in 1877 of the Society for the Protection of Ancient Buildings in Britain to protect the built heritage, this society continues to be active today.[26]
+
+The built heritage was at the forefront of the growth of member based organizations in the United States . Preservation Virginia, founded in Richmond in 1889 as the Association for the Preservation of Virginia Antiquities, was the United States' first statewide historic preservation group.[27]
+
+Today, professional conservators join and take part in the activities of numerous conservation associations and professional organizations with the wider field, and within their area of specialization.
+
+These organizations exist to "support the conservation professionals who preserve our cultural heritage".[28]
+
+This involves upholding professional standards, promoting research and publications, providing educational opportunities, and fostering the exchange of knowledge among cultural conservators, allied professionals, and the public.
+
+9. International Cultural Heritage Documents
+Year	Document	Sponsor	Text (English where available)
+1931	Athens Charter	International Congress of Architects and Technicians of Historic Monuments	text
+1931	Carta Di Atene	Conferenza Internazionale di Atene	text (Italian)
+1932	Carta Italiana del restauro	Consiglio Superiore Per Le Antichità e Belle Arti	text (Italian)
+1933	Charter of Athens	IV CIAM	text
+1956	New Delhi Recommendation	IX UNESCO	text, text
+1962	Paris Recommendation	XII UNESCO	text
+1964	Venice Charter	II International Congress of Architects and Technicians of Historic Monuments	text, text
+1964	Paris Recommendation	XIII UNESCO	text
+1967	Norms of Quito	OAS	text (Spanish), text
+1968	Paris Recommendation	XV UNESCO	text
+1972	Paris Convention	XVII UNESCO	text
+1972	Paris Recommendation	XVII UNESCO	text
+1972	Carta Italiana del Restauro	 	text (Italian)
+1972	Stockholm Declaration	UNEP	text
+1974	Santo Domingo Resolution, Dominican Republic	Interamerican Seminar on the Conservation and Restoration of the Architectural Heritage of the Colonial and Republican Periods – OAS	text (Portuguese), text (Portuguese)
+1975	Declaration of Amsterdam	Congress on the European Architectural Heritage	text
+1975	European Charter of the Architectural Heritage	Council of Europe	text
+1976	Charter on Cultural Tourism, Brussels	International Seminar on Contemporary Tourism and Humanism	text
+1976	Nairobi Recommendation	XIX UNESCO	text
+1977	Machu Picchu Charter	 	text (Portuguese), text (Portuguese), text (Spanish), ref (Spanish)
+1981	Burra Charter	ICOMOS	text
+1982	Florence Charter	ICOMOS: Historic Gardens	text, text
+1982	Nairobi Declaration	UNEP	text
+1982	Tlaxcala Declaration	ICOMOS	text
+1982	México Declaration	World Conference on Cultural Policies – MONDIACULT	text, text
+1983	Declaration of Rome	ICOMOS	text
+1987	Carta della conservazione e del restauro degli oggetti d'arte e di cultura	 	text (Italian)
+1987	Washington Charter	ICOMOS	text, text
+1989	Paris Recommendation	XXV UNESCO	text
+1990	Lausanne Charter	ICOMOS / ICAHM	text, text
+1994	Nara Document	UNESCO / ICCROM / ICOMOS	text, text
+1995	European Recommendation	Council of Europe, Committee of Ministers	text (Rec(95)3E),
+
+text (Rec(95)9E)
+
+
+1996	Declaration of San Antonio	ICOMOS	text
+1997	Declaration of Sofia	XI ICOMOS or XXIX UNESCO	text
+1997	Carta de Mar del Plata	Mercosur	text (Portuguese), text (Portuguese), text (Spanish), text (Spanish)
+2000	Cracow Charter	 	text (Italian)
+2002	Declaration of Cartagena de Indias, Colômbia	Conselho Andino, OAS	text
+2003	Paris Recommendation	XXXII UNESCO	text
+10. Example of an Archaeological Discovery and Restoration of a Mural Painting
+First archaeological search in the 19th-century layer by French archaeologist and restorer Yves Morvan. https://handwiki.org/wiki/index.php?curid=1387078
+Painting of the 15th century cleared before restoration. https://handwiki.org/wiki/index.php?curid=1574507
+Painting after restoration. https://handwiki.org/wiki/index.php?curid=1318202
+References
+Walston, S. (1978). "The Preservation and Conservation of Aboriginal and Pacific Cultural Material in Australian Museums". ICCM Bulletin 4 (1): 9. http://www.aiccm.org.au/index.php?option=com_content&view=article&id=319:the-preservation-and-conservation-of-aboriginal-and-pacific-cultural-material-in-australian-museums&catid=79:1978-iccm-bulletin-volume-4-no-4&Itemid=44. 
+Szczepanowska, Hanna M.. 2013. Conservation of cultural heritage: key principles and approaches. Routledge. ISBN:978-0415674744.
+[Cesare Brandi, Teoria del restauro; Rome: Edizioni di Storia e Letteratura, 1963: reprint, Turin: G. Einaudi, 1977]
+Pergoli Campanelli, Alessandro (2013). Cassiodoro alle origini dell'idea di restauro. Milano: Jaca book. p. 140. ISBN 978-88-16-41207-1. https://www.academia.edu/3522730/Cassiodoro_alle_origini_dellidea_di_restauro. 
+Pye, E, 2001. Caring for the Past: Issues in Conservation for Archaeology and Museums. London: James and James
+Stoner, Joyce Hill. 2005. p. 41. “Changing Approaches in Art Conservation: 1925 to the present” in (Sackler NAS Colloquium) Scientific Examination of Art: Modern Techniques in Conservation and Analysis. Proceedings of the National Academy of Sciences. http://books.nap.edu/openbook.php?record_id=11413&page=41
+"Art Under Wraps", Harvard Magazine, March–April 2000 http://harvardmagazine.com/2000/03/art-under-wraps.html
+Gilberg, Mark. (1987). "Friedrich Rathgen: The Father of Modern Archaeological Conservation". Journal of the American Institute for Conservation 26 (2): 105–120. doi:10.2307/3179459. http://cool.conservation-us.org/coolaic/jaic/articles/jaic26-02-004_2.html. 
+"Brief biography of Professor AP Laurie". Archived from the original on 2012-07-14. https://web.archive.org/web/20120714201324/http://www.nahste.ac.uk/isaar/GB_0237_NAHSTE_P1161.html. 
+History. British Museum (2012-06-14). Retrieved on 2012-06-29. https://www.britishmuseum.org/the_museum/departments/conservation_and_science/history.aspx
+Stoner, Joyce Hill. "Changing Approaches in Art Conservation: 1925 to the present". The publication exists in two editions. The earlier one is "Scientific Examination of Art: Modern Techniques on Conservation and Analysis" and was published by the National Academy of Sciences in 2003. The later edition of the publication is "Arthur M. Sackler Colloquia: Scientific Examination of Art: Modern Techniques in Conservation and Analysis". It was published by the National Academies Press in 2005.
+Patent# 2,073,802 U.S. "Art of Oil Painting Restoration", March 16, 1937. Patft1.uspto.gov. Retrieved on 2012-06-29. http://patft1.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PALL&s1=Oliver-George-T.INNM.&OS=IN/Oliver-George-T&RS=IN/Oliver-George-T
+Museum Environment (2nd Edition), 1986, by Garry Thomson CBE ISBN:978-0-7506-2041-3
+AIC – Code of Ethics. Conservation-us.org. Retrieved on 2012-06-29. http://www.conservation-us.org/index.cfm?fuseaction=page.viewpage&pageid=858
+"Ethical issues in conservation". Conservation OnLine (CoOL). cool.conservation-us.org. Retrieved 2017-05-29. http://cool.conservation-us.org/bytopic/ethics/
+Weil, Stephen E. (October 1989). "Too much Art?". ArtNews: 232. ISSN 0004-3273.  http://www.worldcat.org/issn/0004-3273
+Andrew Oddy and Sara Carroll (eds). 1999. Reversibility – Does it Exist? British Museum Occasional Paper Number 135. London: British Museum.
+p. 185. Muñoz-Viñas, Salvador. 2005. Contemporary Theory of Conservation. London: Elsevier/Butterworth Heinemann.
+ICOM-CC International Council of Museums Committee for Conservation] http://icom-cc.icom.museum/Start/
+Heritage Health Index. Heritagepreservation.org. Retrieved on 2012-06-29. http://www.heritagepreservation.org/HHI/
+Understanding the Future: Priorities for England’s Museums. Department for Culture, Media and Sport. culture.gov.uk. October 2006 http://www.culture.gov.uk/images/consultations/cons_uf_prioritiesforenglandsmuseums.pdf
+Understanding the Future: Priorities for England’s Museums. The Institute of Conservation. icon.org.uk http://www.icon.org.uk/images/stories/icon_understanding_the_future.pdf
+The Future of Museums: A Failure of Vision. Icon.org.uk. Retrieved on 2012-06-29. http://www.icon.org.uk/index.php?option=com_content&task=view&id=400&Itemid=15
+Holden, John. and Samuel Jones. 2008. It's A Material World: Caring for the public realm. London: Demos. http://demos.co.uk/files/Material%20World%20-%20web.pdf
+AIC – Becoming a Conservator. Conservation-us.org. Retrieved on 2012-06-29. http://www.conservation-us.org/training
+History of the SPAB. Retrieved on 2012-06-29. http://www.spab.org.uk/html/what-is-spab/history-of-the-spab/
+APVA Preservation Virginia . Apva.org. Retrieved on 2012-06-29. http://www.apva.org/
+About AIC – Overview. Conservation-us.org. Retrieved on 2012-06-29. http://www.conservation-us.org/about
+©Text is available under the terms and conditions of the Creative Commons-Attribution ShareAlike (CC BY-SA) license; additional terms may apply. By using this site, you agree to the Terms and Conditions and Privacy Policy.
+Upload a video for this entry
+Information
+Subjects: Others
+Contributor  : HandWiki
+View Times: 3727
+Entry Collection: HandWiki
+Revisions: 2 times (View History)
+Update Date: 30 Nov 2022
+Website Statistics
+52,564 Entries
+970 Videos
+12.3M+ Page Views
+Subscribe
+    
+About Encyclopedia
+About
+Advisory Board
+Instructions for Users
+Help
+Contact
+Partner
+MDPI Initiatives
+Sciforum
+MDPI Books
+Preprints.org
+Scilit
+SciProfiles
+Encyclopedia
+JAMS
+Proceedings Series
+© 2024 Encyclopedia is subsidized by MDPI.
+Disclaimer Terms and Conditions Private Policy

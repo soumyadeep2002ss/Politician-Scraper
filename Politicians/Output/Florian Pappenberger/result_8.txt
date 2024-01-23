@@ -1,0 +1,1098 @@
+HomeEuropean Center For Medium Range Weather ForecastsForecast DepartmentFlorian Pappenberger
+	
+Florian Pappenberger
+	
+European Center For Medium Range Weather Forecasts · Forecast Department
+PhD, MSc
+Contact
+
+Connect with experts in your field
+
+Join ResearchGate to contact this researcher and connect with your scientific community.
+
+About
+Publications 412
+Network
+About
+412
+Publications
+147,965
+Reads 
+19,529
+Citations
+Introduction
+Florian Pappenberger leads the Forecast Department at the European Centre For Medium-Range Weather Forecasts. The Forecast Department at ECMWF has a strong customer focus. He is responsible for the 24/7 production of weather forecasts, forecast quality control (verification and diagnostics), development of novel forecast products, applications of weather forecasts such as flood, drought, fire and health forecasts, numerical weather prediction relevant software development, data sales and outreach and training. Florian has a background in the forecasting of weather driven natural hazards including floods, droughts, windstorms, forest fires and impacts on human health. He has over 10 years of expertise in operational probabilistic forecasting, extreme value statistics and numerical model sy
+Skills and Expertise
+Hydrological Modeling
+Hydraulics
+Precipitation
+Hydrology
+Rivers
+Remote Sensing
+Rainfall Runoff Modelling
+Water Resources Management
+Earth Observation
+Climate Modeling
+Publications
+Publications (412)
+Jumpiness in Ensemble Forecasts of Atlantic Tropical Cyclone Tracks
+Article
+Full-text available
+Dec 2023
+David S. Richardson
+Hannah L. Cloke
+John A. Methven
+Florian Pappenberger
+We investigate the run-to-run consistency (jumpiness) of ensemble forecasts of tropical cyclone tracks from three global centers: ECMWF, the Met Office, and NCEP. We use a divergence function to quantify the change in cross-track position between consecutive ensemble forecasts initialized at 12-h intervals. Results for the 2019–21 North Atlantic hu...
+View
++13
+Significant relationships between drought indicators and impacts for the 2018-2019 drought in Germany
+Article
+Full-text available
+Dec 2023
+Anastasiya Shyrokaya
+Gabriele Messori
+Ilias Pechlivanidis[...]
+Giuliano Di Baldassarre
+Despite the scientific progress in drought detection and forecasting, it remains challenging to accurately predict the corresponding impact of a drought event. This is due to the complex relationships between (multiple) drought indicators and adverse impacts across different places/hydroclimatic conditions, sectors, and spatiotemporal scales. In th...
+View
+Advancing Atmospheric River Science and Inspiring Future Development of the Atmospheric River Reconnaissance Program
+Article
+Full-text available
+Dec 2023
+David A. Lavers
+Anna Maria Wilson
+Fred Martin Ralph[...]
+Jennifer S. Haase
+View
++2
+Using Ensembles to Analyze Predictability Links in the Tropical Cyclone Flood Forecast Chain
+Article
+Full-text available
+Nov 2023
+H. A. Titley
+Hannah L Cloke
+E. M. Stephens[...]
+E. Zsoter
+Fluvial flooding is a major cause of death and damages from tropical cyclones (TCs), so it is important to understand the predictability of river flooding in TC cases, and the potential of global ensemble flood forecast systems to inform warning and preparedness activities. This paper demonstrates a methodology using ensemble forecasts to follow pr...
+View
+Advances and gaps in the science and practice of impact‐based forecasting of droughts
+Article
+Full-text available
+Oct 2023
+Anastasiya Shyrokaya
+Florian Pappenberger
+Ilias Pechlivanidis[...]
+Giuliano Di Baldassarre
+Advances in impact modeling and numerical weather forecasting have allowed accurate drought monitoring and skilful forecasts that can drive decisions at the regional scale. State‐of‐the‐art drought early‐warning systems are currently based on statistical drought indicators, which do not account for dynamic regional vulnerabilities, and hence neglec...
+View
+Pattern-based forecasting enhances the prediction skill of European heatwaves at the sub-seasonal range
+Preprint
+Full-text available
+Oct 2023
+Rouges Emmanuel
+L. Ferranti
+Holger Kantz
+Florian Pappenberger
+The prediction of European heatwaves at the subseasonal range is of key importance to mitigate their impact. This study builds on previous work (Rouges et al., 2023) which identifies five main European heatwave types based on their atmospheric circulation patterns (CPs). These CPs are potential predictors of heatwaves, as these patterns are connect...
+View
+Impacts of Dropsonde Observations on Forecasts of Atmospheric Rivers and Associated Precipitation in the NCEP GFS and ECMWF IFS models
+Article
+Oct 2023
+Laurel Dehaan
+Anna Maria Wilson
+Brian Kawzenuk[...]
+Fred Martin Ralph
+Atmospheric River Reconnaissance has held field campaigns during cool seasons since 2016. These campaigns have provided thousands of dropsonde data profiles, which are assimilated into multiple global operational numerical weather prediction models. Data denial experiments, conducted by running a parallel set of forecasts that exclude the dropsonde...
+View
+Quart J Royal Meteoro Soc_SuppInfo - 2023 - Gupta.pdf
+Data
+Aug 2023
+Shraddha Gupta
+Abhirup Banerjee
+𝙽𝚘𝚛𝚋𝚎𝚛𝚝 𝙼𝚊𝚛𝚠𝚊𝚗[...]
+Florian Pappenberger
+View
++1
+AI Increases Global Access to Reliable Flood Forecasts
+Preprint
+Full-text available
+Jul 2023
+Grey Nearing
+Deborah Cohen
+Vusumuzi Dube[...]
+Yoss Matias
+Floods are one of the most common and impactful natural disasters, with a disproportionate impact in developing countries that often lack dense streamflow monitoring networks. Accurate and timely warnings are critical for mitigating flood risks, but accurate hydrological simulation models typically must be calibrated to long data records in each wa...
+View
+Forecast evaluation of the North Pacific jet stream using AR Recon dropwindsondes
+Article
+Jul 2023
+David A. Lavers
+Ryan D. Torn
+Chris Davis[...]
+Florian Pappenberger
+The term jet stream generally refers to a narrow region of intense winds near the top of the midlatitude or subtropical troposphere. It is in the midlatitude jet stream where instabilities and waves may develop into synoptic‐scale systems, which in turn makes accurately resolving the structure of the jet stream and associated features critical for...
+View
+Analysis of Spatially Coherent Forecast Error Structures
+Article
+Full-text available
+Jul 2023
+Shraddha Gupta
+Abhirup Banerjee
+𝙽𝚘𝚛𝚋𝚎𝚛𝚝 𝙼𝚊𝚛𝚠𝚊𝚗[...]
+Florian Pappenberger
+Understanding error properties is an essential part in numerical weather prediction. Predictable relationship between errors of different regions due to some underlying systematic or random process can give rise to correlated errors. Estimation of error correlation is crucial for improvement of forecasts. However, the size of the corresponding corr...
+View
+The rise of data-driven weather forecasting
+Preprint
+Full-text available
+Jul 2023
+Zied Ben Bouallègue
+Mariana C A Clare
+Linus Magnusson[...]
+Florian Pappenberger
+Data-driven modeling based on machine learning (ML) is showing enormous potential for weather forecasting. Rapid progress has been made with impressive results for some applications. The uptake of ML methods could be a game-changer for the incremental progress in traditional numerical weather prediction (NWP) known as the 'quiet revolution' of weat...
+View
+Recent Advances and New Frontiers in Riverine and Coastal Flood Modeling
+Article
+Full-text available
+Jun 2023
+Keighobad Jafarzadegan
+Moradkhani Hamid
+Florian Pappenberger[...]
+Qingyun Duan
+Over the past decades, the scientific community has made significant efforts to simulate flooding conditions using a variety of complex physically based models. Despite all advances, these models still fall short in accuracy and reliability and are often considered computationally intensive to be fully operational. This could be attributed to insuf...
+View
+Forecasting feels-like temperatures as a strategy to reduce heat illnesses during sport events
+Article
+Mar 2023
+Milan Klöwer
+Pascal Edouard
+Andreas M Niess[...]
+Karsten Hollander
+View
++1
+Wet Bulb Globe Temperature: Indicating Extreme Heat Risk on a Global Grid
+Article
+Full-text available
+Feb 2023
+Chloe Brimicombe
+Chun Hay Brian Lo
+Florian Pappenberger[...]
+Hannah L Cloke
+The Wet Bulb Globe Temperature (WBGT) is an international standard heat index used by the health, industrial, sports, and climate sectors to assess thermal comfort during heat extremes. Observations of its components, the globe and the wet bulb temperature (WBT), are however sparse. Therefore WBGT is difficult to derive, making it common to rely on...
+View
+European heatwaves: Link to large‐scale circulation patterns and intraseasonal drivers
+Article
+Jan 2023
+Rouges Emmanuel
+L. Ferranti
+Holger Kantz
+Florian Pappenberger
+This study examines the European heatwaves’ predictability at subseasonal timescales. Land surface feedbacks and tropical convection, due to their variability at intraseasonal timescales, are taken into consideration and their potential role in extending the predictability beyond the medium range (10 days) is explored. A classification of European...
+View
+Regional Adaptability of Global and Regional Hydrological Forecast System
+Article
+Full-text available
+Jan 2023
+Han Wang
+Ping-an Zhong
+Ervin Zsótér[...]
+Bin Xu
+Our paper aims to improve flood forecasting by establishing whether a global hydrological forecast system could be used as an alternative to a regional system, or whether it could provide additional information. This paper was based on the operational Global Flood Awareness System (GloFAS) of the European Commission Copernicus Emergency Management...
+View
+Connecting hydrological modelling and forecasting from global to local scales: Perspectives from an international joint virtual workshop
+Article
+Full-text available
+Jan 2023
+Antara Dasgupta
+Louise Arnal
+Rebecca Emerton[...]
+Peter Salamon
+The unprecedented progress in ensemble hydro-meteorological modelling and forecasting on a range of temporal and spatial scales, raises a variety of new challenges which formed the theme of the Joint Virtual Workshop, "Connecting global to local hydrological modelling and forecasting: challenges and scientific advances”. Held from 29 June to 1 July...
+View
+Operational multiscale predictions of hazardous events
+Chapter
+Jan 2023
+Linus Magnusson
+Christel Prudhomme
+Francesca Di Giuseppe[...]
+Florian Pappenberger
+In this chapter we will discuss the different components required for a hazard forecasting system, aimed to predict high-impact events on different timescales. The components discussed here are the atmospheric forecasting system and hazard forecast models in terms of flooding, drought, fire risk, and human heat stress. Predicting hazardous events i...
+View
++4
+Forecasting extreme precipitation in the central Mediterranean: Changes in predictors' strength with prediction lead time
+Article
+Full-text available
+Nov 2022
+Nikolaos Mastrantonas
+Luca Furnari
+Linus Magnusson[...]
+Jörg Matschullat
+This work compares forecasting strategies for improving the prediction of extreme precipitation events at different timescales. Our study focuses on forecasting extreme precipitation in Calabria, southern Italy. This region with complex and abruptly varying topography poses additional challenges in forecasting precipitation. Here, we use gridded ob...
+View
+Using a long short-term memory (LSTM) neural network to boost river streamflow forecasts over the western United States
+Article
+Full-text available
+Nov 2022
+Kieran M R Hunt
+Gwyneth Matthews
+Florian Pappenberger
+Christel Prudhomme
+Accurate river streamflow forecasts are a vital tool in the fields of water security, flood preparation and agriculture, as well as in industry more generally. Traditional physics-based models used to produce streamflow forecasts have become increasingly sophisticated, with forecasts improving accordingly. However, the development of such models is...
+View
+joc7861-sup-0001-supinfo.pdf
+Data
+Sep 2022
+Shraddha Gupta
+Zhen Su
+Niklas Boers[...]
+Florian Pappenberger
+View
+Interconnection between the Indian and the East Asian Summer Monsoon: spatial synchronization patterns of extreme rainfall events
+Article
+Full-text available
+Sep 2022
+Shraddha Gupta
+Zhen Su
+Niklas Boers[...]
+Florian Pappenberger
+A deeper understanding of the intricate relationship between the two components of the Asian Summer Monsoon (ASM) – the Indian Summer Monsoon (ISM) and the East Asian Summer Monsoon (EASM) – is crucial to improve the subseasonal forecasting of extreme precipitation events. Using an innovative complex network‐based approach, we identify two dominant...
+View
+Predicting the unprecedented: forecasting the June 2021 Pacific Northwest heatwave
+Article
+Full-text available
+Jul 2022
+Rebecca Emerton
+Chloe Brimicombe
+L. Magnusson[...]
+Florian Pappenberger
+In June 2021, an unprecedented extreme heatwave impacted the Pacific Northwest of North America, resulting in more than 1000 excess deaths and affecting infrastructure and wildlife. Predicting such extreme events is key for preparedness and early action, and beyond temperature, it is important to consider biometeorological forecasts, accounting for...
+View
+Thermofeel: A python thermal comfort indices library
+Article
+Full-text available
+Jun 2022
+Chloe Brimicombe
+Claudia Di Napoli
+Tiago Quintino[...]
+Hannah L Cloke
+Here the development of the python library thermofeel is described. thermofeel was developed so that prominent internationally used thermal indices (i.e. Universal Thermal Climate Index and Wet Bulb Globe Temperature) could be implemented into operational weather forecasting systems (i.e. the European Centre for Medium Range Weather Forecasts) whil...
+View
+Atmospheric River Reconnaissance 2021: A Review
+Article
+Jun 2022
+Alison Cobb
+Fred Martin Ralph
+Vijay S Tallapragada[...]
+Minghua Zheng
+Atmospheric River Reconnaissance (AR Recon) is a targeted campaign that complements other sources of observational data, forming part of a diverse observing system. AR Recon 2021 operated for ten weeks from January 13 to March 22, with 29.5 Intensive Observation Periods (IOPs), 45 flights and 1142 successful dropsondes deployed in the northeast Pac...
+View
+Coupled data assimilation at ECMWF: current status, challenges and future developments
+Article
+Jun 2022
+Patricia de Rosnay
+Philip Browne
+Eric de Boisséson[...]
+Florence Rabier
+This paper presents coupled Data Assimilation (DA) activities at the European Centre for Medium‐Range Weather Forecasts (ECMWF). Coupled DA is an essential component of the ECMWF Earth system strategy. It aims at providing consistent initial conditions to the coupled atmosphere, land, and ocean forecast model. The paper introduces the different dat...
+View
+Heat stress in the Caribbean: Climatology, drivers, and trends of human biometeorology indices
+Article
+Full-text available
+Jun 2022
+Claudia Di Napoli
+Theodore Allen
+Pablo A. Méndez‐Lázaro
+Florian Pappenberger
+Forty years (1980‐2019) of reanalysis data were used to investigate climatology and trends of heat stress in the Caribbean region. Represented via the Universal Thermal Climate Index (UTCI), a multi‐variate thermophysiological‐relevant parameter, the highest heat stress is found to be most frequent and geographically widespread during the rainy sea...
+View
+Calculating the Cosine of the Solar Zenith Angle for Thermal Comfort Indices
+Article
+Full-text available
+Apr 2022
+Chloe Brimicombe
+Tiago Quintino
+Simon D. Smart[...]
+Florian Pappenberger
+The cosine of the solar zenith angle (cossza) is a key component in Mean Radiant Temperature (MRT). Mean Radiant Temperature is used in the calculation of the Universal Thermal Climate Index (UTCI) and can be used in the calculation of Globe Temperature a component of the Wet Bulb Globe Temperature (WBGT), both of which are important thermal comfor...
+View
+Atmospheric River Reconnaissance Workshop Promotes Research and Operations Partnership
+Article
+Mar 2022
+Anna Maria Wilson
+Alison Cobb
+Fred Martin Ralph[...]
+Minghua Zheng
+View
+Using a long short-term memory (LSTM) neural network to boost river streamflow forecasts over the western United States
+Preprint
+Full-text available
+Feb 2022
+Kieran M R Hunt
+Gwyneth Matthews
+Florian Pappenberger
+Christel Prudhomme
+Accurate river streamflow forecasts are a vital tool in the fields of water security, flood preparation and agriculture, as well as in industry more generally. Over the last century, physics-based models traditionally used to produce streamflow forecasts have become increasingly sophisticated, with forecasts improving accordingly. However, the deve...
+View
+Understanding the Political Fabric and Effects of Ensemble Flood Forecasts in Europe
+Chapter
+Feb 2022
+Sébastien Nobert
+Kristian Krieger
+Florian Pappenberger
+This chapter provides a conceptual framework in which the discussion of risk and anticipatory actions is anchored. By looking at the development of numerical weather predictions, it reviews how the dream of predicting future weather became reality through a series of social and political events enabling the consolidation of an ambitious scientific...
+View
+Using Large-Scale Patterns to Predict Extreme Precipitation over the Mediterranean in Medium-/Extended-Range Forecasts
+Poster
+Full-text available
+Jan 2022
+Nikolaos Mastrantonas
+Linus Magnusson
+Florian Pappenberger
+Jörg Matschullat
+The Mediterranean region frequently experiences Extreme Precipitation Events (EPEs) with devastating consequences for affected societies, economies and environment. Predicting such events long in advance can support the mitigation of negative impacts. We build upon previous work that identified strong connections between localized EPEs and large-sc...
+View
+What do large‐scale patterns teach us about extreme precipitation over the Mediterranean at medium‐ and extended‐range forecasts?
+Article
+Dec 2021
+Nikolaos Mastrantonas
+Linus Magnusson
+Florian Pappenberger
+Jörg Matschullat
+Extreme precipitation events (EPEs) can have devastating consequences, such as floods and landslides, posing a great threat to society and economy. Predicting such events long in advance can support the mitigation of negative impacts. Here, we focus on EPEs over the Mediterranean, a region that is frequently affected by such hazards. Previous work...
+View
++3
+Complex network approach for detecting tropical cyclones
+Article
+Full-text available
+Dec 2021
+Shraddha Gupta
+Niklas Boers
+Florian Pappenberger
+Jürgen Kurths
+Tropical cyclones (TCs) are one of the most destructive natural hazards that pose a serious threat to society, particularly to those in the coastal regions. In this work, we study the temporal evolution of the regional weather conditions in relation to the occurrence of TCs using climate networks. Climate networks encode the interactions among clim...
+View
+Heatwaves: An invisible risk in UK policy and research
+Article
+Full-text available
+Nov 2021
+Chloe Brimicombe
+James J. Porter
+Claudia Di Napoli[...]
+Hannah L Cloke
+In 2019, a heatwave - an unusual extended period of hot weather - broke the UK's highest recorded temperature of 38.7°C set in 2003. Of concern is that for summer 2019, this resulted in 892 excess deaths. With the intensity and frequency of UK heatwaves projected to increase, and summer temperatures predicted to be 5°C hotter by 2070, urgent action...
+View
+Tropical cyclone activities at ECMWF
+Technical Report
+Full-text available
+Oct 2021
+Linus Magnusson
+Sharanya Majumdar
+Rebecca Emerton[...]
+Ervin Zsótér
+View
+Borderless Heat Hazards With Bordered Impacts
+Article
+Full-text available
+Sep 2021
+Chloe Brimicombe
+Claudia Di Napoli
+Rosalind Cornforth[...]
+Hannah L Cloke
+Heatwaves are increasing in frequency, duration, and intensity due to climate change. They are associated with high mortality rates and cross‐sectional impacts including a reduction in crop yield and power outages. Here we demonstrate that there are large deficiencies in reporting of heatwave impacts in international disasters databases, internatio...
+View
+Characteristics of Heatwaves in Africa: Morocco 2000 and South Africa 2015/16
+Preprint
+Full-text available
+Sep 2021
+Chloe Brimicombe
+Claudia Di Napoli
+Rosalind Cornforth[...]
+Hannah L Cloke
+Heatwaves pose an ever increasing risk to African communities as exposure to heat extremes can have a drastic effect on individuals and in some cases can even result in death. This study presents new information about the characteristics of historical African heatwaves including a comprehensive synopsis of documented heatwave events from 1980 until...
+View
+Dimensions politiques de la prévision d’ensemble dans la gestion des inondations en Europe
+Chapter
+Sep 2021
+Sébastien NOBERT
+Kristian Krieger
+Florian Pappenberger
+L’anthropocène est désormais le temps des défis environnementaux dans lesquels les sociétés se sont récemment plongées. Pour les sciences sociales, l’anthropocène est un « moment » historique de possibles révolutions : celles des manières de voir ou de penser la condition humaine, les interactions des hommes avec le reste du vivant et avec la planè...
+View
+Satellites, tweets, forecasts: the future of flood disaster management?
+Preprint
+Full-text available
+Aug 2021
+Milan Kalas
+Annett Wania
+Maria Helena Ramos[...]
+Florian Pappenberger
+Floods have devastating effects on lives and livelihoods around the world. Structural flood defense measures such as dikes and dams can help protect people. However, it is the emerging science and technologies for flood disaster management and preparedness, such as increasingly accurate flood early warning systems, high-resolution satellite monitor...
+View
+The Universal Thermal Climate Index as an Operational Forecasting Tool of Human Biometeorological Conditions in Europe
+Chapter
+Full-text available
+Jul 2021
+Claudia Di Napoli
+Alessandro Messeri
+Martin Novák[...]
+Florian Pappenberger
+In operational weather forecasting standard environmental parameters, such as air temperature and humidity, are traditionally used to predict thermal conditions in the future. These parameters, however, are not enough to describe the thermal stress induced by the outdoor environment to the human body as they neglect the human heat budget and person...
+View
++1
+Key factors influencing the severity of fluvial flood hazard from Tropical Cyclones
+Article
+Full-text available
+Jul 2021
+Helen A. Titley
+Hannah L Cloke
+Shaun Harrigan[...]
+E.M. Stephens
+Knowledge of the key drivers of the severity of river flooding from tropical cyclones (TCs) is vital for emergency preparedness and disaster risk reduction activities. This global study examines landfalling TCs in the decade from 2010 to 2019 to identify those characteristics that influence whether a storm has an increased flood hazard. The highest...
+View
+Invited perspectives: The ECMWF strategy 2021–2030 challenges in the area of natural hazards
+Article
+Full-text available
+Jul 2021
+Florian Pappenberger
+Florence Rabier
+Fabio Venuti
+The European Centre for Medium-Range Weather Forecasts (ECMWF) mission is to deliver high-quality global medium-range numerical weather predictions and monitoring of the Earth system to its member states. The modelling and forecasting of natural hazards are an important part of this mission. Challenges in this area include the integration of innova...
+View
+thermofeel
+Code
+Jul 2021
+Chloe Brimicombe
+Claudia Di Napoli
+Tiago Quintino[...]
+Rosalind J. Cornforth
+thermofeel (pronounced thermo-feel) is a library to calculate human thermal comfort indexes. It includes the Universal Thermal Climate Index and a new method for computing the Wet bulb globe temperature.
+View
++7
+What do large-scale patterns teach us about extreme precipitation over the Mediterranean at medium-and extended-range forecasts?
+Preprint
+Full-text available
+Jun 2021
+Nikolaos Mastrantonas
+Linus Magnusson
+Florian Pappenberger
+Jörg Matschullat
+Extreme Precipitation Events (EPEs) can have devastating consequences such as floods and landslides, posing a great threat to society and economy. Predicting such events long in advance can support the mitigation of negative impacts. Here, we focus on EPEs over the Mediterranean, a region that is frequently affected by such hazards. Previous work i...
+View
+Extreme precipitation events and large-scale patterns over the Mediterranean: Connections & predictability
+Presentation
+Full-text available
+Jun 2021
+Nikolaos Mastrantonas
+Linus Magnusson
+Florian Pappenberger
+Jörg Matschullat
+The Mediterranean region frequently experiences Extreme Precipitation Events (EPEs) with devastating consequences for affected societies, economies and environment. Thus, it is crucial to better understand this natural hazard and its drivers, so we can mitigate associated impacts and increase the resilience of our societies. In fact, one important...
+View
+OpenIFS@home version 1: a citizen science project for ensemble weather and climate forecasting
+Article
+Full-text available
+Jun 2021
+Sarah Sparrow
+Andrew Bowery
+Glenn Carver[...]
+Antje Weisheimer
+Weather forecasts rely heavily on general circulation models of the atmosphere and other components of the Earth system. National meteorological and hydrological services and intergovernmental organizations, such as the European Centre for Medium-Range Weather Forecasts (ECMWF), provide routine operational forecasts on a range of spatio-temporal sc...
+View
+Evaluation of the ERA5 reanalysis-based Universal Thermal Climate Index on mortality data in Europe
+Article
+Full-text available
+May 2021
+Aleš Urban
+Claudia Di Napoli
+Hannah L Cloke[...]
+Antonio Gasparrini
+Air temperature has been the most commonly used exposure metric in assessing relationships between thermal stress and mortality. Lack of the high-quality meteorological station data necessary to adequately characterize the thermal environment has been one of the main limitations for the use of more complex thermal indices. Global climate reanalyses...
+View
+Predictability of large-scale atmospheric flow patterns connected to extreme precipitation events in the Mediterranean
+Poster
+Full-text available
+Apr 2021
+Nikolaos Mastrantonas
+Linus Magnusson
+Florian Pappenberger
+Jörg Matschullat
+The Mediterranean region frequently experiences extreme precipitation events with devastating consequences for the affected societies, economies, and environment. Being able to provide reliable and skillful predictions of such events is crucial for mitigating their adverse impacts and related risks. One important part of the risk mitigation chain i...
+View
+EGU21-8964: A Complex Network approach for studying Tropical Cyclones
+Poster
+Full-text available
+Apr 2021
+Shraddha Gupta
+Niklas Boers
+Florian Pappenberger
+Juergen Kurths
+View
+Complex Network Approach for Detecting Tropical Cyclones
+Preprint
+Full-text available
+Feb 2021
+Shraddha Gupta
+Niklas Boers
+Florian Pappenberger
+Juergen Kurths
+Tropical cyclones (TCs) are one of the most destructive natural hazards that pose a serious threat to society around the globe, particularly to those in the coastal regions. In this work, we study the temporal evolution of the regional weather conditions in relation to the occurrence of TCs using climate networks. Climate networks encode the intera...
+View
+Invited perspectives: The ECMWF strategy 2021–2030 Challenges in the area of natural hazards
+Preprint
+Full-text available
+Feb 2021
+Florian Pappenberger
+Florence Rabier
+Fabio Venuti
+The European Centre for Medium-Range Weather Forecasts mission is to deliver high quality global medium‐range numerical weather predictions and monitoring of the Earth system to its Member States. The modelling and forecasting of natural hazards are an important part of this mission. The new strategy identified several goals: producing world leadin...
+View
++5
+Plastic in global rivers : Are floods making it worse?
+Article
+Full-text available
+Feb 2021
+Caspar Roebroek
+Shaun Harrigan
+Tim H.M. van Emmerik[...]
+Florian Pappenberger
+Riverine plastic pollution is of global concern due to its negative impact on ecosystem health and human livelihood. Recent studies show a strong link between river discharge and plastic transport, but the role of floods is still unresolved. We combined high resolution mismanaged plastic waste data and river flood extents with increasing return per...
+View
+Extreme precipitation events in the Mediterranean: Spatiotemporal characteristics and connection to large‐scale atmospheric flow patterns
+Article
+Dec 2020
+Nikolaos Mastrantonas
+Pedro Herrera-Lormendez
+Linus Magnusson[...]
+Jörg Matschullat
+The Mediterranean region is strongly affected by Extreme Precipitation Events (EPEs), sometimes leading to severe negative impacts on society, economy, and the environment. Understanding such natural hazards and their drivers is essential to mitigate related risks. Here, EPEs over the Mediterranean between 1979 and 2019 are analyzed, using ERA5, th...
+View
+Improved forecasts of atmospheric rivers through systematic reconnaissance, better modelling, and insights on conversion of rain to flooding
+Article
+Full-text available
+Dec 2020
+David A. Lavers
+Fred Martin Ralph
+David S. Richardson
+Florian Pappenberger
+Atmospheric rivers lie behind many extreme precipitation and flood episodes in the mid-latitudes. Better forecasts of atmospheric rivers and their impacts could help with preparedness. Here we argue that a comprehensive and systematic observational campaign could help advance numerical weather prediction, and thereby provide a path towards much imp...
+View
+OpenIFS@home version 1: a citizen science project for ensemble weather and climate forecasting
+Preprint
+Full-text available
+Sep 2020
+Sarah Sparrow
+Andrew Bowery
+Glenn Carver[...]
+Antje Weisheimer
+Weather forecasts rely heavily on general circulation models of the atmosphere and other components of the Earth system. National meteorological and hydrological services and intergovernmental organisations, such as the European Centre for Medium-Range Weather Forecasts (ECMWF), provide routine operational forecasts on a range of spatio-temporal sc...
+View
+Connection of Extreme Precipitation Events in the Mediterranean to large-scale atmospheric flow patterns
+Poster
+Full-text available
+Sep 2020
+Nikolaos Mastrantonas
+Pedro Herrera-Lormendez
+Linus Magnusson[...]
+Jörg Matschullat
+This work quantifies the connections between Extreme Precipitation Events over the Mediterranean and large-scale atmospheric flow patterns. It is shown that conditioning the extremes to large-scale patterns increases the occurrence probability more than 3-fold, compared to the nominal one. Moreover, orography further enhances such connections. Thes...
+View
+PPDIST, global 0.1° daily and 3-hourly precipitation probability distribution climatologies for 1979-2018
+Article
+Full-text available
+Sep 2020
+Hylke Beck
+Seth Westra
+Jackson Tan[...]
+Eric F. Wood
+We introduce the Precipitation Probability DISTribution (PPDIST) dataset, a collection of global high-resolution (0.1°) observation-based climatologies (1979-2018) of the occurrence and peak intensity of precipitation (P) at daily and 3-hourly time-scales. The climatologies were produced using neural networks trained with daily P observations from...
+View
++1
+Emergency flood bulletins for Cyclones Idai and Kenneth: A critical evaluation of the use of global flood forecasts for international humanitarian preparedness and response
+Article
+Full-text available
+Sep 2020
+Rebecca Emerton
+Hannah L Cloke
+Andrea Ficchi[...]
+Elisabeth Stephens
+Humanitarian disasters such as Typhoon Haiyan (SE Asia, 2013) and the Horn of Africa drought (2011–2012) are examples of natural hazards that were predicted, but where forecasts were not sufficiently acted upon, leading to considerable loss of life. These events, alongside international adoption of the Sendai Framework for Disaster Risk Reduction,...
+View
++5
+GloFAS-ERA5 operational global river discharge reanalysis 1979-present
+Article
+Full-text available
+Sep 2020
+Shaun Harrigan
+Ervin Zsótér
+Lorenzo Alfieri[...]
+Florian Pappenberger
+Estimating how much water is flowing through rivers at the global scale is challenging due to a lack of observations in space and time. A way forward is to optimally combine the global network of earth system observations with advanced numerical weather prediction (NWP) models to generate consistent spatio-temporal maps of land, ocean, and atmosphe...
+View
+Extreme precipitation events in the Mediterranean: Spatiotemporal characteristics and connection to large-scale atmospheric flow patterns
+Preprint
+Sep 2020
+Nikolaos Mastrantonas
+Pedro Herrera-Lormendez
+Linus Magnusson[...]
+Jörg Matschullat
+The Mediterranean is strongly affected by Extreme Precipitation Events (EPEs), sometimes leading to negative impacts on society, economy, and the environment. Understanding such natural hazards and their drivers is essential to mitigate related risks. Here, EPEs over the Mediterranean between 1979 and 2019 are analyzed, using ERA5 dataset from ECMW...
+View
++3
+Using ensemble reforecasts to generate flood thresholds for improved global flood forecasting
+Article
+Full-text available
+Aug 2020
+Ervin Zsótér
+Christel Prudhomme
+Elisabeth Stephens[...]
+Hannah L Cloke
+Global flood forecasting systems rely on predefining flood thresholds to highlight potential upcoming flood events. Existing methods for flood threshold definition are often based on reanalysis datasets using a single threshold across all forecast lead times, such as in the Global Flood Awareness System. This leads to inconsistencies between how th...
+View
+ERA5-HEAT: A global gridded historical dataset of human thermal comfort indices from climate reanalysis
+Article
+Full-text available
+Jul 2020
+Claudia Di Napoli
+Christopher Barnard
+Christel Prudhomme[...]
+Florian Pappenberger
+The mean radiant temperature (MRT) and the Universal Thermal Climate Index (UTCI) are widely used as human biometeorology parameters to assess the linkages between outdoor environment and human well-being. Historically computed from meteorological station measurements, we here present ERA5-HEAT (Human thErmAl comforT), the first historical dataset...
+View
+Plastic in global rivers: are floods making it worse?
+Preprint
+Full-text available
+Jul 2020
+Caspar Roebroek
+Shaun Harrigan
+Tim H.M. van Emmerik[...]
+Florian Pappenberger
+Riverine plastic pollution is of global concern due to its negative impact on ecosystem health and human livelihood. Recent studies show a strong link between river discharge and plastic transport, but the role of floods is still unresolved. We combined high resolution mismanaged plastic waste data and river flood extents with increasing return per...
+View
+Applications of Knowledge and Predictions of Atmospheric Rivers
+Chapter
+Jul 2020
+Lawrence J. Schick
+Michael L Anderson
+Fred Martin Ralph[...]
+Ervin Zsótér
+This chapter reviews how AR research is being applied in real-world situations to address issues of flood planning and emergency intervention. It includes water supply management case studies. Examples comprise five distinct sections that show how AR research is being directly applied to the challenges that water managers, dam operators, crisis-man...
+View
+Evaluation of the Consistency of ECMWF Ensemble Forecasts
+Article
+Full-text available
+Jun 2020
+David S. Richardson
+Hannah L Cloke
+Florian Pappenberger
+Plain Language Summary Ensemble forecasts show the range of weather scenarios that can occur, allowing users to make appropriate risk‐based decisions. An ensemble forecast made 2 weeks in advance will show a range of possible outcomes. New observations included in subsequent forecasts will eliminate some of these scenarios, and the forecast will be...
+View
+Statistical post‐processing of heat index ensemble forecasts: Is there a royal road?
+Article
+Full-text available
+Jun 2020
+Sándor Baran
+Ágnes Baran
+Florian Pappenberger
+Zied Ben Bouallègue
+We investigate the effect of statistical post‐processing on the probabilistic skill of discomfort index (DI) and indoor wet‐bulb globe temperature (WBGTid) ensemble forecasts, both calculated from the corresponding forecasts of temperature and dew point temperature. Two different methodological approaches to calibration are compared. In the first c...
+View
+Forecast Errors and Uncertainties in Atmospheric Rivers
+Article
+May 2020
+DAVID A. LAVERS
+N. BRUCE INGLEBY
+Aneesh Subramanian[...]
+Florian Pappenberger
+A key aim of observational campaigns is to sample atmosphere-ocean phenomena to improve understanding of these phenomena, and in turn, numerical weather prediction. In early 2018 and 2019, the Atmospheric River Reconnaissance (AR Recon) campaign released dropsondes and radiosondes into atmospheric rivers (ARs) over the northeast Pacific Ocean to co...
+View
+West Coast Forecast Challenges and Development of Atmospheric River Reconnaissance
+Article
+May 2020
+Fred Martin Ralph
+Forest Cannon
+Vijay S Tallapragada[...]
+Luca Delle Monache
+Water management and flood control are major challenges in the western United States. They are heavily influenced by atmospheric river (AR) storms that produce both beneficial water supply and hazards; for example, 84% of all flood damages in the West (up to 99% in key areas) are associated with ARs. However, AR landfall forecast position errors ca...
+View
+Extreme precipitation events in the Mediterranean region: their characteristics and connection to large-scale atmospheric patterns
+Poster
+Full-text available
+Apr 2020
+Nikolaos Mastrantonas
+Linus Magnusson
+Florian Pappenberger
+Jörg Matschullat
+The Mediterranean region is an area with half a billion population, about 10 percent contribution to the world’s GDP, and locations of global natural, historical and cultural significance. In this context, natural hazards in the area have the potential for severe negative impacts on society, economy, and environment. Some of the most frequent and...
+View
+Global-Scale Evaluation of 22 Precipitation Datasets Using Gauge Observations and Hydrological Modeling
+Chapter
+Apr 2020
+Hylke Beck
+Noemi Vergopolan
+Ming Pan[...]
+Eric F. Wood
+We undertook a comprehensive evaluation of 22 gridded (quasi-)global (sub-)daily precipitation (P) datasets for the period 2000–2016. Thirteen non-gauge-corrected P datasets were evaluated using daily P gauge observations from 76,086 gauges worldwide. Another nine gauge-corrected datasets were evaluated using hydrological modeling, by calibrating t...
+View
+Mean radiant temperature from global-scale numerical weather prediction models
+Article
+Full-text available
+Apr 2020
+Claudia Di Napoli
+Robin J. Hogan
+Florian Pappenberger
+In human biometeorology, the estimation of mean radiant temperature (MRT) is generally considered challenging. This work presents a general framework to compute the MRT at the global scale for a human subject placed in an outdoor environment and irradiated by solar and thermal radiation both directly and diffusely. The proposed framework requires a...
+View
+A Vision for Hydrological Prediction
+Article
+Full-text available
+Feb 2020
+David A. Lavers
+Maria-Helena Ramos
+Linus Magnusson[...]
+Florian Pappenberger
+IMproving PRedictions and management of hydrological EXtremes (IMPREX) was a European Union Horizon 2020 project that ran from September 2015 to September 2019. IMPREX aimed to improve society’s ability to anticipate and respond to future extreme hydrological events in Europe across a variety of uses in the water-related sectors (flood forecasting,...
+View
+Statistical post-processing of heat index ensemble forecasts: is there a royal road?
+Preprint
+Jan 2020
+Sándor Baran
+Ágnes Baran
+Florian Pappenberger
+Zied Ben Bouallègue
+We investigate the effect of statistical post-processing on the probabilistic skill of discomfort index (DI) and indoor wet-bulb globe temperature (WBGTid) ensemble forecasts, both calculated from the corresponding forecasts of temperature and dew point temperature. Two different methodological approaches to calibration are compared. In the first c...
+View
+A heat health hazard index based on ECMWF data
+Article
+Full-text available
+Jan 2020
+Claudia Di Napoli
+Christopher Barnard
+Christel Prudhomme
+Florian Pappenberger
+ECMWF has begun to produce pre-operational forecasts of thermal-related human comfort indices in real time using meteorological forcing data - air temperature, humidity, wind speed and radiation - from its Integrated Forecasting System (IFS). The high-resolution and probabilistic forecasts, which predict the Universal Thermal Climate Index (UTCI) a...
+View
++5
+GloFAS-ERA5 operational global river discharge reanalysis 1979–present
+Preprint
+Full-text available
+Jan 2020
+Shaun Harrigan
+Ervin Zsótér
+Lorenzo Alfieri[...]
+Florian Pappenberger
+Abstract. Abstract. Estimating how much water is flowing through rivers at the global scale is challenging due to a lack of observations in space and time. A way forward is to optimally combine the global network of earth system observations with advanced numerical weather prediction (NWP) models to generate consistent spatio-temporal maps of land,...
+View
+A vision for improving global flood forecasting
+Article
+Full-text available
+Dec 2019
+David A Lavers
+Shaun Harrigan
+Erik Andersson[...]
+Florian Pappenberger
+Global hydrological forecasts are now produced operationally on a daily basis. However, the lack of global river discharge observations precludes routine flood forecast evaluation, an essential step in providing more skilful and reliable forecasts. A vision is expounded for greater and more timely exchange of global river discharge observations, wh...
+View
+Flood Hazard Risk Forecasting Index for urban areas: the Hurricane Harvey case study
+Article
+Full-text available
+Nov 2019
+Toni Jurlina
+Calum Baugh
+Florian Pappenberger
+Christel Prudhomme
+Hurricane Harvey caused at least 70 confirmed deaths, with estimated losses in the Houston urban area reaching above $150 billion, making it one of the costliest natural disasters ever in the United States. Here we tested two types of forecast index to provide surface flooding (inundation) warning over the Houston area: a meteorological index based...
+View
+An evaluation of ECMWF SEAS5 seasonal climate forecasts for Australia using a new forecast calibration algorithm
+Article
+Oct 2019
+Qin Jun Wang
+Yawen Shao
+Yong Song[...]
+Florian Pappenberger
+The commencement of SEAS5 model for operational seasonal climate forecasting by the European Centre for Medium-Range Weather Forecasts (ECMWF) is a new development. It replaces the ECMWF System 4, which had a large international community of seasonal climate forecast users. To assist potential users of SEAS5 forecasts, a systematic and detailed eva...
+View
+Evaluation of the ERA5-based UTCI on mortality data in Europe
+Article
+Full-text available
+Oct 2019
+Aleš Urban
+Claudia Di Napoli
+F. Acquaotta[...]
+Florian Pappenberger
+View
+Weather & Climate Data API for the Convergence of HPC and Cloud Workflows In LEXIS
+Poster
+Full-text available
+Sep 2019
+James Nicholas Hawkes
+Tiago Quintino
+Emanuele Danovaro[...]
+Florian Pappenberger
+View
+Statistical post‐processing of dual‐resolution ensemble precipitation forecasts across Europe
+Article
+Jul 2019
+Estíbaliz Gascón
+David Lavers
+Thomas M. Hamill[...]
+Florian Pappenberger
+This article verifies 1 to 10‐day probabilistic precipitation forecasts in June, July, and August 2016 from an experimental dual‐resolution version of the European Centre for Medium‐Range Weather Forecasts (ECMWF) ensemble prediction system. Five different ensemble combinations were tested. These comprised subsets of the 51‐member operational ECMWF...
+View
+Machine Learning Techniques for Predicting the Energy Consumption/Production and Its Uncertainties Driven by Meteorological Observations and Forecasts
+Article
+Full-text available
+Jun 2019
+Konrad Bogner
+Florian Pappenberger
+Massimiliano Zappa
+Reliable predictions of the energy consumption and production is important information for the management and integration of renewable energy sources. Several different Machine Learning (ML) methodologies have been tested for predicting the energy consumption/production based on the information of hydro-meteorological data. The methods analysed inc...
+View
++1
+Mapping combined wildfire and heat stress hazards to improve evidence-based decision making
+Article
+Full-text available
+Jun 2019
+Claudia Vitolo
+Claudia Di Napoli
+Francesca Di Giuseppe[...]
+Florian Pappenberger
+Heat stress and forest fires are often considered highly correlated hazards as extreme temperatures play a key role in both occurrences. This commonality can influence how civil protection and local responders deploy resources on the ground and could lead to an underestimation of potential impacts, as people could be less resilient when exposed to...
+View
++1
+How Well Do Operational Numerical Weather Prediction Configurations Represent Hydrology?
+Article
+Full-text available
+May 2019
+Ervin Zsoter
+Hannah L Cloke
+Elisabeth Stephens[...]
+Florian Pappenberger
+Land surface models (LSMs) have traditionally been designed to focus on providing lower-boundary conditions to the atmosphere with less focus on hydrological processes. State-of-the-art application of LSMs includes a land data assimilation system (LDAS), which incorporates available land surface observations to provide an improved realism of surfac...
+View
+A Forecast Evaluation of Planetary Boundary Layer Height Over the Ocean
+Article
+Full-text available
+May 2019
+David A. Lavers
+Anton Beljaars
+David S. Richardson[...]
+Florian Pappenberger
+The planetary boundary layer (PBL) is the layer closest to the Earth's surface in which heat, moisture, and momentum fluxes occur between the surface and free atmosphere. As these fluxes affect the atmospheric flow, it is important for weather forecast systems to accurately characterize them to provide skillful forecasts. A key PBL property is its...
+View
+Correction: Balsamo, G., et al. Satellite and In Situ Observations for Advancing Global Earth Surface Modelling: A Review. Remote Sensing 2018, 10(12), 2038; doi:10.3390/rs10122038
+Article
+Full-text available
+Apr 2019
+Gianpaolo Balsamo
+Anna Agusti-Panareda
+Clement Albergel[...]
+Xubin Zeng
+The authors wish to make the following corrections to this paper [...]
+View
+Verification of Heat Stress Thresholds for a Health-Based Heat-Wave Definition
+Article
+Full-text available
+Mar 2019
+Claudia Di Napoli
+Florian Pappenberger
+Hannah L Cloke
+Heatwaves represent a threat to human health and excess mortality is one of the associated negative effects. A health-based definition for heatwaves is therefore relevant, especially for early warning purposes, and it is here investigated via the Universal Thermal Climate Index (UTCI). The UTCI is a bioclimate index elaborated via an advanced model...
+View
++2
+Cartograms for Use in Forecasting Weather-Driven Natural Hazards
+Article
+Full-text available
+Feb 2019
+Florian Pappenberger
+Hannah L Cloke
+Calum Baugh
+This paper evaluates the potential of using cartograms for visualizing and interpreting forecasts of weather-driven natural hazards in the context of global weather forecasting and early warning systems. The use of cartograms is intended to supplement traditional cartographic representations of the hazards in order to highlight the severity of an u...
+View
+Daily evaluation of 26 precipitation datasets using Stage-IV gauge-radar data for the CONUS
+Article
+Full-text available
+Jan 2019
+Hylke Beck
+Ming Pan
+Tirthankar Roy[...]
+Eric F. Wood
+New precipitation (P) datasets are released regularly, following innovations in weather forecasting models, satellite retrieval methods, and multi-source merging techniques. Using the conterminous US as a case study, we evaluated the performance of 26 gridded (sub-)daily P datasets to obtain insight into the merit of these innovations. The evaluati...
+View
+Handbook of Hydrometeorological Ensemble Forecasting
+Book
+Jan 2019
+Qingyun Duan
+Florian Pappenberger
+Andy Wood[...]
+J. Schaake
+Hydrometeorological prediction involves the forecasting of the state and variation of hydrometeorological elements -- including precipitation, temperature, humidity, soil moisture, river discharge, groundwater, etc. at different space and time scales. Such forecasts form an important scientific basis for informing public of natural hazards such as...
+View
++25
+Satellite and In Situ Observations for Advancing Global Earth Surface Modelling: A Review
+Article
+Full-text available
+Dec 2018
+Gianpaolo Balsamo
+Anna Agusti-Panareda
+Clement Albergel[...]
+Xubin Zeng
+In this paper, we review the use of satellite-based remote sensing in combination with in situ data to inform Earth surface modelling. This involves verification and optimization methods that can handle both random and systematic errors and result in effective model improvement for both surface monitoring and prediction applications. The reasons fo...
+View
++4
+On the use of weather regimes to forecast meteorological drought over Europe
+Article
+Full-text available
+Dec 2018
+Christophe Lavaysse
+Jürgen V. Vogt
+Andrea Toreti[...]
+Florian Pappenberger
+An early warning system for drought events can provide valuable information for decision makers dealing with water resources management and international aid. However, predicting such extreme events is still a big challenge. In this study, we compare two approaches for drought predictions based on forecasted precipitation derived from the Ensemble...
+View
++1
+Introduction of an Experimental Terrestrial Forecasting/Monitoring System at Regional to Continental Scales Based on the Terrestrial Systems Modeling Platform (v1.1.0)
+Article
+Full-text available
+Nov 2018
+Stefan Kollet
+Fabian Gasper
+Slavko Brdar[...]
+Mauro Sulis
+Operational weather and flood forecasting has been performed successfully for decades and is of great socioeconomic importance. Up to now, forecast products focus on atmospheric variables, such as precipitation, air temperature and, in hydrology, on river discharge. Considering the full terrestrial system from groundwater across the land surface in...
+View
++1
+Introduction of an Experimental Terrestrial Forecasting/Monitoring System at Regional to Continental Scales Based on the Terrestrial System Modeling Platform (v1.1.0)
+Preprint
+Full-text available
+Nov 2018
+Stefan Kollet
+Fabian Gasper
+Slavko Brdar[...]
+Mauro Sulis
+Operational weather and also flood forecasting has been performed successfully for decades and is of great socioeconomic importance. Up to now, forecast products focus on atmospheric variables, such as precipitation, air temperature and, in hydrology, on river discharge. Considering the full terrestrial system from groundwater across the land surfa...
+View
+Introduction of an Experimental Terrestrial Forecasting/Monitoring System at Regional to Continental Scales Based on the Terrestrial System Modeling Platform (v1.1.0)
+Preprint
+Full-text available
+Oct 2018
+Stefan Kollet
+Fabian Gasper
+Slavko Brdar[...]
+Mauro Sulis
+Operational weather and also flood forecasting has been performed successfully for decades and is of great socioeconomic importance. Up to now, forecast products focus on atmospheric variables, such as precipitation, air temperature and, in hydrology, on river discharge. Considering the full terrestrial system from groundwater across the land surfa...
+View
+ECMWF Activities for Improved Hurricane Forecasts
+Article
+Full-text available
+Oct 2018
+L. Magnusson
+Jean Bidlot
+Massimo Bonavita[...]
+Sylvie Malardel
+Tropical cyclones are some of the most devastating natural hazards and the “three beasts”—Harvey, Irma, and Maria—during the Atlantic hurricane season 2017 are recent examples. The European Centre for Medium-Range Weather Forecasts (ECMWF) is working on fulfilling its 2016–25 strategy in which early warnings for extreme events will be made possible...
+View
+A first collective validation of global fluvial flood models for major floods in Nigeria and Mozambique
+Article
+Full-text available
+Oct 2018
+Mark Bernhofen
+Charlie Whyman
+Mark Trigg[...]
+Hessel Winsemius
+Global flood models (GFMs) are becoming increasingly important for disaster risk management internationally. However, these models have had little validation against observed flood events, making it difficult to compare model performance. In this paper, we introduce the first collective validation of multiple GFMs against the same events and we ana...
+View
+Daily evaluation of 26 precipitation datasets using Stage-IV gauge-radar data for the CONUS
+Preprint
+Full-text available
+Sep 2018
+Hylke Beck
+Ming Pan
+Tirthankar Roy[...]
+Eric F. Wood
+New precipitation (P) datasets are released regularly, following innovations in weather forecasting models, satellite retrieval methods, and multi-source merging techniques. Using the conterminous US as a case study, we evaluated the performance of 26 gridded (sub-)daily P datasets to obtain insight in the merit of these innovations. The evaluation...
+View
+1
+2
+3
+4
+5
+Network
+Cited
+View All
+Sonia I Seneviratne
+ETH Zurich
+Magdalena Alonso Balmaseda
+European Center For Medium Range Weather Forecasts
+J. Thielen
+European Commission
+Ad De Roo
+European Commission
+Guy Schumann
+NASA
+Cited By
+View All
+Thorsten Wagener
+Universität Potsdam
+Dai Yamazaki
+The University of Tokyo
+Patrick Matgen
+Luxembourg Institute of Science and Technology (LIST)
+Renaud Hostache
+Institute of Research for Development
+David Demeritt
+King's College London
+Current institution
+European Center For Medium Range Weather Forecasts
+Forecast DepartmentShinfield, United Kingdom
+Florian Pappenberger's Lab
+Current journal roles
+Peer Reviewer
+Advances in Pediatrics
+Co-authors
+Top co-authors
+Louise Arnal
+Ouranos
+Claudia Di Napoli
+European Center For Medium Range Weather Forecasts
+Nikolaos Mastrantonas
+European Center For Medium Range Weather Forecasts
+Schalk Jan van Andel
+IHE Delft Institute for Water Education
+Konrad Bogner
+Swiss Federal Institute for Forest, Snow and Landscape Research WSL
+All co-authors (50)
+View All
+Awards & Achievements (3)
+Award · Feb 2012
+The EFAS team receives the IES Excellence Award for 'Support to EU Policy' for 2011
+Award · Oct 2011
+Arne Richter Award for Outstanding Young Scientists (EGU)
+Award · Oct 2009
+Outstanding Editor Award of the Hydrology and Earth System Sciences Journal
+Join ResearchGate to find the people and research you need to help your work
+25+ million members
+160+ million publication pages
+2.3+ billion citations
+Join for free
+Recruit researchers
+Log in
+Join for free
+Company
+About us
+News
+Careers
+Support
+Help center
+Business solutions
+Advertising
+Recruiting
+© 2008-2024 ResearchGate GmbH. All rights reserved.
+Terms
+	
+Privacy
+	
+Copyright
+	
+Imprint
