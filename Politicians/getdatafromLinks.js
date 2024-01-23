@@ -1,8 +1,8 @@
 const puppeteer = require('puppeteer');
 const fs = require('fs');
 
-async function run() {
-  const browser = await puppeteer.launch({ headless: false });
+async function getDataFromLinks() {
+  const browser = await puppeteer.launch({ headless: true });
   const page = await browser.newPage();
 
   // Load the JSON file
@@ -47,8 +47,7 @@ async function run() {
       }
     }
   }
-
   await browser.close();
 }
 
-run();
+module.exports = getDataFromLinks;

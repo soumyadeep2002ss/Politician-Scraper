@@ -53,6 +53,7 @@ const puppeteer = require('puppeteer-extra');
 const StealthPlugin = require('puppeteer-extra-plugin-stealth');
 const { readCSVFile } = require('./csvReader'); // Importing the CSV reader
 const fs = require('fs');
+const getDataFromLinks = require('./getdatafromLinks');
 
 puppeteer.use(StealthPlugin());
 
@@ -62,7 +63,7 @@ async function run() {
 
   try {
     // Read data from the CSV file
-    const csvFilePath = 'sample.csv'; // Replace with your actual CSV file path
+    const csvFilePath = 'sample1.csv'; // Replace with your actual CSV file path
     const csvData = await readCSVFile(csvFilePath);
     console.log(csvData);
     // Use the data from the CSV to perform Google searches
@@ -103,11 +104,18 @@ async function run() {
     // Save all results as JSON
     const allResultsJson = JSON.stringify(allResults, null, 2);
     fs.writeFileSync('all_search_results.json', allResultsJson);
+    await runGetDataFromLinks();
   } catch (error) {
     console.error('Error:', error.message);
   } finally {
     await browser.close();
   }
+}
+
+async function runGetDataFromLinks() {
+  // Your code for the other module here
+  console.log('Starting the getDataFromLinks.js module...');
+  await getDataFromLinks();
 }
 
 run();
