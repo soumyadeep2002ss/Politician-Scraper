@@ -18,32 +18,34 @@ async function getDataFromLinks() {
   };
 
   // Iterate through each query and its associated links
-  for (const [query, links] of Object.entries(linksData)) {
-    const outputDirectory = `Output/${query}`;
+  for (const [query, fields] of Object.entries(linksData)) {
+    for (const [field, links] of Object.entries(fields)) {
+      const outputDirectory = `Output/${query}/${field}`;
 
-    // Check if the "Output" directory exists, create it if not
-    if (!fs.existsSync(outputDirectory)) {
-      fs.mkdirSync(outputDirectory, { recursive: true });
-    }
+      // Check if the "Output" directory exists, create it if not
+      if (!fs.existsSync(outputDirectory)) {
+        fs.mkdirSync(outputDirectory, { recursive: true });
+      }
 
-    // Iterate through each link and open/save the text content
-    for (let i = 0; i < links.length; i++) {
-      const link = links[i];
-      if (link) {
-        const fileName = `${outputDirectory}/result_${i + 1}.txt`;
-        try {
-          await scrapeAndSave(link, fileName);
-          console.log(`Saved text content for ${query} - Result ${i + 1}`);
-        } catch (error) {
-          console.error(`Error processing ${query} - Result ${i + 1}: ${error.message}`);
+      // Iterate through each link and open/save the text content
+      for (let i = 0; i < links.length; i++) {
+        const link = links[i];
+        if (link) {
+          const fileName = `${outputDirectory}/result_${i + 1}.txt`;
+          try {
+            await scrapeAndSave(link, fileName);
+            console.log(`Saved text content for ${query} - Result ${i + 1}`);
+          } catch (error) {
+            console.error(`Error processing ${query} - Result ${i + 1}: ${error.message}`);
+          }
+
+          // Display progress
+          const progress = ((i + 1) / links.length) * 100;
+          console.log(`Progress for ${query}: ${progress.toFixed(2)}%`);
+
+          // Wait for a short duration between requests
+          await new Promise(resolve => setTimeout(resolve, 2000));
         }
-
-        // Display progress
-        const progress = ((i + 1) / links.length) * 100;
-        console.log(`Progress for ${query}: ${progress.toFixed(2)}%`);
-
-        // Wait for a short duration between requests
-        await new Promise(resolve => setTimeout(resolve, 2000));
       }
     }
   }

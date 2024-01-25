@@ -1,47 +1,62 @@
-import pdfplumber
-import openai
-import json
-
+import os
+import csv
 import google.generativeai as genai
 
-def extract_text_from_pdf(pdf_path):
-    with pdfplumber.open(pdf_path) as pdf:
-        text = ''
-        for page in pdf.pages:
-            text += page.extract_text()
-    return text
+def read_and_combine_text_files(folder_path):
+    combined_text = ''
+    for filename in os.listdir(folder_path):
+        if filename.endswith('.txt'):
+            try:
+                with open(os.path.join(folder_path, filename), 'r', encoding='utf-8') as file:
+                    combined_text += file.read() + "\n"
+            except Exception as e:
+                print(f"Error reading file {filename}: {e}")
+    return combined_text
 
-def query_openai(text):
-    GOOGLE_API_KEY = 'GOOGLE_API_KEY' # add your GOOGLE_API_KEY
+def query_openai(text, field, politician):
+    GOOGLE_API_KEY = 'GOOGLE_API_KEY'  # add your GOOGLE_API_KEY
     genai.configure(api_key=GOOGLE_API_KEY)
 
-    prompt = f"Extract the name, address, and position of the politician from the following text:\n\n{text}"
+    prompt = f"For the person {politician} extract the following field of information: {field}\n from the following text [if no information related to the field is present, return NA]: \n{text}"
     model = genai.GenerativeModel('gemini-pro')
     messages = [
-    {'role':'user',
-     'parts': [prompt]}
+        {'role':'user', 'parts': [prompt]}
     ]
     response = model.generate_content(messages)
+    # print(response.text)
+    return response.text
 
-    # Sending request to OpenAI
-    # response = openai.Completion.create(
-    #     engine="gpt-3.5-turbo-instruct", 
-    #     prompt=prompt,
-    #     max_tokens=150  
-    # )
-    
-    # return response.choices[0].text.strip()
-    print(response.text)
-    return response
+# fields
+fields = ["address", "dob", "deceased date", "sex", "languages", "citizenship", "nationality", "occupation"]
 
-# add the path to your PDF
-pdf_path = 'Juan_Lucas_Restrepo_final.pdf'
+main_folder_path = 'path_to_output' # path to the main folder
 
-text = extract_text_from_pdf(pdf_path)
+# holds all extracted data
+all_extracted_data = {}
 
-extracted_data = query_openai(text)
-# print(extracted_data)
+# Iterating through each politician's folder
+for politician_folder in os.listdir(main_folder_path):
+    politician_data = {field: '' for field in fields}
+    # print(politician_folder)
 
-# Convert to JSON format (or further process as needed)
-# json_data = json.loads(extracted_data)
-# print(json.dumps(json_data, indent=4))
+    for field in fields:
+        folder_path = os.path.join(main_folder_path, politician_folder, field)
+        # print(folder_path)
+        if os.path.isdir(folder_path):
+            combined_text = read_and_combine_text_files(folder_path)
+            extracted_data = query_openai(combined_text, field, politician_folder)
+            politician_data[field] = extracted_data  
+
+    all_extracted_data[politician_folder] = politician_data      
+
+
+csv_file = 'extracted_politician_data.csv'
+with open(csv_file, mode='w', newline='', encoding='utf-8') as file:
+    writer = csv.DictWriter(file, fieldnames=['Politician'] + fields)
+    writer.writeheader()
+    for politician, data in all_extracted_data.items():
+        row = {'Politician': politician}
+        row.update(data)
+        writer.writerow(row)
+
+print("Data extraction complete. CSV file created.")
