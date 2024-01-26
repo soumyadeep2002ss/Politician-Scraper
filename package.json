@@ -4,6 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
+    "@google/generative-ai": "^0.1.3",
     "axios": "^1.4.0",
     "cheerio": "^1.0.0-rc.12",
     "csv-parser": "^3.0.0",
@@ -17,5 +18,4 @@
     "start": "node Politicians/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   }
-  
 }
