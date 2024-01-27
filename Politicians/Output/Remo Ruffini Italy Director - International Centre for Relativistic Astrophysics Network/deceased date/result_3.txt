@@ -1,0 +1,120 @@
+Encyclopedia
+Entry
+Journal
+Book
+Video
+Image
+About
+Entry
+Entry
+Video
+Image
+  
+Log in/Sign up
+Submit
+Home Entry Biography 
+Current:
+Remo Ruffini
+Remo Ruffini  Edit
+The content is sourced from: https://handwiki.org/wiki/Biography:Remo_Ruffini
+ 0
+ 0
+ 0
+alpes-maritimes astrophysics icranet
+1. Introduction
+
+Remo Ruffini (born May 17, 1942, La Brigue, Alpes-Maritimes, at that time, Briga Marittima, Italy). He is Director of ICRANet, International Centre for Relativistic Astrophysics Network. Moreover, he is President of the International Centre for Relativistic Astrophysics (ICRA); he initiated the International Relativistic Astrophysics PhD (IRAP PhD), a common graduate school program of several universities and research institutes for the education of theoretical astrophysicists. He is Director of the Erasmus Mundus IRAP PhD program (IRAP Ph D Erasmus Mundus). He has been Professor of Theoretical Physics at the University of Rome "Sapienza" from 1978 to 2012.
+
+2. Biography
+
+After his degree in 1966, he was post-doctoral fellow at the Mainz Academy of Sciences working with Pascual Jordan, in Germany. Then, he was post-doctoral fellow with John Archibald Wheeler and Member of the Institute for Advanced Study in Princeton and later became instructor and assistant professor at Princeton University. In 1975, he was visiting Professor at the Universities of Kyoto (Japan) and of Western Australia, Perth. In the years 1975-78, he cooperated with NASA being member of the task force on the scientific use of space stations. In 1976 he became Professor of Theoretical Physics at the University of Catania and in 1978 he was appointed Professor at the University "Sapienza". In 1985, he was elected President of the International Center for Relativistic Astrophysics (ICRA). In 1984 he was cofounder, with Abdus Salam, of the Marcel Grossmann Meetings [1]. In 1987, he became co-chairman of the Italian-Korean Meetings on Relativistic Astrophysics. In the years 1989-93, he was President of the Scientific Committee of the Italian Space Agency. He is Editor of a variety of Scientific Journals. He is married to Anna Imponente and has a son, Iacopo.
+
+His theoretical work led to the concept of Boson Stars.[2] His classic article with John A. Wheeler[3] popularized the astrophysical concept of Black Hole.[4] With Demetrios Christodoulou he has given the formula for a Kerr-Newmann Black Hole endowed of charge, mass and angular momentum.[5] His theoretical work led to the identification of the first Black Holes in the Milky Way Galaxy.
+
+Together with his student C. Rhoades,[6] he established the absolute upper limit to the mass of neutron stars and, with his student Robert Leach,[7] he used such an upper limit for fixing the paradigm which enabled the identification of the first Black Hole in the Milky Way Galaxy, Cygnus X1, using the splendid data of the Uhuru satellite by Riccardo Giacconi and his group.[8][9]
+
+For these works Ruffini won the Cressy Morrison Award of the N.Y. Academy of Science in 1972.
+
+With his students Calzetti, Giavalisco, Song and Taraglio he has developed the role of fractal structures in Cosmology,.[10][11]
+
+Together with his collaborator T. Damour,[12] he suggested the applicability of the Heisenberg-Euler-Schwinger process of pair creation in Black Hole physics and identified the dyadosphere where these processes take place. Gamma ray bursts (GRBs) seem to give the observational evidence of such pair creation process in astrophysics, prior to the observation of such phenomenon in Earth based experiments and represent the first evidence of the energy extraction process from Black Holes (the blackholic energy).[13]
+
+3. Books
+
+He is co-author of 21 books, including:
+
+R. Giacconi and R. Ruffini, Physics and Astrophysics of Neutron Stars and Black Holes, LXXV E. Fermi Summer School, SIF and North Holland (1978); also translated into Russian
+R. Giacconi and R. Ruffini, Physics and Astrophysics of Neutron Stars and Black Holes 2nd edition, Cambridge Scientific Publishers, Cambridge (2009)
+R. Gursky and R. Ruffini, Neutron Stars, Black Holes and Binary X Ray Sources, H. Reidel (1975)
+H. Ohanian and R. Ruffini. Gravitation and Spacetime, W.W. Norton (1994); translated into Italian (Bologna: Zanichelli, 1997), Chinese (China Science Publishing, 2007) and Korean (Seoul: Shin Won, 2001)
+Bardeen, et al., Black Holes, Gordon & Breach (1973)
+M. Rees, J.A. Wheeler and R. Ruffini, Black Holes, Gravitational Waves and Cosmology, Gordon & Breach (1974)
+H. Sato and R. Ruffini, Black Holes, Tokyo (1976)
+L.Z. Fang and R. Ruffini, Basic Concepts in Relativistic Astrophysics, Beijing: Science Press (1981)
+F. Melchiorri and R. Ruffini, Gamow Cosmology, North Holland Pub. Co., (1986)
+4. Awards
+Cressy Morrison Award, from the New York Academy of Sciences (1972)
+Alfred P. Sloan Fellow Foundation (1974)
+Space Scientist of the Year (1992)
+Further Reading
+In this part, we encourage you to list the link of papers wrote by the character, or published reviews/articles about his/her academic contributions.  Edit
+References
+Alex Gaina,MARCEL GROSSMANN MEEETING-AN IMPORTANT EVENT IN GRAVITATION AND ASTROPHYSICS [1]
+R. Ruffini; S. Bonazzola (1969). "Systems of Self-Gravitating Particles in General Relativity and the Concept of an Equation of State". Physical Review 187 (5): 1767–1783. doi:10.1103/PhysRev.187.1767. Bibcode: 1969PhRv..187.1767R.  https://dx.doi.org/10.1103%2FPhysRev.187.1767
+R. Ruffini; J.A. Wheeler (1971). "Introducing the Black Hole". Physics Today 24 (1): 30–41. doi:10.1063/1.3022513. Bibcode: 1971PhT....24a..30R.  https://dx.doi.org/10.1063%2F1.3022513
+Naming of black hole. http://www.worldwidewords.org/topicalwords/tw-bla1.htm
+D. Christodoulou; R. Ruffini (1971). "Reversible Transformations of a Charged Black Hole". Physical Review D 4 (12): 3552–3555. doi:10.1103/PhysRevD.4.3552. Bibcode: 1971PhRvD...4.3552C.  https://dx.doi.org/10.1103%2FPhysRevD.4.3552
+C. Rhoades; R. Ruffini (1974). "Maximum Mass of a Neutron Star". Physical Review Letters 32 (6): 324. doi:10.1103/PhysRevLett.32.324. Bibcode: 1974PhRvL..32..324R.  https://dx.doi.org/10.1103%2FPhysRevLett.32.324
+R. Leach; R. Ruffini (1973). "On the Masses of X-Ray Sources". Astrophysical Journal Letters 180: L15. doi:10.1086/181143. Bibcode: 1973ApJ...180L..15L.  https://dx.doi.org/10.1086%2F181143
+R. Giacconi (2005). "An Education in Astronomy". Annual Review of Astronomy & Astrophysics 43 (1): 1–30. doi:10.1146/annurev.astro.43.090303.091253. Bibcode: 2005ARA&A..43....1G.  https://dx.doi.org/10.1146%2Fannurev.astro.43.090303.091253
+R. Giacconi (2003). "Nobel Lecture: The dawn of x-ray astronomy". Reviews of Modern Physics 75 (3): 995–1010. doi:10.1103/RevModPhys.75.995. Bibcode: 2003RvMP...75..995G.  https://dx.doi.org/10.1103%2FRevModPhys.75.995
+D. Calzetti; M. Giavalisco; R. Ruffini (1988). "The normalization of the correlation functions for extragalactic structures". Astronomy and Astrophysics 198 (1–2): 1. Bibcode: 1988A&A...198....1C.  http://adsabs.harvard.edu/abs/1988A&A...198....1C
+R. Ruffini; D.J. Song; S. Taraglio (1988). "The 'ino' mass and the cellular large-scale structure of the universe". Astronomy and Astrophysics 190 (1–2): 1. Bibcode: 1988A&A...190....1R.  http://adsabs.harvard.edu/abs/1988A&A...190....1R
+T. Damour; R. Ruffini (1975). "Quantum Electrodynamical Effects in Kerr-Newmann Geometries". Physical Review Letters 35 (7): 463. doi:10.1103/PhysRevLett.35.463. Bibcode: 1975PhRvL..35..463D.  https://dx.doi.org/10.1103%2FPhysRevLett.35.463
+R. Ruffini (2008). "Gamma Ray Bursts". Proceedings XI Marcel Grossmann Meeting. World Scientific. 
+©Text is available under the terms and conditions of the Creative Commons-Attribution ShareAlike (CC BY-SA) license; additional terms may apply. By using this site, you agree to the Terms and Conditions and Privacy Policy.
+Name:
+Remo Ruffini
+Born:
+May 1942
+Birth
+Location:
+La Brigue, France
+Title:
+Professor of Theoretical Physics
+Affiliation:
+Unknown
+Honor:
+Unknown
+Upload a video for this entry
+Information
+Subjects: Others
+Contributor  : HandWiki
+View Times: 327
+Entry Collection: HandWiki
+Revision: 1 time (View History)
+Update Date: 16 Nov 2022
+Website Statistics
+52,741 Entries
+979 Videos
+12.3M+ Page Views
+Subscribe
+    
+About Encyclopedia
+About
+Advisory Board
+Instructions for Users
+Help
+Contact
+Partner
+MDPI Initiatives
+Sciforum
+MDPI Books
+Preprints.org
+Scilit
+SciProfiles
+Encyclopedia
+JAMS
+Proceedings Series
+© 2024 Encyclopedia is subsidized by MDPI.
+Disclaimer Terms and Conditions Private Policy
