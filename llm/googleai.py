@@ -14,7 +14,7 @@ def read_and_combine_text_files(folder_path):
     return combined_text
 
 def query_openai(text, field, politician):
-    GOOGLE_API_KEY = 'AIzaSyDd26SvuTQqx5kIW50llUWnWCMtP4bZpWg'  # add your GOOGLE_API_KEY
+    GOOGLE_API_KEY = 'GOOGLE_API_KEY'  # add your GOOGLE_API_KEY
     genai.configure(api_key=GOOGLE_API_KEY)
 
     prompt = f"For the person {politician} extract the following field of information: {field}\n from the following text [if no information related to the field is present, return NA]: \n{text}"
@@ -29,7 +29,7 @@ def query_openai(text, field, politician):
 # fields
 fields = ["address", "dob", "deceased date", "sex", "languages", "citizenship", "nationality", "occupation"]
 
-main_folder_path = main_folder_path = r'D:\Projects\Politicians\Politicians\Output1'
+main_folder_path = main_folder_path = 'path_to_output' # path to the main folder
  # path to the main folder
 
 # holds all extracted data
