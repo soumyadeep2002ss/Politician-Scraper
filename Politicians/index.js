@@ -21,7 +21,7 @@ async function run() {
     // Use the data from the CSV to perform Google searches
     let allResults = {};
 
-    for (const { name: query, country: country, position_Description: position } of csvData) {
+    for (const { uniqueID: uniqueID, name: query, country: country, position_Description: position } of csvData) {
       let field_results = {};
       for(const field of field_names){  
         const searchQuery = `${query} ${country} ${position} ${field}`;
@@ -53,7 +53,7 @@ async function run() {
         // Wait for a short duration between queries
         await new Promise(resolve => setTimeout(resolve, 2000));
       }
-      allResults[query+" "+country+" "+position]=field_results;
+      allResults[uniqueID]=field_results;
     }
 
     // Save all results as JSON

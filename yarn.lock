@@ -254,13 +254,13 @@
     "parse5" "^7.0.0"
     "parse5-htmlparser2-tree-adapter" "^7.0.0"
 
-"chromium-bidi@0.5.2":
-  "integrity" "sha512-PbVOSddxgKyj+JByqavWMNqWPCoCaT6XK5Z1EFe168sxnB/BM51LnZEPXSbFcFAJv/+u2B4XNTs9uXxy4GW3cQ=="
-  "resolved" "https://registry.npmjs.org/chromium-bidi/-/chromium-bidi-0.5.2.tgz"
-  "version" "0.5.2"
+"chromium-bidi@0.5.6":
+  "integrity" "sha512-ber8smgoAs4EqSUHRb0I8fpx371ZmvsdQav8HRM9oO4fk5Ox16vQiNYXlsZkRj4FfvVL2dCef+zBFQixp+79CA=="
+  "resolved" "https://registry.npmjs.org/chromium-bidi/-/chromium-bidi-0.5.6.tgz"
+  "version" "0.5.6"
   dependencies:
     "mitt" "3.0.1"
-    "urlpattern-polyfill" "9.0.0"
+    "urlpattern-polyfill" "10.0.0"
 
 "cliui@^8.0.1":
   "integrity" "sha512-BSeNnyus75C4//NQ9gQt1/csTXyo/8Sb+afLAkzAptFuMsod9HFokGNudZpi/oQV73hnVK+sR+5PVRMd+Dr7YQ=="
@@ -323,15 +323,15 @@
   "resolved" "https://registry.npmjs.org/core-util-is/-/core-util-is-1.0.2.tgz"
   "version" "1.0.2"
 
-"cosmiconfig@8.3.6":
-  "integrity" "sha512-kcZ6+W5QzcJ3P1Mt+83OUv/oHFqZHIx8DuxG6eZ5RGMERoLqp4BuGjhHLYGK+Kf5XVkQvqBSmAy/nGWN3qDgEA=="
-  "resolved" "https://registry.npmjs.org/cosmiconfig/-/cosmiconfig-8.3.6.tgz"
-  "version" "8.3.6"
+"cosmiconfig@9.0.0":
+  "integrity" "sha512-itvL5h8RETACmOTFc4UfIyB2RfEHi71Ax6E/PivVxq9NseKbOWpeyHEOIbmAw1rs8Ak0VursQNww7lf7YtUwzg=="
+  "resolved" "https://registry.npmjs.org/cosmiconfig/-/cosmiconfig-9.0.0.tgz"
+  "version" "9.0.0"
   dependencies:
+    "env-paths" "^2.2.1"
     "import-fresh" "^3.3.0"
     "js-yaml" "^4.1.0"
     "parse-json" "^5.2.0"
-    "path-type" "^4.0.0"
 
 "cross-fetch@4.0.0":
   "integrity" "sha512-e4a5N8lVvuLgAWgnCrLr2PP0YyDOTHa9H/Rj54dirp61qXnNq46m82bRhNqIA5VccJtWBvPTFRV3TtvHUKPB1g=="
@@ -406,10 +406,10 @@
   "resolved" "https://registry.npmjs.org/delayed-stream/-/delayed-stream-1.0.0.tgz"
   "version" "1.0.0"
 
-"devtools-protocol@*", "devtools-protocol@0.0.1203626":
-  "integrity" "sha512-nEzHZteIUZfGCZtTiS1fRpC8UZmsfD1SiyPvaUNvS13dvKf666OAm8YTi0+Ca3n1nLEyu49Cy4+dPWpaHFJk9g=="
-  "resolved" "https://registry.npmjs.org/devtools-protocol/-/devtools-protocol-0.0.1203626.tgz"
-  "version" "0.0.1203626"
+"devtools-protocol@*", "devtools-protocol@0.0.1232444":
+  "integrity" "sha512-pM27vqEfxSxRkTMnF+XCmxSEb6duO5R+t8A9DEEJgy4Wz2RVanje2mmj99B6A3zv2r/qGfYlOvYznUhuokizmg=="
+  "resolved" "https://registry.npmjs.org/devtools-protocol/-/devtools-protocol-0.0.1232444.tgz"
+  "version" "0.0.1232444"
 
 "dom-serializer@^2.0.0":
   "integrity" "sha512-wIkAryiqt/nV5EQKqQpo3SToSOV9J0DnbJqwK7Wv/Trc92zIAYZ4FlMu+JPFW1DfGFt81ZTCGgDEabffXeLyJg=="
@@ -465,6 +465,11 @@
   "integrity" "sha512-V0hjH4dGPh9Ao5p0MoRY6BVqtwCjhz6vI5LT8AJ55H+4g9/4vbHx1I54fS0XuclLhDHArPQCiMjDxjaL8fPxhw=="
   "resolved" "https://registry.npmjs.org/entities/-/entities-4.5.0.tgz"
   "version" "4.5.0"
+
+"env-paths@^2.2.1":
+  "integrity" "sha512-+h1lkLKhZMTYjog1VEpJNG7NZJWcuc2DDk/qsqSTRRCOXiLjeQ1d1/udrUGhqMxUgAlwKNZ0cf2uqan5GLuS2A=="
+  "resolved" "https://registry.npmjs.org/env-paths/-/env-paths-2.2.1.tgz"
+  "version" "2.2.1"
 
 "error-ex@^1.3.1":
   "integrity" "sha512-7dFHNmqeFSEt2ZBsCriorKnn3Z2pj+fd9kmI6QoWw4//DL+icEBfc0U7qJCisqrTsKTjw4fNFy2pW9OqStD84g=="
@@ -1041,11 +1046,6 @@
   "resolved" "https://registry.npmjs.org/path-is-absolute/-/path-is-absolute-1.0.1.tgz"
   "version" "1.0.1"
 
-"path-type@^4.0.0":
-  "integrity" "sha512-gDKb8aZMDeD/tZWs9P6+q0J9Mwkdl6xMV8TjnGP3qJVJ06bdMgkbBlLU8IdfOsIsFz2BW1rNVT3XuNEl8zPAvw=="
-  "resolved" "https://registry.npmjs.org/path-type/-/path-type-4.0.0.tgz"
-  "version" "4.0.0"
-
 "pend@~1.2.0":
   "integrity" "sha512-F3asv42UuXchdzt+xXqfW1OGlVBe+mxa2mqI0pg5yAHZPvFmY3Y6drSf/GQ1A86WgWEN9Kzh/WrgKa6iGcHXLg=="
   "resolved" "https://registry.npmjs.org/pend/-/pend-1.2.0.tgz"
@@ -1098,16 +1098,16 @@
   "resolved" "https://registry.npmjs.org/punycode/-/punycode-2.3.1.tgz"
   "version" "2.3.1"
 
-"puppeteer-core@*", "puppeteer-core@21.7.0":
-  "integrity" "sha512-elPYPozrgiM3phSy7VDUJCVWQ07SPnOm78fpSaaSNFoQx5sur/MqhTSro9Wz8lOEjqCykGC6WRkwxDgmqcy1dQ=="
-  "resolved" "https://registry.npmjs.org/puppeteer-core/-/puppeteer-core-21.7.0.tgz"
-  "version" "21.7.0"
+"puppeteer-core@*", "puppeteer-core@21.10.0":
+  "integrity" "sha512-NVaqO3K462qwMuLO4Gurs/Mau1Wss+08QgNYzF0dIqZWMvpskrt/TbxbmHU+7zMTUOvPEq/lR4BLJmjMBgBGfQ=="
+  "resolved" "https://registry.npmjs.org/puppeteer-core/-/puppeteer-core-21.10.0.tgz"
+  "version" "21.10.0"
   dependencies:
     "@puppeteer/browsers" "1.9.1"
-    "chromium-bidi" "0.5.2"
+    "chromium-bidi" "0.5.6"
     "cross-fetch" "4.0.0"
     "debug" "4.3.4"
-    "devtools-protocol" "0.0.1203626"
+    "devtools-protocol" "0.0.1232444"
     "ws" "8.16.0"
 
 "puppeteer-extra-plugin-stealth@^2.11.2":
@@ -1157,14 +1157,14 @@
     "debug" "^4.1.1"
     "deepmerge" "^4.2.2"
 
-"puppeteer@*", "puppeteer@^21.0.1":
-  "integrity" "sha512-Yy+UUy0b9siJezbhHO/heYUoZQUwyqDK1yOQgblTt0l97tspvDVFkcW9toBlnSvSfkDmMI3Dx9cZL6R8bDArHA=="
-  "resolved" "https://registry.npmjs.org/puppeteer/-/puppeteer-21.7.0.tgz"
-  "version" "21.7.0"
+"puppeteer@*", "puppeteer@^21.10.0":
+  "integrity" "sha512-Y1yQjcLE00hHTDAmv3M3A6hhW0Ytjdp6xr6nyjl7FZ7E7hzp/6Rsw80FbaTJzJHFCplBNi082wrgynbmD7RlYw=="
+  "resolved" "https://registry.npmjs.org/puppeteer/-/puppeteer-21.10.0.tgz"
+  "version" "21.10.0"
   dependencies:
     "@puppeteer/browsers" "1.9.1"
-    "cosmiconfig" "8.3.6"
-    "puppeteer-core" "21.7.0"
+    "cosmiconfig" "9.0.0"
+    "puppeteer-core" "21.10.0"
 
 "qs@~6.5.2":
   "integrity" "sha512-qxXIEh4pCGfHICj1mAJQ2/2XVZkjCDTcEgfoSQxc/fYivUZxTkk7L3bDBJSoNrEzXI17oUO5Dp07ktqE5KzczA=="
@@ -1395,10 +1395,10 @@
   dependencies:
     "punycode" "^2.1.0"
 
-"urlpattern-polyfill@9.0.0":
-  "integrity" "sha512-WHN8KDQblxd32odxeIgo83rdVDE2bvdkb86it7bMhYZwWKJz0+O0RK/eZiHYnM+zgt/U7hAHOlCQGfjjvSkw2g=="
-  "resolved" "https://registry.npmjs.org/urlpattern-polyfill/-/urlpattern-polyfill-9.0.0.tgz"
-  "version" "9.0.0"
+"urlpattern-polyfill@10.0.0":
+  "integrity" "sha512-H/A06tKD7sS1O1X2SshBVeA5FLycRpjqiBeqGKmBwBDBy28EnRjORxTNe269KSSr5un5qyWi1iL61wLxpd+ZOg=="
+  "resolved" "https://registry.npmjs.org/urlpattern-polyfill/-/urlpattern-polyfill-10.0.0.tgz"
+  "version" "10.0.0"
 
 "uuid@^3.3.2":
   "integrity" "sha512-HjSDRw6gZE5JMggctHBcjVak08+KEVhSIiDzFnT9S9aegmp85S/bReBVTb4QTFaRNptJ9kuYaNhnbNEOkbKb/A=="
