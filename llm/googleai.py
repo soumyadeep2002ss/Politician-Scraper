@@ -1,8 +1,10 @@
 import os
 import csv
 import json
+from dotenv import load_dotenv
 import google.generativeai as genai
 
+load_dotenv()
 f = open('../Politicians/csv_results.json', "r")
 json_data = json.loads(f.read())
 
@@ -17,9 +19,8 @@ def read_and_combine_text_files(folder_path):
                 print(f"Error reading file {filename}: {e}")
     return combined_text
 
-def query_using_gemini(text, field, politician):
-    GOOGLE_API_KEY = 'GOOGLE_API_KEY'  # add your GOOGLE_API_KEY
-    genai.configure(api_key=GOOGLE_API_KEY)
+def  query_using_gemini(text, field, politician, api_key):
+    genai.configure(api_key=api_key)
     politician_name = politician['Name']
     politician_country = politician['Country']
     politician_position = politician['Position_Description']
@@ -34,14 +35,26 @@ def query_using_gemini(text, field, politician):
         {'role':'user', 'parts': [prompt]}
     ]
     response = model.generate_content(messages)
-    # print(response.text)
+    print(response.text)
     return response.text
 
 # fields
 fields = ["address", "dob", "deceased date", "sex", "languages", "citizenship", "nationality", "occupation"]
 
-# complete path to the Politicians/Output folder
-main_folder_path = 'main_folder_path' 
+llm_directory = os.path.dirname(__file__)
+
+# Construct the main folder path relative to the script directory
+main_folder_path = os.path.join(llm_directory, '..', 'Politicians', 'Output')
+
+# List of API keys
+api_keys = [
+    os.getenv('GOOGLE_API_KEY1'),
+    os.getenv('GOOGLE_API_KEY2'),
+    os.getenv('GOOGLE_API_KEY3'),
+    os.getenv('GOOGLE_API_KEY4'),
+    os.getenv('GOOGLE_API_KEY5'),
+    os.getenv('GOOGLE_API_KEY6'),
+]  
 
 csv_file = 'extracted_politician_data.csv'
 
@@ -54,17 +67,17 @@ with open(csv_file, mode='w', newline='', encoding='utf-8') as file:
     for politician_folder in os.listdir(main_folder_path):
         politician_data = {field: '' for field in fields}
         # Iterating through each field for the politician
-        for field in fields:
+        for i, field in enumerate(fields):
             folder_path = os.path.join(main_folder_path, politician_folder, field)
             if os.path.isdir(folder_path):
                 combined_text = read_and_combine_text_files(folder_path)
                 politician = json_data[politician_folder]
-                extracted_data = query_using_gemini(combined_text, field, politician)
+                api_key = api_keys[i % len(api_keys)]  # Rotate through the list of API keys
+                # print(api_key)
+                extracted_data = query_using_gemini(combined_text, field, politician, api_key)
                 politician_data[field] = extracted_data
         # Preparing the row with politician's name and extracted data
         row = {'Politician': json_data[politician_folder]['Name']}
         row.update(politician_data)
         # Writing the row to the CSV file
         writer.writerow(row)
-
-print("Data extraction complete. CSV file created.")
