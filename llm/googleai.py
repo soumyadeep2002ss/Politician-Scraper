@@ -18,7 +18,7 @@ def read_and_combine_text_files(folder_path):
     return combined_text
 
 def query_using_gemini(text, field, politician):
-    GOOGLE_API_KEY = 'AIzaSyDUIrnTz5Cc9BVuyqjx5yuiAEJaT_44rkA'  # add your GOOGLE_API_KEY
+    GOOGLE_API_KEY = 'GOOGLE_API_KEY'  # add your GOOGLE_API_KEY
     genai.configure(api_key=GOOGLE_API_KEY)
     politician_name = politician['Name']
     politician_country = politician['Country']
@@ -41,7 +41,7 @@ def query_using_gemini(text, field, politician):
 fields = ["address", "dob", "deceased date", "sex", "languages", "citizenship", "nationality", "occupation"]
 
 # complete path to the Politicians/Output folder
-main_folder_path = 'C:/Users/91798/Downloads/new_political/Politician-Scraper/Politicians/Output' 
+main_folder_path = 'main_folder_path' 
 
 csv_file = 'extracted_politician_data.csv'
 
