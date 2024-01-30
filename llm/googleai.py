@@ -28,7 +28,7 @@ def  query_using_gemini(text, field, politician, api_key):
     prompt = f"""For the person {politician_details} extract the following field of information: {field}\n from the following text 
     [If your response consists of responses like 'I apologize' or 'I'm sorry', replace your response with 'NA' entirely. 
     If no information is available, simply return NA.
-    Whenever your response is similar to 'provided data is not available', replace the output with 'NA'.
+    Whenever your response is similar to 'provided data is not available' or 'The provided text does not contain information about...', replace the output with 'NA'.
     If no such data can be extracted or retrieved from the provided text, return 'NA'.]: \n{text}"""
     model = genai.GenerativeModel('gemini-pro')
     messages = [
