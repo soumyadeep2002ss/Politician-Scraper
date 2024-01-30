@@ -1,242 +1,144 @@
-Processing math: 100%
-search menu
- 
- 
-3.6
-2.9
-Journals  Universe  Special Issues  Remo Ruffini Festschrift 
-Submit to Universe Review for Universe Propose a Special Issue
-► Journal Menu
-► Journal Browser
-Remo Ruffini Festschrift
-Special Issue Editors
-Special Issue Information
-Keywords
-Published Papers
+Jump to content
+Main menu
+Search
+Create account
+Log in
+Personal tools
+	
 
-A special issue of Universe (ISSN 2218-1997).
+Photograph the culinary diversity of Bengal, enrich Wikipedia and win exciting prizes!
 
-Deadline for manuscript submissions: closed (30 April 2023) | Viewed by 8166
+	
+Toggle the table of contents
+Remo Ruffini
+11 languages
+Article
+Talk
+Read
+Edit
+View history
+Tools
+From Wikipedia, the free encyclopedia
+For the Italian businessman, see Remo Ruffini (businessman).
+Remo Ruffini
 
+Ruffini, Remo
 
-Share This Special Issue
-    
-Special Issue Editors
-Prof. Dr. Remo Ruffini
-E-Mail Website
-Guest Editor
+Born	May 17, 1942 (age 81)
+La Brigue, France
+Known for	
+Co-Founder & Director of International Center for Relativistic Astrophysics and ICRANet
+Black Hole Identification
 
-International Center for Relativistic Astrophysics Network (ICRANet), Piazza della Repubblica, 10, 65122 Pescara, Italy
-Interests: GRBs; black holes; physics; relativistic astrophysics
+Spouse	Anna Imponente
+Children	1
+Scientific career
+Fields	Astrophysics
+Doctoral students	Daniela Calzetti
 
-Prof. Dr. Jorge Armando Rueda Hernández
-E-Mail Website
-Guest Editor
+Remo Ruffini (born May 17, 1942, La Brigue, Alpes-Maritimes, at that time, Briga Marittima, Italy). He is the Director of ICRANet, International Centre for Relativistic Astrophysics Network and one of the founders of the International Centre for Relativistic Astrophysics (ICRA). Ruffini initiated the International Relativistic Astrophysics PhD (IRAP PhD), a common graduate school program of several universities and research institutes for the education of theoretical astrophysicists. He is the Director of the Erasmus Mundus IRAP PhD program (IRAP Ph D Erasmus Mundus). He has been Professor of Theoretical Physics at the University of Rome "Sapienza" from 1978 to 2012.
 
-1. International Center for Relativistic Astrophysics Network (ICRANet), Piazza della Repubblica, 10, 65122 Pescara, Italy
-2. ICRANet-Ferrara, Dipartimento di Fisica, Università di Ferrara, Via Giuseppe Saragat 1, 44122 Ferrara, Italy
-Interests: relativistic astrophysics
+Biography[edit]
 
-Prof. Dr. Narek Sahakyan
-E-Mail Website
-Guest Editor
+After obtaining his degree in 1966 in Rome, he was a post-doctoral fellow at the Mainz Academy of Sciences working with Pascual Jordan, in West Germany. Then, he was a post-doctoral fellow with John Wheeler and Member of the Institute for Advanced Study in Princeton and later became an instructor and assistant professor at Princeton University. In 1975, he was a visiting professor at the Universities of Kyoto (Japan) and of Western Australia, Perth. In the years 1975–78, he worked with NASA, being a member of the task force on the scientific use of space stations. In 1976 he became professor of theoretical physics at the University of Catania and in 1978 he was appointed a professor at the University "Sapienza". In 1985, he was elected president of the International Center for Relativistic Astrophysics (ICRA). In 1984 he was a cofounder, with Abdus Salam, of the Marcel Grossmann Meetings.[1] In 1987, he became co-chairman of the Italian-Korean Meetings on Relativistic Astrophysics. In the years 1989–93, he was President of the Scientific Committee of the Italian Space Agency. He is the editor of a variety of scientific journals. He is married to Anna Imponente and has a son, Iacopo.
 
-ICRANet-Armenia at NAS RA, Yerevan, Armenia
-Interests: high energy astrophysics; astroparticle physics; data analysis of astrophysical data; numerical simulations
+His theoretical work led to the concept of boson stars.[2] His classic article with John Wheeler[3] popularized the astrophysical concept of Black Hole.[4] With Demetrios Christodoulou he has given the formula for a Kerr-Newmann Black Hole endowed of charge, mass and angular momentum.[5] His theoretical work led to the identification of the first Black Holes in the Milky Way Galaxy.
 
-Prof. Dr. Gregory Vereshchagin
-E-Mail Website
-Guest Editor
+Together with his student C. Rhoades,[6] he established the absolute upper limit to the mass of neutron stars. With his student Robert Leach,[7] he used such an upper limit for fixing the paradigm which enabled the identification of the first Black Hole in the Milky Way Galaxy, Cygnus X1, using the splendid data of the Uhuru satellite by Riccardo Giacconi and his group.[8][9]
 
-International Center for Relativistic Astrophysics Network (ICRANet), Piazza della Repubblica, 10, 65122 Pescara, Italy
-Interests: kinetic theory; plasma physics; astrophysics; cosmology
-Special Issues, Collections and Topics in MDPI journals
-Special Issue Information
+For these works, Ruffini won the A. Cressy Morrison Award of the New York Academy of Sciences in 1972.[10]
 
-Dear Colleagues,
+With his students Calzetti, Giavalisco, Song and Taraglio, Ruffini developed the role of fractal structures in cosmology.[11][12]
 
-Remo Ruffini received his doctorate at Sapienza University of Rome, in 1967. Since then, he has become the director of ICRANet, the president of ICRA, and the coauthor of more than 650 scientific publications and 13 books. He has taught in Hamburg, at Princeton University, at the Institute for Advanced Study, in Japan, China (at USTC), Australia, and CBPF (Brazil). One of his major works concerned boson stars, named, “Introducing the Black Hole” with J.A. Wheeler, which focused on the limiting critical mass of NS. He identified the first black hole (BH) in our galaxy (Cignus X-1) using UHURU satellite data with Riccardo Giacconi and consequentially, he received the Cressy Morrison Award in 1973. He returned to Sapienza University in 1978, and he promoted a Rome–Stanford collaboration on the subject of gravitational wave detectors. Together with European, US, and Chinese institutions, he established ICRA and later ICRANet, in Italy, Armenia, France, and Brazil in 2005. He developed the understanding of GRBs, confirmed by the largest telescopes on Earth from their discovery in 1973, to their cosmological origin in 1997, and to the determination of seven different GRB families and their conceptual understanding in 2018.
+Together with his collaborator Thibault Damour,[13] Ruffini suggested the applicability of the Heisenberg-Euler-Schwinger process of pair creation in black hole physics and identified the dyadosphere where these processes take place. Gamma ray bursts seem to give the observational evidence of such pair creation process in astrophysics, prior to the observation of such phenomenon in Earth based experiments and represent the first evidence of the energy extraction process from Black Holes (the blackholic energy).[14]
 
-This Special Issue will collect original and review papers written by distinguished scholars and dedicated to Remo Ruffini on the above mentioned topics.
+Bird's-eye view of our black-hole universe[edit]
+The first-ever picture of a black hole, painted for Physics Today (January 1971) under the supervision of Remo Ruffini.[15]
 
-The deadline for paper submission is April 30, 2023.
+An external observer would see our black-hole universe as a sphere of space that is being sucked into its central wormhole:
 
-Prof. Dr. Remo Ruffini
-Prof. Dr. Jorge Armando Rueda Hernández
-Prof. Dr. Narek Sahakyan
-Prof. Dr. Gregory Vereshchagin
-Guest Editors
+The drain hole sucking water toward it is equivalent to the singularity at the center of a black hole sucking space toward it.
 
-Manuscript Submission Information
+—Sen, Paul. Einstein's Fridge: How the Difference Between Hot and Cold Explains the Universe Simon and Schuster, 2022, p. 228
 
-Manuscripts should be submitted online at www.mdpi.com by registering and logging in to this website. Once you are registered, click here to go to the submission form. Manuscripts can be submitted until the deadline. All submissions that pass pre-check are peer-reviewed. Accepted papers will be published continuously in the journal (as soon as accepted) and will be listed together on the special issue website. Research articles, review articles as well as short communications are invited. For planned papers, a title and short abstract (about 100 words) can be sent to the Editorial Office for announcement on this website.
+Consequently, our black-hole universe shrinks ever faster, spins ever faster, and has an ever deeper funnel-shaped vortex at its north pole:[16]
 
-Submitted manuscripts should not have been published previously, nor be under consideration for publication elsewhere (except conference proceedings papers). All manuscripts are thoroughly refereed through a single-blind peer-review process. A guide for authors and other relevant information for submission of manuscripts is available on the Instructions for Authors page. Universe is an international peer-reviewed open access monthly journal published by MDPI.
+To us, falling towards the central singularity, our shrinking black-hole universe seems to be expanding:
 
-Please visit the Instructions for Authors page before submitting a manuscript. Submitted papers should be well formatted and use good English. Authors may use MDPI's English editing service prior to publication or during author revisions.
+Now let us consider an astronaut explorer who goes to visit a black hole and falls in. According to her own proper time, the explorer can soon arrive in the vicinity of the horizon. Any light emitted at rs in the outward radial direction as she falls in stays at the horizon, according to outer observers, but travels at c relative to the astronaut. Therefore, in the astronaut's rest frame the horizon moves outwards at c.
 
-Keywords
-black holes
-energy extraction from black holes
-neutron stars
-gamma-ray bursts: supernovae: binary-driven hypernovae
-gravitational waves
-cosmology
-dark matter
-galactic halos
-pair creation
-Published Papers (10 papers)
-Download All Papers
-Order results
-Content type
-Result details
-Normal
-Show export options expand_more
-Research
+—Steane, Andrew M. Relativity Made Relatively Easy OUP, 2012, pp. 388–89
+Books[edit]
 
-Jump to: Review, Other
+He is co-author of 21 books, including:
 
-12 pages, 276 KiB   
-Open AccessArticle
-Spherically Symmetric C3 Matching in General Relativity
-by Hernando Quevedo
-Universe 2023, 9(9), 419; https://doi.org/10.3390/universe9090419 - 14 Sep 2023
-Viewed by 688
-Abstract We study the problem of matching interior and exterior solutions to Einstein’s equations along a particular hypersurface. We present the main aspects of the C3 matching approach that involve third-order derivatives of the corresponding metric tensors in contrast to the standard [...] Read more.
-(This article belongs to the Special Issue Remo Ruffini Festschrift)
+R. Giacconi and R. Ruffini, Physics and Astrophysics of Neutron Stars and Black Holes, LXXV E. Fermi Summer School, SIF and North Holland (1978); also translated into Russian
+R. Giacconi and R. Ruffini, Physics and Astrophysics of Neutron Stars and Black Holes 2nd edition, Cambridge Scientific Publishers, Cambridge (2009)
+R. Gursky and R. Ruffini, Neutron Stars, Black Holes and Binary X Ray Sources, H. Reidel (1975)
+H. Ohanian and R. Ruffini. Gravitation and Spacetime, W.W. Norton (1994); translated into Italian (Bologna: Zanichelli, 1997), Chinese (China Science Publishing, 2007) and Korean (Seoul: Shin Won, 2001)
+Bardeen, et al., Black Holes, Gordon & Breach (1973)
+M. Rees, J.A. Wheeler and R. Ruffini, Black Holes, Gravitational Waves and Cosmology, Gordon & Breach (1974)
+H. Sato and R. Ruffini, Black Holes, Tokyo (1976)
+L.Z. Fang and R. Ruffini, Basic Concepts in Relativistic Astrophysics, Beijing: Science Press (1981)
+F. Melchiorri and R. Ruffini, Gamow Cosmology, North Holland Pub. Co., (1986)
+Awards[edit]
+A. Cressy Morrison Award, from the New York Academy of Sciences (1972)
+Alfred P. Sloan Fellow Foundation (1974)
+Space Scientist of the Year (1992)
+Gravity Research Foundation Award 1970, 1971, 2019 [17]
+See also[edit]
+Ergosphere
+Schrödinger–Newton equation
+References[edit]
+^ Alex Gaina,MARCEL GROSSMANN MEETING-AN IMPORTANT EVENT IN GRAVITATION AND ASTROPHYSICS [1]
+^ R. Ruffini & S. Bonazzola (1969). "Systems of Self-Gravitating Particles in General Relativity and the Concept of an Equation of State". Physical Review. 187 (5): 1767–1783. Bibcode:1969PhRv..187.1767R. doi:10.1103/PhysRev.187.1767. hdl:2060/19690028071.
+^ R. Ruffini & J.A. Wheeler (1971). "Introducing the Black Hole". Physics Today. 24 (1): 30–41. Bibcode:1971PhT....24a..30R. doi:10.1063/1.3022513.
+^ Naming of black hole.
+^ D. Christodoulou; R. Ruffini (1971). "Reversible Transformations of a Charged Black Hole". Physical Review D. 4 (12): 3552–3555. Bibcode:1971PhRvD...4.3552C. doi:10.1103/PhysRevD.4.3552.
+^ C. Rhoades & R. Ruffini (1974). "Maximum Mass of a Neutron Star". Physical Review Letters. 32 (6): 324. Bibcode:1974PhRvL..32..324R. doi:10.1103/PhysRevLett.32.324.
+^ R. Leach & R. Ruffini (1973). "On the Masses of X-Ray Sources". Astrophysical Journal Letters. 180: L15. Bibcode:1973ApJ...180L..15L. doi:10.1086/181143.
+^ R. Giacconi (2005). "An Education in Astronomy". Annual Review of Astronomy & Astrophysics. 43 (1): 1–30. Bibcode:2005ARA&A..43....1G. doi:10.1146/annurev.astro.43.090303.091253.
+^ R. Giacconi (2003). "Nobel Lecture: The dawn of x-ray astronomy". Reviews of Modern Physics. 75 (3): 995–1010. Bibcode:2003RvMP...75..995G. doi:10.1103/RevModPhys.75.995.
+^ Ruffini, Remo (1973). "Neutron Stars and Black Holes in Our Galaxy*". Transactions of the New York Academy of Sciences. 35 (3 Series II): 196–226. doi:10.1111/j.2164-0947.1973.tb01960.x. ISSN 2164-0947.
+^ D. Calzetti; M. Giavalisco; R. Ruffini (1988). "The normalization of the correlation functions for extragalactic structures". Astronomy and Astrophysics. 198 (1–2): 1. Bibcode:1988A&A...198....1C.
+^ R. Ruffini; D.J. Song; S. Taraglio (1988). "The 'ino' mass and the cellular large-scale structure of the universe". Astronomy and Astrophysics. 190 (1–2): 1. Bibcode:1988A&A...190....1R.
+^ T. Damour & R. Ruffini (1975). "Quantum Electrodynamical Effects in Kerr-Newmann Geometries". Physical Review Letters. 35 (7): 463. Bibcode:1975PhRvL..35..463D. doi:10.1103/PhysRevLett.35.463.
+^ R. Ruffini; et al. (2008). "Gamma Ray Bursts". Proceedings XI Marcel Grossmann Meeting. World Scientific.
+^ Artist's rendition of a black hole (1971)
+^ Battersby, Stephen. Big Bang glow hints at funnel-shaped Universe New Scientist, 2004 04 15
+^ "Gravity Research Foundation". Gravity Research Foundation. Retrieved 2020-09-03.
+External links[edit]
+(in English) web page Remo Ruffini
+(Publications)
+ICRANet
+(IRAP).
+List of publications
+hide
+Authority control databases 
 
-7 pages, 924 KiB   
-Open AccessCommunication
-Binary Neutron-Star Mergers with a Crossover Transition to Quark Matter
-by Grant J. Mathews,Atul Kedia,Hee Il Kim andIn-Saeng Suh
-Universe 2023, 9(9), 410; https://doi.org/10.3390/universe9090410 - 07 Sep 2023
-Viewed by 745
-Abstract This paper summarizes recent work on the possible gravitational-wave signal from binary neutron-star mergers in which there is a crossover transition to quark matter. Although this is a small piece of a much more complicated problem, we discuss how the power spectral density [...] Read more.
-(This article belongs to the Special Issue Remo Ruffini Festschrift)
+International	
+FASTISNIVIAF
 
-► Show Figures
-9 pages, 1169 KiB   
-Open AccessArticle
-Galaxy Rotation Curve Fitting Using Machine Learning Tools
-by Carlos R. Argüelles andSantiago Collazo
-Universe 2023, 9(8), 372; https://doi.org/10.3390/universe9080372 - 16 Aug 2023
-Viewed by 858
-Abstract Galaxy rotation curve (RC) fitting is an important technique which allows the placement of constraints on different kinds of dark matter (DM) halo models. In the case of non-phenomenological DM profiles with no analytic expressions, the art of finding RC best-fits including the [...] Read more.
-(This article belongs to the Special Issue Remo Ruffini Festschrift)
+National	
+NorwayFranceBnF dataGermanyItalyIsraelBelgiumUnited StatesJapanCzech RepublicAustraliaKoreaNetherlands
 
-► Show Figures
-attachment
-12 pages, 960 KiB   
-Open AccessArticle
-Estimates of the Surface Magnetic Field Strength of Radio Pulsars
-by Vitaliy Kim,Adel Umirbayeva andYerlan Aimuratov
-Universe 2023, 9(7), 334; https://doi.org/10.3390/universe9070334 - 14 Jul 2023
-Viewed by 714
-Abstract We investigate the geometry of the magnetic field of rotation-powered pulsars. A new method for calculating an angle (β) between the spin and magnetic dipole axes of a neutron star (NS) in the ejector stage is considered within the frame of [...] Read more.
-(This article belongs to the Special Issue Remo Ruffini Festschrift)
+Academics	
+CiNiiMathSciNetMathematics Genealogy ProjectzbMATH
 
-► Show Figures
-12 pages, 855 KiB   
-Open AccessArticle
-Neutron Star Binaries Produced by Binary-Driven Hypernovae, Their Mergers, and the Link between Long and Short GRBs
-by Laura M. Becerra,Chris Fryer,Jose F. Rodriguez,Jorge A. Rueda andRemo. Ruffini
-Universe 2023, 9(7), 332; https://doi.org/10.3390/universe9070332 - 12 Jul 2023
-Viewed by 596
-Abstract The binary-driven hypernova (BdHN) model explains long gamma-ray bursts (GRBs) associated with supernovae (SNe) Ic through physical episodes that occur in a binary composed of a carbon-oxygen (CO) star and a neutron star (NS) companion in close orbit. The CO core collapse triggers [...] Read more.
-(This article belongs to the Special Issue Remo Ruffini Festschrift)
+People	
+Deutsche BiographieTrove
 
-► Show Figures
-16 pages, 3747 KiB   
-Open AccessArticle
-A Wheeler–DeWitt Quantum Approach to the Branch-Cut Gravitation with Ordering Parameters
-by Benno August Ludwig Bodmann,César Augusto Zen Vasconcellos,Peter Otto Hess Bechstedt,José Antonio de Freitas Pacheco,Dimiter Hadjimichef,Moisés Razeira andGervásio Annes Degrazia
-Universe 2023, 9(6), 278; https://doi.org/10.3390/universe9060278 - 08 Jun 2023
-Cited by 5 | Viewed by 769
-Abstract In this contribution to the Festschrift for Prof. Remo Ruffini, we investigate a formulation of quantum gravity using the Hořava–Lifshitz theory of gravity, which is General Relativity augmented by counter-terms to render the theory regularized. We are then led to the Wheeler–DeWitt (WDW) [...] Read more.
-(This article belongs to the Special Issue Remo Ruffini Festschrift)
-
-► Show Figures
-10 pages, 903 KiB   
-Open AccessArticle
-Magnetized Black Holes: Interplay between Charge and Rotation
-by Vladimír Karas andZdeněk Stuchlík
-Universe 2023, 9(6), 267; https://doi.org/10.3390/universe9060267 - 03 Jun 2023
-Cited by 3 | Viewed by 610
-Abstract Already in the cornerstone works on astrophysical black holes published as early as in the 1970s, Ruffini and collaborators have revealed the potential importance of an intricate interaction between the effects of strong gravitational and electromagnetic fields. Close to the event horizon of [...] Read more.
-(This article belongs to the Special Issue Remo Ruffini Festschrift)
-
-► Show Figures
-Review
-
-Jump to: Research, Other
-
-10 pages, 253 KiB   
-Open AccessReview
-Solving the Mystery of Fast Radio Bursts: A Detective’s Approach
-by Bing Zhang
-Universe 2023, 9(8), 375; https://doi.org/10.3390/universe9080375 - 18 Aug 2023
-Cited by 1 | Viewed by 720
-Abstract Fast radio bursts (FRBs) are still a mystery in contemporary astrophysics. Unlike many other astronomical objects whose basic physical mechanism is already identified and the research on which focuses mainly on refining details, FRBs are still largely unknown regarding their source(s) and radiation [...] Read more.
-(This article belongs to the Special Issue Remo Ruffini Festschrift)
-
-48 pages, 7424 KiB   
-Open AccessReview
-A Short Survey of Matter-Antimatter Evolution in the Primordial Universe
-by Johann Rafelski,Jeremiah Birrell,Andrew Steinmetz andCheng Tao Yang
-Universe 2023, 9(7), 309; https://doi.org/10.3390/universe9070309 - 27 Jun 2023
-Cited by 4 | Viewed by 840
-Abstract We offer a survey of the matter-antimatter evolution within the primordial Universe. While the origin of the tiny matter-antimatter asymmetry has remained one of the big questions in modern cosmology, antimatter itself has played a large role for much of the Universe’s early [...] Read more.
-(This article belongs to the Special Issue Remo Ruffini Festschrift)
-
-► Show Figures
-Other
-
-Jump to: Research, Review
-
-12 pages, 827 KiB   
-Open AccessEssay
-Finding My Drumbeat: Applying Lessons Learned from Remo Ruffini to Understanding Astrophysical Transients
-by Chris Fryer
-Universe 2023, 9(6), 268; https://doi.org/10.3390/universe9060268 - 04 Jun 2023
-Viewed by 633
-Abstract As with many fields from fashion to politics, science is susceptible to “bandwagon”-driven research where an idea becomes increasingly popular, garnering a growing amount of “scientific” support. Bandwagons allow scientists to converge on a solution, but when the prevailing bandwagon is incorrect or [...] Read more.
-(This article belongs to the Special Issue Remo Ruffini Festschrift)
-
-► Show Figures
-Show export options expand_more
-Displaying articles 1-10
-Universe, EISSN 2218-1997, Published by MDPI RSS Content Alert
-Further Information
-Article Processing Charges
-Pay an Invoice
-Open Access Policy
-Contact MDPI
-Jobs at MDPI
-Guidelines
-For Authors
-For Reviewers
-For Editors
-For Librarians
-For Publishers
-For Societies
-For Conference Organizers
-MDPI Initiatives
-Sciforum
-MDPI Books
-Preprints.org
-Scilit
-SciProfiles
-Encyclopedia
-JAMS
-Proceedings Series
-Follow MDPI
-LinkedIn
-Facebook
-Twitter
-
-Subscribe to receive issue release notifications and newsletters from MDPI journals
-
-Select options
- Subscribe
-© 1996-2024 MDPI (Basel, Switzerland) unless otherwise stated
-Disclaimer Terms and Conditions Privacy Policy
+Other	
+SNACIdRef
+Categories: 1942 birthsLiving peoplePeople from Alpes-MaritimesItalian relativity theoristsSapienza University of Rome alumniAcademic staff of the Sapienza University of RomeInstitute for Advanced Study visiting scholarsFellows of the American Physical SocietySloan Research Fellows
+This page was last edited on 21 January 2024, at 12:42 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License 4.0; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view

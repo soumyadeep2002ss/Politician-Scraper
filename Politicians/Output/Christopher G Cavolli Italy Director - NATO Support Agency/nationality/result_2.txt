@@ -1,0 +1,5 @@
+www.act.nato.int
+Checking if the site connection is secure
+www.act.nato.int needs to review the security of your connection before proceeding.
+Ray ID: 84da961ccb6552a4
+Performance & security by Cloudflare

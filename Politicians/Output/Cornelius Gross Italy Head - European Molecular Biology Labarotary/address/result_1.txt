@@ -60,8 +60,7 @@ Advanced optical techniques for deep tissue microscopy
 
 Services and facilities
 Flow Cytometry Facility
-Genetic & Viral Engineering Facility
-Gene Editing & Embryology Facility
+Gene Editing and Virus Facility
 Microscopy Facility
 Histology Facility
 Bioinformatics Service

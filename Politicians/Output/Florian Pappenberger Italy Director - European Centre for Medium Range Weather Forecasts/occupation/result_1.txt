@@ -1,140 +1,102 @@
-Content
-Main Menu
-Search
-MetaNavigation
-Press
-Con­tact
-De
-
-  
-
-zur Suche
-Special Users
-▾
-
-NO SE­VERE WEATH­ER WARN­ING
-
-Deutscher Wetterdienst Wetter und Klima aus einer Hand
-Navigationsmenue
-WEATH­ER
-CLI­MATE &
-EN­VI­RON­MENT
-RE­SEARCH
-OUR SERVICES
-ABOUT US
-Breadcrumb-
-Menü
-Homepage
-About us
-Co-operation
-International activities
-ECMWF
-
-European Centre for Medium-Range Weather Forecasts
-
-ECMWF headquarters
-
-The European Centre for Medium-Range Weather Forecasts (ECMWF) is an independent intergovernmental organisation supported by 23 European Member States and 11 Co-operating States with its headquarters in Reading, United Kingdom.
-
-Established in 1975, the ECMWF is renowned worldwide for providing the most accurate medium-range global weather forecasts (up to 10 days ahead), monthly forecasts and seasonal outlooks (up to six months ahead). Its products are provided to the European national meteorological services and complement national short-range as well as climate-related activities.
+menu
+help_outline
+search
+account_circle
+Main navigation
+Home
+About
+Forecasts
+Computing
+Research
+Learning
+Publications
+Main navigation
+Who we are
+ 
+What we do
+ 
+Jobs
+ 
+Media centre
+ 
+Suppliers
+ 
+Location
+Florian Pappenberger
+Director of Forecasts
+Forecast Department
 
 
-A high-performance computer (HPC) system is linked by high-speed telecommunication lines to the computer systems of the national meteorological services of the organisation's Member and Co-operating States. On its HPC, the ECMWF holds the world's largest archive of numerical weather prediction data as the basis for the world's most sophisticated medium-range global atmosphere and ocean forecasting model. The ECMWF provides most advanced data assimilation systems and global models for the dynamics, thermodynamics and composition of the Earth's fluid envelope and the interacting parts of the earth system, all run on one of the world’s most powerful computer systems. A selection of particularly useful products of the ECMWF forecasting system is made available to all meteorological services worldwide via the WMO's Global Telecommunications System.
+Profile
+Publications
+Summary:
 
-The ECMWF offers an extensive education and training programme to assist its Member and Co-operating States with the training of scientists in numerical weather forecasting and on how to use the ECMWF's computer facilities.
+Florian Pappenberger is Deputy Director-General and leads the Forecast Department at the European Centre For Medium-Range Weather Forecasts. The Forecast Department at ECMWF has a strong customer focus. He is responsible for the 24/7 production of weather forecasts, forecast quality control (verification and diagnostics), development of novel forecast products, applications of weather forecasts such as flood, drought, fire and health forecasts, numerical weather prediction relevant software development, data sales and outreach and training. He has led the migration of the operational forecasts to a new HPC centre, the establishment of the European Weather Cloud and is responsible for the Machine Learning activities at ECMWF. 
 
-Additional premises of ECMWF
-In June 2017 it was decided to build a new ECWMF data centre in Bologna. It will open in 2021 and become fully operational in 2022.
+ 
 
-On 9th December 2020 the ECMWF Council has decided that Bonn, Germany will be the new location for the European authority with about 150 employees from 2021. From the new location, the tasks related to the EU earth observation pro-gramme “Copernicus” and, in the future, the DEU (Destination Earth) digital strategy are to be implemented. These are vital programmes for the observation of and adaptation to climate change that Germany comprehensively supports both with expertise and funds also at the national level.
+Florian has a background in the forecasting of weather driven natural hazards including floods, droughts, windstorms, forest fires and impacts on human health. He has over 10 years of expertise in operational probabilistic forecasting, extreme value statistics and numerical model system development at ECMWF.  Florian is the author of over 250 scientific publications and has won several scientific awards. He is a fellow of the Royal Geographical Society and the Royal Meteorological Society and a member of several other professional bodies including HEPEX, British Hydrological Society, EGU, AGU, EMS, AMS. He served on the editorial board of several international journals and regularly advises on international committees including WMO, WHO and World Bank.
 
-For more information see www.ecmwf.int.
+Professional interests:
+Early warning systems and Disaster Risk Reduction 
+Numerical Weather Predictions
+Cloud Computing
+Artificial Intelligence and Big Data
+Uncertainty/Sensitivity analysis and cascading of uncertainty/sensitivity 
+Statistical post- and pre-processing 
+Increasing the usage and usefulness of ensemble forecasts
+Career background:
+Education
 
-Sub-Navigations-
-Menü
-Sphere of Tasks
-Jobs & ca­reers
-Or­gan­i­sa­tion
-Lo­ca­tions
-Co-op­er­a­tion
-:
-In­ter­na­tion­al ac­tiv­i­ties
-:
-Na­tion­al ac­tiv­i­ties
-In­for­ma­tion tech­nol­o­gy
-Ob­serv­ing sys­tem
-Na­tion­al Me­te­o­ro­log­i­cal Li­brary
-Share this page
-Service-Navigations- Menü
-National Meteorological Library
-Social media
-Weather glossary
-WetterShop
-Jobs & careers
-INHATSVERZEICHNIS
-DWD-SERVICES
-News archive
-Events
-Newsletters
-DWD apps
-DWD quick links
-WEATH­ER
-Warnings
-Weather & Climate on-site
-Weather worldwide
-CLI­MATE &
-EN­VI­RON­MENT
-Deutscher Klimadienst (DKD)
-Climate prediction
-CDC (Climate Data Center)
-Climate monitoring
-Climate research
-Climate and environment consultancy
-Climate change
-Capacity building
-RE­SEARCH
-Observing the atmosphere
-Weather forecasting
-Climate and environment
-Hans Ertel Centre for Weather Research
-Research Programmes
-International Programmes
-Projects
-ABOUT US
-Sphere of Tasks
-Jobs & careers
-Organisation
-Locations
-Co-operation
-Information technology
-Observing system
-National Meteorological Library
-You Tube
+PhD, Lancaster University, UK (awarded 2004). Thesis: “Uncertainty in flood inundation modelling”. Supervisor: Prof Keith Beven
 
-Weather warning clips and much more
+MSc, Lancaster University, UK (awarded 2000 with distinction). Dissertation: “Uncertainty in flood inundation modeling on the River Morava (Czech Republic)”. Supervisor: Prof Keith Beven
 
-Facebook
+Professional Experience
+Check: https://uk.linkedin.com/in/florian-pappenberger
+External recognitions
+Awards and Fellowships
+2015 Runner up, Harry Otten Prize for Innovation in Meteorology for "A global approach to predicting flash floods" (details, abstract)
+2012 IES Excellence Award 2011 for "Support to EU Policy", awarded to the EFAS team
+2011 Arne Richter Award for Outstanding Young Scientists (EGU)
+Other
+Member of the WMO Systematic Observation Financing Facility advisory board, 2022 - today
+Technical Review Committee of the African Risk Capacity (ARC), a Specialized Agency of the African Union, 2022 - 2024
+EU Climate Pact Ambassadors, 2022 - today
+Member of the High Impact Weather project of World Weather Research Programme of WMO, 2021 - today
+Support of Task Team Priority Weather Research Observations and Data Assimilation, US, 8th/9th  July 2021
+Member of the Climate Change and Biodiversity of the Global Partnership on AI (GPAI) Committee, 2021 - today
+Member of the SEE-MHEWS-A Project Steering Committee (WMO), 2019 - today
+Member of the Atmospheric River Reconnaissance Steering Committee & Modelling Partner (2019 – today)
+Member of the Expertengremium Nationale Forschungsdateninfrastruktur, Deutsche Forschungsgemeinschaft (2019-2028)
+NCAR RAL Advisory Board (2017-2020)
+Mitglieder des Expertengremiums National Research Data Infrastructure (2019 - )
+Links:
+ORCID
+LinkedIn
+Google Scholar
+Scopus
+https://orcid.org/0000-0003-1766-2898
+About
+Governance
+Member States
+History
+Official documents
+Representatives
+Our staff
+expand_less
+expand_more
+About
+Forecasts
+Computing
+Research
+Learning
+Publications
 
-Weather and climate - informing and entertaining
+© ECMWF
 
-Flickr
-
-Weather phenomena on camera
-
-Twitter
-
-Weather and climate worldwide in 280 characters
-
-Instagram
-
-Post your ‘I love’ weather snapshots on #ichliebewetter
-
-The Deutscher Wetterdienst is a higher federal authority under the Federal Ministry for Digital and Transport.
-
-Deutscher Wetterdienst, Frankfurter Straße 135, 63067 Offenbach, Germany
-Imprint
-Data Protection
-Disclaimer
-Terms & Conditions
-QM
-Copyright
+Footer link
+Accessibility 
+Privacy 
+Terms of use 
+Contact

@@ -11,7 +11,7 @@ var k = 3;
 const field_names = ["address", "dob", "deceased date", "sex", "languages", "citizenship", "nationality", "occupation"];
 
 async function run() {
-  const browser = await puppeteer.launch({ headless: true });
+  const browser = await puppeteer.launch({ headless: false });
   const page = await browser.newPage();
 
   try {
