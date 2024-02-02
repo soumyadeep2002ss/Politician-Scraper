@@ -1,0 +1,72 @@
+Home
+Change Detection
+20 Years of SAR
+25 Years of Landsat
+Natural Disasters
+Cookie Notice
+You are here
+Home › Change Detection › Historical Views › Image of the Week
+ Rome, Italy
+
+Rome is a city and special comune (named "Roma Capitale") in Italy. Rome is the capital of Italy and also of the Province of Rome and of the region of Lazio. With 2.9 million residents in 1,285.3 km2, it is also the country's largest and most populated comune and fourth-most populous city in the European Union by population within city limits. The urban area of Rome extends beyond the administrative city limits with a population of around 3.8 million. Between 3.2 and 4.2 million people live in Rome's metropolitan area. The city is located in the central-western portion of the Italian Peninsula, within Lazio (Latium), along the shores of the Tiber river. Vatican City is an independent country within the city boundaries of Rome, the only existing example of a country within a city: for this reason Rome has been often defined as capital of two states.
+
+Rome's history spans more than two and a half thousand years, since its legendary founding in 753 BC. Rome is one of the oldest continuously occupied cities in Europe. It is referred to as "The Eternal City" (Latin: Roma Aeterna), a central notion in ancient Roman culture. In the ancient world it was successively the capital city of the Roman Kingdom, the Roman Republic and the Roman Empire, and is regarded as one of the birthplaces of Western civilisation. Since the 1st Century AD, Rome has been considered the seat of the Papacy and in the 8th Century it became the capital of the Papal States, which lasted until 1870. In 1871 Rome became the capital of the Kingdom of Italy, and in 1946 that of the Italian Republic.
+
+After the Middle Ages, almost all the popes since Nicholas V (1422–55) pursued coherently along four hundred years an architectonic and urban program aimed to make of the city the world's artistic and cultural centre. Due to that, Rome became first one of the major centres of the Italian Renaissance along with Florence, and then the birthplace of Baroque style. Famous artists and architects, such as - to name just a few - Bramante, Michelangelo, Raphael and Bernini, made of the city the centre of their activity, creating masterpieces like St Peter's Basilica, the Sistine Chapel, Raphael Rooms and St. Peter's Square.
+
+Rome has the status of a global city. In 2011, Rome was the 18th-most-visited city in the world, 3rd most visited in the European Union, and the most popular tourist attraction in Italy. Its historic centre is listed by UNESCO as a World Heritage Site. Monuments and museums such as the Vatican Museums and the Coliseum are among the world's most visited tourist destinations with both locations receiving millions of tourists a year. Rome hosted the 1960 Summer Olympics and is the seat of United Nations' Food and Agriculture Organization (FAO).
+
+More information is available on Wikipedia
+
+Rome
+Overlay image (Before and After)
+
+Today we feature the city of Rome,located in the Lazio region of central Italy on the Tiber River (Italian: Tevere). Although the city centre is about 24 kilometres inland from the Tyrrhenian Sea, the city territory extends to the shore, where the south-western district of Ostia is located. The Comune of Rome covers an overall area of about 1,285 square kilometres, including many green areas. Vatican City, most of which is located in an enclave within Rome, is the seat of the papacy of the Roman Catholic Church and has been recognised as an independent state by the Italian government since 1929. The majestic dome of St Peter's Basilica in Vatican City dominates the Roman skyline.
+
+These images acquired by the Landsat 5 and 8 satellites have a temporal window of acquisition (before / after) of 24 years and aim to show the urban changes in the city and surrounding area during that period. The images demonstrate urban expansion in the north-east area since 1987.
+
+Another aim of these images is to promote the opportunity to download Landsat data through the ESA portals, where images captured every day are made available in near real time to the users and the scientific community.
+
+Landsat full resolution data products are freely available for immediate download at:
+LANDSAT-8 portal
+LANDSAT 1-7 portal
+
+View large format slider
+
+
+
+
+View Landsat 5 TM high resolution image (JPG 2 MB)
+
+View Landsat 8 OLI high resolution image (JPG 2 MB)
+
+Technical Information of original image
+Product:	Geo Tiff format
+Satellite/Sensor:	Landsat 5 TM and Landsat 8 OLI
+Resolution:	30 metres
+Coverage:	180 x 180 KM
+Acq. Date:	14 May 1987 and 12 June 2014
+Band Combination used to create this image:	3, 2, 1 (R-G-B) Visible colour and 4, 3, 1 (R-G-B) Visible colour
+Map of area
+
+Back to top
+
+
+
+	
+Change Detection
+Change Detection Home
+Environmental Hazards
+Historical Views
+Image of the Week
+Envisat Galleries
+ERS-2
+
+
+	
+
+
+
+ 
+
+© ESA 2000 - 2024

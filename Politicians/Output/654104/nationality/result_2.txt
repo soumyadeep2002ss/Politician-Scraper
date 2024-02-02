@@ -1,6 +1,3 @@
-European Molecular Biology Laboratory Home
-Directory
-Search
 EMBL HeidelbergEMBL Heidelberg
 Related:Peer BorkAbout EMBL
 EMBL Heidelberg
@@ -8,6 +5,14 @@ EMBL Heidelberg
 EMBL's headquarters and main laboratory site supports research, services, advanced training, and technology development
 
 News from Heidelberg
+01 Feb 2024
+We are EMBL: Renato Alves on Bio-IT and stargazing
+25 Jan 2024
+Ancient ‘relaxant-inflammatory’ response gets sponges moving
+14 Dec 2023
+Using artificial intelligence to discover therapeutic antibodies
+24 Nov 2023
+Federal Research Minister Bettina Stark-Watzinger visits EMBL exhibition ‘The World of Molecular Biology
 On this page
 About EMBL Heidelberg
 Research units
@@ -92,43 +97,6 @@ How cells interpret the DNA code to carry out biological functions
 
 Show more
 Seminars
-
-08 Feb 2024
-
-Optimal regimes of regulatory sequence evolution
-
-Speaker(s): Reka Borbely , Institute of Science and Technology, Austria | Michal Hledík, Austria, Institute of Science and Technology
-Host: Mindy Liu Perkins
-
-
-Seminar
-
-EMBL Heidelberg, Virtual
-
-19 Feb 2024
-
-Eco-systems Medicine as a New Frontier in Human Health?
-
-Speaker(s): Gianni Panagiotou, Department of Microbiome Dynamics, Leibniz-HKI, Germany
-Host: Nassos Typas
-
-
-Seminar
-
-EMBL Heidelberg, Virtual
-
-20 Feb 2024
-
-"U1 snRNP's Silencing Function, its Dysregulation and Applications "
-
-Speaker(s): Samuel Gunderson, Rutgers University, Nelson lab, USA, USA
-Host: Prof. Matthias W.Hentze, EMBL Heidelberg
-
-
-Seminar
-
-EMBL Heidelberg
-
 Job opportunities from EMBL Heidelberg
 Contact and travel
 Accommodation
@@ -155,23 +123,3 @@ EMBL Heidelberg
 Meyerhofstraße 1
 69117 Heidelberg
 Germany
-
-EMBL is Europe’s life sciences laboratory – an intergovernmental organisation with more than 80 independent research groups covering the spectrum of molecular biology.
-
-View the EMBL.org directory
-
-MISSIONS
-Research
-Scientific services
-Training
-Innovation and Translation
-Integration of Life Sciences
-ABOUT
-Contact us
-Events
-Jobs
-News
-People directory
-Social media
-
-Privacy policy Open science Research Assessment © EMBL 2024 Intranet for staff

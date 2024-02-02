@@ -1,4 +1,3 @@
-Processing math: 100%
 search menu
  
  
@@ -16,7 +15,7 @@ Published Papers
 
 A special issue of Universe (ISSN 2218-1997).
 
-Deadline for manuscript submissions: closed (30 April 2023) | Viewed by 8265
+Deadline for manuscript submissions: closed (30 April 2023) | Viewed by 8287
 
 
 Share This Special Issue
@@ -101,8 +100,11 @@ Open AccessArticle
 Spherically Symmetric C3 Matching in General Relativity
 by Hernando Quevedo
 Universe 2023, 9(9), 419; https://doi.org/10.3390/universe9090419 - 14 Sep 2023
-Viewed by 697
-Abstract We study the problem of matching interior and exterior solutions to Einstein’s equations along a particular hypersurface. We present the main aspects of the C3 matching approach that involve third-order derivatives of the corresponding metric tensors in contrast to the standard [...] Read more.
+Viewed by 698
+Abstract We study the problem of matching interior and exterior solutions to Einstein’s equations along a particular hypersurface. We present the main aspects of the 
+𝐶
+3
+ matching approach that involve third-order derivatives of the corresponding metric tensors in contrast to the standard [...] Read more.
 (This article belongs to the Special Issue Remo Ruffini Festschrift)
 
 7 pages, 924 KiB   
@@ -110,7 +112,7 @@ Open AccessCommunication
 Binary Neutron-Star Mergers with a Crossover Transition to Quark Matter
 by Grant J. Mathews,Atul Kedia,Hee Il Kim andIn-Saeng Suh
 Universe 2023, 9(9), 410; https://doi.org/10.3390/universe9090410 - 07 Sep 2023
-Viewed by 758
+Viewed by 760
 Abstract This paper summarizes recent work on the possible gravitational-wave signal from binary neutron-star mergers in which there is a crossover transition to quark matter. Although this is a small piece of a much more complicated problem, we discuss how the power spectral density [...] Read more.
 (This article belongs to the Special Issue Remo Ruffini Festschrift)
 
@@ -120,7 +122,7 @@ Open AccessArticle
 Galaxy Rotation Curve Fitting Using Machine Learning Tools
 by Carlos R. Argüelles andSantiago Collazo
 Universe 2023, 9(8), 372; https://doi.org/10.3390/universe9080372 - 16 Aug 2023
-Viewed by 874
+Viewed by 877
 Abstract Galaxy rotation curve (RC) fitting is an important technique which allows the placement of constraints on different kinds of dark matter (DM) halo models. In the case of non-phenomenological DM profiles with no analytic expressions, the art of finding RC best-fits including the [...] Read more.
 (This article belongs to the Special Issue Remo Ruffini Festschrift)
 
@@ -131,8 +133,10 @@ Open AccessArticle
 Estimates of the Surface Magnetic Field Strength of Radio Pulsars
 by Vitaliy Kim,Adel Umirbayeva andYerlan Aimuratov
 Universe 2023, 9(7), 334; https://doi.org/10.3390/universe9070334 - 14 Jul 2023
-Viewed by 728
-Abstract We investigate the geometry of the magnetic field of rotation-powered pulsars. A new method for calculating an angle (β) between the spin and magnetic dipole axes of a neutron star (NS) in the ejector stage is considered within the frame of [...] Read more.
+Viewed by 730
+Abstract We investigate the geometry of the magnetic field of rotation-powered pulsars. A new method for calculating an angle (
+𝛽
+) between the spin and magnetic dipole axes of a neutron star (NS) in the ejector stage is considered within the frame of [...] Read more.
 (This article belongs to the Special Issue Remo Ruffini Festschrift)
 
 ► Show Figures
@@ -141,7 +145,7 @@ Open AccessArticle
 Neutron Star Binaries Produced by Binary-Driven Hypernovae, Their Mergers, and the Link between Long and Short GRBs
 by Laura M. Becerra,Chris Fryer,Jose F. Rodriguez,Jorge A. Rueda andRemo. Ruffini
 Universe 2023, 9(7), 332; https://doi.org/10.3390/universe9070332 - 12 Jul 2023
-Viewed by 605
+Viewed by 606
 Abstract The binary-driven hypernova (BdHN) model explains long gamma-ray bursts (GRBs) associated with supernovae (SNe) Ic through physical episodes that occur in a binary composed of a carbon-oxygen (CO) star and a neutron star (NS) companion in close orbit. The CO core collapse triggers [...] Read more.
 (This article belongs to the Special Issue Remo Ruffini Festschrift)
 
@@ -151,7 +155,7 @@ Open AccessArticle
 A Wheeler–DeWitt Quantum Approach to the Branch-Cut Gravitation with Ordering Parameters
 by Benno August Ludwig Bodmann,César Augusto Zen Vasconcellos,Peter Otto Hess Bechstedt,José Antonio de Freitas Pacheco,Dimiter Hadjimichef,Moisés Razeira andGervásio Annes Degrazia
 Universe 2023, 9(6), 278; https://doi.org/10.3390/universe9060278 - 08 Jun 2023
-Cited by 5 | Viewed by 771
+Cited by 5 | Viewed by 774
 Abstract In this contribution to the Festschrift for Prof. Remo Ruffini, we investigate a formulation of quantum gravity using the Hořava–Lifshitz theory of gravity, which is General Relativity augmented by counter-terms to render the theory regularized. We are then led to the Wheeler–DeWitt (WDW) [...] Read more.
 (This article belongs to the Special Issue Remo Ruffini Festschrift)
 
@@ -161,7 +165,7 @@ Open AccessArticle
 Magnetized Black Holes: Interplay between Charge and Rotation
 by Vladimír Karas andZdeněk Stuchlík
 Universe 2023, 9(6), 267; https://doi.org/10.3390/universe9060267 - 03 Jun 2023
-Cited by 3 | Viewed by 617
+Cited by 3 | Viewed by 620
 Abstract Already in the cornerstone works on astrophysical black holes published as early as in the 1970s, Ruffini and collaborators have revealed the potential importance of an intricate interaction between the effects of strong gravitational and electromagnetic fields. Close to the event horizon of [...] Read more.
 (This article belongs to the Special Issue Remo Ruffini Festschrift)
 
@@ -175,7 +179,7 @@ Open AccessReview
 Solving the Mystery of Fast Radio Bursts: A Detective’s Approach
 by Bing Zhang
 Universe 2023, 9(8), 375; https://doi.org/10.3390/universe9080375 - 18 Aug 2023
-Cited by 1 | Viewed by 732
+Cited by 1 | Viewed by 735
 Abstract Fast radio bursts (FRBs) are still a mystery in contemporary astrophysics. Unlike many other astronomical objects whose basic physical mechanism is already identified and the research on which focuses mainly on refining details, FRBs are still largely unknown regarding their source(s) and radiation [...] Read more.
 (This article belongs to the Special Issue Remo Ruffini Festschrift)
 
@@ -184,7 +188,7 @@ Open AccessReview
 A Short Survey of Matter-Antimatter Evolution in the Primordial Universe
 by Johann Rafelski,Jeremiah Birrell,Andrew Steinmetz andCheng Tao Yang
 Universe 2023, 9(7), 309; https://doi.org/10.3390/universe9070309 - 27 Jun 2023
-Cited by 4 | Viewed by 850
+Cited by 4 | Viewed by 854
 Abstract We offer a survey of the matter-antimatter evolution within the primordial Universe. While the origin of the tiny matter-antimatter asymmetry has remained one of the big questions in modern cosmology, antimatter itself has played a large role for much of the Universe’s early [...] Read more.
 (This article belongs to the Special Issue Remo Ruffini Festschrift)
 
@@ -198,7 +202,7 @@ Open AccessEssay
 Finding My Drumbeat: Applying Lessons Learned from Remo Ruffini to Understanding Astrophysical Transients
 by Chris Fryer
 Universe 2023, 9(6), 268; https://doi.org/10.3390/universe9060268 - 04 Jun 2023
-Viewed by 639
+Viewed by 641
 Abstract As with many fields from fashion to politics, science is susceptible to “bandwagon”-driven research where an idea becomes increasingly popular, garnering a growing amount of “scientific” support. Bandwagons allow scientists to converge on a solution, but when the prevailing bandwagon is incorrect or [...] Read more.
 (This article belongs to the Special Issue Remo Ruffini Festschrift)
 

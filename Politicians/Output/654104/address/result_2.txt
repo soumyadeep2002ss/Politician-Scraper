@@ -118,3 +118,11 @@ EMBL Heidelberg
 Meyerhofstraße 1
 69117 Heidelberg
 Germany
+
+About EMBL
+
+With 29 member states, laboratories at six sites across Europe and thousands of scientists and engineers working together, the European Molecular Biology Laboratory (EMBL) is a powerhouse of biological expertise. EMBL is an intergovernmental organisation, headquartered in Heidelberg, and was founded in 1974 with the mission of promoting molecular biology research in Europe, training young scientists, and developing new technologies.
+
+EMBL currently employs more than 1800 people in Barcelona, ​​Grenoble, Hamburg, Heidelberg, EMBL-EBI Hinxton (near Cambridge), and Rome.
+
+Publishing hundreds of research articles and hosting dozens of conferences every year, EMBL is driving visionary fundamental research, and training Europe’s future scientific talent.

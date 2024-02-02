@@ -17,8 +17,17 @@ async function getDataFromLinks() {
     fs.writeFileSync(fileName, textContent);
   };
 
+  // Get total number of queries
+  const totalQueries = Object.keys(linksData).length;
+  let completedQueries = 0;
+
   // Iterate through each query and its associated links
   for (const [query, fields] of Object.entries(linksData)) {
+    const totalLinks = Object.values(fields).flat().filter(link => link).length;
+    let completedLinks = 0;
+    // Log remaining queries and current query
+    const remainingQueries = totalQueries - completedQueries;
+    console.log(`Remaining Queries: ${remainingQueries}, Current Query: ${query}`);
     for (const [field, links] of Object.entries(fields)) {
       const outputDirectory = `Output/${query}/${field}`;
 
@@ -34,20 +43,29 @@ async function getDataFromLinks() {
           const fileName = `${outputDirectory}/result_${i + 1}.txt`;
           try {
             await scrapeAndSave(link, fileName);
-            console.log(`Saved text content for ${query} - Result ${i + 1}`);
+            // console.log(`Saved text content for ${query}/${field} - Result ${i + 1}`);
+
+            // Increment completedLinks count
+            completedLinks += 1;
           } catch (error) {
-            console.error(`Error processing ${query} - Result ${i + 1}: ${error.message}`);
+            console.error(`Error processing ${query}/${field} - Result ${i + 1}: ${error.message}`);
           }
 
-          // Display progress
-          const progress = ((i + 1) / links.length) * 100;
-          console.log(`Progress for ${query}: ${progress.toFixed(2)}%`);
+          // Calculate and display progress
+          const progress = (completedLinks / totalLinks) * 100;
+          process.stdout.write(`\rProgress for ${query}: ${progress.toFixed(2)}%`);
 
           // Wait for a short duration between requests
           await new Promise(resolve => setTimeout(resolve, 2000));
         }
       }
     }
+
+    // Increment completedQueries count
+    completedQueries += 1;
+
+    // Wait for a short duration between queries
+    await new Promise(resolve => setTimeout(resolve, 2000));
   }
   await browser.close();
 }
