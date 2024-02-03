@@ -4,7 +4,7 @@ import re
 df = pd.read_csv('extracted_politician_data.csv')
 
 # Define the keywords to search for
-keywords = ['sorry', 'apologize', 'apologize', 'provide', 'unable to', 'does not', 'not available', 'cannot', ' no information']
+keywords = ['sorry', 'apologize', 'apologize', 'provide', 'unable to', 'does not', 'not available', 'cannot', ' no information', 'extract', 'retrieve', 'not listed', 'not found']
 
 pattern = re.compile('|'.join(keywords), re.IGNORECASE)
 
