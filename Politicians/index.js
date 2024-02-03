@@ -269,7 +269,7 @@ const getDataFromLinks = require('./getdatafromLinks');
 
 puppeteer.use(StealthPlugin());
 
-var k = 3;
+var k = 4;
 const field_names = ["address", "dob", "deceased date", "sex", "languages", "citizenship", "nationality", "occupation"];
 
 async function run() {
@@ -309,29 +309,35 @@ async function run() {
         const searchQuery = `${query} ${country} ${position} ${field}`;
         await page.goto(`https://www.google.com/search?q=${encodeURIComponent(searchQuery)}`);
 
-        // Wait for the results page to load
-        await page.waitForSelector('h3');
-
-        // Extract the top k results
-        const results = await page.evaluate(() => {
-          const anchors = Array.from(document.querySelectorAll('h3'));
-          return anchors.slice(0, 3).map(anchor => {
-            const url = anchor.parentElement.href;
-            return url !== 'null' ? url : null; // Exclude null values
+        try {
+          // Wait for the results page to load
+          await page.waitForSelector('h3');
+    
+          // Extract the top k results
+          const results = await page.evaluate(() => {
+            const anchors = Array.from(document.querySelectorAll('h3'));
+            return anchors.slice(0, 3).map(anchor => {
+              const url = anchor.parentElement.href;
+              return url !== 'null' ? url : null; // Exclude null values
+            });
           });
-        });
-
-        // Filter out null values
-        const filteredResults = results.filter(result => result !== null);
-
-        const final_query = query + " " + country + " " + position + " " + field;
-        // Display the results for the current query
-        // console.log(`Top ${k} Google Search Results for "${final_query}":`);
-        filteredResults.forEach((result, index) => {
-          // console.log(`${index + 1}. ${result}`);
-        });
-
-        field_results[field] = filteredResults;
+    
+          // Filter out null values
+          const filteredResults = results.filter(result => result !== null);
+    
+          const final_query = query + " " + country + " " + position + " " + field;
+          // Display the results for the current query
+          console.log(`Top ${k} Google Search Results for "${final_query}":`);
+          filteredResults.forEach((result, index) => {
+            // console.log(`${index + 1}. ${result}`);
+          });
+    
+          field_results[field] = filteredResults;
+        } catch (error) {
+          console.error(`Error processing ${query}/${field}: ${error.message}`);
+          // Continue to the next iteration if the 'h3' selector is not found
+          continue;
+        }
         // Wait for a short duration between queries
         await new Promise(resolve => setTimeout(resolve, 2000));
       }
