@@ -11,10 +11,13 @@ async function getDataFromLinks() {
 
   // Function to open a page, wait for page load, extract text, and save it to a file
   const scrapeAndSave = async (url, fileName) => {
-    await page.goto(url, { waitUntil: 'domcontentloaded' });
-
-    const textContent = await page.evaluate(() => document.body.innerText);
-    fs.writeFileSync(fileName, textContent);
+    try {
+      await page.goto(url, { waitUntil: 'domcontentloaded' });
+      const textContent = await page.evaluate(() => document.body.innerText);
+      fs.writeFileSync(fileName, textContent);
+    } catch (error) {
+      throw new Error(`Error navigating to ${url}: ${error.message}`);
+    }
   };
 
   // Get total number of queries
@@ -25,6 +28,10 @@ async function getDataFromLinks() {
   for (const [query, fields] of Object.entries(linksData)) {
     const totalLinks = Object.values(fields).flat().filter(link => link).length;
     let completedLinks = 0;
+
+    // Track processed links for the current query
+    const processedLinks = new Set();
+
     // Log remaining queries and current query
     const remainingQueries = totalQueries - completedQueries;
     console.log(`Remaining Queries: ${remainingQueries}, Current Query: ${query}`);
@@ -39,7 +46,7 @@ async function getDataFromLinks() {
       // Iterate through each link and open/save the text content
       for (let i = 0; i < links.length; i++) {
         const link = links[i];
-        if (link) {
+        if (link && !processedLinks.has(link)) {
           const fileName = `${outputDirectory}/result_${i + 1}.txt`;
           try {
             await scrapeAndSave(link, fileName);
@@ -47,6 +54,9 @@ async function getDataFromLinks() {
 
             // Increment completedLinks count
             completedLinks += 1;
+
+            // Add the processed link to the set
+            processedLinks.add(link);
           } catch (error) {
             console.error(`Error processing ${query}/${field} - Result ${i + 1}: ${error.message}`);
           }
@@ -67,6 +77,7 @@ async function getDataFromLinks() {
     // Wait for a short duration between queries
     await new Promise(resolve => setTimeout(resolve, 2000));
   }
+  console.log('\nData extraction completed!');
   await browser.close();
 }
 

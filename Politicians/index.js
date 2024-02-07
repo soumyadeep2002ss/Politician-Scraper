@@ -269,8 +269,8 @@ const getDataFromLinks = require('./getdatafromLinks');
 
 puppeteer.use(StealthPlugin());
 
-var k = 4;
-const field_names = ["address", "dob", "deceased date", "sex", "languages", "citizenship", "nationality", "occupation"];
+var k = 3;
+const field_names = ["address", "dob", "deceased date", "sex", "languages", "citizenship", "nationality"];
 
 async function run() {
   const browser = await puppeteer.launch({ headless: true });
@@ -288,7 +288,7 @@ async function run() {
 
     // process.stdout.write('\rCalculating estimated time...');
 
-    for (const { uniqueID: uniqueID, name: query, country: country, position_Description: position } of csvData) {
+    for (const { uniqueID: uniqueID, name: query, country: country, position_Description: position,sourceLink } of csvData) {
       const currentProgress = x + 1;
       const remainingProgress = csvData.length - currentProgress;
 
@@ -327,11 +327,11 @@ async function run() {
     
           const final_query = query + " " + country + " " + position + " " + field;
           // Display the results for the current query
-          console.log(`Top ${k} Google Search Results for "${final_query}":`);
+          // console.log(`Top ${k} Google Search Results for "${final_query}":`);
           filteredResults.forEach((result, index) => {
             // console.log(`${index + 1}. ${result}`);
           });
-    
+          filteredResults.push(sourceLink);
           field_results[field] = filteredResults;
         } catch (error) {
           console.error(`Error processing ${query}/${field}: ${error.message}`);
