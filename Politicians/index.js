@@ -270,15 +270,15 @@ const getDataFromLinks = require('./getdatafromLinks');
 puppeteer.use(StealthPlugin());
 
 var k = 3;
-const field_names = ["address", "dob", "deceased date", "sex", "languages", "citizenship", "nationality"];
+const field_names = ["Indirizzo", "Data di nascita", "deceased date", "sesso", "languages", "citizenship", "nationality"];
 
 async function run() {
-  const browser = await puppeteer.launch({ headless: true });
+  const browser = await puppeteer.launch({ headless: false });
   const page = await browser.newPage();
 
   try {
     // Read data from the CSV file
-    const csvFilePath = 'sample.csv'; // Replace with your actual CSV file path
+    const csvFilePath = 'sample1.csv'; // Replace with your actual CSV file path
     const csvData = await readCSVFile(csvFilePath);
     // console.log(csvData);
     // Use the data from the CSV to perform Google searches
@@ -288,7 +288,7 @@ async function run() {
 
     // process.stdout.write('\rCalculating estimated time...');
 
-    for (const { uniqueID: uniqueID, name: query, country: country, position_Description: position,sourceLink } of csvData) {
+    for (const { uniqueID: uniqueID, name: query, country: country, position_Description: position, sourceLink } of csvData) {
       const currentProgress = x + 1;
       const remainingProgress = csvData.length - currentProgress;
 
@@ -306,13 +306,13 @@ async function run() {
       x++;
       let field_results = {};
       for (const field of field_names) {
-        const searchQuery = `${query} ${country} ${position} ${field}`;
+        const searchQuery = `"${query}" ${country} ${position} ${field}`;
         await page.goto(`https://www.google.com/search?q=${encodeURIComponent(searchQuery)}`);
 
         try {
           // Wait for the results page to load
           await page.waitForSelector('h3');
-    
+
           // Extract the top k results
           const results = await page.evaluate(() => {
             const anchors = Array.from(document.querySelectorAll('h3'));
@@ -321,10 +321,10 @@ async function run() {
               return url !== 'null' ? url : null; // Exclude null values
             });
           });
-    
+
           // Filter out null values
           const filteredResults = results.filter(result => result !== null);
-    
+
           const final_query = query + " " + country + " " + position + " " + field;
           // Display the results for the current query
           // console.log(`Top ${k} Google Search Results for "${final_query}":`);
