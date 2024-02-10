@@ -1,5 +1,10 @@
 const puppeteer = require('puppeteer');
 const fs = require('fs');
+const util = require('util');
+const axios = require('axios');
+const pdf = require('pdf-parse');
+
+const readFileAsync = util.promisify(fs.readFile);
 
 async function getDataFromLinks() {
   const browser = await puppeteer.launch({ headless: true });
@@ -12,11 +17,38 @@ async function getDataFromLinks() {
   // Function to open a page, wait for page load, extract text, and save it to a file
   const scrapeAndSave = async (url, fileName) => {
     try {
-      await page.goto(url, { waitUntil: 'domcontentloaded' });
-      const textContent = await page.evaluate(() => document.body.innerText);
-      fs.writeFileSync(fileName, textContent);
+      let pdfData;
+
+      // Check if the URL ends with '.pdf'
+      if (url.toLowerCase().endsWith('.pdf')) {
+        // If it's a direct link to a PDF, download it using axios
+        const response = await axios.get(url, { responseType: 'arraybuffer' });
+        pdfData = response.data;
+      } else {
+        await page.goto(url, { waitUntil: 'domcontentloaded' });
+
+        // Check if the page contains a PDF
+        const isPDF = await page.evaluate(() => document.contentType === 'application/pdf');
+
+        if (isPDF) {
+          // If the page is a PDF, download it
+          pdfData = await page.pdf({ format: 'A4' });
+        }
+      }
+
+      if (pdfData) {
+        // Read text content from the downloaded PDF using pdf-parse
+        const data = await pdf(pdfData);
+        console.log(data.text);
+        // Save text content to the specified file
+        fs.writeFileSync(fileName, data.text);
+      } else {
+        // If it's not a PDF, extract text content directly
+        const textContent = await page.evaluate(() => document.body.innerText);
+        fs.writeFileSync(fileName, textContent);
+      }
     } catch (error) {
-      throw new Error(`Error navigating to ${url}: ${error.message}`);
+      throw new Error(`Error processing ${url}: ${error.message}`);
     }
   };
 
@@ -82,4 +114,4 @@ async function getDataFromLinks() {
 }
 
 module.exports = getDataFromLinks;
-// getDataFromLinks();
+getDataFromLinks();

@@ -1,0 +1,684 @@
+
+
+ 
+ 
+ 
+ 
+ 
+Cornelius Gross 
+ 
+Interim Head of Unit, Senior Scientist 
+ 
+Epigenetics & Neurobiology Unit, EMBL Rome 
+European Molecular Biology Laboratory (EMBL) 
+Via Ramarini 32 
+00015 Monterotondo, Italy 
+ 
+email: gross@embl.it 
+https://twitter.com/Cornhelix 
+office: +39-0690091262 
+mobile: +39-3332619045 
+fax: +39-0690091272 
+lab: +39-0690091408, 228, 212 
+https://www.embl.org/groups/gross/ 
+BIOGRAPHY & SCIENTIFIC ACHEIVEMENTS 
+Dr. Cornelius Gross has been a group leader at the Epigenetics & Neurobiology Unit of the European Molecular 
+Biology Laboratory (EMBL) in Rome since 2003. In 2009 he was promoted to Senior Scientist and since 2020 
+he is Interim Head of Unit. His research aims to understand the neural circuit mechanisms controlling instinctive 
+behaviors with a special focus on fear and anxiety. He has also carried out research into the developmental 
+origins of behavioral traits and has worked extensively on the role of microglia in shaping the developing brain. 
+In 2011 he published a landmark paper – cited over 2700 times – that establishing a role for microglia in the 
+elimination of synapses. Dr. Gross was raised in the United States and received undergraduate training in 
+biophysics at the University of California, Berkeley and then pursued doctoral research at Yale University 
+studying transcriptional regulation by homeodomain factors with William McGinnis. Dr. Gross then joined the 
+group of René Hen at Columbia University as a postdoctoral fellow where he discovered a developmental role 
+for serotonin in determining life-long anxiety-related behavior and identified the serotonin receptor responsible 
+for the therapeutic effects of antidepressants. In his early work at EMBL he showed how deficits in serotonin 
+autoregulation can cause sudden infant death syndrome and how serotonin moderates the impact of maternal 
+care on anxiety traits in adulthood. Since 2010 his laboratory is focused on characterizing the hypothalamic 
+and  brainstem  circuits  that  regulate  social  and  predator  fear  and  understanding  the  role  of  microglia  in 
+determining the wiring of behavioral circuits during development. In 2013 he was awarded an Advanced Grant 
+from the European Research Council (ERC) to study social and predator fear circuits in the brain. His team 
+has shown that distinct subcortical circuits are recruited in response to different types of threat, with defensive 
+responses to painful stimuli, predators, and conspecifics mediated by distinct pathways (Gross & Canteras, Nat 
+Rev Neurosci 2012;  Silva et al., Nat Neurosci 2013;  Montardy et al., Brain Struct Funct 2020).  These  data 
+argue that pathological fear comes in different flavours and is amenable to selective therapeutic treatment. 
+Current  work  in  the  group  is  aimed  at  understanding  how  hypothalamic  and  brainstem  circuits  transform 
+information about threat stimuli to trigger defensive behaviour, and how this process is remodelled by social 
+experience and context (Masferrer et al., J Neurosci 2020; Krzywkowski et al., eLife 2020). Earlier in his career 
+Dr. Gross served for two years as a science teacher at a public high school in New York City, where he gained 
+an appreciation for the benefits and challenges of communicating science to a lay audience. He is married with 
+three children and lives in Rome, Italy. 
+POSITIONS 
+2020- Interim Head of Unit, EMBL Epigenetics & Neurobiology Unit, Monterotondo, Italy 
+2009-   Senior Scientist and Deputy Head, EMBL Mouse Biology Unit, Monterotondo, Italy 
+2003- Group Leader, EMBL Mouse Biology Unit, Monterotondo, Italy; Joint appointment in 
+Developmental Biology Unit, Heidelberg, Germany 
+EDUCATION 
+1998-2002 Postdoctoral Fellow with R. Hen, Center for Neurobiology & Behavior, Columbia University, 
+NY – identified serotonin receptor that mediates the behavioral effects of antidepressants 
+(Santarelli, Saxe, Gross et al., Science [2003] 301, 805-809 – 4751 citations); showed that 
+
+Curriculum Vitae – Cornelius GROSS 
+ 
+ 
+ 
+ 
+this receptor controls anxiety behavior via a developmental programming mechanism (Gross 
+et al., [2002] Nature 416, 396-400 – 1034 citations; Gross & Hen, [2004] Nature Rev Neurosci 
+5, 545-552 – 614 citations) 
+1989-1995 Predoctoral Fellow with W. McGinnis, Department of Mol. Biophysics and Biochemistry, Yale 
+University, CT; PhD thesis: “DEAF-1, a novel protein which binds an essential region in a Dfd 
+response element” – addressed the problem of poor homeodomain DNA binding specificity by 
+identifying and cloning a cofactor that bound to a genetically defined regulatory target (Gross, 
+& McGinnis, [1996] EMBO J 15:1961-1970 – 188 citations). 
+1988  B.A., Department of Biophysics, University of California, Berkeley, CA 
+GRANTS & FELLOWSHIPS 
+Supervised: 1 EMBO, 2 Marie Curie, 1 NARSAD, 3 EIPOD, 1 Branco Weiss, 1 IFCR, 1 SNF, 1 Croucher 
+fellow since 2003 
+2020-2025 Horizon 2020 International Training Network (261K EUR) “Serotonin & Beyond”, Co-
+Principal Investigator; funds one PhD fellow (ESR) working on the role of serotonin in social 
+defeat  
+2019-2021 EMBL Rome Interface Grant (250K EUR) “Role of KRAB-ZnF in neuron identity”, Co-
+Principal Investigator; funds one postdoctoral fellow developing in vivo neuron cell-type 
+specific Cut & Run and knockout of KRAB-ZnF factors 
+2014-2019  ERC Advanced Grant (2.5M EUR) “COREFEAR”, Principal Investigator; functional 
+description of the hypothalamic defensive instinct behavior system 
+2011-2013  NIH R21 Grant (120K USD) “Pharmacogenetic tool for the manipulation of functional brain 
+connectivity,” Principal Investigators: C. Gross and J. Gordon (Columbia University, NY, 
+USA); funded the design, construction, and validation of a novel hM4D receptor trafficked 
+exclusively to axons as a pharmacogenetic tool to rapidly inhibit neurotransmitter release 
+in genetically defined neurons in behaving mice 
+2010-2012 IRSF Grant (100K USD), “A mouse model of CDKL5 Rett Syndrome,” Principal 
+Investigator; funded the construction, validation, and phenotying of a Cdkl5 conditional 
+knockout mouse, production of monoclonal antibodies against Cdkl5, and a biochemical 
+screen for Cdkl5 targets  
+2008-2013 EC FP7 Multi-PI Collaborative Grant (340K EUR) NEUROCYPRES, Co-Principal 
+Investigator; funded the production and validation of mice expressing a novel FRET-based 
+genetically encoded chloride ion sensor 
+2008-2012 EC FP7 Multi-PI Collaborative Grant (534K EUR) DEVANX, Co-Principal Investigator; 
+funded a series of experiments to dissect hippocampal and amygdala circuits controlling 
+anxiety and fear using the Htr1a/8-OH-DPAT pharmacogenetic tool  
+2007-2011 ESF Neuro-Network Grant (600K EUR), Co-Principal Investigator  
+2006-2008 NIEHS R21 Grant (297K USD), Principal Investigator  
+2006-2007 Fritz Thyssen Stiftung Award (67K EUR), extension, Principal Investigator  
+2006-2008 NARSAD Young Investigator Award (60K USD), Principal Investigator  
+2004-2006 Fritz Thyssen Stiftung Award (100K EUR), Principal Investigator  
+2004-2006 NARSAD Young Investigator Award (60K USD), Principal Investigator  
+2002-2003  NIH K01 Career Development Award (709K USD), Principal Investigator – declined due 
+to rules barring transfer to a foreign institution  
+1999-2001 NIH F32 Postdoctoral Fellowship 
+1998-1999 NIH Institutional Postdoctoral Fellowship 
+1990-1993 NSF Predoctoral Fellowship 
+MEMBERSHIP ON EXTERNAL ADVISORY/REVIEW BOARDS 
+2021- Chair, ERC Consolidator Grant LS5 Neuroscience study section 
+2021- SAB Member, Institute of Neuroscience, CSIC, Alicante, Spain 
+2020- SAC Member, DANDRITE, Danish Institute for Translational Neuroscience, Aarhus, Denmark 
+
+Curriculum Vitae – Cornelius GROSS 
+ 
+ 
+ 
+ 
+2019- SAB Member, GIS Autism and Neurodevelopmental Disorders Foundation, Paris, France 
+2019- Chair, International Scientific Committee, Braincity, EMBL-Nencki Partnership, Poland 
+2019  Member, Neurogenetics Search Committee, Human Technopole, Milano, Italy 
+2017  Simons Foundation for Research in Autism (SFARI) grant study section member 
+2017-19 ERC Consolidator Grant LS5 Neuroscience study section member 
+2017  Member, French National Scientific Review Board (hCERES) 5-year review & site visit – 
+IGBMC, Strasbourg, France 
+2017  Chair, Lundbeck Foundation 5-year review & site visit – DANDRITE, Aarhus, Denmark 
+2016  Chair, EMBL-Poland Twining Proposal Committee 
+2014  Faculty review panel member, Italian Institute of Technology (IIT), Genova, Italy 
+2014  Search committee member for Neurobiology faculty search, DANDRITE, Aarhus, Denmark 
+2013  Search committee member for Neurobiology faculty search, DANDRITE, Aarhus, Denmark 
+2012  Review panel member for ERC Synergy Grants 
+2012  Search committee member for Neurophysiology faculty search, University of Basel, CH 
+2012  Member of Max Planck Society Presidential Private Colloquium – Future of Psychiatry, 
+Frankfurt, Germany 
+2012  Review board member for Danish EMBL Node, Copenhagen, Denmark 
+SUPERVISION OF FELLOWS 
+Mentored 17 postdoctoral fellows, 15 PhD fellows, and >50 Masters students since 2003: 
+Name (year departed) Position at EMBL Current Position 
+Depino, Amaicha (2006) Postdoctoral Fellow 
+Professor, University of Buenos Aires, Buenos 
+Aires, Argentina 
+Maggi, Laura (2006) Postdoctoral Fellow Researcher, Sapienza University, Rome, Italy 
+Frazzetto, Giovanni (2007) Postdoctoral Fellow Science writer and novelist, Dublin, Ireland  
+Tsetsenis, Thodoris (2008) PhD fellow 
+Research Associate, University of Pennsylvania, 
+Philadelphia, USA 
+Lo Iacono, Luisa (2008) PhD fellow Researcher, Sapienza University, Rome, Italy 
+Mirabeau, Olivier (2008) PhD fellow Engineer, Curie Institute, Paris, France 
+Tiago Ferreira (2009) PhD fellow 
+Research Staff Member, Janelia Research 
+Campus, Ashburn, USA 
+Raffaella Bosurgi (2009) Postdoctoral Fellow Editor, BMC Neuroscience, London, UK 
+Valeria Carola (2010) Postdoctoral Fellow 
+Tenured Researcher, Sapienza University, Rome, 
+Italy 
+Olga Ermakova (2010) Postdoctoral Fellow 
+Tenured Research Scientist, CNR, Monterotondo, 
+Italy  
+Apar Jain (2010) PhD fellow 
+Elected politician and entrepreneur, Heidelberg, 
+Germany 
+Rosa Paolicelli (2011) PhD fellow Assistant Professor, University of Lausanne, CH 
+Enrica Audero (2011) 
+Postdoc/lab 
+manager 
+Entrepreneur, Alentejo, Portugal 
+Lukasz Piszczek (2013) PhD fellow Postdoctoral fellow, IMP, Vienna, Austria 
+Elena Amendola (2013) Postdoctoral fellow Researcher, University of Naples, Naples, Italy 
+Yang Zhan (2014) Postdoctoral fellow Assistant Professor, SIAT, Shenzhen, PRC 
+
+Curriculum Vitae – Cornelius GROSS 
+ 
+ 
+ 
+ 
+Tamara Franklin (2014) Postdoctoral fellow 
+Professor, University of Dalhousie, Dalhousie, 
+Canada 
+Noelia Madroñal (2015) Postdoctoral fellow Senior Project Officer Roche, Basel, CH 
+Bianca Silva (2015) PhD fellow 
+Assistant Professor, Humanitas University & CNR, 
+Milan, Italy 
+Urte Neniskyte (2016) Postdoctoral fellow 
+Group Leader, Life Science Centre, Vilnius, 
+Lithuania 
+Alessandro Ciccarelli (2016) Postdoctoral fellow Light Sheet Specialist, Crick Institute, London, UK 
+Livia Marrone (2017) PhD fellow 
+Senior Medical Advisor Oncology AstraZeneca, 
+Milan. Italy 
+Laetitia Weinhard (2018) PhD fellow 
+Postdoctoral fellow, Gan lab, NYU, New York, 
+USA 
+Emmy Tsang (2018) PhD fellow 
+Innovation Community Manager, eLife, 
+Cambridge, UK 
+Francesca Zonfrillo (2018) Animal Technician 
+Animal technician, Charles River Labs, 
+Monterotondo, Italy 
+Angelo Raggioli (2019) Technician Head of Vectorology, Reithera, Rome, Italy 
+Piotr Krzywkowski (2019) PhD fellow Senior Data Scientist, IQVIA, Cambridge, UK 
+Daniel Rossier (2020) Postdoctoral fellow 
+Staff Scientist, Rodriguez lab, University of 
+Geneva, CH 
+Senthilkumar Devasigamani 
+(2021) 
+Postdoctoral fellow Researcher, Esya Labs, London, UK 
+TEACHING EXPERIENCE  
+2021  University of Naples, “The Future of Molecular Biology” Lecture, Naples, Italy 
+2017-2019 Seminars at Adamascienza ‘Summer in Science' High School program, Rome, Italy 
+2017- EMBL Neurobiology Module, Annual PhD Programme, Heidelberg, Germany 
+1997-1998 Science teacher, Landmark High School, Alternative High School Superintendency, New York, 
+NY, USA  
+AWARDS AND HONORS 
+2020 promoted to Interim Head of Unit, EMBL Rome 
+2016 Adjunct Professor, Monash University, Melbourne, Australia 
+2014 EMBL Insight Lecturer 
+2013 ERC Investigator (2014-2019) 
+2009 promoted to Deputy Head of Unit, EMBL Rome 
+2009 awarded tenure (open-ended contract, currently held by 7% of EMBL staff) 
+2009 appointed member of EMBL Scientific Strategy and Management Advisory Committee   
+ORGANIZATION OF CONFERENCES OR SYMPOSIA  
+2020  Principal organizer, “EMBL-ESRF Meeting on X-ray Imaging”, Heidelberg/Grenoble, 
+Germany/France 
+2018  Principal organizer, “Microglia 2018”, EMBO Workshop, Heidelberg, Germany 
+2016  Principal organizer, “Microglia – Guardians of the Brain”, EMBL Conference, Heidelberg, 
+Germany 
+2016  Co-Principal Organizer, “Human-Animal Emotions”, International School of Ethology, Erice, 
+Italy 
+2013  Principal Organizer, “Neural encoding of fear - hypothalamic and brainstem networks,” Mini-
+symposium, SfN Annual Meeting, San Diego, USA 
+
+Curriculum Vitae – Cornelius GROSS 
+ 
+ 
+ 
+ 
+2009  Principal Organizer, “Translating Behavior – Bridging Clinical and Animal Models”, EMBL 
+Workshop, Heidelberg, Germany 
+INVITED SEMINARS (SINCE 2012) 
+2021 BRAINCITY Symposium, Warsaw, Poland 
+2021 University of Geneva, Switzerland 
+2020 DANDRITE, Aarhus University, Denmark 
+2020  EMBO Workshop – Microglia 2020, Heidelberg, Germany 
+2020 Institute of Pharmacology - Polish Academy of Science, Krakow, Poland 
+2020  Nenski Institute, Warsaw, Poland 
+2019  EMBL Rome 20
+th
+ Anniversary event, Rome, Italy 
+2019  TaraOceans Event, Rome, Italy 
+2019  Australian Neuroscience Meeting, Adelaide, Australia  
+2019  Neural Circuits of Emotions, Shenzhen, China  
+2019  NeuroFrance2019 Symposium, Marseille, France  
+2019  EMBO|EMBL Neural Dynamics/Behaviour Genetics Symposium, Heidelberg, Germany  
+2018  Keystone Meeting on Neuroinflammation, Keystone, CO, USA 
+2018  Glial Assembly: Seminar on Brain Function and Disorders, Tokyo, Japan 
+2018  Gaspar Symposium at ICM, Paris 
+2018  Cold Spring Harbour meeting on Neural Circuits, CSH, NY, USA 
+2018  EMBL Partnership Meeting Oslo, Norway 
+2018  NCCR Synapsy Conference, Geneva, Switzerland 
+2018  Sainsbury Wellcome Centre Conference at UCL, London  
+2018  Gordon Research Conference on Predator-Prey Interactions, Ventura, CA, USA 
+2017  Biocentrum Meeting, Helsinki, Finland  
+2017  Fear Conference, Aarhus Institute of Advanced Studies (AIAS) Åarhus, Denmark  
+2016  Nature Conference, Neural Circuits of Emotion Meeting, Shenzhen, China  
+2016  Keystone Meeting on Microglia, Keystone, CO, USA 
+2016  Bordeaux Neurocampus Conference on Beyond Glia, Bordeaux, France 
+2016 Max Planck Institute for Psychiatry, Munich, Germany 
+2016 Workshop on Translational Neuroscience & Mental Disorders, Erice, Italy 
+2016 ACHRI Annual Symposium Keynote Lecture, Calgary, Canada 
+2016 Keystone Meeting – Microglia in the Brain, Keystone, USA 
+2016 Erice Symposium on Human and Animal Emotions, Erice, Italy 
+2015 Department of Anesthesiology, Imperial College London, UK 
+2015 Neural Circuits of Emotion Meeting – SIAT, Shenzhen, China 
+2015 EMBL Conference – Personalized Medicine, Heidelberg, Germany 
+2015 Neuropharmacology Annual Meeting – Synaptopathy: from Biology to Therapy, Chicago 
+2015 Society  for  Neuroscience  Annual  Meeting  mini-symposium – Understanding  the  Hypothalamus, 
+Chicago 
+2015 Brain Conference Bordeaux – GliSyn, Bordeaux, France 
+2015 EBPS-EBBS Meeting symposium – Neurobiology of Anxiety, Verona, Italy 
+2015 Warsaw Neuroscience Symposium – The Emotional Brain, Warsaw, Poland 
+2015 Paris Neuroscience School – Frontiers in Molecular Psychiatry, Paris, France 
+2015 EMBL Australia PhD Course, Perth, Australia 
+2015 Beyond Neurons, Paris, France 
+2015 Champalimaud Centre for the Unknown, Lisbon, Portugal 
+2015 Bonner Forum Biomedizin Annual Meeting, Keynote Lecture, Bad Honnef, Germany 
+
+Curriculum Vitae – Cornelius GROSS 
+ 
+ 
+ 
+ 
+2014 EMBL 2014 Insight Lecture “Why do we do what we do?” – available at: http://emblog.embl.de/ells/eil 
+2014 Max Planck Institute for Neurobiology, Munich, Germany 
+2014 Chinese-German Symposium – Role of Glia in Physiology & Pathology, Keynote Lecture, Shenzhen 
+2014 RIKEN Neuroscience Summer School, Wako, Japan 
+2014 Mainz-Frankfurt Joint Neuro-Retreat, Keynote Lecture, Oberwesel, Germany 
+2014 Bilkent PhD Symposium, Ankara, Turkey 
+2014 EMBL–UKE Universität Klinikum Eppendorf, Joint meeting, Hamburg, Germany  
+2014 American Society of Neurochemistry Meeting, San Diego, USA 
+2014 La Sapienza School for Advanced Studies, Rome, Italy 
+2013 University of Marseille, Luminy, France 
+2013 Gordon Research Conference – The Amygdala, Eaton, MA 
+2013 European Society for Human Genetics, Paris, France 
+2012 Keynote Speaker – Fear and Anxiety SFB Meeting, Freudenstadt, Germany 
+INSTITUTIONAL RESPONSIBILITIES 
+As the senior neurobiology researcher at EMBL since 2009 I have overall responsibility for spearheading the 
+strategy of the neurobiology program across all six sites of the laboratory  
+2021  Chair, Steering Committee for EMBL Partnership Conference 
+2020  Chair, Faculty Search Committee, Epigenetics & Neurobiology Unit, Rome  
+2019-  Co-Chair, EMBL Human Ecosystems Theme Working Group  
+2020-  Member of the EMBL Directorate 
+2017-2019 Chair, EMBL Equality & Diversity Committee 
+2014-  Chair, EIPOD Postdoctoral Fellow recruitment panel 
+2015-2020  Co-Chair, Faculty Search Committee, Epigenetics & Neurobiology Unit, Rome 
+2013-2019 Organizer of the EMBL Neurobiology Retreat 
+Member on various EMBL Search Committees – Developmental Biology Unit Faculty, European 
+Bioinformatics Institute Faculty, EMBL Hamburg Faculty, Administration 
+Member on various EMBL committees – Graduate Program, Courses & Conferences, Grants Office, 
+Strategy & Communications, COVID-19 Contract Extension Evaluation Committee 
+PROFESSIONAL MEMBERSHIPS 
+SIBBM Società Italiana di Biofisica e Biologia Molecolare 
+SfN (Society for Neuroscience) 
+ECNP European College for Neuropsychopharmacology 
+PUBLICATIONS (ORCID 0000-0001-9129-1322; Google Scholar link) 
+Total publications = 90; h-index = 46 
+Publications garnering over 100 citations = 29 (of these 19 senior author) 
+Highest cited senior author paper: Paolicelli et al., (2011) Science, 333:1456-8. – 2764 citations 
+   
+Top-10 Selected Research Publications (as senior author):  
+1. Rossier, D., La Franca, V., Salemi, T., and Gross,
+ 
+C.T. (2020) A neural circuit for competing approach 
+and avoidance underlying prey capture. PNAS, 118(15):e2013411118. – role of periaqueductal grey in 
+fear of novel prey in mice [3 citations] 
+2. Krzywkowski, P., Penna, B., and Gross, C.T.  (2020) Dynamic encoding of social threat and spatial 
+context in the hypothalamus. eLife, 9:e57148. – discovery of territory cells in mammalian hypothalamus 
+[4 citations] 
+
+Curriculum Vitae – Cornelius GROSS 
+ 
+ 
+ 
+ 
+3. Weinhard, L., di Bartolomei, G., Bolasco, G., Machado, P., Schieber, N.L., Neniskyte, U., Exiga, M., 
+Vadisiute, A., Raggioli, A., Schertel, A., Schwab, Y., Gross, C.T. (2018) Microglia remodel synapses by 
+presynaptic trogocytosis and spine head filopodia induction. Nat Commun. 9(1):1228. – discovery that 
+microglia promote spine ‘switching’ via trogocytosis [387 citations] 
+4. Franklin, T.B., Perova, Z., Silva,
+ 
+B.A., Marrone, L., Masferrer, M.E., Zhan, Y., Kaplan, A., Greetham, L., 
+Verrechia, V., Halman, A., Pagella, S., Vyssotski, A.L., Illarionova, A., Grinevich, V., Branco, T., and 
+Gross,  C.T. (2017) Prefrontal  cortical  control  of  a  brainstem  social  behavior  circuit. Nat  Neurosci. 
+20:260-270. – discovery that synaptic plasticity in the mouse prefrontal cortex dynamically controls 
+defensive responses to social threat [100 citations] 
+5. Madroñal N., Delgado-García J.M., Fernández-Guizán A., Chatterjee J., Köhn M., Mattucci C., Apar Jain, 
+Tsetsenis  T.,  Illarionova  A.,  Grinevich  V.,  *Gross,  C.T.,  and  Gruart  A. (2016) Rapid  erasure  of 
+hippocampal  memory  following  inhibition  of  dentate  gyrus  granule  cells. Nat  Commun. 7:1,  1-10. 
+*corresponding author. – discovery of a synaptic input to hippocampus that promotes memory erasure 
+and identification of a drug target that induces therapeutic memory loss [64 Citations] 
+6. Zhan Y., Paolicelli R.C., Sforazzini F., Weinhard L., Bolasco G., Pagani F., Vyssotski A.L., Bifone A., 
+Gozzi  A.,  Ragozzino  D., Gross  C.T. (2014)  Deficient  neuron-microglia  signaling  results  in  impaired 
+functional brain connectivity and social behavior. Nat Neurosci. 17:400-6. – demonstration that neuron-
+microglia signaling has long-term impact on synaptic strength; proposed mechanism for weak functional 
+connectivity in autism; first use of resting-state fMRI to examine global functional connectivity in mouse 
+knockout [870 Citations] 
+7. Silva, B.A., Mattucci, C., Krzywkowski, P., Murana, E., Illarionova, A., Grinevich, V., Canteras, N.S., 
+Ragozzino, D., and Gross, C.T. (2013) Independent hypothalamic circuits for social and predator fear. 
+Nat Neurosci. 16:1731-3. – demonstration of double dissociation between function of VMHdm and 
+VMHvl in predator and social fear [162 Citations] 
+8. Paolicelli, R.C., Bolasco, G., Pagani, F., Maggi, L., Scianni, M., Panzanelli, P., Giustetto, M., Ferreira, 
+T.A.,  Guiducci,  E.,  Dumas,  L.,  Ragozzino,  D., Gross,  C.T. (2011) Synaptic  pruning  by  microglia  is 
+necessary for normal brain development. Science, 333:1456-8. – discovery that microglia actively prune 
+synapses and are essential for synaptic maturation during development [2764 citations] 
+9. Gozzi, A., Jain, A., Giovanelli, A., Bertollini, C., Crestan, V. J. Schwarz, A.J., Tsetsenis, T., Ragozzino, 
+D., *Gross, C.T., Bifone, A. (2010) A neural switch for active and passive fear. Neuron, 67:656-66. 
+*corresponding  author. – identified a role for cholinergic-mediated arousal in active vs. passive fear 
+responding; first application of genetically-encoded neural activity manipulation tool to map behavioral 
+circuits by fMRI [196 citations] 
+10. Audero,
+ 
+E., Coppi, E., Mlinar, B., Rossetti, T., Caprioli, A., Al Banchaabouchi, M., Corradetti, R., Gross, 
+C. (2008)  Sporadic  autonomic  dysregulation  and  death  associated  with  excessive  serotonin  auto-
+inhibition. Science, 321:130-133. – first evidence that dysregulation of serotonin homeostasis can cause 
+sudden death; identified sudden loss of sympathetic tone as possible underlying cause of Sudden Infant 
+Death Syndrome (SIDS) [112 citations]    
+Full Publication List:  
+1. Deivasigamani, S., Miteva, M.T., Natale, S., Gutierrez-Barragan, D., Basilico, B., Di Angelantonio, S., 
+Pape, C., Bolasco, G., Galbusera, A., Gozzi, A. Ragozzino, D., Gross, C.T. (2021) Microglia complement 
+signaling promotes neuronal elimination and normal brain functional connectivity. BioRxiv. 
+2. Basilico,  B.,  Ferrucci,  L.,  Ratano,  P.,  Golia,  M.T.,  Grimaldi,  A.,  Rosito,  M.,  Ferretti,  V.,  Reverte,  I., 
+Sanchini,  C.,  Marrone,  M.C,  Giubettini,  M.,  De  Turris,  V.,  Salerno,  D.,  Garofalo,  S.,  St-Pierre,  M.K., 
+Carrier, M., Renzi, M., Pagani, F., Modi, B., Raspa, M., Scavizzi, F., Gross, C.T., Marinelli, S., Tremblay, 
+M.-È., Caprioli, D., Maggi, L., Limatola, C., Di Angelantonio, S., Ragozzino, D. (2022) Microglia control 
+glutamatergic synapses in the adult mouse hippocampus. Glia. 70(1):173-195. 
+3. Streich, L., Boffi, J.C., Wang, L., Alhalaseh, K., Barbieri, M., Rehm, R., Deivasigamani, S., Gross, C.T., 
+Agarwal,  A.,  Prevedel,  R. (2021) High-resolution  structural  and functional  deep  brain  imaging  using 
+adaptive optics three-photon microscopy. Nat Methods 18(10):1253-1258.  
+4. Natale, S., Esteban Masferrer, M., Deivasigamani, S., Gross, C.T. (2021) A role for cerebral cortex in the 
+suppression of innate defensive behaviour. Eur J Neurosci 54(6):6044-6059.  
+
+Curriculum Vitae – Cornelius GROSS 
+ 
+ 
+ 
+ 
+5. Ciccarelli, A., Weijers, D., Kwan, W., Warner, C., Bourne, J., Gross, C.T. (2021) Sexually dimorphic 
+perineuronal nets in the rodent and primate reproductive circuit. J Comp Neurol 529(13):3274-3291.  
+6. Rossier, D., La Franca, V., Salemi, T., and Gross,
+ 
+C.T. (2020) A neural circuit for competing approach 
+and avoidance underlying prey capture. PNAS, 118(15):e2013411118. 
+7. Krzywkowski,  P.,  Penna,  B.,  and Gross,  C.T. (2020) Dynamic  encoding  of  social  threat  and  spatial 
+context in the hypothalamus. eLife, 9:e57148.  
+8. Masferrer, M.E., Silva, B.A., Nomoto, K., Lima, S.Q., and Gross, C.T. (2020) Differential encoding of 
+predator fear in the ventromedial hypothalamus and periaqueductal grey. J Neurosci, 40(48):9283-9292. 
+9. Weinhard, L., di Bartolomei, G., Bolasco, G., Machado, P., Schieber, N.L., Neniskyte, U., Exiga, M., 
+Vadisiute, A., Raggioli, A., Schertel, A., Schwab, Y., Gross, C.T. (2018) Microglia remodel synapses by 
+presynaptic trogocytosis and spine head filopodia induction. Nat Commun, 9(1):1228. 
+10. Neniskyte,  U., Gross,  C.T. (2017) Errant  gardeners:  glial-cell-dependent  synaptic  pruning  and 
+neurodevelopmental disorders. Nat Rev Neurosci. 18(11):658-670. 
+11. Franklin, T.B., Perova, Z., Silva,
+ 
+B.A., Marrone, L., Masferrer, M.E., Zhan, Y., Kaplan, A., Greetham, L., 
+Verrechia, V., Halman, A., Pagella, S., Vyssotski, A.L., Illarionova, A., Grinevich, V., Branco, T., and 
+Gross,  C.T. (2017) Prefrontal  cortical  control  of  a  brainstem  social behavior  circuit. Nat  Neurosci, 
+20:260-270.  
+12. Madroñal  N,  Delgado-García  JM,  Fernández-Guizán  A,  Chatterjee  J,  Köhn  M,  Mattucci  C,  Jain
+ 
+A, 
+Tsetsenis T, Illarionova A, Grinevich V, Gross C.T.*, and Gruart A (2016) Rapid erasure of hippocampal 
+memory  following  inhibition  of  dentate  gyrus  granule  cells. Nat  Commun,  7:10923. *corresponding 
+author.  
+13. Samuels BA, Anacker C, Hu A, Levinstein MR, Pickenhagen A, Tsetsenis T, Madroñal N, Donaldson 
+ZR, Drew LJ, Dranovsky A, Gross C.T., Tanaka KF, Hen R. (2015) 5-HT1A receptors on mature dentate 
+gyrus granule cells are critical for the antidepressant response. Nat Neurosci, 18:1606-16. 
+14. Della Sala G., Putignano E., Chelini G., Melani R., Calcagno E., Michele Ratto G., Amendola E., Gross 
+C.T., Giustetto M., Pizzorusso T. (2015) Dendritic Spine Instability in a Mouse Model of CDKL5 Disorder 
+Is Rescued by Insulin-like Growth Factor 1. Biol Psychiatry, 3223:727. 
+15. Piszczek L., Piszczek A., Kuczmanska J., Audero E., Gross C.T. (2015) Modulation of anxiety by cortical 
+serotonin 1A receptors, Front in Behav Neurosci, 9. 
+16. Pagani F., Paolicelli R.C., Murana E., Cortese B., Di Angelantonio S., Zurolo E., Guiducci E., Ferreira 
+T.A., Garofalo S., Catalano M. et al. (2015) Defective microglial development in the hippocampus of 
+Cx3cr1 deficient mice, Front in Cell Neurosci, 9. 
+17. Rivero O., Selten M.M., Sich S., Popp S., Bacmeister L., Amendola E., Negwer M., Schubert D., Proft 
+F., Kiser D., Schmitt A.G., Gross C.T., Kolk S.M., Strekalova T., van den Hove D., Resink T.J., Nadif 
+Kasri  N.,  Lesch  K.-P.  (2015)  Cadherin-13,  a  risk  gene  for  ADHD  and  comorbid  disorders,  impacts 
+GABAergic function in hippocampus and cognition, Transl Psychiatry, 5:e655. 
+18. Zhan Y., Paolicelli R.C., Sforazzini F., Weinhard L., Bolasco G., Pagani F., Vyssotski A.L., Bifone A., 
+Gozzi  A., Ragozzino  D., Gross  C.T. (2014)  Deficient  neuron-microglia  signaling  results  in  impaired 
+functional brain connectivity and social behavior, Nat Neurosci,17:400-406. 
+19. Carola V., Zonfrillo F., Soini H.A., Novotny M.V., Gross C.T. (2014) Modulation of social behavior by the 
+agouti pigmentation gene, Front in Behav Neurosci, 8. 
+20. Fuchs C., Trazzi S., Torricella R., Viggiano R., De Franceschi M., Amendola E., Gross C.T., Calza L., 
+Bartesaghi R., Ciani E. et al. (2014) Loss of CDKL5 impairs survival and dendritic growth of newborn 
+neurons by altering AKT/GSK-3 signaling, Neurobiol of Dis, 70:53-68 
+21. Amendola E., Zhan Y., Mattucci C., Castroflorio E., Calcagno E., Fuchs C., Lonetti G., Silingardi D., 
+Vyssotski A.L., Farley D., Ciani E., Pizzorusso T., Giustetto M., Gross C.T. (2014) Mapping pathological 
+phenotypes in a mouse model of CDKL5 disorder. PLoSOne, 9:e91613.  
+22. Baroncelli L., Alessandro M.G., Tola J., Putignano E., Migliore M., Amendola E., Gross C.T. Leuzzi V., 
+Cioni G., Pizzorusso T. (2014) A novel mouse model of creatine transporter deficiency, F1000Research, 
+3. 
+
+Curriculum Vitae – Cornelius GROSS 
+ 
+ 
+ 
+ 
+23. John, J., Smith, H.R., Audero, E., Gross, C.T., Buchanan, G.F. (2013) The effects of acute serotonin 
+neuron inactivation on seizure severity and mortality, Scottish Med J, 58:E49-E49. 
+24. Batti L., Mukhtarov M., Audero E., Ivanov A., Paolicelli R.C., Zuborg S., Gross C.T., Bregestovski P., 
+Heppenstall P.A. (2013) Transgenic mouse lines for non-invasive ratiometric monitoring of intracellular 
+chloride, Front in Mol Neurosci, 6:11. 
+25. Kuhn M., Al Banchaabouchi M., Campillos M., Jensen L.J., Gross C.T., Gavin A.-C. Bork P. (2013) 
+Systematic identification of proteins that elicit drug side effects, Mol Syst Biology, 9:663. 
+26. Silva  B.A., Mattucci  C., Krzywkowski  P., Murana  E., Illarionova  A., Grinevich  V., Canteras  N.S., 
+Ragozzino D., Gross C.T. (2013) Independent hypothalamic circuits for social and predator fear, Nat 
+Neurosci,16:1731-1733. 
+27. Audero E., Mlinar B., Baccini G., Skachokova Z.K., Corradetti R., Gross C.T. (2013) Suppression of 
+serotonin neuron firing increases aggression in mice, J Neurosci, 33:8678-8688. 
+28. Gross C.T., Canteras N.S. (2012) The many paths to fear, Nat Rev Neurosci, 13:651-658. 
+29. Carnevali L., Mastorci F., Audero E., Graiani G., Rossi S., Macchi E., Callegari S., Bartolomucci A., 
+Nalivaiko E., Quaini F. et al. (2012) Stress-induced susceptibility to sudden cardiac death in mice with 
+altered serotonin homeostasis, PLoS One, 7:e41184. 
+30. Troisi A., Frazzetto G., Carola V., Di Lorenzo G., Coviello M., Siracusano A., Gross C.T. (2012) Variation 
+in  the  mu-opioid  receptor  gene  (OPRM1)  moderates  the  influence  of  early  maternal  care  on  fearful 
+attachment, Soc Cog Affect Neurosci, 7:542-547. 
+31. Baccini G., Mlinar B., Audero E., Gross C.T., Corradetti R. (2012) Impaired chemosensitivity of mouse 
+dorsal  raphe  serotonergic  neurons  overexpressing  serotonin  1A  (Htr1a)  receptors, PLoS  One. 
+7(9):e45072. 
+32. Ermakova O., Salimova E., Piszczek L., Gross C.T. (2012) Construction and phenotypic analysis of mice 
+carrying a duplication of the major histocompatibility class I (MHC-I) locus, Mamm Genome, 23:443-
+453. 
+33. Jain, A., Dvorkin, A., Fonio, E., Golani, I., Gross, C.T. (2012) Validation of the dimensionality emergence 
+assay for the measurement of innate anxiety in laboratory mice. Eur Neuropsychopharm, 22(2):153-
+63. 
+34. Carola, V., Gross, C. (2012) Mouse Models of the 5-HTTLPR × Stress Risk Factor for Depression. Curr 
+Top Behav Neurosci, 12:59-72 
+35. Troisi,  A.,  Frazzetto,  G.,  Carola,  V.,  Di  Lorenzo,  G.,  Coviello,  M.,  Siracusano,  A., Gross,  C. (2012) 
+Variation in the mu-opioid receptor gene (OPRM1) moderates the influence of early maternal care on 
+fearful attachment. Soc Cogn Affect Neurosci, 7(5):542-7. 
+36. Troisi, A., Frazzetto, G., Carola, V., Di Lorenzo, G., Coviello, M., D'Amato, F.R., Moles, A., Siracusano, 
+A., Gross, C.T. (2011) Social hedonic capacity is associated with the A118G polymorphism of the mu-
+opioid receptor gene (OPRM1) in adult healthy volunteers and psychiatric patients. Soc Neurosci, 6:88-
+97.  
+37. Carola,  V.,  Mirabeau,  O., Gross,  C.T. (2011)  Hidden  Markov  model  analysis  of  maternal  behavior 
+patterns in inbred and reciprocal hybrid mice. PLoSOne, 6:e14753.  
+38. Ermakova, O., Piszczek, L., Luciani, L., Cavalli, F.M., Ferreira, T., Farley, D., Rizzo, S., Paolicelli, R.C., 
+Al-Banchaabouchi, M., Nerlov, C., Moriggl, R., Luscombe, N.M., Gross C. (2011) Sensitized phenotypic 
+screening identifies gene dosage sensitive region on chromosome 11 that predisposes to disease in 
+mice. EMBO Mol Med, 3(1):50-66. 
+39. Kas, M.J., Krishnan, V., Gould, T.D., Collier, D.A., Olivier, B., Lesch, K.-P., Domenici, E., Fuchs, E., 
+Gross, C., Castrén E. (2011). Advances in multidisciplinary and cross-species approaches to examine 
+the neurobiology of psychiatric disorders. Eur Neuropsychopharm, 21:532-44. 
+40. Paolicelli, R.C., Bolasco, G., Pagani, F., Maggi, L., Scianni, M., Panzanelli, P., Giustetto, M., Ferreira, 
+T.A.,  Guiducci,  E.,  Dumas,  L.,  Ragozzino,  D.,  Gross,  C.T. (2011) Synaptic  Pruning  by  Microglia  Is 
+Necessary for Normal Brain Development. Science, 333:1456-8. 
+
+Curriculum Vitae – Cornelius GROSS 
+ 
+ 
+ 
+ 
+41. Carola,  V.,  Pascucci,  T.,  Puglisi-Allegra,  S.,  Cabib,  S., Gross,  C.T. (2011) Effect  of  the  interaction 
+between the serotonin transporter gene and maternal environment on developing mouse brain. Behav 
+Brain Res, 217:188-94. 
+42. Carola, V., Gross C. (2010) BDNF moderates early environmental risk factors for anxiety in mouse. 
+Genes Brain Behav, 9(4):379-89. 
+43. Zanettini, C., Carola, V., Lo Iacono, L., Moles, A., Gross, C., D'Amato, F.R. (2010) Postnatal handling 
+reverses social anxiety in serotonin receptor 1A knockout mice. Genes Brain Behav, 9:26-32. 
+44. Bartolomucci, A., Carola, V., Pascucci, T., Puglisi-Allegra, S., Cabib, S., Lesch, K.-L., Parmigiani, S., 
+Palanza,  P.,  and Gross,  C.T. (2010)  Increased  vulnerability  to  psychosocial  stress  in  heterozygous 
+serotonin transporter knockout mice. Disease Models Mech, 3:459-70. 
+45. Reuveni, E., Birney, E., Gross, C.T. (2010) The consequence of natural selection on genetic variation in 
+the mouse. Genomics, 95:196-202.  
+46. Gozzi, A., Jain, A., Giovanelli, A., Bertollini, C., Crestan, V. J. Schwarz, A.J., Tsetsenis, T., Ragozzino, 
+D., Gross, C.T.*, Bifone, A. (2010) A neural switch for active and passive fear. Neuron, 67:656-66. 
+*corresponding author. 
+47. Carola, V., Scalera, E., Brunamonti, E., Gross, C., D'Amato, F. (2008) Mating-related interactions share 
+common features with anxiety in the mouse. Behav Brain Res, 186:185-90. 
+48. Carola, V., Frazzetto, G., Pascucci, T., Audero E., Puglisi-Allegra, S., Cabib, S., Lesch, K.-P., and Gross, 
+C. (2008) Identifying molecular substrates in a mouse model of the 5-HTT-by-environment risk factor for 
+anxiety and depression. Biol Psychiatry, 63:840-6. 
+49. Lo Iacono, L. and Gross, C. (2008) αCaMKII contributes to the developmental programming of anxiety 
+in serotonin receptor 1A knockout mice. J Neurosci, 28:6250-6257. 
+50. Depino, A.M., Tsetsenis, T., and Gross, C. (2008) GABA homeostasis contributes to the developmental 
+programming of anxiety-related behavior, Beh Brain Res, 1210:189-99. 
+51. Audero,
+ 
+E., Coppi, E., Mlinar, B., Rossetti, T., Caprioli, A., Al Banchaabouchi, M., Corradetti, R., Gross, 
+C. (2008)  Sporadic  autonomic  dysregulation  and  death  associated  with  excessive  serotonin  auto-
+inhibition. Science, 321:130-133. 
+52. Depino, A.M., Tsetsenis, T., and Gross, C.  (2008) GABA homeostasis contributes to the developmental 
+programming of anxiety-related behavior, Beh Brain Res, 1210:189-99. 
+53. Lo Iacono, L., Gross, C. (2008) aCaMKII contributes to the developmental programming of anxiety in 
+serotonin receptor 1A knockout mice. J Neurosci, 28(24):6250-7. 
+54. Carola, V., Scalera, E., Brunamonti, E., Gross, C., D'Amato, F. (2008) Mating-related interactions share 
+common features with anxiety in the mouse. Beh Brain Res, 186:185-90. 
+55. Carola, V., Frazzetto, G., Pascucci, T., Audero E., Puglisi-Allegra, S., Cabib, S., Lesch, K.-P., and Gross, 
+C. (2008) Identifying molecular substrates in a mouse model of the 5-HTT-by-environment risk factor for 
+anxiety and depression. Biol Psychiatry, 63(9):840-6.  
+56. Depino, A. and Gross, C. (2007) Simultaneous monitoring of autonomic and anxiety-related behavior in 
+BALB/c and C57BL/6 mice. Beh Brain Res, 177, 254-60. 
+57. Mirabeau, O., Perlas, E.
+ 
+, Severini, C., Audero, E., Gascuel, O.
+ 
+, Possenti, R., Birney, E., Rosenthal, N., 
+and Gross, C.
+ 
+(2007) Identification of novel peptide hormones in the human proteome by hidden Markov 
+model screening. Genome Res 17:320-7.  
+58. Reuveni,  E.,  Carola,  V.,  Banchaabouchi,  M.A.,  Rosenthal,  N.,  Hancock,  J.M., Gross,  C. (2007) 
+Phenostat: visualization and statistical tool for analysis of phenotyping data. Mamm Genome. 18:677-
+81. 
+59. Tsetsenis, T., Ma, X.-H., Lo Iacono, L.
+ 
+, Beck, S.G. and Gross, C. (2007) Suppression of conditioned 
+responses  to  ambiguous  cues  by  pharmacogenetic  inhibition  of  dentate  gyrus  granule  cells. Nat 
+Neurosci, 10:896-902. 
+60. Frazzetto, G. and Gross, C. (2007) Beyond Susceptibility. EMBO Reports, 8:1-3.  
+
+Curriculum Vitae – Cornelius GROSS 
+ 
+ 
+ 
+ 
+61. Tsetsenis, T., Ma, X.-H., Lo Iacono, L.
+ 
+, Beck, S.G. and Gross, C. (2007) Suppression of conditioned 
+responses  to  ambiguous  cues  by  pharmacogenetic  inhibition  of  dentate  gyrus  granule  cells. Nat 
+Neurosci, 10:896-902. 
+62. Frazzetto, G., Di Lorenzo, G., Carola, V., Proietti, L., Sokolowska, E., Siracusano, A., Gross, C., and 
+Troisi,  A. (2007) Early  trauma  and  increased  risk  for  physical  aggression  during  adulthood:  the 
+moderating role of MAOA genotype. PLoSOne, 2:e486. 
+63. Reuveni, E., Carola, V., Al Banchaabouchi, M., Rosenthal, N., Hancock, J.M., and Gross, C.
+ 
+(2007) 
+Phenostat – visualization and statistical tool for analysis of phenotyping data, Mam Genome, 18:677-81. 
+64. Mirabeau, O., Perlas, E.
+ 
+, Severini, C., Audero, E., Gascuel, O.
+ 
+, Possenti, R., Birney, E., Rosenthal, N., 
+and Gross, C.
+ 
+(2007) Identification of novel peptide hormones in the human proteome by hidden Markov 
+model screening. Genome Res, 17:320-7.  
+65. Stark, K.L., Gross, C., Richardson-Jones, J., Zhuang, X., Hen, R. (2007) A novel conditional knockout 
+strategy applied to serotonin receptors. Handb Exp Pharmacol, 178:347-63. 
+66. Reuveni, E., Ramensky, V., and Gross, C. (2007) Mouse SNP Miner: An annotated database of mouse 
+functional single nucleotide polymorphisms. BMC Genomics, 8, 24. 
+67. Depino, A. and Gross, C. (2007) Simultaneous monitoring of autonomic and anxiety-related behavior in 
+BALB/c and C57BL/6 mice. Beh Brain Res, 177, 254-60. 
+68. Carola, V., Frazzetto, G., Gross, C. (2006) Identifying interactions between genes and early environment 
+in the mouse. Genes Brain Beh, 5, 189-199. 
+69. Ragazzino, D., Di Angelantonio,
+ 
+S., Trettel, F., Bertollini, C., Gross,
+ 
+C., Limatola, C., and Eusebi, F. 
+(2006) Chemokine  fractalkine/CX
+3
+CL1  negatively  modulates  active  glutamatergic  synapses  in  rat 
+hippocampal neurons. J Neurosci, 26, 10488-98. 
+70. Bertollini  C.,  Ragozzino  D., Gross  C.,  Limatola  C.,  Eusebi  F. (2006) Fractalkine/CX3CL1  depresses 
+central synaptic transmission in mouse hippocampal slices. Neuropharmacology, 51, 816-21.  
+71. Gutknecht, L., Jacob, C., Strobel, A., Müller, J., Reif, A., Mössner, R., Zeng, Y., Escher, A., Gross, C., 
+Brocke, B., Lesch, K.-P. (2006) Tryptophan hydroxylase-2 gene variation influences personality traits 
+and disorders related to emotional dysregulation. Int J Neuropsychopharm, 19, 1-12. 
+72. Carola, V., Frazzetto, G., Gross, C. (2006) Identifying interactions between genes and early environment 
+in the mouse. Genes Brain Behav, 5, 189-199. 
+73. Klemenhagen, K., Gordon, J., David, D., Hen, R., Gross, C. (2006) Increased fear response to contextual 
+cues in mice lacking the 5-HT1A receptor. Neuropsychopharm, 31, 101-111. 
+74. Walitza, S., Renner, T.J., Dempfle, A., Konrad K., Wewetzer, C., Halbach, A., Herpertz-Dahlmann, B., 
+Remschmidt,  H.,  Smidt,  J.,  Linder,  M.,  Flierl,  L.,  Knölker  U.,  Friedel,  S.,  Schäfer,  H., Gross,  C., 
+Hebebrand, J., Warnke, A., Lesch, K.-P. (2005) Transmission disequilibrium of polymorphic variants in 
+the tryptophan hydroxylase-2 gene in attention-deficit/hyperactivity disorder. Mol Psychiatry, 10, 1126-
+32. 
+75. Gross,  C. and  Hen,  R.  (2004).  Genetic  and  Environmental  Factors  Interact  to  Influence  Anxiety. 
+Neurotox Res, 6(3), 1-10. 
+76. Wolff,  M.,  Costet,  P., Gross,  C.,  Hen,  R.,  Segu,  L.,  Buhot,  M-C.  (2004)  Age-Dependent  Effects  of 
+Serotonin-1A Receptor Gene Deletion in Spatial Learning Abilities in Mice. Mol Brain Res 12:53, 49. 
+77. Gross, C. and Hen, R. (2004). The Developmental Origins of Anxiety. Nat Rev Neurosci 5, 545-552. 
+78. Gross, C. (2004). Book review: Nature via Nurture, by Matt Ridley. New Engl J Med, 350(4), 422. 
+79. Santarelli, L., Saxe, M., Gross, C., Surget, A., Battaglia, F., Dulawa, S., Weisstaub, N., Lee, J., Duman, 
+R., Arancio, O., Belzung, C., and Hen, R. (2003). Requirement of Hippocampal Neurogenesis for the 
+Behavioral Effects of Antidepressants. Science, 301, 805-809. 
+80. Gross,  C.,  Zhuang,  X.,  Stark,  K.,  Ramboz,  S.,  Oosting,  R.,  Kirby,  L.,  Beck,  S.,  and  Hen,  R.  (2002) 
+Serotonin 1A Receptor is Required During Development to Establish Normal Emotional Behavior. Nature 
+416, 396-400. 
+
+Curriculum Vitae – Cornelius GROSS 
+ 
+ 
+ 
+ 
+81. Gross, C., Santarelli, L., Brunner, D., Zhuang, X., and Hen, R. (2000) Altered Fear Circuits in 5-HT1A 
+Receptor KO Mice. Biol Psychiatry 48:12, 1157-63. 
+82. Dulawa, S.C., Gross, C., Stark, K., Hen, R., and Geyer, M.A. (2000) Knockout Mice Reveal Opposite 
+Roles for Serotonin 1A and 1B Receptors in Prepulse Inhibition. Neuropsychopharm 22:6, 650-659. 
+83. Pederson, J.A., LaFollette, J.W., Gross, C., Veraksa, A., McGinnis, W., Mahaffey, J.W. (2000) Regulation 
+by Homeoproteins: a Comparison of Deformed-Responsive Elements. Genetics 156:2, 677-86. 
+84. Zhuang, X., Gross, C., Santarelli, L., Compan, V., Trillat, A.-C., and Hen, R. (1999) Altered Emotional 
+States in Knockout Mice Lacking 5-HT1A or 5-HT1B Receptors. Neuropsychopharm 21:2S, 52S-60S. 
+85. Gross, C.T. and McGinnis, W. (1996) DEAF-1, a Novel Cofactor Involved in Deformed Regulation. EMBO 
+J 15:8, 1961-1970. 
+86. Gross,  C.T. and  McGinnis,  W.  (1996)  The  Function  of  Homeodomain  Proteins  in  Drosophila 
+Development, in Eukaryotic Gene Transcription - Frontiers in Molecular Biology, Hames, B.D. and 
+Glover, D.M. (eds). IRL Press, Oxford, UK. 
+87. Dessain,  S., Gross,  C.T.,  Kuziora,  M.A.,  and  McGinnis,  W.  (1992)  Antp-type  Homeodomains  Have 
+Distinct DNA Binding Specificities that Correlate with their Different Regulatory Functions in Embryos. 
+EMBO J 11:3, 991-1002. 
+88. Gross, C.T., Salamon, H., Hunt, A.J., Macey, R.I., Orme, F. and Quintanilha, A.T. (1991) Hemoglobin 
+Polymerization in Sickle Cells Studied by Circular Polarized Light Scattering. Bioch Bioph Acta 1079:2, 
+152-160. 
+89. Gross, C.T. and Baker, R.A. (1989) Prevention of Pneumocystis carinii Pneumonia (PCP). Bulletin of 
+Exp  Treat  for  AIDS, San  Francisco  AIDS  Foundation  and  San  Francisco  Dept.  of  Public  Health, 
+November, 7-9. 
+90. Gross, C.T., Kiess, J., Mayer, A. and Keilmann, F. (1987) Pulsed High-Power Far-Infrared Gas Lasers: 
+Performance and Spectral Survey. IEEE J Quant Elect 23:4, 377-384. 

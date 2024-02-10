@@ -278,7 +278,7 @@ async function run() {
 
   try {
     // Read data from the CSV file
-    const csvFilePath = 'sample1.csv'; // Replace with your actual CSV file path
+    const csvFilePath = 'sample.csv'; // Replace with your actual CSV file path
     const csvData = await readCSVFile(csvFilePath);
     // console.log(csvData);
     // Use the data from the CSV to perform Google searches

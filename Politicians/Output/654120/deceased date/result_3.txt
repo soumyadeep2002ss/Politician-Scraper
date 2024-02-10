@@ -1,0 +1,3356 @@
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+         Rome, 2018 
+ANNUAL REPORT 
+-
+ 
+2017
+ 
+
+
+
+ 
+UNIDROIT 2018 
+C.D. (97) 2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+U N I D R O I T 
+ 
+INTERNATIONAL INSTITUTE FOR THE UNIFICATION OF PRIVATE LAW 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ANNUAL REPORT — 2017 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Rome, 2018 
+ 
+
+
+
+ 1 
+P a g e   O n e 
+ 
+ 
+ 
+ 
+ 
+2017: A salute to a remarkable Captain 
+ 
+ 
+As  regular  readers  will  note, UNIDROIT has  a  history  of  utilising  metaphors  to  summarise  the 
+Institute’s activities at the beginning of each year’s Annual Report. While the tradition was started by 
+Secretary-General Herbert Kronke, it was ably continued by Secretary-General José Angelo Estrella Faria. 
+In honour of Mr Estrella Faria’s service to the Institute, I take this opportunity to renew the maritime theme 
+he adopted in the Annual Reports of 2012 and 2013. 
+In July 2017 Secretary-General Estrella Faria resigned his post after nine years at the keel. During 
+his tenure, Mr Estrella Faria navigated UNIDROIT through both stormy conditions and calm seas with great 
+ability. Under his leadership, the Institute advanced its core mission to deliver and implement high quality 
+instruments.  In  addition,  the  Secretary-General’s  captaincy  saw  the  Institute  diversify  its  Work 
+Programme, strengthen its relationships with partner organisations and modernise its internal operations. 
+In many ways, 2017 reflected the principal elements of the Secretary-General’s command, as the 
+Institute experienced great success in the delivery of quality instruments, inter-organisation cooperation 
+and improvements in internal administration.  
+The  crowning  achievement  of  2017 was  the  adoption  of  the UNIDROIT Legislative  Guide  on 
+Intermediated Securities (Legislative Guide) by the Governing Council during its 96
+th
+ session (Rome, 10-
+12 May 2017). A key component in the Institute’s work in the area of capital markets, the Legislative Guide 
+will play an important role in assisting States in their consideration of the Convention on Substantive Rules 
+regarding  Intermediated  Securities  (Geneva,  5-9  October  2009)  and  its  key  principles  and  rules  for 
+improving the legal framework for holding and transferring such securities. Before its consideration by the 
+Governing Council, the Legislative Guide was recommended for adoption by the Committee on Emerging 
+Market Issues, Follow-Up and Implementation at its fourth meeting in Beijing (29-30 March 2017) and is 
+available as of this writing in English, French, Chinese and Spanish.  
+Another of the Institute’s prosperous voyages in 2017 was the continued work on a fourth Protocol 
+to the Cape Town Convention on International Interests on Mobile Equipment on Matters specific to Mining, 
+Agricultural  and  Construction  Equipment  (the  MAC  Protocol).  The  Committee  of  Governmental  Experts 
+entrusted  with  preparing  a  draft  text  met  twice  in  2017,  with  both  sessions  attracting  over  120 
+representatives  from  various  States  and  international  organisations.  Interest  in  the  project  from  the 
+international  community  was  partially  driven  by  the  completion  of  a  preliminary  economic  analysis  in 
+September 2017, which projected that the MAC Protocol will have significant economic benefits  in both 
+developing and developed nations.  
+The  Secretariat  also  continued  to  make  great  progress  in  implementing  the  Institute’s  Work 
+Programme  for  the  2017-2019  triennium,  especially  in  relation  to  the  preparation  of  an  international 
+guidance  document  on  agricultural  land  investment  contracts  and  the  development  of  regional  rules  of 
+European civil procedure. Both projects are being delivered in collaboration with other organisations and 
+institutions – the  Food  and  Agriculture  Organization  and  the  International  Fund  for  Agricultural 
+Development for the former and the European Law Institute for the latter – and are the type of partnerships 
+that are a hallmark of Secretary-General Estrella Faria’s era.  
+ 
+ 
+./. 
+ 
+
+ 
+2 
+ 
+It  is  also  noteworthy  that  at  its 76
+th
+ session  (Rome,  7  December  2017),  the  General  Assembly 
+approved important reforms to the Institute’s staff compensation, pension and insurance schemes. This 
+concluded an extensive Finance Committee process which ensures that these schemes are fair, transparent 
+and efficient.  
+Secretary-General Estrella Faria’s work over the past nine years has made certain that the good ship 
+UNIDROIT is well equipped and provisioned to undertake expeditions long into the future. It has been an 
+honour to lead the Institute as Secretary-General ad interim, and I am thankful to the very able “crew” at 
+the Secretariat who have worked hard to ensure that the transitional period has been smooth sailing.  
+ 
+ 
+ 
+PROFESSOR ANNA VENEZIANO 
+Secretary-General a.i. 
+
+ 3 
+Contents 
+ 
+Page One 1 
+ 
+I. ADMINISTRATION AND ORGANISATION 5 
+ 
+A. PRESIDENCY, GOVERNING COUNCIL, GENERAL ASSEMBLY AND FINANCE COMMITTEE  5 
+1. Presidency and Governing Council 5 
+2. General Assembly and Finance Committee 5 
+3. Secretariat 6 
+ 
+B. DIPLOMATIC CONFERENCES, STUDY GROUPS AND EXPERT COMMITTEES 6 
+1. Transnational Civil Procedure - Formulation of Regional Rules 6 
+2. Luxembourg Protocol to the Convention on International Interests  
+in Mobile Equipment on Matters specific to Railway Rolling Stock 6 
+3. Protocol to the Convention on International Interests in Mobile Equipment  
+on Matters specific to Space Assets 6 
+4. Preparation of a Protocol to the Convention on International Interests  
+in Mobile Equipment on Matters specific to Mining, Agricultural  
+and Construction Equipment 7 
+5. UNIDROIT Legislative Guide on Intermediated Securities 7 
+6. Preparation of an international guidance document on agricultural land  
+investment contracts 7 
+ 
+C. RELATIONS WITH GOVERNMENTS 7 
+ 
+D. CO-ORDINATION BETWEEN ORGANISATIONS INVOLVED IN THE FORMULATION  
+OF PRIVATE LAW RULES 8 
+ 
+E. CO-OPERATION WITH OTHER INTERNATIONAL AND REGIONAL ORGANISATIONS  
+AND ACADEMIC INSTITUTIONS 8 
+1. Meetings and conferences 8 
+2. Co-operation agreements 10 
+ 
+II. LEGISLATIVE ACTIVITIES 12 
+ 
+A. WORK IN PROGRESS 12 
+1. Private Law and Agricultural Development 12 
+Preparation of an international guidance document on agricultural land  
+investment contracts 12 
+2. International Interests in Mobile Equipment 13 
+a. Space Protocol to the Cape Town Convention 13 
+b. Luxembourg Rail Protocol to the Cape Town Convention 13 
+c. Preparation of a future Protocol to the Cape Town Convention  
+on Matters specific to Mining, Agricultural and Construction equipment 14 
+d. Preparation of other Protocols to the Cape Town Convention 14 
+3. Transnational Civil Procedure – Formulation of Regional Rules 15 
+ 
+
+UNIDROIT – Annual Report – 2017 
+4 
+4. UNIDROIT Principles of International Commercial Contracts 16 
+a. Formulation of Principles of Reinsurance Contracts 16 
+b. UNILEX 16 
+5. International Sales Law 16 
+6. Transactions on international and connected capital markets 17 
+UNIDROIT Legislative Guide on Intermediated Securities 17 
+ 
+B. FOLLOW-UP OF INSTRUMENTS ADOPTED BY UNIDROIT 18 
+1. Private Law and Agricultural Development 18 
+UNIDROIT/FAO/IFAD Legal Guide on Contract Farming 18 
+2. UNIDROIT Principles of International Commercial Contracts 19 
+Promotion of the UNIDROIT Principles 2016 19 
+3. International Interests in Mobile Equipment 21 
+a. Cape Town Convention and its Protocols 21 
+b. Cape Town Convention Academic Project 22 
+4. International Protection of Cultural Property 23 
+a. 1995 UNIDROIT Convention on Stolen or Illegally exported Cultural Objects  
+and UNESCO-UNIDROIT Model Provisions on State Ownership  
+of Undiscovered Cultural Objects 23 
+b. Private art collections 24 
+5. Capital markets instruments 25 
+ 
+III. LEGAL CO-OPERATION PROGRAMME AND NON-LEGISLATIVE ACTIVITIES 26 
+ 
+A. LEGAL CO-OPERATION PROGRAMME 26 
+1. Co-operation with partner organisations 26 
+2. Research Scholarships Programme 26 
+3. Collaborators, interns and researchers 27 
+ 
+B.  UNIDROIT ON INTERNET – www.unidroit.org and social media 28 
+ 
+C. DEPOSITORY LIBRARIES FOR UNIDROIT DOCUMENTATION 28 
+ 
+D.  UNIDROIT LIBRARY 28 
+ 
+E.  PUBLICATIONS 29 
+ 
+F.  UNIDROIT FOUNDATION 30 
+ 
+Annex I List of the documents published by the UNIDROIT Secretariat in 2017  
+on the implementation of its Work Programme 31 
+ 
+Annex II Instruments drawn up by UNIDROIT and Status of implementation of conventions 
+drawn up by UNIDROIT and approved at diplomatic Conferences convened  
+by member States of UNIDROIT 35 
+ 
+Annex III Implementation of instruments based on work conducted within UNIDROIT  46 
+ 
+Annex IV Depository Libraries for UNIDROIT documentation 50 
+ 
+
+ 5 
+ 
+I. A D M I N I S T R A T I O N A N D  O R G A N I S A T I O N 
+ 
+ 
+ 
+A. PR E S I D E N C Y, GO V E R N I N G  CO U N C I L, GE N E R A L  AS S E M B L Y  AN D  FI N A N C E  
+CO M M I T T E E * 
+1. Presidency and Governing Council 
+The 96
+th
+ session of the Governing Council
+1
+ was held in Rome from 10 to 10 May 2017 under the 
+chairmanship of the President of the Institute, Professor Alberto Mazzoni. The Governing Council, 
+after approving the Secretary-General’s report on the activity of the Institute in 2016, appointed M. 
+Arthur Hartkamp as First Vice-President, and renewed Professor Lyou Byung-Hwa as Second Vice-
+President until its 97
+th
+ session.  
+Following the decision taken by the Governing Council at its 90
+th
+ session (Rome, 9-11 May 2011) to 
+make systematic use of the authority given to it by article 16 of the UNIDROIT Regulations to request 
+representatives of member Governments that have no nationals sitting on the Council to attend its 
+meetings in a consultative capacity. 14 such Member States were represented at the 96
+th
+ session of 
+the Council. 
+When  discussing  the  draft budget  for  2017,  the  Council  commended  the  positive  impact  of  cost-
+saving measures and management efficiencies have had.  
+The  Governing  Council  approved the  re-appointment  of  the  Deputy  Secretary-General,  Professor 
+Anna Veneziano, for a second term beginning 1 October 2017. The Council congratulated the Deputy 
+Secretary-General and thanked her for her significant contributions to the work of the Institute. 
+The Council finally noted that the Secretary-General’s appointment would expire on 30 September 
+2018 and, as he expressed his unavailability to accept re-appointment, the Council authorised the 
+Permanent Committee to begin the selection process for a successor to the Secretary-General, so 
+as to be able to submit a nomination to the Council at its 97
+th
+ session in 2018. 
+2. General Assembly and Finance Committee 
+The 76
+th
+ session  of  the  General  Assembly  was  held  in  Rome  on 7 December 2017 under  the 
+presidency of H.E. Ms Esti Andayani, Ambassador of Indonesia in Italy, and was attended by the 
+diplomatic representatives in Italy of 43 member States and one observer. The Secretary-General 
+a.i. outlined the work of the Organisation in 2017. 
+During the debate on financial issues, the Assembly approved the Accounts for the 2016 financial 
+year as well as the adjustments to the 2017 budget. The General Assembly also adopted the draft 
+budget for 2018.  
+The General Assembly adopted the revised methodology for the classification of member States in 
+the new Contributions Chart, which would make use of the UN scale of assessments for 2019-2021 
+and come into effect in 2019. 
+                                                 
+*
+ This report covers the activities of UNIDROIT from 1 January to 31 December 2017. 
+1
+  Current composition of the Governing Council: Stefania Bariatti (Italy), Radu Bogdan Bobei (Romania), 
+Hans-Georg Bollweg (Germany), Nuria Bouza Vidal (Spain), Baiba Broka (Latvia), B. Bahadir Erdem (Turkey), 
+Henry D. Gabriel (United States of America), Arthur S. Hartkamp (Netherlands), Monique Jametti (Switzerland), 
+Hideki Kanda (Japan), Miklós Király (Hungary), Alexander S. Komarov (Russian Federation), Antti T. Leinonen 
+(Finland), Lyou Byung-Hwa (Republic of Korea), Jose Antonio Moreno Rodriguez (Paraguay), Jan Lambert Neels 
+(South Africa), Monika Pauknerova (Czech Republic), Wojciech Popiolek (Poland), Jorge Sanchez Cordero Davila 
+(Mexico), Rachel  Sandby-Thomas  (United  Kingdom), Alvaro  Sandoval  Bernal  (Colombia),  Shi  Jingxia  (People's 
+Republic of China), Daniel Tricot (France), Spyridon Vrellis (Greece) and Roger Wilkins (Australia). 
+
+UNIDROIT – Annual Report – 2017 
+6 
+The General Assembly also adopted the transition of UNIDROIT staff to the UN salary scales and the 
+pension scheme, as well as the plan for health and related insurances recommended by the Finance 
+Committee, together with the necessary revisions to the UNIDROIT Regulations and the requested 
+flexibility  for  implementation,  which  would  be  reviewed  by  the  Finance  Committee. The  General 
+Assembly finally appointed the following States to serve in the Finance Committee, for three years 
+commencing on 1 January 2018: Brazil, Canada, China, France, Germany, India, Indonesia, Iran, 
+Italy, Japan, Mexico, Republic of Korea, Russian Federation, Spain, Switzerland, the United Kingdom 
+and the United States of America. 
+The Finance  Committee
+2
+ met three  times in 2017 under  the  chairmanship  of Mr  Benito  Jiménez 
+(Mexico), in particular to discuss the new methodology for the classification of member States in 
+the Contributions Chart and the new compensation and social security package offered to UNIDROIT 
+staff. The 81
+st
+ session was held on 6 April 2017, the 82
+nd
+ session, which took place on 13 July 2017 
+29 September 2016, discussed also the consultations with the Government of Iraq concerning the 
+resumption  of  its  participation  in  UNIDROIT’s work; the  83
+rd
+ session  took  place  on  21  September 
+2017.  The  Committee made  recommendations  on  various financial  issues later submitted  for 
+consideration by the General Assembly. 
+3. Secretariat 
+The Secretary-General, Mr José Angelo Estrella Faria, left UNIDROIT at the end of July 2017, before 
+the end of his mandate, and returned to his post at the United Nations Commission on International 
+Trade Law. Professor Anna Veneziano has been appointed Secretary General ad interim until the 
+appointment of a successor to Mr Estrella Faria. 
+On 31 December 2017 the Secretariat was made up of 18 members, of which six professional staff 
+(Category  A), nine administrative, Library  and  secretarial  staff  (Category  B) and three  technical 
+support staff (Category C). The Secretariat is also assisted by two research assistants. 
+ 
+ 
+B. DI P L O M A T I C  CO N FER E N C E S, STUD Y  GR O U P S   A N D  EX P E R T  CO M M I T T E E S 
+The following meetings were organised by the Institute in 2017: 
+1. Transnational Civil Procedure - Formulation of Regional Rules 
+Joint Meeting of the Steering Committee ELI – UNIDROIT and of Co-Reporters (Rome, 5-7 April 2017)  
+Joint Meeting of the Steering Committee with Working Groups Co-Reporters, Members, Advisers and 
+Observers (Vienna, 16-17 November 2017).  
+2. Luxembourg  Protocol  to  the  Convention  on  International  Interests  in  Mobile 
+Equipment on Matters specific to Railway Rolling Stock 
+Meetings of the Ratification Task Force (through teleconference on 28 February, 26 May, 25 July 
+and 12 December, as well as on 27 December in Rome. 
+3. Protocol  to  the  Convention  on  International  Interests  in  Mobile  Equipment  on 
+Matters specific to Space Assets 
+Fifth session of the Preparatory Commission for the establishment of the International Registry for 
+space assets (Rome, 6 December 2017). 
+                                                 
+2
+  The Finance Committee is currently (term of three years commencing on 1 January 2015) composed of 
+the following member States: Austria, Brazil, Canada, China, France, Germany, India, Islamic Republic of Iran, 
+Italy, Japan, Mexico, Republic of Korea, Romania, Russian Federation, Spain, Switzerland, United Kingdom and 
+United States of America.  
+
+Administration and organisation 
+ 7 
+4. Preparation of a Protocol to the Convention on International Interests in Mobile 
+Equipment   on   Matters   specific   to Mining, Agricultural and Construction 
+Equipment 
+First session of the Committee of governmental experts (Rome, 20 to 24 March 2017) 
+Second session of the Committee of governmental experts (Rome, 2 to 6 October 2017). 
+5. UNIDROIT Legislative Guide on Intermediated Securities 
+Informal meeting of experts group for the preparation and review of the draft Legislative Guide (via 
+videoconference on 16 January 2017) 
+Fourth  meeting  of  the  Committee  on  Emerging  Markets  Issues,  Follow-up  and  Implementation 
+(Beijing, 29-30 March 2017). 
+6. Preparation   of   an   international   guidance   document   on   agricultural   land 
+investment contracts 
+First meeting of the Working Group (Rome, 3–5 May 2017) 
+Second meeting of the Working Group (Rome, 13–15 September 2017) 
+Second informal meeting with experts and interested stakeholders held at the FAO on 11 October 
+2017, during the Committee on World Food Security’s 44
+th
+ plenary session (Rome, 9-13 October 
+2017). 
+ 
+ 
+C. RE L A T I O N S  W I T H  GO V E R NM E N T S  
+On  31 December 2017 UNIDROIT had 63 member  States: Argentina,  Australia, Austria,  Belgium, 
+Bolivia, Brazil,  Bulgaria,  Canada,  Chile,  China,  Colombia, Croatia,  Cuba, Cyprus,  Czech  Republic, 
+Denmark, Egypt, Estonia, Germany, Finland, France, Greece, Holy See, Hungary, India, Indonesia, 
+Iran, Iraq, Ireland, Israel, Italy, Japan, Latvia, Lithuania, Luxembourg, Malta, Mexico, Netherlands, 
+Nicaragua, Nigeria, Norway, Pakistan, Paraguay, Poland, Portugal, Rep. of Korea, Rep. of Serbia, 
+Romania, Russian Federation, San  Marino, Saudi  Arabia, Slovakia, Slovenia, South  Africa, Spain, 
+Sweden, Switzerland,  Tunisia, Turkey, United  Kingdom,  United  States  of  America, Uruguay and 
+Venezuela.  
+The Secretariat continues consultations with a few non-member States with a view to their possible 
+accession to the UNIDROIT Statute.  
+On  30  January  2017,  the  Secretary-General  Mr  José  Angelo  Estrella  Faria  took  part  in Les Etats 
+généraux de la recherche sur le Droit et la Justice, which was held in Paris (30 January-2 February 
+2017),  organised  by  the  French  Ministry  of  Justice  and  the  Ministry  of  Education,  the  Mission  de 
+recherche Droit et Justice (a joint initiative of the CNRS and the Ministry of Justice), the National 
+School  of  Magistrates,  and  the  CNRS. He  made  a  presentation  on  the  Legal  Guide  on  Contract 
+Farming. 
+On 16 February 2017, the Deputy Secretary-General, Professor Anna Veneziano, participated in a 
+Roundtable on the Multilateral Investment Court hosted by the Italian Ministry of Foreign Affairs. 
+On 28 February 2017, UNIDROIT participated in a special event entitled “Promoting and strengthening 
+the international legal framework for the protection of cultural heritage” which took place at United 
+Nations Headquarters, co-organized by the Permanent Missions of Cyprus and Italy to the UN and 
+by UNIDROIT.  During  the  event,  the  establishment  of  an  informal  Task  Force,  open  to  all  States 
+wishing  to  participate,  aimed  at  the  promotion  of  the  wider  ratification  of  the  1995 UNIDROIT 
+Convention, was announced. 
+On  28  March  2017, the Secretary-General was  invited  to  participate  in  a  Symposium  on  the 
+Luxembourg Rail Protocol to the Cape Town Convention in Beijing. The Symposium, organised by the 
+Treaty & Law Department of the Ministry of Commerce of the People's Republic of China (MOFCOM) 
+
+UNIDROIT – Annual Report – 2017 
+8 
+and  hosted  by  the  University  of  International  Business  and  Economics  (UIBE),  was  addressed  to 
+industry stakeholders and government officials and aimed to provide an understanding of the benefits 
+of the Rail Protocol, its overall impact, the functioning of the Registry, as well as an assessment based 
+on the Aircraft Protocol.  
+On 30 and 31 March 2017, UNIDROIT was invited to take part to the first G7 Culture meeting in the 
+history of G7, hosted by Italy in Florence. Professor Anna Veneziano attended the Ministerial meeting 
+together  with  the  Ministers  of  Culture  of the  G7  countries.  The  Declaration  signed  by  the  seven 
+Ministers of Culture urges States to ratify the existing relevant Conventions against trafficking in 
+cultural  property  such  as  the  1995 UNIDROIT Convention  on  Stolen  or  Illegally  Exported  Cultural 
+Objects. 
+On  16  May  2017,  the  Secretary-General  visited  the  Brazilian  Diplomatic  Academy  (Instituto Rio 
+Branco) where he delivered a lecture on UNIDROIT’s Contribution to the Development of Transnational 
+Commercial Law, and held consultations with the Director and staff of the Economic Department of 
+the Ministry of External Relations in Brasilia. 
+On 6 and 7 November 2017, the Secretary-General a.i. Professor Anna Veneziano and Senior Legal 
+Officer  Ms  Frédérique  Mestre  were  invited  to  Jakarta  for  Ministerial  meetings  and  to  speak  at  an 
+International Workshop entitled “Improving Small Scale Farmers’ Welfare” organised the Ministry of 
+Foreign Affairs and Ministry of Agriculture of Indonesia. 
+ 
+ 
+D. CO-O R D I N A T I O N  B E T W E E N OR G A N I S A T I O N S  I N V O L V E D   I N T H E  F O R M U L A T I O N 
+O F   P R I V A T E   L A W   R U L E S 
+The customary co-ordination meeting between the Secretaries-General of the Hague Conference of 
+Private International Law, UNCITRAL and UNIDROIT took place in The Hague on 20 April 2017.  
+ 
+ 
+E. CO-O P E R A T I O N  W I T H  O T H E R  I N T E R N A T I O N A L  A N D  R E G I O N A L  
+OR G A N I S A T I O N S A N D   A C A D E M I C   I N S T I T UT I O N S 
+1. Meetings and conferences 
+In  the  course  of  the  period  under  review,  the  Institute  was  represented  at  several  meetings 
+organised  by other international  organisations including the Asia-Pacific  Economic  Cooperation 
+(APEC), the  European  Law  Institute  (ELI), the Food  and  Agriculture  Organization  of  the  United 
+Nations (FAO), the Hague Conference on Private International Law (HCCH), the Intergovernmental 
+Organisation for International Carriage by Rail (OTIF), the International Bar Association (IBA), the 
+International  Fund  for  Agricultural  Development  (IFAD), the International  Insolvency  Institute, 
+INTERPOL, the National Law Center for Inter-American Free Trade, the Organisation for Economic 
+Co-operation and Development (OECD), the Organization for the Harmonization of Business Law in 
+Africa  (OHADA), the  United  Nations  Commission  on  International  Trade  Law  (UNCITRAL), United 
+Nations  Office  for  Outer  Space  Affairs (UNOOSA), the  United  Nations  Educational,  Scientific  and 
+Cultural Organization (UNESCO) and the World Bank. 
+On 13 January 2017, the Deputy Secretary-General, Professor Anna Veneziano, and Senior Legal 
+Officer and Treaty Depositary Ms Marina Schneider, participated in a Colloquium held by the Council 
+of Europe entitled “Initiatives to strengthen international capacities for the protection of cultural 
+property and the prevention of illicit trafficking in cultural goods” in Strasbourg.  
+On 1 February 2017, the Secretary-General, Mr José Angelo Estrella Faria, attended a meeting with 
+the Head of the Export Credits Division of OECD, accompanied by the Secretary-General of OTIF, 
+Mr François Davenne, to discuss the Luxembourg Rail Protocol. 
+On 2 February 2017, the Secretary-General delivered a Technical Presentation entitled “Towards the 
+Establishment  of  the  International  Registry  of  Secured  Interests  in  Space  Objects:  The  Space 
+Protocol to the Cape Town Convention and Rail Protocol”, during the 54
+th
+ session of the Scientific 
+
+Administration and organisation 
+ 9 
+and  Technical Subcommittee  of  the  Committee  on  the Peaceful  Uses  of Outer Space  (Vienna,  30 
+January-10 February 2017). 
+On 9 and 10 February 2017, the Secretary-General and the Deputy Secretary-General (the latter 
+remotely), participated in an Invitational Conference hosted by the University of Pennsylvania Law 
+School entitled “Secured Transactions Coordination Conference: Advancing Global Reforms”,  co-
+sponsored  by  the  International  Insolvency  Institute,  the  National  Law  Center  for  Inter-American 
+Free Trade, and the Organization for the Harmonization of Business Law in Africa (OHADA). 
+On  27 and 28  February  2017, the Deputy  Secretary  General  participated  in  the  Society  of  Legal 
+Scholars Annual Seminar 2017 held at the Durham Law School. The Seminar focussed on the future 
+of  commercial  law  harmonisation  with  the  emphasis  on  future  agendas  for  key  international 
+harmonising bodies. 
+On  14  March  2017,  the Secretary-General,  Mr.  José  Angelo  Estrella  Faria  delivered  an  opening 
+lecture  on  “The  Application  of  Non-State  Laws  to  International  Commercial  Arbitration”,  in  a 
+Conference  organised  by  the  University  of  Talca  (Santiago,  Chile),  entitled  “Contracting  and 
+International Commercial Arbitration”, hosted by the Chamber of Commerce of Santiago. 
+On  15  March  2017, the  Secretary-General  was  invited  by  the  Dean  of  the  Law  Faculty  of  the 
+Universidad  de  los  Andes (Santiago,  Chile) for  an  official  visit during  which  he  participated  in  a 
+Seminar for PhD students and Professors delivering a lecture on the UNIDROIT Principles and Long 
+Term Contracts, and delivered a lecture for undergraduates focussing on UNIDROIT’s contribution to 
+transnational commercial law. 
+On  15-17  March  2017, the Deputy  Secretary  General  participated  in  the  Fourth  International 
+UNCITRAL Colloquium on Secured Transactions in Vienna, in a panel entitled “Technical assistance 
+in secured transactions: coordination and cooperation with other organizations”. The colloquium was 
+organised to discuss possible future work in the area of secured transactions and related areas. 
+On  27  and  28  March  2017, the Deputy  Secretary-General  participated  in  the “2
+nd
+ Academic 
+Workshop: Best Practices in the field of electronic registry design and operations”, co-organised by 
+CLC Harris Manchester College and UNIDROIT. The Workshop garnered the participation of leading 
+experts  from  inter-disciplinary  fields,  including  academia,  industry,  practitioners  and  registrars, 
+whose  work  has  made  significant  contributions  in  the  field  of  electronic  registry  design  and 
+operation. 
+On 18 May  2017,  the  Secretary-General  delivered  the  first  lecture  at  the  3
+rd
+ edition  of  Law 
+Conference  of  the Centro  de  Estudos  Superiores  de  Maceió  (CESMAC),  with  a  speech  on  the 
+Protection of Historic and Artistic Heritage and the Fight against the Traffic of Cultural Property in 
+Maceio (Brazil).  
+On 9 June 2017, the Secretary-General and Deputy Secretary-General were both invited to deliver 
+lectures  in  the  5
+th
+ Edition  of  the  Masters  LUISS  Business  and  Company  Law:  European  and 
+International  Perspectives  in  Rome,  on Introduction  to  International  Commercial  Law  and 
+Introduction to International Commercial Contracts, and on the UNIDROIT Principles of International 
+Commercial Contracts. 
+On 14 September 2017, the UNIDROIT President Professor Alberto Mazzoni gave the inaugural lecture 
+at the ceremonial opening of the Queen Mary- UNIDROIT Institute of Transnational Commercial Law, 
+which  took  place  at  the  Honourable  Society  of  Gray's  Inn  in  London. His  lecture was entitled 
+“International Commercial Law Today: Old Habits and New Challenges”. 
+On 10 October 2017, UNIDROIT was invited to participate in the session panel on “Agricultural supply 
+chains in Southeast Asia: legal considerations from ‘farm to the fork’” in the framework of the Annual 
+IBA Conference in Sydney to discuss ‘Developments of contract farming in South Eastern Asia’. Ms 
+Frederique Mestre, Senior Legal Officer, discussed ‘Developments of contract farming in South 
+Eastern Asia’ focusing on good practices in contract farming to support sustainable economic and 
+social development. 
+On 2 and 3 November 2017, the 9
+th
+ Transnational Commercial Law Teachers’ Meeting took place at 
+Radboud University in Nijmegen. Beyond many topics of particular relevance to UNIDROIT, such as 
+the  Cape  Town  Convention  and  its  Protocols  as  well  as  indirectly  held  securities,  the  Secretary-
+
+UNIDROIT – Annual Report – 2017 
+10 
+General a.i., Professor Anna Veneziano, was a moderator on a panel concerning UNIDROIT’s work on 
+Contract Farming and Land Investment Contracts, which involved a presentation by Professor Henry 
+Gabriel (Elon School of Law and UNIDROIT Governing Council Member). 
+Members  of  the  Secretariat  also  participated  in  various  meetings  and  conferences  where  they 
+presented  the UNIDROIT instruments  and  the  work  of  the  Institute  in  general.  Details  of  some  of 
+these meetings are set out elsewhere in this report. 
+Cooperation with the Asia-Pacific Economic Cooperation (APEC) 
+On  24  and  25  February  2017, UNIDROIT represented by  Mr  William-Brydie  Watson,  Legal  Officer, 
+provided  legal  expertise  at  an Asia-Pacific  Economic  Cooperation  (APEC)  Seminar  on  the  use  of 
+International Instruments to Strengthen Contract Enforcement in Supply Chain Finance for Global 
+Businesses in Nha Trang, Viet Nam. The seminar was sponsored by the Hong Kong Department of 
+Justice and held under the auspices of the APEC Economic Committee's "Strengthening Economic 
+Legal Infrastructure" Group. 
+In July 2017, following successful cooperation in Peru in 2016 and in Viet Nam in 2017, the APEC 
+member  economies  have  granted UNIDROIT a  three-year  guest  status  in  the  APEC  Economic 
+Committee. 
+Cooperation with the Global Forum on Law, Justice and Development (GFLJD)  
+A partner of the Global Forum on Law, Justice and Development (GFLJD) – an initiative of the World 
+Bank Legal Vice-Presidency - and a member of its Steering Committee, and as a follow up to UNIDROIT’s 
+preliminary work toward the preparation of a legal regimen governing social enterprises carried out in 
+2010, UNIDROIT joined the GFLJD Project “The Human-Centered Business Model (HCBM): A Holistic 
+Approach to a New Model for Doing Business”. The Project aims to bridge the gap between for-profit 
+and non-profit models of doing business. In accordance with the Governing Council’s decision at its 
+96
+th
+ session  (10-12  May 2017) UNIDROIT agreed  to  take  a  co-leading  role  with  the  University  of 
+Florence for the second pillar of the project, which focuses on legal frameworks and governance. The 
+UNIDROIT Secretariat  has  provided  support  to  the  project  with  preliminary  research  work  and  the 
+participation in promotion events together with a broad range of interested stakeholders, aiming at 
+eliciting the interest of sponsoring institutions for the project. 
+On 17 February 2017, UNIDROIT hosted an event organised with other partners of the GFLJD, under 
+the patronage of the Italian Agency for Cooperation for Development. On 22 November 2017, Professor 
+Alberto  Mazzoni,  President  of UNIDROIT,  and  Ms  Frederique  Mestre, UNIDROIT Senior  Legal  Officer, 
+participated in a meeting in Paris organised and hosted by the Conseil Supérieur du Notariat, with the 
+support of the French Ministry for Europe and Foreign Affairs. 
+2. Co-operation agreements 
+In 2017, UNIDROIT signed several co-operation agreements with the following different institutions: 
+- in  January  2017, UNIDROIT signed  a  cooperation  agreement  with  the Faculty  of  Legal  and 
+Social  Sciences  of  the  Universidad  de  Talca  (Chile)  for  the  implementation  of  a  Joint  Research 
+Programme in the field of uniform and comparative private law; 
+- in March 2017, UNIDROIT signed a framework agreement with the Universidad de los Andes 
+(Chile) to implement a joint research programme in the field of uniform law;  
+- in May 2017, the Institute has concluded a Memorandum of Understanding (MOU) with the 
+Faculty of Law, Cairo University (Egypt) to encourage access to the UNIDROIT Research Programme 
+and enhance expert knowledge on UNIDROIT work and uniform and comparative private law; 
+- the Egyptian Council of State (ECS) and UNIDROIT signed a Memorandum of Understanding 
+(MOU) in June 2017 to enhance cooperation and expert knowledge on UNIDROIT’s work related to 
+comparative and private law; 
+
+Administration and organisation 
+ 11 
+- in June 2017, a Memorandum of Understanding (MOU) was signed between UNIDROIT and the 
+University  of  International  Business  and  Economics  (UIBE,  China)  to  encourage  research  on  and 
+practical knowledge of UNIDROIT’s work on uniform and comparative private law. 
+
+ 
+ 12 
+ 
+II. L E G I S L A T I V E  A C T I V I TIES 
+ 
+ 
+ 
+A. WO R K IN P R O G R E S S 
+1. Private Law and Agricultural Development  
+Preparation of an international guidance document on agricultural land investment 
+contracts 
+At its 95
+th
+ session (Rome, 18-20 May 2016), the Governing Council considered the feasibility study 
+that had been prepared by the Secretariat (UNIDROIT 2016 – C.D. (95) 7(b)) and took note of it, 
+ultimately deciding to recommend to the General Assembly that it retain work on an international 
+guidance document on agricultural land investment contracts in the UNIDROIT Work Programme for 
+the  2017-2019  triennium  with  a  high  level  of  priority. The  General  Assembly  endorsed  that 
+recommendation at its 75
+th
+ session (Rome, 1 December 2016). 
+Consistent  with  the  high  level  of  priority,  the  Working  Group  on  agricultural  land  investment 
+contracts was constituted and held two meetings in 2017. The Working Group is chaired by Mr José 
+Antonio Moreno Rodríguez, a member of the UNIDROIT Governing Council, and currently includes: Mr 
+Lorenzo  Cotula,  Principal  Researcher  in  Law  and  Sustainable  Development  at  the  International 
+Institute for Environment and Development (IIED); Mr Daryono, Professor at Universitas Terbuka, 
+Jakarta; Ms Bénédicte Fauvarque-Cosson, Professor at Université Paris 2; Mr James Gathii, Wing-
+Tat Lee Chair in International Law and Professor of Law at Loyola University Chicago School of Law; 
+Ms Jean Ho, Assistant Professor at the National University of Singapore; Mr Pierre-Etienne Kenfack, 
+Professor  at Université Yaoundé  2;  and  Ms  Yuliya  Panfil,  Associate,  Investments  at  the  Omidyar 
+Network.  The  Working  Group  also  includes  representatives  of  FAO;  IFAD;  the  International  Land 
+Coalition, a global alliance of civil society and farmers’ organisations, UN agencies, NGOs and 
+research  institutes;  the  World  Farmers  Organisation,  made  up  of  national  producer  and  farm 
+cooperative  organisations;  and  the  Private  Sector  Mechanism  at  the  Committee  on  World  Food 
+Security (CFS), which provides views on behalf of the wider private sector. 
+At the Working Group’s first meeting (Rome, 3-5 May 2017), the Working Group began by discussing 
+various  general  matters,  including: UNIDROIT and  its  work  on  private  law  and  agricultural 
+development; alignment of the work with existing initiatives, in particular the Voluntary Guidelines 
+on the Responsible Governance of Tenure of Land, Fisheries and Forests in the context of National 
+Food  Security  (VGGT)  and  the  Principles  for  Responsible  Investment  in  Agriculture  and  Foods 
+Systems  (CFS-RAI  Principles); co-operation  with  the  UN  agricultural  development  agencies,  non-
+governmental organisations, civil society, the private sector and other stakeholders; and the possible 
+scope, structure and target audience of the future instrument. Following those general discussions, 
+the Working Group reviewed a preliminary draft outline of the future instrument on agricultural land 
+investment contracts, which had been prepared by the UNIDROIT Secretariat for discussion purposes. 
+The  Group  amended  and  provided  expert  input  on  the  initial  outline,  which  would  be  subject  to 
+ongoing review.  
+At  the  Working  Group’s  second  meeting  (Rome,  13-15  September  2017),  the Working  Group 
+discussed recent developments and general considerations in relation to the work, in particular with 
+respect to the future instrument’s scope and target audience and its alignment to existing initiatives. 
+In  this  regard,  the  Working  Group  recommended  that,  subject  to  ongoing  review,  the  future 
+instrument should be a guide focusing on leases and concessions of agricultural land and that the 
+guidance should be targeted to not just legal counsels for investors, but legal counsels for the various 
+parties involved in those contracts. The Working Group then examined in detail an updated draft 
+outline of the future instrument and initial draft contributions for certain chapters. Regarding the 
+organisation  of  future  work,  the  Working  Group  considered  possible  events  and  other  means  for 
+raising awareness about the work, consulting stakeholders and seeking their input. It then decided 
+that the third meeting would be held in Rome on 25-27 April 2018. 
+
+Legislative activities 
+ 13 
+In addition, the Secretariat organised a second informal meeting that was held – in collaboration 
+with FAO and IFAD – with experts and interested stakeholders at FAO on 11 October 2017 during 
+the CFS’ 44
+th
+ plenary  session.  Like  the  previous  informal  meeting,  which was  held  at  FAO  on  20 
+October 2016 during the CFS’ 43
+rd
+ plenary session, the meeting raised awareness about UNIDROIT’s 
+work in this area and solicited input on the scope, target audience, form and content of the future 
+instrument on agricultural land investment contracts. Participants reviewed and commented on the 
+draft  outline,  and  the  input  received  was  provided  to  the  Working  Group  for  its  consideration  in 
+preparing the future guide on agricultural land investment contracts. 
+2. International Interests in Mobile Equipment  
+a. Space Protocol to the Cape Town Convention 
+Preparatory Commission for the establishment of an International Registry 
+Pursuant to Resolution  1 of  the diplomatic Conference for the adoption of the draft Protocol to the 
+Convention on International Interests in Mobile Equipment on Matters Specific to Space Assets (Berlin, 
+27 February-9 March 2012), a Preparatory Commission was set up to act as Provisional Supervisory 
+Authority for the establishment of the International Registry for Space Assets under the guidance of 
+the UNIDROIT General Assembly. The Commission is chaired by Sergio Marchisio, former Chairman of 
+the Commission of the Whole at the Berlin Conference and the following States agreed to serve as 
+members of the Preparatory Commission: Brazil, the People’s Republic of China, the Czech Republic, 
+France,  Germany,  India,  Italy,  the  Russian  Federation,  Saudi  Arabia,  South  Africa  and  the  United 
+States of America.  
+The fifth session of the Preparatory Commission for the establishment of the International Registry for 
+Space  Assets  was  held  in  Rome  on  6  December  2017. The  Commission  convened  to  discuss  the 
+progress in, the appointment of a Supervisory Authority and the selection of the Registrar as well as 
+a series of future promotional events for 2018. 
+b. Luxembourg Rail Protocol to the Cape Town Convention  
+Preparatory Commission for the establishment of an International Registry 
+A Preparatory Commission was established by Resolution 1 of the Luxembourg diplomatic Conference 
+in order to prepare the International Registry under the Rail Protocol. The Preparatory Commission, at 
+its 7
+th
+ Session held in Rome in December 2014, set up a special Ratification Task Force. The Ratification 
+Task  Force  (composed,  for  the  time  being,  of  the  Co-Chairs  of the  Preparatory  Commission,  the 
+Government  of  Luxembourg,  representatives  of  the  Rail  Working  Group,  Regulis  SA  as  designated 
+Registrar and SITA as well as OTIF and UNIDROIT) set up an intense agenda for its work and continued 
+to meet several times (mostly through teleconference) also during 2017, with the aim of coordinating 
+the strategy towards early implementation of the Protocol. 
+In particular, the Ratification Task Force met in Rome on 27 September 2017 to discuss the progress 
+of  ratification  in  key  countries.  The  meeting  was  honoured  by  the  presence  of  H.E.  Paul  Dühr, 
+Ambassador of Luxembourg to Italy. Professor Anna Veneziano, Secretary-General a.i. of UNIDROIT, 
+and Mr Peter Bloch, co-chair of the Preparatory Commission and Ratification Task Force, opened the 
+meeting, in which Mr Howard Rosen (Chairman, Rail Working Group), Ms Elizabeth Hirst (Managing 
+Director,  Regulis  SA),  and  Mr  Andy  Smith  (SITA),  were  present.  The  Secretary-General  of  the 
+Intergovernmental Organisation for International Carriage by Rail (OTIF), Mr François Davenne, and 
+the  Head  of  Finance  and  Administration  of  OTIF,  Mr  Gousébasha  Gaffar,  and  Rail  Working  Group 
+Secretary Mr Martin Fleetwood, participated via remote connection. 
+For other  events organised to promote the  Rail Protocol in 2017 with participation of UNIDROIT see 
+below, para. B, No. 3, lit.a. 
+ 
+ 
+
+UNIDROIT – Annual Report – 2017 
+14 
+c. Preparation  of  a  future  Protocol  to  the  Cape  Town  Convention  on Matters 
+specific to Mining, Agricultural and Construction equipment 
+At its 95
+th
+ session  (Rome,  18–20 May 2016), the Governing Council  requested that the UNIDROIT 
+Secretariat convene a Committee of Governmental Experts for the preparation of a draft Protocol to 
+the Convention on International Interests in Mobile Equipment on Matters specific to Agricultural, 
+Construction and Mining Equipment (“MAC Protocol”).  
+The first session of the Committee of Governmental Experts was held at the headquarters of the 
+Food and Agriculture Organization of the United Nations (FAO) in Rome from 20-24 March 2017. 
+The  session  was  attended by  126  representatives  from  48  Governments  (30 UNIDROIT member 
+States  and  18  non-member  States),  six  regional  and  intergovernmental  organisations  and  four 
+international non-governmental organisations. 
+At the first session, the Committee of Governmental Experts made strong progress in reviewing the 
+preliminary draft text provided by the Study Group, and the majority of the text proposed by the 
+Study Group was adopted by the Committee. The most debated issues were: (a) the scope of the 
+Protocol in relation to MAC equipment; (b) how the Protocol should address interests arising out of 
+the association of MAC equipment with immovable property; and (c) the amendment procedure for 
+the Protocol, with particular regard to the Harmonized System codes (“HS codes”) contained in the 
+Annexes  to  the  preliminary  draft  Protocol.  At  the  end  of  the  session,  the  Committee  decided  to 
+establish an Intersessional Working Group on Registration Criteria, which was tasked with preparing 
+a new draft Article XVI.  
+After the first session, the Secretariat supported the operation of the Working Group on Registration 
+Criteria and prepared additional legal analysis for consideration by the Committee of Governmental 
+Experts. On the request of the Committee, the Secretariat also commissioned a team of economists 
+to conduct an economic impact analysis on the MAC Protocol. The economic analysis was majority 
+funded by the MAC Protocol Working Group, which represents private sector interests in the MAC 
+Protocol project. 
+The second session of the Committee of Governmental Experts was held at FAO’s in Rome from 2-
+6  October  2017.  126  representatives  from  51  Governments,  six  regional  and  intergovernmental 
+organisations  and  three  international  non-governmental  organisations  registered  to  attend  the 
+meeting.  During  the  session,  further  refinements  were  made  to  the  MAC  Protocol.  In  particular, 
+additional provisions were inserted to address private sector concerns regarding how the Protocol 
+would deal with inventory. The Committee also adopted amendments to Article XVI, as proposed by 
+the Intersessional Working Group on Registration Criteria.  
+At the end of the session, the Committee of Governmental Experts adopted the preliminary draft 
+MAC  Protocol  and  made  a  recommendation  to  the UNIDROIT Governing  Council that  a  Diplomatic 
+Conference  be  convened  to  conclude  the  MAC  Protocol.  The  Governing  Council  will  consider  the 
+preliminary draft Protocol adopted by the Committee at its 97
+th
+ session in May 2018.  
+As part of its strategy to maximise engagement with the MAC Protocol and attendance at the future 
+Diplomatic Conference, the Secretariat undertook missions to Budapest in November 2017 and Cairo 
+in December 2017 to assist Hungary and Egypt in their consideration of the preliminary draft text.   
+d. Preparation of other Protocols to the Cape Town Convention 
+On recommendation from the Governing Council, the General Assembly at its 75
+th
+ session (Rome, 
+1  December  2016)  decided  to include  on  the  Institute’s  2017–2019  Work  Programme  the 
+preparation of additional Protocols to the Cape Town Convention on matters specific to (i) ships and 
+maritime transport equipment, and (ii) renewable energy equipment. Both projects were assigned 
+a low priority by the General Assembly.  
+For ships and maritime equipment, the Secretariat continued to monitor developments in this area. 
+This  includes  the  ongoing  work  by  an  International  Working  Group  of  the Comité  Maritime 
+International (CMI),  which  has  collected  from  various  jurisdictions – via  a  questionnaire  made 
+available  in  April  2016 – information  regarding  maritime  security  interest  practices  and  industry 
+
+Legislative activities 
+ 15 
+needs and for which a progress update was provided at CMI’s recent General Assembly meeting 
+(Genoa, 7-8 September 2017).
+3
+ 
+As consistent with its low priority, in 2017 a limited amount of research was undertaken to assess 
+the viability of extending the Cape Town Convention to renewable energy equipment. The research 
+undertaken  focused  on  core  issues  such  as  (i)  whether  an  asset-based  financing  treaty  was 
+appropriate  in  facilitating  the  financing  of  renewable  energy  projects,  (ii)  whether  extending  the 
+Cape  Town  Convention  would  support  ongoing  activities  by  other  international  organisations  in 
+promoting renewable energy and (iii) whether there was private sector support for the project. 
+3. Transnational Civil Procedure – Formulation of Regional Rules 
+In 2014, UNIDROIT and the European Law Institute (ELI) agreed on a Memorandum of Understanding 
+specifically  related  to  a  project  on  European  civil  procedure  rules  based  on  the  American  Law 
+Institute (ALI) – UNIDROIT Principles of Transnational Civil Procedure. A Steering Committee was set 
+up,  co-chaired  by  ELI  President  Diana  Wallis  and  the UNIDROIT Secretary-General  José  Angelo 
+Estrella Faria and composed of representatives of both organisations and of Reporters for the first 
+three Working Groups that were established (“Access to information and evidence” “Provisional and 
+protective measures” and “Service of documents and due notice of proceedings”). Two additional 
+Working Groups were established during the 2014 plenary meeting of the Steering Committee and 
+the Working Group members on the topics of “Lis pendens and res judicata” and “Obligations of the 
+parties and lawyers”. Finally, between 2015 and 2016, three other groups (respectively on “Costs”, 
+“Judgments” and “Parties in the proceedings”) were set up, so as to provide coverage of most of 
+the issues addressed in the ALI-UNIDROIT Principles and for which European rules were considered 
+to be both useful and feasible. Finally, a horizontal “Structure” Working Group was established, with 
+participation  of  two  members  of  the  Steering  Committee  and  with  the  aim  of  coordinating  the 
+preparation of the consolidated text of the rules. 
+Steering  Committee  Members,  Co-Reporters  and  members  of  the  Working  Groups  of  the  ELI-
+UNIDROIT joint  project  convened  on  5-7  April  2017  in  Rome  to  discuss  issues  pertaining  to  the 
+finalisation of the drafts of the first three Working Groups and progress drafts and reports of the 
+other Working Groups, as well as the formal establishment of a sub-group on Appeals On the first 
+day, the Working Group on “Structure” discussed, together with the Steering Committee and 
+representatives of Co-Reporters of the Working Groups, the consolidated text of three final drafts 
+on “Service and due notice of proceedings”, “Access to information and evidence” and “Provisional 
+and protective measures”, as well as general points regarding project coordination. 
+The official part of the Joint Steering Committee Meeting with Members of the Project took place on 
+the  next  two  days,  under  the  chairmanship  of  the  Secretary  General  of UNIDROIT,  José  Angelo 
+Estrella Faria, and the ELI President, Diana Wallis. All  Members of the Steering Committee were 
+present as well as Co-reporters and numerous Members of all of the Project’s Working Groups.  
+On 7 September 2017, the ELI-UNIDROIT project was presented at the 2017 ELI Annual Conference 
+in Vienna. ELI President Diana Wallis and Secretary-General ad interim of UNIDROIT Anna Veneziano 
+co-chaired a panel of the “Structure” Group. The panel presented the first consolidated draft of the 
+Rules  resulting  from  the  work  of  the  first  three  Working  Groups  (Provisional  and  Protective 
+Measures, Access to Information and Evidence, and Service of Documents), which had already been 
+presented to the UNIDROIT Governing Council at its 96
+th
+ session on 10-12 May 2017. 
+On  16-17  November 2017,  Steering  Committee  members,  Co-Reporters  and  Members  of  the 
+Working Groups, as well as Advisers and Observers convened in the Palais Trautson of the Austrian 
+Ministry of Justice for a plenary meeting. During the two-day event, Members of the Project heard 
+presentations  and  debated  on  such  topics  as res  judicata and  pendency,  parties,  costs,  and 
+judgments in civil procedure. The overarching working group “Structure” also presented an updated 
+version of the consolidated draft of European Principles of civil procedure, encompassing the work 
+of the first three Working Groups of the Project (access to information and evidence, provisional 
+                                                 
+3
+  CMI,   Ship   Financing   Security   Practices, http://www.comitemaritime.org/Ship-Financing-Security-
+Practices/0,27150,115032,00.html (last accessed 12 February 2018).  
+
+UNIDROIT – Annual Report – 2017 
+16 
+and protective measures, and service of documents). Diana Wallis (Past ELI President) and Anna 
+Veneziano (UNIDROIT Secretary-General a.i.) opened the meeting. 
+4. UNIDROIT Principles of International Commercial Contracts  
+a. Formulation of Principles of Reinsurance Contracts 
+In July 2015, the Secretariat was approached by a group of scholars and practicing lawyers led by 
+Professor Anton K. Schnyder and Professor Helmut Heiss (University of Zurich, as "Lead Agency"), 
+Professor  Martin  Schauer  (University  of  Vienna)  and  Professor  Manfred  Wandt  (University  of 
+Frankfurt),  who  were  examining  the  feasibility  of  formulating  "Principles  of  Reinsurance  Contract 
+Law"  (PRICL).  The  purpose  of  the  project  is  to  formulate  a  “restatement”  of  existing  global 
+reinsurance law, which is largely embedded in international custom and usage, but is seldom the 
+object  of  legislation.  The  project  leaders  expressed  the  view  that  the  proposed  principles 
+presupposed the existence of adequate rules of general contract law. Rather than attempting to re-
+create such rules, the proposed new principles should be drafted as a “special part” of the UNIDROIT 
+Principles of International Commercial Contracts. With a view to ensuring consistency between the 
+PRICL and the UNIDROIT Principles, UNIDROIT was invited to participate. 
+The  Governing  Council  decided  to  recommend  this  topic  for  inclusion  in  the UNIDROIT Work 
+Programme for the triennium 2017-2019 by the General Assembly, and recommended to assign it 
+with a low level of priority. The General Assembly endorsed this recommendation of the Governing 
+Council at its 75
+th
+ session, on 1 December 2016. 
+In 2017, the Secretary General, Mr José Angelo Estrella Faria, actively participated in two workshops 
+held in Frankfurt (8-12 March 2017) and Zurich (28 June-1 July 2017).  
+b. UNILEX 
+The UNILEX database, with Mr Michael Joachim Bonell, emeritus professor, University of Rome I, 
+and Consultant, UNIDROIT, as Editor-in-Chief, is accessible through the UNIDROIT website as well as 
+directly. It has two sections, one on the United Nations Convention on Contracts for the International 
+Sale  of  Goods  (CISG)  (Vienna,  1980),  the  other  on  the UNIDROIT Principles  on  International 
+Commercial Contracts. They include analysed and classified case law and bibliographies, as well as 
+the  texts  of  the  instruments.  Both  sections  are  updated  regularly.  The  section  on  the UNIDROIT 
+Principles was updated in 2017 with the text of the UNIDROIT Principles 2016. To date, it has a total 
+of 234 cases decided by national courts in 30 countries plus the Court of Justice of the European 
+Communities,  the Economic  Court  of  the  Commonwealth  of  Independent  States  (CIS),  the 
+International Centre for Settlement of Investment Disputes (ICSID) and the Iranian-U.S. Arbitral 
+Tribunal, and 194 decisions by arbitral tribunals, including the ICC International Court of Arbitration 
+and the Permanent Court of Arbitration.  
+The UNILEX database is consulted extensively, its analytical apparatus facilitating consultation and 
+offering a value-added product. 
+5. International Sales Law 
+Preparation  of  a  guidance  document  on  existing  texts  in  the  area  of  international 
+sales  law  in  cooperation  with  UNCITRAL  and  the  Hague Conference  on  Private 
+International Law 
+On 14 December 2015, the Secretariat received a communication from the Secretariat of the United 
+Nations  Commission  on  International  Trade  Law  (UNCITRAL)  inviting UNIDROIT and  the  Hague 
+Conference on Private International Law to cooperate on a project for the “creation of a roadmap to 
+the  existing  texts  in  the  area  of  international  sales  law  (sales  contracts)  prepared  by  each 
+organisation, primarily the CISG, the UNIDROIT Principles, and the Hague Principles, and providing 
+an assessment  of  interactions  between  the  texts,  their  actual  and  potential  use, application,  and 
+impact, all with the goal to facilitate promotion of their appropriate use, uniform interpretation, and 
+adoption.”  
+The  Governing  Council  decided  to  recommend  this  topic  for  inclusion  in  the UNIDROIT Work 
+
+Legislative activities 
+ 17 
+Programme for the triennium 2017-2019 by the General Assembly, and proposed to assign it a high 
+level  of  priority.  The  General  Assembly  endorsed  this  recommendation  at  its  75
+th
+ session,  on  1 
+December 2016. 
+During  2017,  the  small  joint  panel  of  experts  established  by  the  three  organisations  held  a 
+teleconference  on  18  July, followed  by  a  meeting  generously  hosted  by  Working  Group  Member 
+Stefan Vogenhauer at the Max Planck Institute for European Legal History in Frankfurt on 25 October 
+2017. The Group of Experts as well as representatives of the three Secretariats met with the aim to 
+clarify  scope,  methodology  and  timeline  of  the  project.  The  meeting  saw  the  participation  of 
+Professor  Anna  Veneziano (UNIDROIT Secretary-General a.i.),  Mr  Luca  Castellani  (Legal  Officer - 
+UNCITRAL),  Ms  Ning  Zhao  (Senior  Legal  Officer - HCCH),  as well  as  Professors  Pilar  Perales 
+Viscasillas  (Universidad  Carlos  III  de  Madrid),  Hiroo  Sono  (Hokkaido  University,  School  of  Law), 
+Lauro  Gama  (Binenbojm,  Gama  &  Carvalho  Britto  Advogados),  and  the  remote  participation  of 
+Professor Neil Cohen (Brooklyn Law School). 
+6. Transactions on international and connected capital markets  
+UNIDROIT Legislative Guide on Intermediated Securities 
+The final session of the diplomatic Conference to adopt a Convention on Substantive Rules regarding 
+Intermediated Securities (Geneva, 5-9 October 2009), inter alia, adopted the UNIDROIT Convention 
+on Substantive Rules for Intermediated Securities (“Geneva Securities Convention”) and established 
+a  Committee  on  Emerging  Markets  Issues,  Follow-Up and Implementation (“Emerging Markets 
+Committee”) to assist with the Convention’s promotion and implementation. The Emerging Markets 
+Committee  has  been  responsible  for  overseeing  the  preparation  of  a  draft  Legislative  Guide 
+containing principles and rules capable of enhancing trading in securities in emerging markets, which 
+is a high priority item in UNIDROIT’s Work Programme for the triennium 2017-2019. 
+The Emerging Markets Committee held its fourth meeting (Beijing, 29-30 March 2017) at the kind 
+invitation  of  the  China  Securities  Regulatory  Commission,  who  hosted  jointly  with  the  China 
+Securities  Depository  and  Clearing  Corporation  Ltd.  In  accordance  with  the  Committee’s  past 
+practice,  the  meeting  commenced  with  a  Colloquium  on  Financial  Markets  Law  and  then  the 
+Committee  met  to  cover  the  items on  its  agenda.  There  were  roughly 50  representatives  from 
+Members and Observers of the Committee, other States and international organisations, as well as 
+an additional 50 guests for the Colloquium. 
+On  the  first  day,  an  open  Colloquium  was  held  on  the  theme of “Enhancing and Ensuring Legal 
+Certainty in Both Current and Future Holding Systems”, during which there were fruitful discussions 
+on various issues related to UNIDROIT’s financial markets instruments, the latest developments and 
+relevant legal concerns arising from securities holding systems. The Colloquium also considered how 
+to  address  the  rapid  development  of  financial  technology,  in  particular  distributed  ledger 
+technologies, in order to enhance the legal certainty of securities holding systems.
+4
+  
+On  the  second  day,  building  upon  the  discussions  during  the  Colloquium,  the  Members  and 
+Observers of the Emerging Markets Committee, as well as other States and organisations, reviewed 
+in detail the draft Legislative Guide on Intermediated Securities, which had been prepared by an 
+informal group of experts with the assistance of the UNIDROIT Secretariat. The informal group was 
+chaired  by  Mr  Hideki  Kanda  (Member  of  the UNIDROIT Governing  Council  and  Professor  of  Law, 
+Gakushuin University) and included Mr Philippe Dupont (Partner, Arendt & Medernach), Ms Dorothee 
+Einsele (Professor of Law, University of Kiel), Mr Francisco J. Garcimartín Alférez (Professor of Law, 
+Universidad Autónoma of Madrid), Mr Philippe Goutay (Jones Day, Paris), Mr Thomas Keijser (Senior 
+Researcher, Radboud University), Ms Maria Chiara Malaguti (Professor of Law, Catholic University of  
+ 
+  
+                                                 
+4
+  For    more    information,    the    Colloquium    programme    is    available    at    the following    link, 
+http://www.unidroit.org/english/ news/2017/170329-em-beijing/programme-e.pdf. 
+
+UNIDROIT – Annual Report – 2017 
+18 
+the  Sacred  Heart,  Milan/Rome),  Mr  Charles  W.  Mooney,  Jr.  (Professor  of  Law,  University  of 
+Pennsylvania), Mr Luc Thévenoz (Professor of Law, University of Geneva), and Ms Wu Jing (Senior 
+Manager, Legal Department, China Securities Depository and Clearing Corporation). In reviewing 
+the  draft  Legislative  Guide – which  had been  twice  circulated  for  comments  from  States, 
+organisations   and   stakeholders – the Emerging   Markets   Committee   agreed   upon   certain 
+amendments and additions and ultimately recommended that the draft Legislative Guide, as revised, 
+be submitted to the UNIDROIT Governing Council for review and adoption. 
+Following the Committee’s meeting and in accordance with the Committee’s recommendation, the 
+draft  Legislative  Guide  was  prepared  and  submitted  to  the UNIDROIT Governing  Council  for 
+consideration  and  adoption  at  its  96
+th
+ session  (Rome,  10-12  May  2017).  At  that  session,  the 
+Governing  Council  adopted  the  Legislative  Guide  and  authorised  the  Secretariat  to  promote  its 
+dissemination and implementation.
+5
+ 
+Since its adoption, the Legislative Guide underwent formatting and related work to prepare it for 
+publication, both online and in print, in English, French and Chinese during the fall of 2017, with a 
+Spanish  version  to  be  ready  in  early  2018.  Immediately following the General Assembly’s 76
+th
+ 
+session (Rome, 7 December 2017), there was a panel presentation celebrating and promoting the 
+launch of the Legislative Guide.
+6
+ 
+ 
+B. FO L L O W-UP O F   IN S T R U M E N T S  AD O P TED BY UN I D R O I T  
+The Secretariat continued to do its utmost, in 2017, to promote the UNIDROIT Conventions and other 
+instruments by presenting them at conferences or by publishing articles focussing on them. 
+Annex  II provides  an  overview  of  the  instruments drawn  up by UNIDROIT as  well  as  the  state  of 
+implementation  of  Conventions  prepared  by UNIDROIT and  approved  by  diplomatic  Conferences 
+convened by UNIDROIT member  States. For  the  implementation  of  instruments  based  on  work 
+conducted within UNIDROIT, see Annex III. 
+1. Private Law and Agricultural Development  
+UNIDROIT/FAO/IFAD Legal Guide on Contract Farming  
+The IFAD/FAO  Project  of  Implementation  of  the  UNIDROIT/FAO/IFAD  Legal  Guide  on  Contract 
+Farming implemented by the Food and Agriculture Organization of the United Nations (FAO) under 
+a grant delivered by the International Fund for Agricultural Development (IFAD) came to completion 
+at the end of 2017. In its capacity of co-author of the Guide and member of the Advisory Board, 
+UNIDROIT provided substantial inputs in the elaboration of outreach materials. 
+Also, UNIDROIT participated in the project with the Community of Practice on Legal Aspects of Contract 
+Farming  (CoP/LACF). The CoP/LACF, also  linked  with the Global  Forum  on  Law,  Justice  and 
+Development  (GFLJD),  was  launched  by UNIDROIT in  2016 with the  main  objective  of  promoting  a 
+favourable  legal  environment  for  contract  farming  operations  through  knowledge  sharing  and 
+dissemination, as well as projects pursued individually by the partners and members or the basis of 
+joint initiatives. The CoP’s website (http://www.unidroit.org/community-of-practice/home) serves as 
+a repository of information, and particularly worth of mention is the Legal Resources Webpage which 
+offers a wealth of references on legal bibliography, regulations and good practices regarding contract 
+farming and agricultural contracts. 
+  
+                                                 
+5
+  UNIDROIT 2017 – C.D. (96) 15, para. 59.  
+6
+  UNIDROIT 2017 – A.G. (76) 1 rev., Annex 1. 
+
+Legislative activities 
+ 19 
+Seminars and conferences 
+The UNIDROIT/FAO/IFAD Legal Guide on Contract Farming was presented and discussed on the 
+following occasions: 
+- on 30 January 2017, at the Conference held in Paris on “Les Etats généraux de la recherche sur 
+le Droit et la Justice”, organised i.a. by  the  French  Ministry  of  Justice  within  the  Roundtable  on 
+“L’internationalisation de la recherche et de l’enseignement” the UNIDROIT Secretary-General made a 
+presentation  entitled “La  recherche  dans  les  organisations  internationales:  l’exemple  du  Guide 
+juridique sur l’agriculture contractuelle UNIDROIT/FAO/ FIDA”; 
+- on 15 February 2017, Ms Frederique Mestre, UNIDROIT Senior Legal officer, delivered a lecture 
+to the Students of the Master PROLAW 6 – Loyola University of Chicago, Rome Campus, on “Contract 
+Farming and the UNIDROIT/FAO/IFAD Legal Guide on Contract Farming”; 
+- on 23-24 February 2017, the Secretariat provided legal expertise at a Senior Officials Meeting 
+workshop  held  under  the  auspices  of  the  Economic  Committee  of  the  Asia-Pacific  Economic 
+Cooperation  (APEC)  held  in  Vietnam.  During  the  session  on  entitled  “the  Use  of  International 
+Instruments to Strengthen Contract Enforcement in Supply Chain Finance for Global Businesses”, 
+Mr William Brydie-Watson, UNIDROIT Legal Officer, made a presentation on the “Use of international 
+instruments for MSMEs in Supply Chain Finance” focusing on the UNIDROIT Convention on International 
+Factoring and on the UNIDROIT/FAO/IFAD Legal Guide on Contract Farming; 
+- on 28 March 2017, Ms Frederique Mestre delivered an on-line lecture to the Master on Global 
+Development Law and Policy - University of Washington, on “Contract Farming: a win-win business 
+model for farmers and buyers?”; 
+-  on 10 October 2017, UNIDROIT was invited to participate in the session panel on “Agricultural 
+supply chains in Southeast Asia: legal considerations from ‘farm to the fork’” in the framework of the 
+Annual  IBA  Conference  in  Sydney  (9-13  October).  Ms  Frederique  Mestre, Senior  Legal  Officer, 
+discussed ‘Developments of contract farming in South Eastern Asia’ focusing on good practices in 
+contract farming to support sustainable economic and social development;  
+- on 2 and 3 November 2017, the 9
+th
+ Transnational Commercial Law Teachers’ Meeting took 
+place  at  Radboud  University  in  Nijmegen.  On  this  occasion,  the  Secretary-General a.i.,  Professor 
+Anna Veneziano, was a moderator on a panel concerning UNIDROIT’s work on Contract Farming and 
+Land Investment Contracts, which involved a presentation by Professor Henry Gabriel (Elon School 
+of Law and UNIDROIT Governing Council Member); 
+- on 6 November 2017, the Ministry of Foreign Affairs and the Ministry of Agriculture of Indonesia 
+organised an International Workshop in Jakarta entitled “Improving Small Scale Farmers’ Welfare”. 
+UNIDROIT was represented by Professor Anna Veneziano, Secretary-General a.i., and by Ms Frederique 
+Mestre, who delivered presentations on the Legal Guide on contract farming as an expanding business 
+model, and on the Government’s Role in Contract Farming. Nearly 70 people participated in the 
+Workshop,  including  farmer  organisations’  representatives,  civil  society  participants  interested  in 
+business  models  linking  farmers  to  the  market,  as  well  as  legal  and  economical  academics  and 
+government officials. 
+2. UNIDROIT Principles of International Commercial Contracts  
+Promotion of the UNIDROIT Principles 2016  
+In  the  course  of 2017 the  UNIDROIT Principles  2016 were  presented  at  a  number  of seminars, 
+conferences and lectures to interested academic and business circles: 
+- on 14 March 2017, the Secretary-General, Mr. José Angelo Estrella Faria, delivered an opening 
+lecture  on  “The  Application  of  Non-State  Laws  to  International  Commercial  Arbitration”,  in  a 
+Conference organised by the University of Talca, Chile, within the context of “Proyecto Anillo MASC 
+CHILE SOC 1406se” entitled “Contracting and International Commercial Arbitration”, hosted by the 
+Chamber  of  Commerce  of  Santiago.  The  conference  featured  distinguished  speakers  such  as:  Dr. 
+Riccardo Cardilli (Professor, University of Rome Tor Vergata. Italy); Dr. José Carlos Fernández Rozas 
+
+UNIDROIT – Annual Report – 2017 
+20 
+(Professor, University Complutense de Madrid, Spain); Dr. Jorge Oviedo Albán ( Professor, University 
+of la Sabana, Colombia); Dr. María Fernanda Vásquez Palma (Professor, University de Talca, Chile); 
+Dr.  Rodrigo  Momberg  Uribe  (Professor,  University  Católica  de  Valparaíso,  Chile); Dr.  Álvaro  Vidal 
+Olivares (Professor, University Católica de Valparaíso, Chile); Ignacio García Pujol (Partner, Porzio Ríos 
+García  and UNIDROIT Correspondent  for  Chile);  Macarena  Letelier  Velasco  (Executive  Director  of 
+Arbitration  and  Mediation  Centre,  Chamber  of  Commerce  of  Santiago);  Diego  Peralta  Valenzuela 
+(Partner, Carey y Cía.); Felipe Bulnes Serrano (Partner, Bulnes, Urrutia y Bustamante and Ex Minister 
+of Justice); 
+- on 31 March 2017, the University of International Business and Economics (UIBE), the China 
+International  Economic  and  Trade  Arbitration  Commission  (CIETAC),  and UNIDROIT co-hosted  a 
+conference at UIBE’s campus in Beijing, China, on the topic of “The Belt and Road Initiative and Dispute 
+Resolution: Focusing on the UNIDROIT Principles, International Arbitration and Judicial Adjudication”. 
+The speakers and participants were welcomed by Mr Wang Jiaqiong, President of UIBE, Professor Shi 
+Jingxia, Dean of UIBE Law School and Member of the UNIDROIT Governing Council, and heard a written 
+address  from  Mr  Wan  Exiang,  Vice  Chairman  of  the  12th  National  People’s  Congress  Standing 
+Committee and addresses from Mr José Angelo Estrella Faria, the Secretary-General of UNIDROIT and 
+Mr Wang Chengjie, the Secretary-General of CIETAC. More than 20 guest speakers from China, Brazil, 
+Italy, Japan,  the  United  States,  the  United  Kingdom,  and  the  Macao  Special  Administrative  Region 
+attended  the  meeting,  and  there  were  more  than  200  participants  from  domestic  and  foreign 
+universities, the Ministry of Commerce, the Supreme People’s Court and other relevant government 
+departments, the Beijing Lawyers Association, well-known law firms and arbitration institutions; 
+- on 6-7 April 2017, Neale Bergman, UNIDROIT Legal Officer, delivered a lecture entitled “The 
+International Institute for the Unification of Private Law and the UNIDROIT Principles of International 
+Commercial Contracts” at the campus of International Training Centre of the International Labour 
+Organization (ITC-ILO) to students from around the world enrolled in the ITCILO’s Master of Laws 
+(LL.M) programme on international trade law; 
+- on 11 July 2017, UNIDROIT and the Chamber of National and International Arbitration of Milan 
+(CAM)  co-sponsored  a  conference  on  the  new  2016  edition  of  the UNIDROIT Principles, focusing  in 
+particular on their actual use in the drafting of international contracts and resolving international 
+disputes. The  conference  featured  distinguished  speakers,  including Professor Alberto  Mazzoni 
+(UNIDROIT President),  Mr  José  Angelo  Estrella  Faria  (UNIDROIT Secretary-General),  Mr Sergio  Maria 
+Carbone (President of the Arbitration Council, CAM), Mr Giacomo Rojas Elgueta (Professor, Rome Tre 
+University), Mr Pietro Galizzi (Senior Vice President, Eni), Ms Cecilia Carrara (Partner, Legance), Ms 
+Giuditta Cordero Moss (Professor, University of Oslo), Mr Umberto Simonelli (Brembo), Mr Michele 
+Ius (Danieli) and Mr Stefano Catelani (DuPont); 
+- on 31 July 2017, M. J. Bonell held at The Hague the Inaugural Lecture of the Summer Courses 
+of The Hague Academy of International Law, entitled “The Law Governing International Commercial 
+Contracts: Hard Law versus Soft Law”. In his lecture, which was attended by more than 400 mostly 
+young scholars and lawyers from 84 countries, he made ample references to the UNIDROIT Principles, 
+highlighting  their  possible  role  as  the  rules  of  law  governing  international  commercial  contracts 
+and/or applicable to the substance of the dispute in lieu of the various national laws; 
+- in  November  2017, M.J.  Bonell,  at  the  invitation  of  the  Law  Faculty  of  the  University  of 
+Würzburg (Germany), for the second year, held a 4-weeks Postgraduate Course on “International 
+Commercial  Contracts  in  Europe  and  Worldwide  (Domestic  Law  vs.  Uniform  Law)",  focused  on  a 
+comparison between the contract laws of the U.S. and of a selected number of European countries 
+on the one side, and the CISG and the UNIDROIT Principles on the other, with special references to 
+relevant court decisions and arbitral awards reported in the UNILEX data base. 
+  
+
+Legislative activities 
+ 21 
+3. International Interests in Mobile Equipment  
+a. Cape Town Convention and its Protocols 
+Depositary 
+UNIDROIT has been designated as the Depositary of the Cape Town Convention (pursuant to Article 
+62(1)  of  the  Convention)  and  the Aircraft  Protocol (pursuant  to  Article  XXXVII(1)  of  the  Aircraft 
+Protocol), which both entered into force on 1 March 2006. As at 31 December 2017, there were 73 
+Contracting  States and  one  Contracting  Regional  Economic  Integration  Organisation to  the 
+Convention  and 68 Contracting  States and  one  Contracting  Regional  Economic  Integration 
+Organisation to the Aircraft Protocol. 
+Between  1  January  and 31 December 2017 Burkina  Faso,  Gabon  and  Swaziland deposited their 
+instruments of accession to the Aircraft Protocol. 
+UNIDROIT has been designated as the Depositary of the Luxembourg Protocol (pursuant to its Article 
+XXXIV(1)). The Luxembourg Protocol was adopted on 23 February 2007 at a diplomatic Conference 
+held in Luxembourg, has 8 Signatory States (France, Gabon, Germany, Italy, Mozambique, Sweden, 
+Switzerland and  the  United  Kingdom), 2 Contracting  States (Gabon  and Luxembourg)  and  one 
+Contracting regional  economic  integration  organisation (European  Union).  It has  not  yet  entered 
+into force.  
+Seminars, conferences and lectures 
+During 2017 the Cape Town Convention and its Protocols were the focus of a number of conferences, 
+seminars and lectures around the world. With particular regard to the activities in which UNIDROIT was 
+directly involved (and in addition to what was already mentioned above, para. A, No. 2): 
+- on  28  March  2017,  the  Secretary–General, Mr  José  Angelo  Estrella  Faria, was  invited  to 
+participate in a Symposium on the Luxembourg Protocol on Matters Specific to Railway Rolling Stock 
+in Beijing, organised by the Treaty & Law Department of the Ministry of Commerce of the People's 
+Republic of China (MOFCOM) and hosted by the University of International Business and Economics 
+(UIBE). It was addressed to industry stakeholders and government officials and aimed to provide an 
+understanding of the benefits of the Rail Protocol, its overall impact, the functioning of the Registry, 
+as well as an assessment based on the Aircraft Protocol. The Symposium was opened by Mr. YE Jun 
+(Deputy Director General, Treaty & Law Dept, MOFCOM), and Professor SHI Jingxia (Dean UIBE Law 
+School), Mr LIU Keyi (Deputy Director, Domestic Trade Law Divisions, Treaty & Law Dept, MOFCOM) 
+and featured presentations by the Secretary- General on the Rail Protocol and by Ms Elizabeth Hirst 
+(Managing  Director,  Regulis  SA -Registrar  Designate  of  the  International  Registry  under  the  Rail 
+Protocol) on the functioning of the International Rail Registry; 
+- on  3  May  2017, the Deputy  Secretary-General,  Professor Anna Veneziano, took  part  in  an 
+event on the Cape Town Convention, the Aircraft Protocol, and select other international aviation 
+topics  in  Dubai organised  by  the  Aviation  Working  Group.  The  event was  hosted  by  the  General 
+Aviation  Authority  of  the  United  Arab  Emirates  (GCAA),  with  the  support  of UNIDROIT and  the 
+International Civil Aviation Organization (ICAO). The Deputy Secretary General delivered opening 
+remarks together with Mr Omar Bin Ghaleb (Deputy Director General of the GCAA) and Messrs Daniel 
+da Silva (VP Strategic Regulatory Policy, Boeing) and Claude Brandes (VP customer finance, Airbus). 
+She also participated in the session concerning Legal aspects of the Cape Town Convention; 
+- on 26 October 2017, UNIDROIT was invited to speak in a Seminar hosted by the Swedish Law 
+Firm  Hamilton  in  Stockholm,  focussing  on  the  key  economic  and  strategic  advantages  of  the 
+Luxembourg Rail Protocol to the Cape Town Convention for the Swedish Rail Industry. The event, 
+which saw the participation of members of the local rail industry and relevant stakeholders, opened 
+with words of welcome from UNIDROIT President Professor Alberto Mazzoni, an introduction by Mr PG 
+Ekbom (Partner, Hamilton Advokatbyrå and Joint Chair of the Nordic Contact Group of the RWG), 
+followed by a presentation on the Cape Town Convention and its Protocols provided by the UNIDROIT 
+Secretary-General a.i., Professor Anna Veneziano, and an Overview and Current Status of the Rail 
+Protocol presented by Mr Howard Rosen (Chairman of the Rail Working Group). The Seminar then 
+went on to illustrate the practical benefits of the Rail Protocol, with presentations of Mr Rosen and 
+
+UNIDROIT – Annual Report – 2017 
+22 
+Mr  Björn Westerberg (CEO of the Swedish Train Operators’ Association), the Operation of the 
+International Registry (provided by Ms Elizabeth Hirst, Registrar-designate, Regulis SA), the changes 
+the Protocol would bring about in the matters of Creditor repossession on default and insolvency (by 
+Professor Göran Millqvist of the Stockholm Center for Commercial Law), and the Ratification process 
+in Sweden (Ms Louise Petrelius, Legal Adviser of the Division for IP and Transport Law in the Swedish 
+Ministry of Justice); 
+- on 8-9 November 2017, the Secretary-General a.i. took part in an Asia-Pacific Regional Event 
+on the Cape Town Convention and its Aircraft Protocol and cross-border transferability of Aircraft, 
+jointly organised by the Aviation Working Group (AWG) and Civil Aviation Authority of Singapore 
+(CAAS), with the support of the International Civil Aviation Organization (ICAO) and UNIDROIT, and 
+hosted by the Singapore Aviation Academy (SAA). The Seminar addressed the economic benefits of 
+the  CTC,  including  links  with the  interpretation  and  implementation  of,  and  compliance  with,  the 
+CTC  provisions,  as  well  as  regional  and  global  CTC  developments.  There  was  a  special  focus  on 
+actions by civil aviation authorities, as well as a special session dedicated to ICAO’s new activities 
+on  the  cross-border  transfer  of  aircraft.  The  event  was  attended  by  99  international  participants 
+from 23 countries, and boasted a strong line-up of expert speakers, from both the government and 
+industry, to speak on the Convention and Aircraft Protocol; 
+- on 22 November 2017, the Faculty of Law of Eötvös Lóránd University organised a Conference 
+on  the  Cape  Town  Convention  and  its  Protocols  in  Budapest,  with  the  support  of  the  Ministry  of 
+Justice of Hungary and participation of UNIDROIT. The conference, on “Recent developments in the 
+law of security interests: the Cape Town Convention, its Protocols and national laws”, was opened 
+by  Dr  Somssich  Réka  (Vice  Dean  of  the  Department  of  Private  International  Law  and  European 
+Economic Law) and Professor Miklós Király (Dean of the Faculty of Law and member of the UNIDROIT 
+Governing Council), and featured 3 panels: one on the Cape Town Convention and the Luxembourg 
+Rail Protocol (Professor Anna Veneziano, Secretary-General a.i.; Elizabeth Hirst, Registrar Designate 
+of the Luxembourg Registry; and Professor Attila Harmathy ELTE University, Faculty of Law), one 
+on  the  MAC  Protocol  (Chaired  by  Professor Miklós  Király, with  contributions  of  William  Brydie-
+Watson, UNIDROIT Legal Officer, and Professor Dr. Benjamin von Bodungen, German Graduate School 
+of Management and Law), and a third chaired by Dr. István Erdős, ELTE University, Faculty of Law 
+on Recent Developments in National Law with contributions of Dr. Zoltán Nemessányi, Deputy-State 
+Secretary,  Ministry  of  Justice,  Hungary  and  Dr.  József  Vági,  Partner,  Kajtár  Takács  Hegymegi-
+Barakonyi Baker & McKenzie; 
+- on  7  December  2017, UNIDROIT hosted  a  panel  presentation  on  the  challenges  and 
+opportunities  of  financing  the  space  industry,  featuring  a  keynote  presentation  of  Tanja  Masson- 
+Zwaan (Professor, International Institute of air and space law at Leiden University). The presentation 
+was  introduced  by  Professor  Sergio  Marchisio  (Chairman  of  the  Space  Preparatory  Commission), 
+and was followed by a panel discussion including Francesco Amicucci (General Counsel, Thales Alenia 
+Space), Oliver Heinrich (Partner, BHO Legal), Souichirou Kozuka (Professor, Gakushuin University) 
+and Bernhard Schmidt-Tedd (Head of Legal and Business Support, DLR). 
+b. Cape Town Convention Academic Project  
+The Cape Town Convention Academic Project, a joint endeavour of the University of Oxford, Faculty 
+of Law, and the University of Washington, School of Law (as well as under the auspices of UNIDROIT 
+for the repository and the journal), held its 6
+th
+ Annual Conference in Oxford on 12 and 13 September 
+2017, with the active participation of academics, practicing lawyers and governmental experts. Topics 
+addressed in the presentations included an update on negotiation of the protocol on mining, agriculture 
+and construction equipment (MAC Protocol); MAC Protocol and treaty design: an examination of the 
+mechanism  to  update  identification  criteria;  a  comparative  analysis  of  CTC  accession  rules  (all 
+protocols)  and  the  treatment  of  fixtures  and  land  liens  in  the  MAC  Protocol  accessions  and  non-
+accessions  under  the  Cape  Town  Convention:  special  features  under  the  MAC  Protocol;  power  to 
+dispose under the CTC: background, content and implications; Novation and assignments under the 
+CTC;  Injunctions  and  (declared)  non-judicial  remedies  with  a  dispute  resolution  case  study;  A 
+comparison of the position of buyers under the three protocols; rules versus standards under CTC, 
+and the relationship to gap filling and national law. For more information see http://www.ctcap.org/. 
+
+Legislative activities 
+ 23 
+4. International Protection of Cultural Property 
+a. 1995 UNIDROIT Convention on Stolen or Illegally exported Cultural Objects and 
+UNESCO-UNIDROIT Model  Provisions  on  State  Ownership  of  Undiscovered 
+Cultural Objects 
+Status  
+On 31 December 2017, there were 41 Contracting States of the UNIDROIT Convention on Stolen or 
+Illegally Exported Cultural Objects (cf. Annex II). Tunisia (on 2 March), Bosnia and Herzegovina (on 
+8 May), Lao People’s Democratic Republic (on 18 May) and Botswana (on 28 August) acceded to the 
+Convention. Other instruments of ratification/accession are to be deposited with the Depositary and 
+procedures are in progress in other countries. 
+Informal Ratification Task Force  
+A special  event  on “Promoting  and  Strengthening  the  International  Legal Framework  for  The 
+Protection of Cultural Heritage – The 1995 Convention” took place at UN Headquarters in New York, 
+on 28 February 2017. The Secretary General of UNIDROIT and the Senior Legal Officer in charge of 
+the International Protection of Cultural Objects at UNIDROIT attended the meeting.  
+Considering  the  fundamental  role  played  by  international  conventions  in  the  fight  against  illicit 
+trafficking of cultural property, during the event, UNIDROIT and the Missions of Cyprus and Italy to 
+the UN announced the establishment of an informal Ratification Task Force to enhance participation 
+in the Convention and other related instruments.  
+The 1995 UNIDROIT Convention Academic Project 
+On  November  2017, UNIDROIT officially  launched  the  1995 UNIDROIT Convention  Academic  Project 
+(“UCAP”). 
+7
+ UCAP  takes  the  form  of  an  online  platform  of  shared  materials  related  to  the  1995 
+UNIDROIT Convention, UNIDROIT/UNESCO  Model  Provisions  on  State  Ownership  of  Undiscovered 
+Cultural  Objects  and  related  international  instruments. UCAP  is  designed  primarily  to  raise 
+awareness on UNIDROIT’s instruments aiming at protecting cultural heritage from illicit conduct. 
+UCAP addresses universities and professors holding classes in the field of cultural heritage law or 
+art  law,  which  will  be  encouraged  to  set  up  courses  in  partnership  with UNIDROIT to  create  an 
+academic  network. UCAP  also  aims  at  involving, inter  alia, practicing  lawyers,  judges,  other 
+governments’ officials,  as  well  as  art  market  players so  as  to  assess  the  implementation  of  the 
+Convention at national level and the influence of the UNIDROIT Convention in States not yet party to 
+the Convention.  
+UNIDROIT and the G7 on Culture  
+On 30-31 March 2017, UNIDROIT was invited to attend the first G7 Culture meeting of the history of 
+G7, held  in  Florence,  under  the  Italian  Presidency,  as  a speaker  at  the  Meeting  of  Experts  and 
+observer  at  the  Ministerial  Session.  The  event,  that  ended  with  the  signature  of  the  Florence 
+Declaration,
+8
+ gave a large-scale visibility to the current and past work carried out by UNIDROIT and 
+its partners. 
+On 3 October 2017, UNIDROIT was invited to participate in the G7 Rome-Lyon Group ad hoc expert 
+meeting organised by the Italian Carabinieri Command for the Protection of Cultural Heritage (TPC) 
+in Rome.  
+UNIDROIT and its partners  
+Beside  its very close  co-operation  with  UNESCO, UNIDROIT continues  to  collaborate  with  other 
+organisations  such  as INTERPOL  (member of  its  Expert  Group  on  Stolen  Objects),  UNODC,  WCO 
+                                                 
+7
+  https://1995unidroitcap.org 
+8
+  http://www.beniculturali.it/mibac/multimedia/MiBAC/documents/1490881236694_DECLARATION-
+Dichiarazione.pdf  
+
+UNIDROIT – Annual Report – 2017 
+24 
+(with ARCHEO network) and ICOM (Observatory on Illicit Traffic), and ICCROM (the International 
+Centre for the Study of the Preservation and Restoration of Cultural Property).  
+UNIDROIT continued its collaboration with the working group set up by the Council of Europe for the 
+adoption  of  a  Convention  on offences against  cultural  property,  attending the  4
+th
+ and  conclusive 
+Plenary Meeting for the drafting of the new Convention (20-24 February 2017). The Convention on 
+Offences  relating to  Cultural  Property was adopted  and eventually  open  for  signature  on  19  May 
+2017.  
+On  13  January 2017, Professor Anna  Veneziano  attended  a  meeting  in  Strasbourg  of high-level 
+representatives from international organisations and national governments, aiming at strengthening 
+cooperation  to  protect  cultural  heritage  from  destruction  and  preventing  the  illicit  trafficking  of 
+cultural goods, organised by the Council of Europe. 
+UNIDROIT also attended the international seminar “A new perspective on the protection of cultural 
+property through criminal law”, organised in  Lucca  (3-4  February  2017) by  the  IMT  School  for 
+Advanced Studies.  
+UNIDROIT was  also  invited  to  participate  in  various  capacity-building  workshops  or  other  expert 
+meetings organised by its partners in 2017 among which: 
+- 4
+th
+ EU CULTNET Meeting: “Law Enforcement Authorities and Expertise Competent in the Field 
+of Cultural Goods” (Valletta, Malta, 8-9 February, 2017); 
+- International  Coordination  Meeting  on  the  Cultural  Heritage  in  the  Liberated  Areas  of  Iraq 
+(UNESCO HQ, 23-24 February 2017); 
+- INTERPOL’s  forum  “Unity  for  Security”,  organised  in  partnership  with  the  United  Arab 
+Emirates  and  the  INTERPOL  Foundation  for  a  Safer  World,  under  the  patronage  of  his 
+Highness Sheikh Khalifa bin Zayed Al Nahyan, President of the United Arab Emirates (Abu 
+Dhabi, 28-30 March 2017); 
+- Fourth  Meeting of  States  Parties  to  the  1970  Convention  on  the  Means  of  Prohibiting  and 
+Preventing the Illicit Import, Export and Transfer of Ownership of Cultural Property (UNESCO 
+HQ, 15-16 May 2017); 
+- Fifth  Session  of  the  Subsidiary  Committee  of  the  Meeting  of  States  Parties  to  the  1970 
+Convention (UNESCO HQ, 17-19 May 2017); 
+- Regional  Conference  and  Ministerial  Roundtable  on  the Protection  of  Cultural  Heritage, 
+organised by the UNESCO Regional Office for Eastern Africa (Balaclava, Republic of Mauritius, 
+18-19  July  2017). After  the  conference, Mauritius  and  Madagascar  started  their  accession 
+process to the 1995 UNIDROIT Convention; 
+- UNESCO Workshop on the Fight against Illicit Traffic of Cultural Property (Convention of 1970) 
+for Egypt and Sudan (Cairo, 10-14 December 2017); 
+- National Workshop “Countering illicit trafficking of cultural property” jointly organised by 
+UNESCO and the Italian Carabinieri (Amman, Jordan, 17-20 December 2017). 
+UNIDROIT contributed to a course of the Geneva Summer School of International Cultural Heritage 
+Law – University of Geneva, on 14 June 2017. The module taught by Ms Marina Schneider, UNIDROIT 
+Senior  Legal  Officer  and  Treaty  Depositary,  focused  on the  weaknesses  of  the  1970  UNESCO 
+Convention,  the  1995 UNIDROIT Convention  and  UNESCO-UNIDROIT Model  Provisions  on  State 
+Ownership of Undiscovered Cultural Objects. 
+b. Private art collections  
+Taking into  consideration  the  fact this  subject  is  on  the  Work  Programme  2017-2019  with  a  low 
+priority, UNIDROIT is continuing to consider the project to identify the private law aspects that fall 
+within  its  mandate. UNIDROIT therefore  proposed  to  host  in  Rome,  on  16  and  17  March  2017,  a 
+conference  on Private  Collections:  Historical  and  Legal  Perspectives and  invited Professor  Elina 
+
+Legislative activities 
+ 25 
+Moustaira,  professor  of  comparative  law  at  the  School  of  Law  of  the  National  and  Kapodistrian 
+University of Athens,
+9
+ to make a presentation.  
+The Conference was co-organised with the International Society of Research and Cultural Heritage 
+Law (ISCHAL), the Institut des sciences sociales du politique (CNRS-ENS Cachan-Université Paris-
+Nanterre)  and  BonelliErede  law  firm.
+10
+ At  the  end  of  the Conference, UNIDROIT asked  Professor 
+Moustaira  to  prepare a  document  indicating  private  law  aspects  on  which UNIDROIT’s particular 
+expertise would be of additional benefit in this field. 
+To  date, UNIDROIT is evaluating the topic’s potential and moving towards new collaborations for 
+future studies. The Institute conducted preliminary exchanges with the IBA Art, Cultural Institutions 
+and Heritage Law Committee during the IBA Annual Conference in Sydney, Australia (8 to 13 October 
+2017) which showed interest in the topic and willingness to co-operate.  
+5. Capital markets instruments 
+UNIDROIT’s work in the area of capital markets has resulted in three instruments for all of which the 
+Secretariat is ready to assist implementing States.  
+Geneva Securities Convention 
+The  Convention,  which  was  adopted  at  the  final  session  of  the  diplomatic  Conference  to  adopt  a 
+Convention on Substantive Rules regarding Intermediated Securities (Geneva, 5-9 October 2009), 
+seeks  to  enhance  the  internal  stability  of  domestic  financial  markets  and  their  cross-border 
+compatibility, and currently has one Signatory State, Bangladesh.  
+Principles on the Operation of Close-out Netting Provisions 
+The Netting Principles were adopted by the UNIDROIT Governing Council at its 92
+nd
+ session (Rome, 
+8-10 May 2013) and provide detailed guidance to national legislators of implementing States seeking 
+to revise or introduce legislation relevant to the functioning of close-out netting.  
+Legislative Guide on Intermediated Securities 
+The Legislative  Guide aims  to  enhance  legal  certainty  in  capital  markets  and  is  intended  to 
+complement and promote (a) the Geneva Securities Convention by summarising the Convention’s 
+key principles and rules and by offering guidance on choices to be made and matters to be addressed 
+or clarified in establishing an intermediated securities holding system or evaluating an existing one; 
+and (b) the Netting Principles by offering guidance consistent with those Principles and incorporating 
+references to them. The Legislative Guide was launched at a panel presentation held in connection 
+with the General Assembly’s 76
+th
+ session (7 December 2017) and, as of this writing, is available in 
+English, French and Chinese, with a Spanish version to be made available in early 2018. 
+ 
+ 
+                                                 
+9
+  Professor Moustaira is the author or a book which had been the source of inspiration of the proposal to 
+insert the subject of private art collections in the UNIDROIT Work Programme. Art Collections, Private and Public: 
+A comparative Legal Study. Springer. Cham Heidelberg New York Dordrecht London. 2015.  
+10
+  The Conference was sponsored by the Università degli Studi di Milano, the Art-Law Centre of Geneva, 
+the Institut d’études de droit public (IEDP) and the Institut Droit Ethique Patrimoine (IDEP)  of  the  Université 
+Paris-Saclay. 
+
+ 
+ 26 
+ 
+III. L E G A L   C O-O P E R A T I O N   P R O G R A M M E   A N D   N O N-
+ L E G I S L A T I V E   A C T I V I T I E S  
+ 
+ 
+ 
+A. LE G A L  CO-O P E R A T I O N  PR O G R A M M E 
+The broad aim of the legal co-operation programme is to promote relations between UNIDROIT and 
+member and non-member States with a view to achieving the statutory aims of the Organisation. 
+The Programme is designed above all for countries lacking sufficient resources to participate in the 
+legal harmonisation process, in particular developing countries and countries in economic transition, 
+and  essentially  focuses  on  the  efforts  undertaken  to  implement  and  disseminate  the  work  of  the 
+Institute,  and  provides  training  and  research  opportunities  for  high-level  jurists,  by  means  of  a 
+Scholarships Programme. For the Organisation’s institutional relations with Governments (visits and 
+seminars in member and non-member countries), see supra p. 7. 
+1. Co-operation with partner organisations 
+The UNIDROIT Secretariat  maintains  close  institutional  co-operation  links  with  a  broad  range  of 
+organisations with a universal or regional mandate. This includes the exchange of information and 
+consultations  with  respect  to  topics  of  common  interest,  in  particular  in  the  framework  of  the 
+Institute’s legislative activities (see supra). 
+2. Research Scholarships Programme 
+Since  it  was  first  launched  in  1993,  the  Programme  has  enabled  the  Institute  to  host over  350 
+researchers from more than 60 countries with a view to their conducting in-depth research on their 
+chosen subject, provided it is in line with UNIDROIT’s activities or at any rate involves uniform law, 
+in the Institute Library for an average of two months. 
+In 2017, donations were received from the Transnational Law and Business University (TLBU), the 
+UNIDROIT Foundation, the Ministry of Commerce of the People’s Republic of China (MOFCOM), as well 
+as from members of the UNIDROIT Governing Council.  
+The  Secretariat  hosted  nineteen researchers  from thirteen different  countries  in 2017 under  the 
+Legal Co-operation Programme: 
+Mr  Syed  Musasser FIDA GARDAZI (Pakistan), Ph.D., International  Islamic  University,  Islamabad - 
+Research on: “Application of the Vienna Sales Convention in Pakistan” – Scholarship  of  the 
+Ministry of Commerce of the People’s Republic of China (10 March – 5 May); 
+Mr Ivan FILARTIGA (Paraguay), LL.M., George Washington University Law School - Research on: “MAC 
+Protocol,  a  glance  to  the  future  from  the  Paraguayan  perspective” – UNIDROIT Foundation 
+scholarship – (3 April – 31 May); 
+Mr Vasyl LIUTYI (Ukraine), Ph.D., Institute of International Relations of Taras Shevchenko National 
+University of Kiev - Research on: “Close-Out Netting” -  UNIDROIT Foundation scholarship (10 April 
+– 9 June); 
+Ms  Basak ERDOGAN (Turkey),  Ph.D.,  Cand.  Galatasaray  University,  Istanbul - Research  on: 
+“Unwinding failed contracts” - UNIDROIT Foundation scholarship (17 April – 31 May); 
+Ms Farangis KHASANOVA (Uzbekistan), Master, University of World Economy and Diplomacy, Tashkent 
+- Research on: “Improving the legal bases for foreign economic activities – a focus on contractual 
+conditions (specifically “Force Majeure”)” - UNIDROIT Foundation scholarship (5 June – 31 July); 
+Mr Raul ITURRALDE GONZALEZ (Mexico), SJD., University of Arizona, - Research on: “Principles, Customs 
+and  Practices  behind  the UNIDROIT Principles of International Commercial Contracts (1994)” - 
+UNIDROIT Foundation scholarship (5 June – 31 July); 
+Mr Mohamed R. ABDELSALAM (Egypt), LL.M., Loyola University of Chicago, John Felice Centre, Rome 
+- Research on: “Egyptian legal framework and ADR Mechanisms Governing the Contract Farming 
+
+Legal co-operation programme and non-legislative activities 
+ 27 
+in the light of the UNDROIT/IFAD Legal Guide” - UNIDROIT Foundation scholarship (15 June – 28 
+July); 
+Ms Albana KAPARANCO (Albania), Master of Laws, Central European University, Budapest - Research 
+on: “Security devices and modern techniques for access to credit in agriculture-based economies 
+and emerging markets” - UNIDROIT Foundation scholarship (19 June – 31 July);  
+Mr  Payman DADRAS (Iran), Ph.D.,  Université  Paris  1,  Panthéon  Sorbonne,  Professor, The  Islamic 
+Azad University, Science and Research Branch (SRBIAU), Tehran - Research on: “L’impact des 
+Principes 4 et 6 d’UNIDROIT sur la “clause de démurrage”: Etude du système juridique de common 
+law et des pays civilistes” - UNIDROIT Foundation scholarship (19 June – 31 July); 
+Mr Vladimir PALAMARCIUC (Moldavia), Ph.D., Faculty of Law of the Moldava University- Research on: 
+“Legal particularities of the monetary civil obligations” – UNIDROIT Foundation  scholarship (4 
+September -13 October); 
+Ms Katarina DURDENIC (Croatia) PhD., University of Zagreb - Research on: “Profit participating loans” 
+- UNIDROIT Foundation scholarship (4 September – 13 October); 
+Ms  Ligia ESPLOAOR VERONESE (Brazil), Ph.D.,  Cand.,  University  of  Sao  Paolo - Research  on: “The 
+principles  of  Brics  contract  law – PBCL - UNIDROIT” - UNIDROIT Foundation  scholarship (18 
+September – 27 October); 
+Ms  Valezca RAIZER BORGES MOSCHEN (Brazil),  PhD,  University  of  Barcelona – Professor,  Federal -
+University  of  Espiritu  Santo,  Vitoria - Research  on:  “Dynamics  of  the  Harmonization  of 
+Transnational Civil Procedure : From ALI to ELI/UNIDROIT” - UNIDROIT Foundation scholarship (16 
+October – 15 December); 
+Mr  Claudiu  Mihai TAIATU (Romania), LL.M.,  International  Institute  of  Space  and  Law,  Leiden 
+University – Research on: “The Applicability of the Space Protocol of the Cape Town Convention, 
+Space  Asset – Cape  Town  and  Repossession  Insurance”- UNIDROIT Foundation  scholarship (2 
+November - 22 December); 
+Mr Eduardo FARINATI (Argentina), Professor, Universidad Argentina de la Empresa (UADE) – Research 
+on: “Capital Markets – The search for convergence between Europe and Latin America” – Joint 
+UADE/UNIDROIT Foundation scholarship (6 November – 14 December). 
+3. Collaborators, interns and researchers  
+The  following  persons  were  received  as  a Secondee and  as Research  Assistants in  the UNIDROIT 
+Secretariat in 2017: 
+Ms Paulien van der Grinten (Netherlands), Senior legislative Lawyer, Ministry of Security and Justice 
+of the Netherlands, on secondment working on Civil Procedure. 
+Ms Giuditta Giardini (Italy), LL.B., Università Cattolica del Sacro Cuore, Milan, Research Assistant 
+in the UNIDROIT Secretariat, working on Cultural Property; 
+Mr Hamza Abdul Hameed (Pakistan), Advanced LL.M., Leiden University, Assistant to the UNIDROIT 
+Foundation; 
+The  following  students  were  welcomed  as Interns collaborating  on  current  projects  within  the 
+UNIDROIT Secretariat: 
+Ms Nargiz Huseynova (Azerbaijan), Ms Nandini Bajaj, Ms Ashna Taneja (Australia), Ms Anais Mattez 
+(Belgium/Thailand), Guilherme Dutra Miranda, Ms Isadora Rebeschini Migliavacca, Mr Pedro Marcon 
+(Brazil),  Ms  Mylina  Perron-Simard  (Canada - Internship  sponsored  by  the  Caisse  Desjardins  de 
+Charlesbourg), Ms Kidist Ejerssa Demissie (Ethiopia) under the cooperation agreement with PROLAW 
+Programme/Loyola University Chicago, John Felice Rome Center, Ms Mathilde Foucher (France), Mr 
+Felix  Aiwanger  (Germany),  Ms  Camilla  Ancona  (Italy),  Ms  Qi  Jun  Kwong  (Malaysia) under  the 
+cooperation agreement with Nagoya University, Mr Yukai Yu (PRC)under the cooperation with the 
+Georgetown  University  Law  Center's  2017  International  Internship  Program  (IIP), Mr  Jiankun  LI 
+(PRC), Mr Jacek Kozikowski (Poland) under the cooperation agreement with Nagoya University, Ms 
+Lois Wetzel (USA). 
+
+UNIDROIT – Annual Report – 2017 
+28 
+The following persons were welcomed as Independent Researchers in the UNIDROIT Library: 
+Mr  Benosmane  Mahfoud  (Algeria),  Mr  Pablo  Lerner  (Argentina),  Mr  Antonio  Eduardo  Reichmann 
+Seixas, Ms Mariana Ribeiro Siqueira (Brazil), Ms Maria Fernanda Vasquez Palma, Mr Alvaro Rodrigo 
+Olivares  Vidal  (Chile),  Mr  Diego  Enrique  Franco  Victoria  (Colombia),  Ms  Josipa  Sustic,  Mr  Lovro 
+Klepac (Croatia), Ms Wafaa Sayed Ahmed Khalil (Egypt), Ms Julia Hoernig, Mr Sebastian Seeger, Mr 
+Alexander  Trunk,  Mr  Justus  Meyer  (Germany),  Mr  Aikaterini Florou  (Greece),  Mr  Josef  Kiss 
+(Hungary), Ms Donatella Messina, Mr Vito Pacillo, Mr Luca Ettore Perriello (Italy),  Ms Victoria Alva 
+Lugo (Mexico), Ms Helen Tung, Ms Jingjung Xia (PRC), Ms Ekaterina Serdyuk (Russian Federation), 
+Ms  Katarina  Geskova  (Slovakia),  Mr  David  Carrizo  Aguado,  Samuel  Hernandez  Aguado,  Mr  Unai 
+Belintxon Martin, Mr Manuel Sanchez Alvarez (Spain), Ms Rhea Specogna (Switzerland), Mr Ogyz 
+Dorken (Turkey), Ms Mugenzi Foster (Uganda). 
+ 
+ 
+B.  UN I D R O I T  ON IN T E R N E T   
+UNIDROIT website - http://www.unidroit.org 
+The website of the Organisation is monitored with Google Analytics. Continent by continent, of the 
+first  100  countries  from  which  users  came  36  were  European,  25  were  from  Asia,  14  from  the 
+Americas, 12 from Africa, 10 from the Middle East, and 2 from Oceania, one was unaccounted for. 
+UNIDROIT on Social media  
+UNIDROIT entered into the social media world in 2016 by the opening of accounts on Facebook and 
+LinkedIn.  The  purpose  of  the  Institute’s  social  media  program  is  to  promote  the  work  being 
+undertaken by the Institute to a wider audience in a fast, efficient and cost effective manner.  
+ 
+ 
+C. DE P O S I T O R Y  LI B R A R I E S   F O R  UN I D R O I T  DO C U M E N T A T I O N 
+To  date,  53 libraries  in  47 member  States  have  been  designated  depositories  for  UNIDROIT 
+documentation. For a list of Depository Libraries see Annex IV. 
+ 
+ 
+D.  UN I D R O I T LI B R A R Y 
+Library cooperation and networking 
+In  2017 the UNIDROIT Library  continued  its  cooperation  strategy  with  other  Roman  and  foreign 
+libraries. 
+Library management software upgrading 
+The  Library’s software management system Aleph500 was upgraded to the latest version Aleph 
+21.3.4 without any interruption of services for the Institute’s professional staff or the researchers in 
+the Library.  
+Cataloguing 
+With regard to cataloguing, work continued with regard to the development of a so called “Legal 
+thesaurus”, which allows an even more precise search result in all languages. The project is very 
+innovative, as just a few other libraries in the world operate a legal thesaurus in various languages.  
+Digitisation  
+On the occasion of the Governing Council’s 96
+th
+ session, Rome, 10 - 12 May 2017, it was agreed to 
+proceed with the proposed in-house digitisation project, as an attractive opportunity to make the 
+collection of a large library, such as the UNIDROIT Library, accessible in digital form.  
+In 2017 the Library continued, therefore, on the implementation of an in-house digitisation project. 
+About 500 monographs and articles were scanned in-house by the Library staff. The software module 
+
+Legal co-operation programme and non-legislative activities 
+ 29 
+ADAM for the implementation of the digitised objects into the online catalogue, distributed by the 
+firm Ex Libris, was acquired in November 2017. It has been integrated into the ALEPH 500 library 
+management system. Thanks to the ADAM library management software module, it is now possible 
+to easily connect a large quantity of electronic documents to the catalogue data. 
+The professional book scanner “ALPHA PLANETARIO”, was ordered in December 2017, and will be 
+delivered in February 2018.  
+Thanks to the greatly improved technical resources, the full entry into the partial digitisation of the 
+UNIDROIT library collection has been secured. A great quantity of library material can now be added 
+to the electronic collection. It will be made available for readers after quality control by library staff 
+and the firm SIAI (Servizi Integrali alle Imprese), the experts in the field of the digitisation of books. 
+Acquisitions, donations, exchanges 
+In 2017, the Library’s holdings increased by 1118 titles, of which 642 were purchased outright, 147 
+were obtained on an exchange basis, while 329 further titles were received as gifts for a total value 
+of € 12.870,00. The expansion of the Library’s holdings has been hampered by steady increases in 
+the price of publications and a chronic lack of resources.  
+In 2017, as in previous years, the Library received donations in kind from the Max-Planck-Institute 
+of   Foreign   Private   and   Private   International   Law   in   Hamburg,   and   from   the   Deutsche 
+Forschungsgemeinschaft (DFG).  
+Visitors 
+The Library continues to attract readers from all over the world. Among the 1054 visitors in 2017, 
+the 63 foreign guests came from 39 different countries.  
+ 
+ 
+E.  PU B L I C A T I O N S  
+The Uniform Law Review  
+The Uniform Law Review is published by Oxford University Press and is available both on paper and 
+online. Data on subscriptions indicate that subscriptions to print (i.e. paper) copies have decreased 
+year by year but subscriptions to online copies have increased. In 2016 the Uniform Law Review 
+had 873 Developing Country subscriptions. Data for 2017 will be available in May, 2018. 
+UNIDROIT Principles of International Commercial Contracts 2016 
+The fourth edition of the Principles adopted in 2016 was printed both in English and French early in 
+2017. 
+“UNIDROIT 90 Years / Les 90 ans d’UNIDROIT” 
+An initiative to mark the 90
+th
+ anniversary of the foundation of the Institute was the publication in 
+2017 of a volume on the Institute. This volume is not intended for sale, but as a publication which 
+celebrates the Institute to be used for institutional purposes.  
+Official Commentary on the Convention on International Interests in Mobile Equipment and Protocol 
+thereto on Matters Specific to Aircraft Equipment (3
+rd
+ edition) 
+At the request of Aviareto, a pdf file of the Official Commentary on the Convention on International 
+Interests in Mobile Equipment and Protocol thereto on Matters Specific to Aircraft Equipment was 
+prepared with links to facilitate consultation. Access to this version is restricted to registered users 
+of the International Registry. 
+Booklets with UNIDROIT Instruments 
+The  Secretariat  has  adopted  the  policy  of  printing  booklets  containing  the  text  of UNIDROIT 
+instruments  that  are  not  for  sale  but  for  use  at  conferences  and  other  events. In  2017,  the 
+Secretariat published the booklet with the French version of the Aircraft Protocol after completion of 
+
+UNIDROIT – Annual Report – 2017 
+30 
+the  review  procedure  and  the  English  and  French  versions  of  the UNIDROIT Legislative  Guide  on 
+Intermediated Securities.  
+The Chinese version of the UNIDROIT Legislative Guide  on Intermediated Securities was published 
+during the fall of 2017, with a Spanish version to be ready in early 2018.  
+The Spanish version of the UNIDROIT/FAO/IFAD Legal Guide on Contract Farming was also published 
+in 2017. 
+ 
+ 
+F.  UN I D R O I T  FO U N D A T I O N 
+2017 was a watershed year for the UNIDROIT Foundation in a number of respects.  
+Following an internal change in the management of the Foundation, a review of its operation and 
+performance  was  undertaken.  Based  on  the  findings  of  the  review,  the  Foundation  prepared  a 
+Strategic  Plan  for  consideration  by  the  Board  of  Governors.  The  Strategic  Plan  set  out  clear 
+objectives  for  the  Foundation  in  relation  to  its  core  activity  of  promoting UNIDROIT through  (i) 
+fundraising for the Institute and (ii) the undertaking of complementary projects that assist in the 
+implementation  of UNIDROIT Instruments.  The  Strategic  Plan  was  approved  by  the  Board  of 
+Governors on 29 May 2017.  
+Significant progress was made on the Foundation’s active projects. Two workshops on the economic 
+assessment of international commercial law reform were held at the Harris Manchester College in 
+Oxford in March and September 2017. At these workshops, the framework for undertaking economic 
+assessments  was  substantially  refined  and  tested  in  relation  to  the  preparation  of an  economic 
+impact analysis for the future fourth Protocol to the Convention on International Interests in Mobile 
+Equipment in matters specific to Mining, Agriculture and Construction Equipment. Towards the end 
+of 2017 the University of Washington joined Harris Manchester College and the Foundation as official 
+partners on the project.  
+Initial steps were also made in the Foundation’s support of UNIDROIT’s work in the field of protection 
+of cultural objects. The Foundation provided funding and technical expertise in establishing the 1995 
+UNIDROIT Convention Academic Project website (https://1995unidroitcap.org/).  
+A further workshop was also held on the Best Practices in the Field of Electronic Registry Design and 
+Operation from 27–28 March 2017 at Harris Manchester College.  
+As part of its Strategic Plan, the Foundation also developed a new Fundraising Strategy, with grateful 
+pro  bono  assistance  from  Mr  Michael  Farley  of  EMD  Consulting  Group.  The  Fundraising  Strategy 
+established a more active role for the Foundation is attempting to raise funds to support the work 
+of UNIDROIT. In implementing the new Strategy, the Foundation wrote to over 50 targeted entities 
+in the second half of 2017 to request support for the Foundation’s work.  
+To  enhance  the  profile  of  the  Foundation,  a  comprehensive  redesign  of  the UNIDROIT Foundation 
+website  was  undertaken  (http://unidroitfoundation.org/).  The  Foundation  also  established  social 
+media accounts on LinkedIn, Facebook and Twitter.  
+To support the new strategic direction of the Foundation, the Board of Governors met twice in 2017. 
+On  9  May  2017  the  Board  of  Governors  held  its  traditional  meeting  in  Rome  in  advance  of  the 
+UNIDROIT Governing Council meeting. At this meeting, the Foundation’s administrative matters were 
+attended to (the review of the Foundation’s work in 2016, the approval of the previous year’s 
+accounts and approval of the 2017 budget). On 29 May 2017, the Board of Governor’s held its first 
+successful  meeting  via  videoconference. At this meeting, the Board of Governor’s discussed and 
+renewed the Foundation’s active projects and approved the Strategic Plan.   
+To assist in the execution of this substantial workload, the Foundation recruited a legal assistant (Mr 
+Hamza Hameed) who worked with the Foundation from March – September 2017. 
+
+Annex I 
+ 31 
+ANNEX I 
+ 
+ 
+ 
+LIST OF THE DOCUMENTS PUBLISHED BY THE UNIDROIT SECRETARIAT IN 2017 ON THE 
+IMPLEMENTATION OF ITS WORK PROGRAMME 
+ 
+ 
+The following documents relating to the implementation of the Institute’s Work Programme were 
+published in 2017, in English and French unless otherwise stated: 
+ 
+ 
+STUDY LXV – LEGAL COOPERATION PROGRAMME 
+ 
+Scholarships: Impl. 28 – Research Scholarships Programme. Implementation report for 2017 
+ 
+ 
+STUDY LXXIIK – PROTOCOL ON MATTERS  SPECIFIC  TO MINING, AGRICULTURAL  AND CONSTRUCTION 
+EQUIPMENT (MAC PROTOCOL) 
+ 
+Committee of Governmental Experts - First session (Rome, 20-24 March 2017)  
+ 
+Doc. 1 Annotated draft agenda  
+Doc. 2 corr. Preliminary  draft  Protocol  to  the  Convention  on International  Interests  in  Mobile 
+Equipment on Matters specific to Agricultural, Construction and Mining Equipment 
+Doc. 3 corr. Explanatory Report to the preliminary draft MAC Protocol  
+Doc. 4 Legal Analysis 
+Doc. 5 Spreadsheet  detailing Harmonized System  codes  proposed  by  the  Study  Group  for 
+inclusion in the annexes to the preliminary draft MAC Protocol  
+Doc. 6 Comments (prepared by the World Bank Group) 
+Doc. 7 Comments (submitted by the Government of the United States of America) 
+Doc. 8 MAC Working Group’s position paper in support of and commenting on the Cape Town 
+Convention’s proposed mining, agriculture and construction Protocol  
+Doc. 9 Comments (submitted by the Government of the United Kingdom) 
+Doc. 10 Background paper (submitted by the US Department of Commerce on request of the 
+UNIDROIT Secretariat)  
+Doc. 11 Position paper (submitted by the Government of Japan)  
+Doc. 12 Comments (submitted by the Government of the Republic of South Africa)  
+W.P. 1 Provisional order of business  
+W.P. 2 Daily Report for 20 March 2017 (prepared by the UNIDROIT Secretariat) 
+W.P. 3 Proposal by the United States  
+W.P. 4 Daily Report for 21 March 2017 (prepared by the UNIDROIT Secretariat) 
+W.P. 5 Proposal by China  
+W.P. 6 Daily Report for 22 March 2017 (prepared by the UNIDROIT Secretariat) 
+W.P. 7 Report of the Drafting Committee  
+W.P. 8 Daily Report for 23 March 2017 (prepared by the UNIDROIT Secretariat) 
+W.P. 9 Daily Report for 24 March 2017 (prepared by the UNIDROIT Secretariat) 
+ Report (prepared by the UNIDROIT Secretariat) 
+ 
+ 
+ 
+ 
+  
+
+UNIDROIT – Annual Report – 2017 
+32 
+Committee of Governmental Experts - Second session (Rome, 2-6 October 2017)  
+ 
+Doc. 1 Annotated draft agenda 
+Doc. 2 Text  of  the  revised  preliminary  draft  Protocol  to  the  Convention  on International 
+Interests  in  Mobile  Equipment  on  Matters  specific  to  Agricultural,  Construction  and 
+Mining Equipment  
+Doc. 3 Explanatory Report to the preliminary draft MAC Protocol  
+Doc. 4 Legal Analysis 
+Doc. 5 Spreadsheet detailing Harmonized System codes proposed for inclusion in the Annexes 
+to the preliminary draft MAC Protocol  
+Doc. 6 The  2017  Edition  of  the  Harmonized  commodity  description  and  coding  system  (HS 
+System)  
+Doc. 7 Comments (submitted by the Government of the Republic of Sierra Leone) 
+Doc. 8 Comments (submitted by the Holy See) 
+Doc. 9 Comments (submitted by the World Bank Group) 
+Doc. 10 Comments (submitted by the United States Department of State) 
+Doc. 11 Conclusions paper (prepared by the Chair of the IWGRC and approved by the Group)  
+Doc. 12 Comments (prepared by the Republic of South Africa) 
+Doc. 13 Comments (prepared by the Republic of the Sudan) 
+Doc. 14 Comments (prepared by the United Kingdom) 
+Doc. 15 Comments (prepared by Japan) 
+Doc. 16 Preliminary economic assessment (Prepared by Warwick Economics and Associates) 
+Doc. 17 Comments (prepared by the Government of the People's Republic of China) 
+W.P. 1 Provisional order of business  
+W.P. 2 Summary of an economic assessment of the ‘MAC Protocol’ (submitted  by  Warwick 
+Economics & Associates)  
+W.P. 3 Treatment of Inventory under the Protocol to the Convention on International Interests 
+in  Mobile  Equipment  on  Matters  Specific  to Agriculture,  Construction  and  Mining 
+Equipment (submitted by the MAC Working Group)  
+W.P. 4 rev. Daily report for 2 October 2017 (prepared by the UNIDROIT Secretariat) 
+W.P. 5 Comments (prepared by Colombia) 
+W.P. 6 Daily Report for 3 October 2017 (prepared by the UNIDROIT Secretariat) 
+W.P. 7 Drafting Committee 4 October 2017 (prepared by the UNIDROIT Secretariat) 
+W.P. 8 Proposal for amendment of Article XXXII and structure of the Annexes (prepared by 
+Spain and Japan) 
+W.P. 9 Proposal of the wording of Article VIII(5) (submitted by Poland) 
+W.P. 10 Proposal of the wording of Article VIII(5) (submitted by Germany) 
+W.P. 11 Daily Report for 4 October 2017 (prepared by the UNIDROIT Secretariat) 
+W.P. 12 Report of the Drafting Committee - Text of the revised preliminary draft Protocol to the 
+Convention  on  international  interests  in  mobile  equipment  on  matters  specific  to 
+agricultural,  construction  and  mining  equipment  as  amended  by  the UNIDROIT 
+Committee of Governmental Experts for the preparation of a draft Protocol to the Cape 
+Town  Convention  on  matters  specific  to  agricultural,  construction  and  mining 
+equipment at its second session, held in Rome from 2 – 6 October 2017  
+W.P. 13 Daily Report for 5 October 2017 (prepared by the UNIDROIT Secretariat) 
+W.P. 14 Daily Report for 6 October 2017 (prepared by the UNIDROIT Secretariat) 
+ Report (prepared by the UNIDROIT Secretariat) 
+ 
+ 
+ 
+  
+
+Annex I 
+ 33 
+STUDY LXXVIA – TRANSNATIONAL CIVIL PROCEDURE - FORMULATION OF REGIONAL RULES / ELI –
+UNIDROIT RULES OF TRANSNATIONAL CIVIL PROCEDURE 
+ 
+Steering Committee and Co-Reporters – Joint Meeting (Rome, 5-7 April 2017)  
+ 
+SC V – Doc. 1 Draft agenda 
+SC V – Doc. 2 Presentation and discussion of the work in progress of the Group on Structure 
+SC V – Doc. 3 Presentation and discussion of the work in progress of the Group on Parties 
+SC V – Doc. 4 Presentation and discussion of the work in progress of the Group on Obligations 
+SC V – Doc. 5 Presentation and discussion of the work in progress of the Group on Res Judicata 
+and Lis Pendens (not available) 
+SC V – Doc. 6 Presentation and discussion of the work in progress of the Group on Costs 
+SC V – Doc. 7 Presentation and discussion of the work in progress of the Group on Judgements 
+SC V – Misc. 1 Provisional order of business 
+SC V – Misc. 2 List of participants 
+ 
+ 
+STUDY LXXVIII – TRANSACTIONS ON TRANSNATIONAL AND CONNECTED CAPITAL MARKETS  
+ 
+UNIDROIT Legislative Guide on Intermediated Securities - Implementing the Principles and Rules of 
+the Geneva Securities Convention (2017) 
+ 
+       
+(Chinese version of the Legislative Guide on Intermediated Securities) 
+ 
+ 
+STUDY LXXVIIIB – PRINCIPLES AND RULES CAPABLE OF ENHANCING TRADING IN SECURITIES IN EMERGING 
+MARKETS 
+ 
+Committee  on  Emerging  Markets  Issues,  Follow-up  and  Implementation - Fourth  Meeting 
+(Beijing, 29-30 March 2017)  
+ 
+Doc. 1 Annotated agenda 
+Doc. 2 UNIDROIT Legislative Guide on Intermediated Securities - Implementing the Principles 
+and Rules of the Geneva Securities Convention - Revised Draft 27 January 2017 
+Doc. 3 Possible examples and options for UNIDROIT’s future webpage for the Legislative Guide 
+on Intermediated Securities 
+Doc. 4 Report 
+ 
+ 
+STUDY LXXXB – PREPARATION  OF  AN INTERNATIONAL GUIDANCE DOCUMENT  ON AGRICULTURAL LAND 
+INVESTMENT CONTRACTS 
+ 
+Working  Group  on  agricultural  land  investment  contracts - First  meeting  (Rome,  3-5  May 
+2017) 
+ 
+Inf. 1 rev. Annotated draft agenda 
+Doc. 1 rev. Preparation of an international instrument on agricultural land investment contracts: A 
+preliminary outline of issues 
+Doc. 2 Report 
+W.P. 1 Community  development  agreements  in  agricultural  land  investments: Lessons 
+learned from extractive industries (prepared by Masaki Itagaki, Macarena Ramírez and 
+Arfian Setiaji) 
+ 
+
+UNIDROIT – Annual Report – 2017 
+34 
+Working  Group  on  agricultural  land  investment  contracts - Second  meeting  (Rome,  13-15 
+September 2017) 
+ 
+Inf. 1 rev. Annotated draft agenda 
+W.P. 2 Draft Chapter 1 – The Legal Framework (prepared by the UNIDROIT Secretariat) 
+W.P. 3 Draft  Chapter  3 – [Rights  and]  Obligations  of  the  Parties  Parts  I – V (prepared  by 
+Professor Pierre Etienne KENFACK, member of the Working Group on agricultural land 
+investment contracts) 
+W.P. 4 Draft  Chapter  3 – [Rights  and]  Obligations  of  the  Parties  Part  VI  (prepared  by  Mr 
+Lorenzo  COTULA,  member  of  the  Working  Group  on  agricultural  land  investment 
+contracts) 
+W.P. 5 Draft Chapter 6 – Dispute Resolution (prepared by Dr Jean HO, member of the Working 
+Group on agricultural land investment contracts) 
+Doc. 3 Report on the second meeting  
+ 
+Second informal meeting on the preparation of an international instrument on agricultural 
+land investment contracts (Rome, 11 October 2017) 
+ 
+Agenda Annotated informal agenda 
+ 
+ 
+ 
+CURRENT WORK ON UNIDROIT'S DEPOSITORY FUNCTIONS 
+ 
+ 
+STUDY LXXIIJ – INTERNATIONAL INTERESTS IN SPACE ASSETS 
+ 
+DC12/IR – ESTABLISHMENT OF THE INTERNATIONAL REGISTRY FOR SPACE PROPERTY 
+ 
+Preparatory  Commission  for  the  establishment  of  the  International  Registry  for  Space 
+Assets pursuant to the Space Protocol - Fifth session (Rome, 6 December 2017) 
+ 
+Doc. 1 Annotated draft agenda 
+Doc. 2 Summary Report 
+ 
+ 
+ 
+ 
+
+Annex II 
+ 35 
+ANNEX II 
+ 
+ 
+INSTRUMENTS DRAWN UP BY UNIDROIT/INSTRUMENTS ELABORES PAR UNIDROIT 
+ 
+1964 Convention  relating  to  a  Uniform  Law  on  the  International  Sale  of  Goods  (ULIS)  / Convention 
+portant loi uniforme sur la vente internationale des objets mobiliers corporels (LUVI) 
+*
+ 
+1964 Convention relating to a Uniform Law on the Formation of Contracts for the International Sale of 
+Goods  (ULFIS)  / Convention  portant  loi  uniforme  sur  la  formation  des  contrats  de  vente 
+internationale des objets mobiliers corporels (LUFC) * 
+1970 International  Convention  on  the  Travel  Contracts  (CCV)  / Convention  internationale  relative  au 
+contrat de voyage (CCV) 
+1973 Convention providing a Uniform Law on the Form of an International Will / Convention portant loi 
+uniforme sur la forme d’un testament international 
+1983 Convention on Agency in the International Sale of Goods / Convention sur la représentation en 
+matière de vente internationale de marchandises 
+1988 UNIDROIT Convention on International Financial Leasing / Convention d’UNIDROIT sur le crédit-bail 
+international 
+1988 UNIDROIT Convention  on  International  Factoring  / Convention d’UNIDROIT sur  l’affacturage 
+international 
+1994  Principles  of  International  Commercial  Contracts  / Principes  relatifs  aux  contrats  du  commerce 
+international 
+1995 UNIDROIT Convention on Stolen or Illegally Exported Cultural Objects / Convention d’UNIDROIT sur 
+les biens culturels volés ou illicitement exportés 
+1998 Guide to International Master Franchise Arrangements / Guide sur les accords internationaux de 
+franchise principale 
+2001 Convention  on  International  Interests  in  Mobile  Equipment  / Convention  relative  aux  garanties 
+internationales portant sur des matériels d’équipement mobiles 
+2001 Protocol to the Convention on International Interests in Mobile Equipment on Matters specific to 
+Aircraft Equipment / Protocole portant sur les questions spécifiques aux matériels d’équipement 
+aéronautiques  à  la  Convention  relative  aux  garanties  internationales  portant  sur  des  matériels 
+d’équipement mobiles 
+2002 Master  Franchise  Disclosure  Law  / Loi  type  sur  la  divulgation  des  informations  en  matière  de 
+franchise 
+2004 Principles  of  International  Commercial  Contracts  / Principes  relatifs  aux  contrats  du  commerce 
+international 
+2004 ALI/UNIDROIT Principles  of  Transnational  Civil  Procedure  / Principes  ALI/UNIDROIT de  procédure 
+civile transnationale 
+2007 Luxembourg Protocol to the Convention on International Interests in Mobile Equipment on Matters 
+specific to Railway Rolling Stock / Protocole de Luxembourg portant sur les questions spécifiques 
+au matériel roulant ferroviaire à la Convention relative aux garanties internationales portant sur 
+des matériels d’équipement mobiles 
+2007 Guide  to  International  Master  Franchise  Arrangements,  2
+nd
+ edition  / Guide  sur  les  accords 
+internationaux de franchise principale, 2
+ème
+ édition 
+2008 UNIDROIT Model law on Leasing / Loi type d’UNIDROIT sur la location et la location-financement 
+2009 UNIDROIT Convention on Substantive Rules for Intermediated Securities / Convention d’UNIDROIT 
+sur les règles matérielles relatives aux titres intermédiés 
+                                                 
+*
+  The ULIS and ULFIS Conventions have been denounced by Belgium, Germany, Italy, Luxembourg, the 
+Netherlands and San Marino. Under the 1969 Vienna Convention on the Law of Treaties they have not ceased to 
+exist and they are still in force between Gambia, Israel and the United Kingdom / Les Conventions LUVI et LUFC 
+ont été dénoncées par l’Allemagne, la Belgique, l’Italie, le Luxembourg, les Pays-Bas et Saint-Marin. En vertu de 
+la Convention de Vienne sur le droit des traités de 1969, elles n’ont pas cessé d’exister et restent en vigueur 
+entre la Gambie, Israël et le Royaume-Uni. 
+
+UNIDROIT – Annual Report – 2017 
+36 
+2010 Principles  of  International  Commercial  Contracts  / Principes  relatifs  aux  contrats  du  commerce 
+international 
+2011 UNESCO-UNIDROIT Model  Provisions  on  State  Ownership  of  Undiscovered  Cultural  Objects  / 
+Dispositions  modèles  UNESCO-UNIDROIT définissant la propriété de l’Etat sur les biens culturels 
+non découverts 
+2012 Protocol to the Convention on International Interests in Mobile Equipment on Matters specific to 
+Space Assets / Protocole portant sur les questions spécifiques aux biens spatiaux à la Convention 
+relative aux garanties internationales portant sur des matériels d’équipement mobiles 
+2013 Principles  on  the  Operation  of  Close-out  Netting  Provisions  / Principes concernant l’applicabilité 
+des clauses de résiliation-compensation 
+2013 Model Clauses for Use by Parties of the UNIDROIT Principles of International Commercial Contracts 
+/ Clauses  types  sur  l’utilisation  des  Principes  d’UNIDROIT relatifs  aux  contrats  du  commerce 
+international par les parties 
+2015 UNIDROIT/FAO/IFAD  Legal  Guide  on  Contract  Farming  / Guide  juridique sur  l’agriculture 
+contractuelle UNIDROIT/FAO/FIDA 
+2016 Principles of  International  Commercial  Contracts  / Principes  relatifs  aux  contrats  du  commerce 
+international 
+2017 UNIDROIT Legislative Guide on Intermediated Securities / Guide législatif d’UNIDROIT sur les titres 
+intermédiés 
+ 
+ST A T U S   O F   I M P L E M E N T A TI O N  
+( * )
+ O F   C O N V E N T I O N S   D R A W N U P   B Y  UN I D R O I T   A N D   A P P R O V E D 
+A T   D I P L O M A T I C  CO N F E R E N C E S   C O N V E N E D  B Y   M E M B E R  ST A T E S   O F  UN I D R O I T  / 
+ET A T   D E   M I S E   E N   O E U V RE
+ 
+( * )
+ D E S   C O N V E N T I O N S   P R E PA R E E S   P A R  UN I D R O I T  E T   A P P R O U V E E S  
+A   D E S  CO N F E R E N C E S   D I P L O M A T IQ U ES   C O N V O Q U E E S   P A R   D E S ET A T S   M E M B R E S   D’UN I D R O I T 
+ 
+  
+INTERNATIONAL CONVENTION ON THE TRAVEL CONTRACT (CCV) 
+CONVENTION INTERNATIONALE RELATIVE AU CONTRAT DE VOYAGE (CCV) 
+  
+Adoption: Place: Brussels / Lieu: Bruxelles 
+Date: 23-04-1970 
+  
+Entry into force: 
+Entrée en vigueur: 
+ 
+Contracting States / 
+Etats contractants 
+Yes / Oui  Date: 24-02-1976 
+Conditions: 5 ratifications (art. 36) 
+ 
+6 
+  
+Depositary / Dépositaire:  Government of Belgium / Gouvernement belge (art. 34) 
+UNIDROIT website page / 
+Page internet d’UNIDROIT 
+https://www.unidroit.org/instruments/transport/ccv 
+https://www.unidroit.org/fr/instruments/instruments-transport/instruments-voyage-ccv 
+STATE / ETAT SIGNATURE RATIFICATION
+ACCESSION / 
+ADHESION 
+ENTRY INTO 
+FORCE / ENTREE 
+EN VIGUEUR 
+DECL. or RESERV. / 
+DECL. ou RESERVES 
+EFFECT OF / 
+EFFET DE 
+DENU(O)NCIATION 
+Argentina / Argentine – 25-11-76 25-02-77 – 14-01-10 
+Belgium / Belgique 23-04-70 11-04-73 24-02-76 – 04-10-94 
+Cameroon / Cameroun – 16-04-75 24-02-76 D: Art. 13(1) – 
+Côte d’Ivoire 23-04-70 – – – – 
+Dahomey – 28-03-75 24-02-76 – – 
+Haute-Volta 27-04-70 – – – – 
+Italy / Italie 23-04-70 04-07-79 04-10-79 R: Art. 40(1)(a) – 
+Lebanon / Liban 23-04-70 – – – – 
+Morocco / Maroc 23-04-70 – – R: Art. 40(1)(a)-(b) – 
+Niger 23-04-70 – – – – 
+                                                 
+(*)
+  Based on information available to the Secretariat as of 31 December 2017 / Ce document est basé sur les informations 
+dont dispose le Secrétariat au 31 décembre 2017. 
+ The UNIDROIT Secretariat may assist States with technical consultations for the ratification of, or the accession to its 
+instruments, as well as for the preparation of legislation based on those instruments / Le Secrétariat d’UNIDROIT peut apporter 
+son assistance technique aux Etats en vue de la ratification de ses instruments, ou de l’adhésion à ceux-ci,  ainsi  que  pour 
+l’élaboration de législations basées sur ces instruments. 
+
+Annex II 
+ 37 
+Philippines 23-04-70 – – – – 
+Portugal 23-04-70 – – – – 
+Rep. of China / Rép. de Chine 30-12-71 16-08-72 24-02-76 – – 
+San Marino / Saint-Marin
+ 
+23-04-70 16-04-09 16-07-09 R: Art. 40(1)(a) – 
+Togo 25-03-71 24-11-75 24-02-76 – – 
+Vatican City / Cité du Vatican 23-04-70 – – – – 
+ 
+ 
+CONVENTION PROVIDING A UNIFORM LAW ON THE FORM OF AN INTERNATIONAL WILL 
+CONVENTION PORTANT LOI UNIFORME SUR LA FORME D’UN TESTAMENT INTERNATIONAL 
+  
+Adoption: Place/Lieu: Washington 
+Date: 26-10-1973 
+  
+Entry into force: 
+Entrée en vigueur: 
+ 
+Contracting States / 
+Etats contractants 
+Yes/Oui  Date: 09-02-1978 
+Conditions: 5 ratifications (Art. XI) 
+ 
+13 
+  
+Depositary / Dépositaire:  Government of the United States of America /  
+Gouvernement des Etats-Unis d’Amérique 
+UNIDROIT website page / 
+Page internet d’UNIDROIT 
+https://www.unidroit.org/instruments/international-will 
+https://www.unidroit.org/fr/instruments/testaments-instruments 
+STATE / ETAT SIGNATURE RATIFICATION  
+ACCESS. / ADHES. 
+ENTRY INTO FORCE / 
+ENTREE EN VIGUEUR 
+DECL. or RESERV. 
+DECL. ou RESERVES 
+Australia / Australie – 10-09-14 10-03-15 – 
+Belgium / Belgique 17-05-74 21-04-83 21-10-83 – 
+Bosnia-Herzegovina / Bosnie-Herzégovine * – 15-08-94 15-08-94 – 
+Canada  for / pour – 24-01-77  D: Art. XIV  
+ Manitoba   09-02-78  
+ Newfoundland / Terre Neuve   09-02-78  
+ Ontario   15-09-78  
+ Alberta   01-12-78  
+ Saskatchewan   08-10-82  
+ Prince Edward Island / Ile du Prince Edouard   22-03-95  
+ New Brunswick / Nouveau Brunswick   05-12-97  
+ Nova Scotia / Nouvelle Ecosse   27-05-01  
+ British Colombia / Colombie britannique   31-03-14  
+Croatia / Croatie * – 18-05-94 18-05-94  
+Cyprus / Chypre – 19-10-82 19-04-83 – 
+Ecuador / Equateur 26-07-74 03-04-79 03-10-79 D 
+France 29-11-74 01-06-94 01-12-94 – 
+Holy See / Saint-Siège 02-11-73 – – – 
+Iran 27-10-73 – – – 
+Italy / Italie – 16-05-91 16-11-91 D: Arts. I, II, III 
+Laos 30-10-73 – – – 
+Libya / Libye – 04-08-77 09-02-78 – 
+Niger – 19-05-75 09-02-78 – 
+Portugal – 19-11-75 09-02-78 – 
+Russian Fed. / Féd. de Russie 17-12-74 – – D: Art. XIII 
+Sierra Leone 27-10-73 – – – 
+Slovenia / Slovénie * – 20-08-92 20-08-92 – 
+United Kingdom / Royaume-Uni 10-10-74 – – – 
+United States of America / Etats-Unis d’Amérique 27-10-73 – – – 
+ 
+* Dates of notification of succession to the Convention by Bosnia-Herzegovina, Croatia and Slovenia. The former Socialist Federal 
+Republic  of  Yugoslavia  deposited  an  instrument  of  accession  to  the  Convention  on  9  August  1977.  / Dates de notification  de 
+succession  à  la  Convention  par  la  Bosnie-Herzégovine,  la  Croatie  et  la  Slovénie. L’ancienne République  fédérale  socialiste  de 
+Yougoslavie avait déposé un instrument d’adhésion le 9 août 1977.  
+ 
+ 
+ 
+ 
+ 
+
+UNIDROIT – Annual Report – 2017 
+38 
+CONVENTION ON AGENCY IN THE INTERNATIONAL SALE OF GOODS 
+CONVENTION SUR LA REPRESENTATION EN MATIERE DE VENTE 
+INTERNATIONALE DE MARCHANDISES 
+   
+Adoption: Place: Geneva / Lieu: Genève 
+Date: 17-02-83 
+  
+Entry into force: 
+Entrée en vigueur: 
+ 
+Contracting States / 
+Etats contractants 
+No / Non 
+Conditions: 10 ratifications (art. 33) 
+ 
+/ 
+  
+Depositary: 
+Dépositaire:  
+Government of Switzerland 
+Gouvernement suisse (art. 21) 
+UNIDROIT website page / 
+Page internet d’UNIDROIT 
+https://www.unidroit.org/instruments/agency 
+https://www.unidroit.org/fr/instruments/representation 
+STATE / ETAT 
+SIGNATURE 
+RATIFICATION  
+ACCESSION / 
+ADHESION 
+ENTRY INTO 
+FORCE/ENTREE 
+EN VIGUEUR 
+DECL. or RESERV. 
+DECL. ou RESERVES 
+observations 
+Chile / Chili 17-02-83 – – – – 
+France 25-10-84 07-08-87 – – – 
+Holy See / Saint-Siège 17-02-83 – – – – 
+Italy / Italie 09-04-84 16-06-86 – – – 
+Mexico / Mexique – 22-12-87 – Art. 27, 29 – 
+Morocco / Maroc 17-02-83 – – – – 
+Netherlands / Pays-Bas
+ 
+– 02-02-94 – – 02-02-95 
+(*)
+ 
+South Africa / Afrique du sud – 27-01-86 – – – 
+Switzerland / Suisse 17-02-83 – – – – 
+(*) 
+Application extended to Aruba / Application étendue à Aruba. 
+ 
+UNIDROIT CONVENTION ON INTERNATIONAL FINANCIAL LEASING 
+CONVENTION D’UNIDROIT SUR LE CREDIT-BAIL INTERNATIONAL 
+  
+Adoption: Place / Lieu: Ottawa 
+Date: 28-05-88 
+  
+Entry into force: 
+Entrée en vigueur: 
+ 
+Contracting States / 
+Etats contractants 
+Yes / Oui  Date: 01-05-95 
+Conditions: 3 ratifications (art. 16.1) 
+ 
+10 
+  
+Depositary / Dépositaire:  
+UNIDROIT website page / 
+Page internet d’UNIDROIT  
+Government of Canada / Gouvernement du Canada (art. 25.1) 
+https://www.unidroit.org/instruments/leasing/convention-leasing 
+https://www.unidroit.org/fr/instruments/credit-bail/credit-bail-convention-fr 
+STATE / ETAT SIGNATURE RATIFICATION  
+ACCESSION / ADHESION 
+ENTRY INTO FORCE / 
+ENTREE EN VIGUEUR 
+DECL. or RESERV. 
+DECL. ou RESERVES 
+Belarus / Bélarus – 18-08-98 01-03-99 – 
+Belgium / Belgique 21-12-90 – – – 
+Czech Rep. / Rép. tchèque 16-05-90 – – – 
+Finland / Finlande 30-09-90 – – – 
+France 07-11-89 23-09-91 01-05-95 Art. 20 
+Ghana 28-05-88 – – – 
+Guinea / Guinée 28-05-88 – – – 
+Hungary / Hongrie – 07-05-96 01-12-96 – 
+Italy / Italie 13-12-90 29-11-93 01-05-95 – 
+Latvia / Lettonie – 06-08-97 01-03-98 – 
+Morocco / Maroc 04-07-88 – – – 
+Nigeria / Nigéria  28-05-88 25-10-94 01-05-95 – 
+Panama 31-12-90 26-05-97 01-10-97 – 
+Philippines 28-05-88 – – – 
+Russian Federation / Féd. de Russie – 03-06-98 01-01-99 Art. 20 
+Slovak Rep. / Rép. slovaque 16-05-90 – – – 
+Tanzania / Tanzanie 28-05-88 – – – 
+Ukraine – 05-12-06 01-07-07  
+United States of America /  
+ Etats-Unis d’Amérique 
+28-12-90 – – – 
+Uzbekistan / Ouzbékistan – 06-07-00 01-02-01 – 
+
+Annex II 
+ 39 
+UNIDROIT CONVENTION ON INTERNATIONAL FACTORING 
+CONVENTION D’UNIDROIT SUR L’AFFACTURAGE INTERNATIONAL 
+  
+Adoption: Place / Lieu: Ottawa 
+Date: 28-05-88 
+  
+Entry into force: 
+Entrée en vigueur: 
+ 
+Contracting States / 
+Etats contractants 
+Yes / Oui  Date: 01-05-95 
+Conditions: 3 ratifications (art. 14.1) 
+ 
+9 
+  
+Depositary / Dépositaire:  Government of Canada / Gouvernement du Canada (art. 23.1) 
+UNIDROIT website page / 
+Page internet d’UNIDROIT 
+https://www.unidroit.org/instruments/factoring 
+https://www.unidroit.org/fr/instruments/affacturage 
+STATE / ETAT SIGNATURE RATIFICATION  
+ACCESSION / ADHESION 
+ENTRY INTO FORCE 
+ENTREE EN VIGUEUR 
+DECL. or RESERV. / 
+DECL. ou RESERVES 
+Belgium / Belgique 21-12-90 18-03-10 01-10-10 Art. 18 
+Czech Rep. / Rép. tchèque 16-05-90 – – – 
+Finland / Finlande 30-11-90 – – – 
+France 07-11-89 23-09-91 01-05-95 Art. 18 
+Germany / Allemagne 21-12-90 20-05-98 01-12-98 – 
+Ghana 28-05-88 – – – 
+Guinea / Guinée 28-05-88 – – – 
+Hungary / Hongrie – 07-05-96 01-12-96 – 
+Italy / Italie 13-12-90 29-11-93 01-05-95 – 
+Latvia / Lettonie – 06-08-97 01-03-98 Art. 18 
+Morocco / Maroc 04-07-88 – – – 
+Nigeria / Nigéria 28-05-88 25-10-94 01-05-95 – 
+Philippines 28-05-88 – – – 
+Russian Fed. / Féd. de Russie – 22-08-14 01-03-15 – 
+Slovak Rep. / Rép. slovaque 16-05-90 – – – 
+Tanzania / Tanzanie 28-05-88 – – – 
+Ukraine — 05-12-06 01-07-07  
+United Kingdom / Royaume-Uni 31-12-90 – – – 
+United States of America /  
+ Etats-Unis d’Amérique 
+28-12-90 – – – 
+ 
+UNIDROIT CONVENTION ON STOLEN OR ILLEGALLY EXPORTED CULTURAL OBJECTS 
+CONVENTION D’UNIDROIT SUR LES BIENS CULTURELS VOLES OU ILLICITEMENT EXPORTES 
+  
+Adoption: Place / Lieu: Rome 
+Date: 24-06-1995 
+  
+Entry into force: 
+Entrée en vigueur: 
+Yes / Oui   Date: 01-07-1998 
+Conditions: 5 ratifications (Art. 12) 
+ 
+Contracting States / Etats 
+contractants: 
+ 
+41 
+ 
+  
+Depositary / Dépositaire:  Italian Government / Gouvernement italien  
+UNIDROIT website page / 
+Page internet d’UNIDROIT 
+https://www.unidroit.org/instruments/cultural-property/1995-convention 
+https://www.unidroit.org/fr/instruments/biens-culturels/convention-de-1995 
+STATE / ETAT SIGNATURE RATIFICATION / 
+ACCESS. / ADHES.  
+ENTRY INTO FORCE / 
+ENTREE EN VIGUEUR 
+DECLARATIONS 
+Afghanistan – 23-09-05 01-03-06 Art. 16 
+Algeria / Algérie – 09-04-15 01-10-15 Art. 16 
+Angola – 19-06-14 01-12-14 Arts. 16, 17 
+Argentina / Argentine – 03-08-01 01-02-02 Art. 16 
+Azerbaijan / Azerbaïdjan  – 06-06-03 01-12-03 Art. 16 
+Bolivia / Bolivie 29-06-96 13-04-99 01-10-99 Art. 16 
+Bosnia and Herzegovina / 
+ Bosnie Herzégovine 
+ 
+– 
+ 
+08-05-17 
+ 
+01-11-17 
+ 
+Art. 16 
+Bostwana – 28-08-17 01-02-18 Art. 16 
+Brazil / Brésil – 23-03-99 01-09-99 Art. 16 
+Burkina Faso 24-06-95 – – – 
+Cambodia / Cambodge 24-06-95 11-07-02 01-01-03 Art. 16 
+China / Chine – 07-05-97 01-07-98 Arts. 3(5), 16 
+
+UNIDROIT – Annual Report – 2017 
+40 
+Colombia / Colombie – 14-06-12 01-12-12 Arts. 16, 17 
+Côte d’Ivoire 24-06-95 – – – 
+Croatia / Croatie 24-06-95 20-09-00 01-03-01 Arts. 16, 17 
+Cyprus / Chypre – 02-03-04 01-09-04 Arts. 16, 17 
+Denmark / Danemark – 01-01-11 01-07-11 Art. 14, 16, 17 
+Ecuador / Equateur – 26-11-97 01-07-98 Arts. 3(5), 16 
+El Salvador – 16-07-99 01-01-00 Art. 16 
+Finland / Finlande 01-12-95 14-06-99 01-12-99 Arts. 13(3), 16 
+France 24-06-95 – – – 
+Gabon – 12-05-04 01-11-04 – 
+Georgia / Géorgie 27-06-95 – – – 
+Greece / Grèce – 19-07-07 01-01-08 Arts. 13(3), 16 
+Guinea / Guinée 24-06-95 – – – 
+Guatemala – 03-09-03 01-03-04 Arts. 3(5), 16  
+Honduras – 27-08-13 01-02-14 – 
+Hungary / Hongrie 24-06-95 08-05-98 01-11-98 Art. 16 
+Iran (Islamic Rep. of /  
+Rép. islamique d’) 
+– 22-06-05 01-12-05 Art. 16 
+Italy / Italie 24-06-95 11-10-99 01-04-00 Arts. 13(3), 16 
+Lao People’s Democratic Republic / 
+ Rép. dém. Populaire lao 
+ 
+– 
+ 
+18-05-17 
+ 
+01-11-17 
+ 
+Art. 16 
+Lithuania / Lituanie 24-06-95 04-04-97 01-07-98 Art. 16 
+Netherlands / Pays-Bas 28-06-96 – – Arts. 3(5), 13(3) 
+New Zealand / Nouvelle-Zélande – 16-11-06 01-05-07 Art. 16 
+Nigeria / Nigéria – 10-12-05 01-06-06 – 
+Norway / Norvège – 28-08-01 01-03-02 Arts. 13(3), 14, 16 
+Pakistan 27-06-96 – – – 
+Panama – 26-06-09 01-12-09 Art. 16 
+Paraguay 13-06-96 27-05-97 01-07-98 Arts. 16, 17 
+Peru / Pérou 28-06-96 05-03-98 01-09-98 Art. 16 
+Portugal 23-04-96 19-07-02 01-01-03 Arts. 16, 17 
+Romania / Roumanie 27-06-96 21-01-98 01-07-98 Arts. 16, 17 
+Russian Fed. / Féd. de Russie 29-06-96 – – – 
+Senegal / Sénégal 29-06-96 – – – 
+Slovakia / Slovaquie – 16-06-03 01-12-03 Art. 16 
+Slovenia / Slovénie – 08-04-04 01-10-04 Art. 16 
+Spain / Espagne – 21-05-02 01-11-02 Arts. 13(3), 16 
+Sweden / Suède – 28-06-11 01-12-11 Arts. 13(3), 16, 17 
+Switzerland / Suisse 26-06-96 – – – 
+The former Yugoslav Republic 
+ of Macedonia / Ex-République 
+ yougoslave de Macédoine 
+– 22-08-13 01-02-14 Art. 16 
+Tunisia / Tunisie – 02-03-17 01-09-17 Art. 16 
+Zambia / Zambie 24-06-95 – – – 
+ 
+ 
+CONVENTION ON INTERNATIONAL INTERESTS IN MOBILE EQUIPMENT 
+CONVENTION RELATIVE AUX GARANTIES INTERNATIONALES  
+PORTANT SUR DES MATERIELS D’EQUIPEMENT MOBILES 
+ 
+  
+Adoption: Place: Cape Town / Lieu: Le Cap 
+Date: 16-11-2001  
+  
+Entry into force: 
+Entrée en vigueur: 
+ 
+Contracting States / 
+Etats contractants 
+ 
+Regional economic integration 
+organisations / Organisations 
+régionale d’intégration économique 
+ 
+Yes / Oui   Date: 01-03-2006  
+Conditions: 3 ratifications (Art. 49(1)) 
+ 
+73 
+ 
+ 
+1 
+  
+Depositary / Dépositaire:  UNIDROIT 
+UNIDROIT website page / 
+Page internet d’UNIDROIT 
+https://www.unidroit.org/instruments/security-interests/cape-town-convention 
+https://www.unidroit.org/fr/instruments/garanties-internationales/convention-du-cap 
+STATE / ETAT 
+SIGNATURE RATIFICATION / 
+ACCESS. / ADHES.  
+ENTRY INTO FORCE / 
+ENTREE EN VIGUEUR 
+DECL. or RESERV. / 
+DECL. ou RESERVES 
+Afghanistan – 25-07-06 01-11-06 D: Arts. 39(1)(a)-(b), 40, 52, 53, 54(2) 
+Albania/ Albanie – 30-10-07 01-02-08 D: Arts. 39(1)(a)-(b), 54(2) 
+Angola – 30-04-06 01-08-06 D: Arts. 39(1)(a), 40, 54(2) 
+Australia / Australie – 26-05-15 01-09-15 D: Art. 39(1)(a), 53, 54(2), 55 
+
+Annex II 
+ 41 
+Bahrain / Bahreïn – 27-11-12 01-03-13 D: Arts. 39(1)(a)-(b), 40, 54(2) 
+Bangladesh – 15-12-08 01-04-09 D: Arts. 39(1)(a)-(b), 40, 52, 53, 54(2) 
+Belarus / Bélarus – 28-06-11 01-01-12 D: Art. 54(2) 
+Bhutan – 04-07-14 01-11-14 D: Arts. 39(1)(a), 54(2) 
+Brazil / Brésil – 30-11-11 01-03-12 D: Arts. 39(1)(a)-(b), 39(4), 53, 54(2) 
+Burkina Faso – 12-12-14 01-01-18 D: Art. 54(2) 
+Burundi 16-11-01 – – – 
+Cameroon / Cameroun – 19—04-11 01-08-11 D: Arts. 39(1)(a), 40, 52, 53, 54(2) 
+Canada 31-03-04 21-12-12 01-04-13 D: Arts. 39(1)(a)-(b), 39(4), 52
+*
+, 53
+*
+, 
+54(2), 60 
+Cape Verde / Cap Vert  29-09-07 01-01-08 D: Arts. 39(1)(a), 40, 53, 54(2) 
+Chile / Chili 16-11-01 – – – 
+China / Chine 16-11-01 03-02-09 01-06-09 D: Arts. 39(1)(a)-(b), 40, 50, 53, 
+54(1)-(2), 55 
+Colombia / Colombie – 19-02-07 01-06-07 D: Arts. 39(1)(a), 54(2) 
+Congo  16-11-01 25-01-13 01-05-13 D: Arts. 39(1)(a)-(b), 40,52, 53, 54(2) 
+Costa Rica – 26-08-11 
+1
+ D: Art. 53 
+Côte d’Ivoire – 09-02-15 01-07-16 D: Art. 54(2) 
+Cuba 16-11-01 28-01-09 01-05-09 D: Art. 54(2) 
+Democratic Republic of the Congo / 
+ Rép. démocratique du Congo 
+ 
+– 
+ 
+06-05-16 
+ 
+01-09-16 
+ 
+D: Arts. 39(1)(a)-(b), 40, 53, 54(2) 
+Denmark / Danemark – 26-10-15 01-02-16 D: Arts. 39(1)(a)-(b), 40, 52, 54(2), 55 
+Egypt / Egypte – 10-12-14 01-04-15 D: Arts. 39(1)(a), 54(2) 
+Ethiopia / Ethiopie 16-11-01 21-11-03 01-04-04 D: Arts. 39(1)(a), 40, 54(2) 
+Fiji / Fidji – 05-09-11 01-01-12 D: Art. 54(2) * 
+France 16-11-01 – – – 
+Gabon – 16-04-10 01-08-17 D: Art. 54(2) 
+Germany / Allemagne 16-11-01 – – D 
+Ghana 16-11-01 – – – 
+India / Inde – 31-03-08 01-07-08 D: Arts. 39(1)(a)-(b), 40, 52, 53, 54(2) 
+Indonesia / Indonésie – 16-03-07 01-07-07 D: Arts. 39(1)(a)-(b), 40, 53, 54(2) 
+Ireland / Irlande – 29-07-05 01-11-05 D: Arts. 39(1)(a)-(b), 54(2) 
+Italy / Italie 06-12-01 – – – 
+Jamaica / Jamaïque  16-11-01 – – – 
+Jordan / Jordanie 16-11-01 31-08-10 01-12-10 D: Arts. 39(1)(a), 54(2) 
+Kazakhstan – 21-01-09 01-10-11 
+3
+ D: Arts. 39(1)(a)
+*
+-(b)
+ *
+, 39(4)
+ *
+,40
+ *
+, 
+53
+*
+, 54(2)
+ *
+ 
+Kenya 16-11-01 13-10-06 01-02-07 D: Arts. 39(1)(a)
+*
+-(b), 40, 53, 54(2) 
+Kuwait / Koweït – 31-10-13 01-02-14 D: Art. 54(2) 
+Latvia / Lettonie – 08-02-11 01-06-11 D: Art. 54(2) 
+Lesotho 16-11-01 – – – 
+Luxembourg – 27-06-08 01-10-08 D: Arts. 53, 54(2) 
+Madagascar – 10-04-13 01-08-13 D: Arts. 39(1)(a)-(b), 40, 53, 54(2) 
+Malawi – 16-01-14 01-05-14 D: Arts. 39(1)(a)-(b), 40, 53, 54(2) 
+Malaysia / Malaisie – 02-11-05 01-03-06 D: Arts. 39(1)(a)-(b), 40, 53, 54(2) 
+Malta / Malte 
+**
+ – 01-10-10 01-02-11 D: Arts. 39(1)(a), 39(4), 40, 53, 54(2) 
+Mexico / Mexique – 31-07-07 01-11-07 D: Arts. 39(1)(a)-(b), 50, 53, 54(2), 60 
+Moldova – 26-06-15 
+1
+ – 
+Mongolia / Mongolie – 19-10-06 01-02-07 D: Arts. 39(1)(a)-(b), 53, 54(2) 
+Mozambique – 30-01-12 01-11-13 D: Arts. 39(1)(a), 40, 54(2) 
+Myanmar – 03-12-12 01-04-13 D: Arts. 39(1)(a), 40, 52, 53, 54(2) 
+Netherlands / Pays-Bas 
+4
+ – 17-05-10  D: Arts. 39(1)(a)-(b), 52, 53, 54(2) 
+   Caribbean part/Partie caraïbe    01-10-10  
+   Aruba   01-09-10  
+   Curaçao   01-10-10  
+   Sint Maarten   01-10-10  
+New Zealand / Nouvelle-Zélande – 20-07-10 01-11-10 D: Arts. 39(1)(a), 52, 53, 54(2), 55 
+Nigeria / Nigéria 16-11-01 16-12-03 01-04-04 D: Arts. 39(1)(a)
+*
+, 40
+*
+, 53
+*
+,54(2)
+*
+ 
+Norway / Norvège – 20-12-10 01-04-11 D: Arts. 39(1)(a)-(b), 40, 54(2), 55 
+Oman – 21-03-05 01-07-05 D: Arts. 39(1)(a)-(b), 40, 52, 53, 54(2) 
+Pakistan – 22-01-04 01-05-04 D: Arts. 39(1)(a)-(b), 39(4), 40, 52, 
+53, 54(2) 
+Panama 11-09-02 28-07-03 01-04-04 D: Arts. 39(1)(a)-(b), 39(4), 50, 53, 
+54(2) 
+Russian Federation / Fédération de 
+ Russie 
+ 
+– 
+ 
+25-05-11 
+ 
+01-09-11 
+ 
+D: Arts. 39(1)(a)-(b), 53, 54(2) 
+Rwanda – 28-01-10 01-05-10 D: Arts. 39(1)(a), 40, 52, 53, 54(2) 
+San Marino / Saint-Marin – 09-09-14 01-01-15 D: Arts. 39(1)(a)-(b), 39(4),40, 53, 
+54(2) 
+Saudi Arabia / Arabie saoudite 12-03-03 27-06-08 01-10-08 D: Art. 54(2) 
+Senegal / Sénégal 02-04-02 09-01-06 01-05-06 D: Arts. 39(1)(a)-(b), 40, 52, 53, 54(2) 
+Seychelles – 13-09-10 
+1
+ – 
+Sierra Leone – 26-07-16 01-11-16 D: Arts. 39(1)(a)-(b), 40, 53, 54(2) 
+Singapore / Singapour – 28-01-09 01-05-09 D: Arts. 39(1)(a)-(b), 39(4), 53, 54(2) 
+South Africa / Afrique du sud 16-11-01 18-01-07 01-05-07 D: Arts. 39(1)(a)-(b), 40, 54(2) 
+Spain / Espagne – 28-06-13 01-03-16 
+1
+ D: Arts. 39(1)(a)-(b)
+ *
+, 40
+*
+, 52, 53
+*
+, 
+54(2) 
+Sudan / Soudan 16-11-01 – – – 
+Swaziland – 17-11-16 01-09-17 D: Art. 54(2) 
+Sweden / Suède – 30-12-15 01-04-16 D: Arts. 39(1)(a)-(b), 39(4), 40, 54(2) 
+
+UNIDROIT – Annual Report – 2017 
+42 
+Switzerland / Suisse 16-11-01 (ad 
+ref.) 
+– – – 
+Syrian Arab Republic / 
+ République arabe syrienne 
+ 
+– 
+ 
+07-08-07 
+ 
+1
+ 
+ 
+– 
+Tajikistan / Tadjikistan – 31-05-11 01-09-11 D: Art. 54(2) 
+Togo – 25-01-10 01-04-12 
+3
+ D: Arts. 39(1)(a)
+*
+-(b)
+ *
+, 40
+ *
+, 53
+*
+, 
+54(2)
+*
+ 
+Tonga 16-11-01 – – – 
+Turkey / Turquie 16-11-01 – – D: Arts. 39(1)(a)-(b), 40, 50, 54(2) 
+Ukraine  09-03-04 31-07-12 01-11-12 D: Arts. 50, 53, 54(2) 
+United Arab Emirates / Emirats 
+ arabes unis 
+– 29-04-08 01-08-08 D: Arts. 39(1)(a)-(b), 40, 52, 53, 54(2) 
+United Kingdom / Royaume-Uni 16-11-01 27-07-15– 01-11-15 D: Arts. 39(1)(a)
+*
+-(b)
+*
+, 39(4)
+*
+, 52
+*
+, 
+53
+*
+, 54(2)
+*
+ 
+United Rep. of Tanzania /  
+ Rép.-Unie de Tanzanie 
+16-11-01 30-01-09 01-05-09 D: Art. 54(2) 
+United States of America / 
+ Etats-Unis d’Amérique 
+09-05-03 28-10-04 01-02-05 D: Arts. 39(1)(a)-(b), 54(2) 
+Viet Nam – 17-09-14 01-01-15 D: Arts. 39(1)(a)-(b), 40, 53, 54(2) 
+Zimbabwe – 13-05-08 
+1
+ – 
+     
+Regional economic integration 
+organisations / Organisations 
+régionale d’intégration 
+économique 
+ 
+    
+European Union / 
+2
+ 
+ Union européenne  
+– 28-04-09 01-08-09 D: Arts. 48(2), 55 
+ 
+1 
+Subject to Article 49(1) / Sous réserve de l’article 49(1).  
+2 
+Regional Economic Integration Organisation / Organisation régionale d’intégration économique (Art. 48).  
+3 
+This  State  has  provided UNIDROIT with  information  about  its  laws  and  policies  in  relation  to  the  Convention:  see 
+www.unidroit.org/english/conventions/mobile-equipment/informationcontractingstates.htm  // Cet  Etat  a  fourni  à UNIDROIT 
+des informations concernant la situation au regard de sa législation et des politiques applicables aux matières couvertes par 
+la Convention: voir www.unidroit.org/french/conventions/mobile-equipment/informationcontractingstates.htm 
+4 
+The  Kingdom  of  the  Netherlands  deposited  its  instrument  of  accession  to  the  Convention  on  20  July  2010  for  the 
+Netherlands Antilles (Caraçao, Sint Maarten, Bonaire, Sint Eustatius and Saba) and Aruba. As from 10 October 2010, following 
+a modification of the internal constitutional relations within the Kingdom of the Netherlands, the reference to the "Netherlands 
+Antilles" is to be replaced by "Curaçao, Sint Maarten and the Caribbean part of the Netherlands (the islands of Bonaire, Saba 
+and Sint Eustatius)" / Le Royaume des Pays-Bas a déposé son instrument d'adhésion à la Convention le 20 juillet 2010 pour 
+les Antilles néerlandaises et Aruba. A compter du 10 octobre 2010, suite à une réforme des relations constitutionnelles au 
+sein du Royaume des Pays-Bas, la référence aux "Antilles néerlandaises" doit être remplacée par "Curaçao, Sint Maarten et 
+la partie caraïbe des Pays-Bas (les îles de Bonaire, Saba et Sint Eustatius)." 
+* Affected by withdrawal and/or subsequent declaration / Fait l’objet d’un retrait ou d’une déclaration subséquente. 
+ 
+ 
+PROTOCOL TO THE CONVENTION ON INTERNATIONAL INTERESTS IN MOBILE EQUIPMENT  
+ON MATTERS SPECIFIC TO AIRCRAFT EQUIPMENT 
+PROTOCOLE PORTANT SUR LES QUESTIONS SPECIFIQUES AUX MATERIELS D’EQUIPEMENT  
+AERONAUTIQUES A LA CONVENTION RELATIVE AUX GARANTIES INTERNATIONALES  
+PORTANT SUR DES MATERIELS D’EQUIPEMENT MOBILES 
+  
+Adoption: Place: Cape Town / Lieu: Le Cap – Date: 16-11-2001 
+  
+Entry into force: 
+Entrée en vigueur: 
+ 
+Contracting States / 
+Etats contractants 
+ 
+Regional economic integration 
+organisations / Organisations 
+régionale d’intégration 
+économique 
+Yes / Oui   Date: 01-03-2006  
+Conditions: 8 ratifications (Art. XXVIII(1)) 
+ 
+68 
+ 
+ 
+1 
+  
+Depositary / Dépositaire:  
+UNIDROIT website page / 
+Page internet d’UNIDROIT 
+ 
+UNIDROIT 
+https://www.unidroit.org/instruments/security-interests/aircraft-protocol 
+https://www.unidroit.org/fr/instruments/garanties-internationales/protocole-
+aeronautique 
+STATE / ETAT 
+SIGNATURE RATIFICATION / 
+ACCESS. / ADHES.  
+ENTRY INTO FORCE / 
+ENTREE EN VIGUEUR 
+DECL. or RESERV. / 
+DECL. ou RESERVES 
+
+Annex II 
+ 43 
+Afghanistan – 25-07-06 01-11-06 D: Arts. XXIX, XXX(1), (2), (3) 
+Albania/ Albanie – 30-10-07 01-02-08 D: Arts. XIX, XXX(1) 
+Angola – 30-04-06 01-08-06 D: Art. XXX(1), (2), (3) 
+Australia / Australie – 26-05-15 01-09-15 D: Art. XXX(1), (3) 
+Bahrain / Bahreïn – 27-11-12 01-03-13 D: Art. XXX(1), (2), (3) 
+Bangladesh – 15-12-08 01-04-09 D: Arts. XXIX, XXX(1), (2), (3) 
+Belarus / Bélarus – 27-09-11 01-01-12 – 
+Bhutan – 04-07-14 01-11-14 – 
+Brazil / Brésil – 30-11-11 01-03-12 D: Arts. XIX, XXX(1), (2), (3) 
+Burkina Faso – 08-09-17 01-01-18 – 
+Burundi 16-11-01 – – – 
+Cameroon / Cameroun – 19-04-11 01-08-11 – 
+Canada 31-03-04 21-12-12 01-04-13 D: Arts. XXIX
+*
+, XXX(1), 
+(2),(3) 
+Cape Verde / Cap-Vert – 26-09-07 01-01-08 D: Art. XXX(1), (2), (3) 
+Chile / Chili 16-11-01 – – – 
+China / Chine 16-11-01 03-02-09 01-06-09 D: Arts. XIX, XXIX, XXX(1), 
+(2), (3) 
+Colombia / Colombie – 19-02-07 01-06-07 D: Art. XXX(1), (2), (3) 
+Congo  16-11-01 – – – 
+Côte d’Ivoire – 01-03-16 01-07-16 D: Art. XIX(1)
+ *
+ 
+Cuba 16-11-01 28-01-09 01-05-09 – 
+Democratic Republic of the Congo 
+/  Rép. démocratique du Congo 
+ 
+– 
+ 
+06-05-16 
+ 
+01-09-16 
+ 
+– 
+Denmark / Danemark – 26-10-15 01-02-16 D: Art. XXIX, XXX(1), (3), (5) 
+Egypt / Egypte – 10-12-14 01-04-15 – 
+Ethiopia / Ethiopie 16-11-01 21-11-03 01-03-06 D: Art. XXX(1), (2), (3) 
+Fiji / Fidji – 30-05-12 01-09-12 D: Art. XXX(1), (2), (3) 
+France 16-11-01 – – – 
+Gabon – 04-04-17 01-08-17 – 
+Germany / Allemagne 16-11-01 – – D 
+Ghana 16-11-01 – – – 
+India / Inde – 31-03-08 01-07-08 D: Art. XXX(1), (2), (3) 
+Indonesia / Indonésie – 16-03-07 01-07-07 D: Art. XXX(1), (2), (3) 
+Ireland / Irlande – 23-08-05 01-03-06 D: Art. XXX(1), (2) 
+Italy / Italie 06-12-01 – – – 
+Jamaica / Jamaïque  16-11-01 – – – 
+Jordan / Jordanie 16-11-01 31-08-10 01-12-10 D: Art. XXX(1), (2), (3) 
+Kazakhstan – 01-06-11 01-10-11 D: Art. XXX(1), (2), (3) 
+Kenya 16-11-01 13-10-06 01-02-07 D: Art. XXX(1), (2), (3) 
+Kuwait / Koweït – 31-10-13 01-02-14 – 
+Latvia / Lettonie – 08-02-11 01-06-11 – 
+Lesotho 16-11-01 – – – 
+Luxembourg – 27-06-08 01-10-08 D: Art. XXX(1), (2), (3) 
+Madagascar – 10-04-13 01-08-13 D: Art. XXX(1), (2), (3) 
+Malawi – 16-01-14 01-05-14 D: Art. XXX(1), (2), (3) 
+Malaysia / Malaisie – 02-11-05 01-03-06 D: Art. XXX(1), (2), (3)
++ 
+Malta / Malte 
+2
+ – 01-10-10 01-02-11 D: Art. XXX(1) 
+Mexico / Mexique – 31-07-07 01-11-07 D: Arts. XIX, XXX(1), (3) 
+Mongolia / Mongolie – 19-10-06 01-02-07 D: Art. XXX(1), (2), (3) 
+Mozambique – 18-07-13 01-11-13 D: Art. XXX(1), (2), (3) 
+Myanmar – 03-12-12 01-04-13 D: Arts. XXIX, XXX(1), 
+(2),(3) 
+Netherlands / Pays-Bas 
+3
+ – 17-05-10  D: Arts. XXIX, XXX(1), (2) 
+   Caribbean part/Partie caraïbe   01-10-10  
+   Aruba   01-09-10  
+   Curaçao   01-10-10  
+   Sint Maarten   01-10-10  
+New Zealand / Nouvelle-Zélande – 20-07-10 01-11-10 D: Arts. XXIX, XXX(1), (3), (5) 
+Nigeria 16-11-01 16-12-03 01-03-06 D: Art. XXX(1)
+*
+, (2)
+*
+, (3)
+* 
+Norway / Norvège – 20-12-10 01-04-11 D: Art. XXX(1), (3), (5) 
+Oman – 21-03-05 01-03-06 D: Arts. XXIX, XXX(1), (2), (3) 
+Pakistan – 22-01-04 01-03-06 D: Arts. XXIX, XXX(1), (2), (3) 
+Panama 11-09-02 28-07-03 01-03-06 D: Art. XXX(1), (2), (3) 
+Russian Federation / Fédération 
+ de Russie 
+ 
+– 
+ 
+25-05-11 
+ 
+01-09-11 
+ 
+D: Arts. XXX(1)
+*
+, (3) 
+Rwanda – 28-01-10 01-05-10 D: Arts. XXIX, XXX(1), (2), (3) 
+San Marino / Saint-Marin – 09-09-14 01-01-15 D: Art. XXX(1), (2), (3) 
+Saudi Arabia / Arabie saoudite 12-03-03 27-06-08 01-10-08 – 
+Senegal / Sénégal 02-04-02 09-01-06 01-05-06 D: Arts. XXIX, XXX(1), (2), (3) 
+Sierra Leone – 26-07-16 01-11-16 D: Art. XXX(1), (2), (3) 
+Singapore / Singapour – 28-01-09 01-05-09 D: Art. XXX(1)
+*
+, (3) 
+South Africa / Afrique du sud 16-11-01 18-01-07 01-05-07 D: Art. XXX(1), (2), (3) 
+Spain / Espagne – 27-11-15 01-03-16 D: Arts. XIX, XXIX, XXX(1) 
+Sudan / Soudan 16-11-01 – – – 
+Swaziland – 26-05-17 01-09-17 – 
+Sweden / Suède – 30-12-15 01-04-16 D: Art. XXX(1) 
+Switzerland / Suisse 16-11-01 (ad 
+ref.) 
+– – – 
+Tajikistan / Tadjikistan – 31-05-11 01-09-11 D: Art. XXX(1), (2), (3) 
+
+UNIDROIT – Annual Report – 2017 
+44 
+Togo – 01-12-11 01-04-12 D: Art. XXX(1), (2), (3) 
+Tonga 16-11-01 – – – 
+Turkey / Turquie 16-11-01 – – D: Art. XXX(1), (2), (3) 
+Ukraine 03-03-04 31-07-12 01-11-12 D: Arts. XIX, XXX(1), (3) 
+United Arab Emirates / Emirats 
+ arabes unis 
+– 29-04-08 01-08-08 D: Arts. XIX, XXIX, 
+XXX(1),(2),(3) 
+United Kingdom / Royaume-Uni 16-11-01 27-07-15 01-11-15 D: Arts. XXIX
+*
+, XXX(1)
+*
+, (2)
+*
+, 
+(3)
+*
+ 
+United Rep. of Tanzania / 
+ Rép.-Unie de Tanzanie 
+16-11-01 30-01-09 01-05-09 D: Art. XXX(1)
+*
+,(2)
+*
+,(3)
+* 
+United States of America /  
+ Etats-Unis d’Amérique 
+09-05-03 28-10-04 01-03-06 D: Arts. XIX(1), XXX(1) 
+Viet Nam – 17-09-14 01-01-15 D: Arts. XIX, XXX(1), (2), (3) 
+     
+Regional economic integration 
+organisations / Organisations 
+régionale d’intégration 
+économique 
+    
+European Union / 
+1
+ 
+ Union européenne  
+– 28-04-09 01-08-09 D: Arts. XXVII(2), XXX(5) 
+ 
+1
+  Regional Economic Integration Organisation / Organisation régionale d’intégration économique (Art. XXVII). 
+2
+  This  State  has  provided UNIDROIT with  information  about  its  laws  and  policies  in  relation  to  the  Aircraft  Protocol:  see 
+www.unidroit.org/english/conventions/mobile-equipment/information-contractingstates.htm  // Cet Etat a fourni à UNIDROIT des 
+informations  concernant  la  situation  au  regard  de  sa  législation  et  des  politiques  applicables  aux  matières  couvertes  par  le 
+Protocole aéronautique: voir www.unidroit.org/french/conventions/mobileequipment/information-contractingstates.htm 
+3 
+The Kingdom of the Netherlands deposited its instrument of accession to the Aircraft Protocol on 20 July 2010 for the 
+Netherlands Antilles (Caraçao, Sint Maarten, Bonaire, Sint Eustatius and Saba) and Aruba. As from 10 October 2010, following a 
+modification  of  the  internal  constitutional  relations  within  the  Kingdom  of  the  Netherlands,  the  reference  to  the  "Netherlands 
+Antilles" is to be replaced by "Curaçao, Sint Maarten and the Caribbean part of the Netherlands (the islands of Bonaire, Saba and 
+Sint Eustatius)" / Le Royaume des Pays-Bas a déposé son instrument d'adhésion au Protocole aéronautique le 20 juillet 2010 
+pour les Antilles néerlandaises et Aruba. A compter du 10 octobre 2010, suite à une réforme des relations constitutionnelles au 
+sein du Royaume des Pays-Bas, la référence aux "Antilles néerlandaises" doit être remplacée par "Curaçao, Sint Maarten et la 
+partie caraïbe des Pays-Bas (les îles de Bonaire, Saba et Sint Eustatius)" 
+* 
+Affected by withdrawal and/or subsequent declaration / Fait l’objet d’un retrait ou d’une déclaration subséquente. 
+ 
+LUXEMBOURG PROTOCOL TO THE CONVENTION ON INTERNATIONAL INTERESTS IN MOBILE 
+EQUIPMENT ON MATTERS SPECIFIC TO RAILWAY ROLLING STOCK  
+PROTOCOLE DE LUXEMBOURG PORTANT SUR LES QUESTIONS SPECIFIQUES AU MATERIEL ROULANT 
+FERROVIAIRE A LA CONVENTION RELATIVE AUX GARANTIES INTERNATIONALES  
+PORTANT SUR DES MATERIELS D’EQUIPEMENT MOBILES 
+  
+Adoption: Place / Lieu: Luxembourg 
+Date: 23-02-2007 
+  
+Entry into force: 
+Entrée en vigueur: 
+ 
+Contracting States / 
+Etats contractants 
+ 
+No / Non 
+Conditions: 4 ratifications (Art. XXIII(1)) 
+ 
+/ 
+  
+Depositary / Dépositaire:  UNIDROIT 
+UNIDROIT website page / 
+Page internet d’UNIDROIT 
+https://www.unidroit.org/instruments/security-interests/rail-protocol 
+https://www.unidroit.org/fr/instruments/garanties-internationales/protocole-
+ferroviaire 
+STATE / ETAT 
+SIGNATURE RATIFICATION / 
+ACCESS. / ADHES.  
+ENTRY INTO FORCE / 
+ENTREE EN VIGUEUR 
+DECL. or RESERV. / 
+DECL. ou RESERVES 
+France 
+Gabon 
+03-03-17 
+23-02-07 
+– 
+04-04-17 
+– 
+– 
+– 
+– 
+Germany / Allemagne 21-11-12 – – D 
+Italy / Italie 23-02-07 – – D 
+Luxembourg 23-02-07 31-01-12  – 
+Mozambique 15-11-16 – – – 
+Sweden / Suède 27-06-17 - - - 
+Switzerland / Suisse 23-02-07 – – – 
+United Kingdom / Royaume-Uni 26-02-16 – – – 
+     
+
+Annex II 
+ 45 
+Regional economic integration 
+organisations / Organisations 
+régionale d’intégration 
+économique 
+    
+European Union / 
+ Union européenne  
+10-12-09 18-12-14 – D 
+ 
+ 
+ 
+UNIDROIT CONVENTION ON SUBSTANTIVE RULES FOR INTERMEDIATED SECURITIES 
+CONVENTION D’UNIDROIT SUR LES REGLES MATERIELLES RELATIVES AUX TITRES INTERMEDIES 
+  
+Adoption: Place: Geneva / Lieu: Genève 
+Date: 09-10-09 
+  
+Entry into force: 
+Entrée en vigueur: 
+ 
+Contracting States / 
+Etats contractants 
+No / Non  
+Conditions: 3 ratifications (art. 42.1) 
+ 
+/ 
+  
+Depositary / Dépositaire:  UNIDROIT 
+UNIDROIT website page / 
+Page internet d’UNIDROIT 
+https://www.unidroit.org/instruments/capital-markets/geneva-convention 
+https://www.unidroit.org/fr/instruments/marches-financiers/geneva-convention 
+STATE / ETAT SIGNATURE RATIFICATION  
+ACCESSION / ADHESION 
+ENTRY INTO FORCE 
+ENTREE EN VIGUEUR 
+DECL. or RESERV. / 
+DECL. ou RESERVES 
+Bangladesh 09-10-09 — — — 
+     
+ 
+ 
+PROTOCOL TO THE CONVENTION ON INTERNATIONAL INTERESTS IN MOBILE EQUIPMENT ON 
+MATTERS SPECIFIC TO SPACE ASSETS 
+PROTOCOLE PORTANT SUR LES QUESTIONS SPECIFIQUES AUX BIENS SPATIAUX A LA CONVENTION 
+RELATIVE AUX GARANTIES INTERNATIONALES PORTANT SUR 
+DES MATERIELS D’EQUIPEMENT MOBILES 
+  
+Adoption: Place / Lieu: Berlin 
+Date: 09-03-2012 
+  
+Entry into force: 
+Entrée en vigueur: 
+ 
+Contracting States / 
+Etats contractants 
+No / Non 
+Conditions: Art. XXXVIII 
+ 
+/ 
+  
+Depositary / Dépositaire:  UNIDROIT 
+UNIDROIT website page / 
+Page internet d’UNIDROIT 
+https://www.unidroit.org/instruments/security-interests/space-protocol 
+https://www.unidroit.org/fr/instruments/garanties-internationales/protocole-spatial 
+STATE / ETAT 
+SIGNATURE RATIFICATION / 
+ACCESS. / ADHES.  
+ENTRY INTO FORCE / 
+ENTREE EN VIGUEUR 
+DECL. or RESERV. / 
+DECL. ou RESERVES 
+Burkina Faso 
+Germany / Allemagne 
+09-03-12 
+21-11-12 
+– 
+– 
+– 
+– 
+– 
+– 
+Saudi Arabia / Arabie saoudite 09-03-12 – – – 
+Zimbabwe 09-03-12 – – – 
+ 
+ 
+ 
+ 
+
+UNIDROIT – Annual Report – 2017 
+46 
+ANNEX III 
+ 
+IM PLEMENT ATION  OF  INST RUMENTS  B ASED  ON 
+WO RK  COND UCTED WIT HIN UNID ROI T 
+(*)
+ 
+ 
+A. INTERNATIONAL INSTRUMENTS IN FORCE ADOPTED UNDER THE AUSPICES OF OTHER ORGANISATIONS 
+AND BASED ON UNIDROIT DRAFTS OR CONVENTIONS 
+1. Convention  on  the  Contract  for  the  International  Carriage  of  Goods  by  Road  (CMR), 
+adopted in Geneva in 1956 under the auspices of the Economic Commission for Europe of the United 
+Nations. The Convention, which entered into force in 1961, is based on the draft Convention on the 
+Contract for the International Carriage of Goods by Road (CMR) which was transmitted by UNIDROIT 
+to the Economic Commission for Europe of the United Nations in 1952. 
+ States Parties: Albania,  Armenia,  Austria,  Azerbaijan,  Belarus,  Belgium,  Bosnia-Herzegovina, 
+Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Georgia, Germany, 
+Greece, Hungary, Iran (Islamic Republic of), Ireland, Italy, Jordan, Kazakhstan, Kyrgyzstan, Latvia, 
+Lebanon,  Lithuania,  Luxembourg,  Malta,  Mongolia,  Montenegro,  Morocco,  Netherlands,  Norway, 
+Poland,  Portugal,  Republic  of  Moldova,  Romania,  Russian  Federation,  Serbia,  Slovakia,  Slovenia, 
+Spain,  Sweden,  Switzerland,  Syrian  Arab  Republic,  Tajikistan,  the  Former  Yugoslav  Republic  of 
+Macedonia, Tunisia, Turkey, Turkmenistan, Ukraine, United Kingdom and Uzbekistan. 
+2. UNESCO Convention of 1954 for the Protection of Cultural Property in the Event of Armed 
+Conflict, which entered into force in 1956. The Convention is based on the draft UNIDROIT completed 
+in 1951. 
+ States Parties: Afghanistan, Albania, Angola, Argentina,  Armenia,  Australia,  Austria,  Azerbaijan, 
+Bahrain,  Bangladesh,  Barbados,  Belarus,  Belgium, Benin, Bolivia,  Bosnia  and  Herzegovina, 
+Botswana,  Brazil,  Bulgaria,  Burkina  Faso,  Cambodia,  Cameroon,  Canada,  Chad,  Chile,  China, 
+Colombia, Costa Rica, Côte d’Ivoire, Croatia, Cuba, Cyprus, Czech Republic, Democratic Republic of 
+the Congo, Denmark, Dominican Republic, Ecuador, Egypt, El Salvador, Equatorial Guinea, Eritrea, 
+Estonia, Ethiopia, Finland, France, Gabon, Georgia, Germany, Ghana, Greece, Guatemala, Guinea, 
+Holy See, Honduras, Hungary, India, Indonesia, Iran (Islamic Rep. of), Iraq, Israel, Italy, Japan, 
+Jordan,   Kazakhstan,   Kuwait,   Kyrgyzstan,   Latvia,   Lebanon,   Libya, Liechtenstein,   Lithuania, 
+Luxembourg,  Madagascar,  Malaysia,  Mali,  Mauritius,  Mexico,  Monaco,  Mongolia,  Montenegro, 
+Morocco, Myanmar, Netherlands, New Zealand, Nicaragua, Niger, Nigeria, Norway, Oman, Pakistan, 
+Palestine, Panama, Paraguay, Peru, Poland, Portugal, Qatar, Republic of Moldova, Romania, Russian 
+Federation,  Rwanda,  San  Marino,  Saudi  Arabia,  Senegal,  Serbia,  Seychelles,  Slovakia,  Slovenia, 
+South  Africa,  Spain,  Sri  Lanka,  Sudan,  Sweden,  Switzerland,  Syrian  Arab  Republic,  Tajikistan, 
+Thailand,  the  Former  Yugoslav  Republic  of  Macedonia, Togo, Tunisia,  Turkey,  Ukraine, United 
+Kingdom, United Republic of Tanzania, United States of America, Uruguay, Uzbekistan, Venezuela, 
+Yemen and Zimbabwe. 
+3. International  Convention  of  1961  for  the  Protection  of  Performers,  Producers  of 
+Phonograms and Broadcasting Organizations, adopted under the auspices of ILO, UNESCO and 
+WIPO and which entered into force in 1964. The Convention is very largely based on the preliminary 
+draft  Convention  for  the  Protection  of  Interpreting  and  Performing  Artists,  as  well  as  of 
+Manufacturers  of  Phonographic  Records  and  other  phonograms  and  on  the  preliminary  draft 
+Convention for the Protection of Radio Broadcasts. 
+ States Parties: Albania,  Algeria,  Andorra,  Argentina,  Armenia,  Australia,  Austria,  Azerbaijan, 
+Bahrain,  Barbados,  Belarus,  Belgium,  Bolivia,  Bosnia  and  Herzegovina,  Brazil,  Bulgaria,  Burkina 
+Faso, Cabo Verde Canada, , Chile, Colombia, Congo, Costa Rica, Croatia, Cyprus, Czech Republic, 
+Denmark,  Dominica,  Dominican  Republic,  Ecuador,  El  Salvador,  Estonia,  Fiji,  Finland,  France, 
+Georgia, Germany, Greece, Guatemala, Honduras, Hungary, Iceland, Ireland, Israel, Italy, Jamaica, 
+Japan, Kazakhstan, Kyrgyzstan,  Latvia,  Lebanon,  Lesotho,  Liberia,  Liechtenstein,  Lithuania, 
+Luxembourg,  Mexico,  Monaco,  Montenegro,  Netherlands,  Nicaragua,  Niger,  Nigeria,  Norway, 
+Panama,  Paraguay,  Peru,  Philippines,  Poland,  Portugal, Qatar, Republic  of  Korea, Republic  of 
+Moldova, Romania,  Russian  Federation,  Serbia,  Slovakia,  Slovenia,  Spain,  St.  Lucia,  Sweden, 
+Switzerland,  Syrian Arab  Republic,  Tajikistan,  the  Former  Yugoslav  Republic  of  Macedonia,  Togo, 
+Turkey, Ukraine, United Arab Emirates, United Kingdom, Uruguay, Venezuela and Viet Nam. 
+                                                 
+(*)
+  Based on information available to the Secretariat as of 31 December 2017. 
+
+Annex III 
+ 47 
+4. Hague  Convention  of  1958  concerning  the  Recognition  and  Enforcement  of  Decisions 
+relating to Maintenance Obligations towards Children, which entered into force in 1962. This 
+Convention was prepared on the basis of the draft Convention on the Recognition and Enforcement 
+abroad of Maintenance Obligations, a first draft of which had been drawn up by UNIDROIT in 1938 
+and work on which was completed in 1949 when it was transmitted to the Department for Social 
+Affairs of the United Nations. After being revised by a United Nations committee of experts, the draft 
+was recommended to States under a Resolution of the Economic and Social Council at its XVIIth 
+session for use as a model in the drawing up of bilateral conventions or uniform laws for separate 
+adoption by each State. 
+ States Parties: Austria, Belgium, China (for the Special Administrative Region of Macao only), Czech 
+Republic, Denmark, Finland, France, Germany, Hungary, Italy, Liechtenstein, Netherlands, Norway, 
+Portugal, Slovakia, Spain, Suriname, Sweden, Switzerland and Turkey. 
+5. European Convention of 1962 on the Liability of Hotel-keepers concerning the Property of 
+their Guests, adopted under the auspices of the Council of Europe and which entered into force in 
+1967. The Convention is based on the draft uniform law on the hotelkeeper’s liability for damage to 
+or destruction or theft of his guests’ property, the drafting of which was completed by UNIDROIT in 
+1934. 
+ States Parties: Belgium, Bosnia and Herzegovina, Croatia, Cyprus, France, Germany, Ireland, Italy, 
+Lithuania, Luxembourg, Malta, Montenegro, Poland, Serbia, Slovenia, the former Yugoslav Republic 
+of Macedonia and United Kingdom. 
+6. Benelux Treaty of 1955 on Compulsory Insurance against Civil Liability in respect of Motor 
+Vehicles  and 
+ European Convention on Compulsory Insurance against Civil Liability in respect of Motor 
+Vehicles, adopted in 1959 under the auspices of the Council of Europe, which entered into force in 
+1969. These two instruments are based on the draft uniform rules on the compulsory insurance of 
+motorists, the drafting of which was completed by UNIDROIT in 1937. 
+ States Parties to the 1959 Convention: Austria, Denmark, Germany, Greece, Norway, Sweden and 
+Turkey. 
+7. European Convention on Establishment of 1955, adopted under the auspices of the Council of 
+Europe and which entered into force in 1965. The Convention is based on the draft Convention on 
+the  reciprocal  treatment  of  nationals  as  between  member  States  of  the  Council  of  Europe,  the 
+drafting of which was completed by UNIDROIT in 1951. 
+ States Parties: Belgium,  Denmark,  Germany,  Greece,  Ireland,  Italy,  Luxembourg,  Netherlands, 
+Norway, Sweden, Turkey and United Kingdom. 
+8. Protocol No. 1 concerning the Rights in rem in Inland Navigation Vessels annexed to the 
+1965  Convention  on  the  Registration  of  Inland  Navigation  Vessels  which  was  adopted  under  the 
+auspices of the Economic Commission for Europe of the United Nations and to which Austria, Croatia, 
+France, Luxembourg, Netherlands, Switzerland and Yugoslavia are Contracting Parties. The Protocol 
+is based on the draft Convention concerning rights in rem in boats in inland navigation, the drafting 
+of which was completed by UNIDROIT in 1960. The Convention and Protocol No. 1 entered into force 
+in 1982. 
+ The States Parties to Protocol No. 1 are Austria, Belarus, Croatia, France, Luxembourg, Montenegro, 
+Netherlands, Serbia and Switzerland. 
+9. Protocol  No.  2  concerning  Attachment  and  Forced  Sale  of  Inland  Navigation  Vessels 
+annexed to the 1965 Convention on the Registration of Inland Navigation Vessels, adopted under 
+the auspices of the Economic Commission for Europe of the United Nations. The Protocol is based 
+on  the  draft  Protocol  on  attachment  and  forced  sale  of  inland  navigation  vessels,  the  drafting  of 
+which was completed by UNIDROIT in 1962. Protocol No. 2 entered into force in 1982. 
+ The States Parties to Protocol No. 2 are Austria, Belarus, Croatia, France, Luxembourg, Montenegro 
+and Serbia. 
+10. United  Nations  Convention  on  Contracts  for  the  International  Sale  of  Goods, adopted  at 
+Vienna in 1980 and which entered into force in 1988. This Convention is based on the Convention 
+relating to a Uniform Law on the Formation of Contracts for the International Sale of Goods (ULFIS) 
+and the Convention relating to a Uniform Law on the International Sale of Goods (ULIS), adopted 
+at The Hague at a diplomatic Conference in 1964. 
+
+UNIDROIT – Annual Report – 2017 
+48 
+ Contracting States: Albania, Argentina, Armenia, Australia, Austria, Azerbaijan, Bahrain, Belarus, 
+Belgium, Benin, Bosnia and Herzegovina, Brazil, Bulgaria, Burundi, Cameroon, Canada, Chile, China, 
+Colombia, Congo, Costa Rica, Croatia, Cuba, Cyprus, Czech Republic, Denmark, Dominican Republic, 
+Ecuador,  Egypt,  El  Salvador,  Estonia, Fiji, Finland,  France,  Gabon, Georgia,  Germany,  Greece, 
+Guinea, Guyana, Honduras, Hungary, Iceland, Iraq, Israel, Italy, Japan, Kyrgyzstan, Latvia, Lesotho, 
+Lebanon, Liberia, Lithuania, Luxembourg, Madagascar, Mauritania, Mexico, Mongolia, Montenegro, 
+Netherlands, New Zealand, Norway, Paraguay, Peru, Poland, Republic of Korea, Republic of Moldova, 
+Romania,  Russian  Federation, St.  Vincent  and  the  Grenadines,  San  Marino, Serbia,  Singapore, 
+Slovakia, Slovenia, Spain, State of Palestine, Sweden, Switzerland, Syrian Arab Republic, Turkey, 
+the Former Yugoslav Republic of Macedonia, Turkey, Uganda, Ukraine, United States of America, 
+Uruguay, Uzbekistan, Viet Nam and Zambia. 
+11. Convention on the Contract for the International Carriage of Passengers and Luggage by 
+Road (CVR), adopted in Geneva in 1973 under the auspices of the Economic Commission for Europe 
+of  the  United  Nations.  The  Convention  is  based  on  the  draft  Convention  on  the  Contract  for  the 
+International  Carriage  of  Passengers  and  Luggage  by  Road  (CVR),  the  drafting  of  which  was 
+completed by UNIDROIT in 1969. The Convention entered into force in 1994. 
+ States Parties: Bosnia and Herzegovina, Croatia, Czech Republic, Latvia, Montenegro, Republic of 
+Moldova, Serbia, Slovakia and Ukraine. 
+12. Additional  Protocol  to  the  Convention  on  the  Contract  for  the  International  Carriage  of 
+Goods  by  Road  (CMR)  concerning  the Electronic Consignment Note  (e-CMR),  adopted  in 
+Geneva in 2008 and entered into force on 5 June 2011. The Additional Protocol is based on a joint 
+proposal submitted by UNIDROIT and UNCITRAL. The States Parties are: Bulgaria, Czech Republic, 
+Denmark,  Estonia,  France, Iran  (Islamic  Republic  of), Latvia, Lithuania, Luxembourg, the 
+Netherlands, Slovakia, Slovenia, Spain and Switzerland. 
+ 
+ 
+B. INTERNATIONAL INSTRUMENTS NOT YET IN FORCE ADOPTED UNDER THE AUSPICES OF OTHER 
+ORGANISATIONS AND BASED ON UNIDROIT DRAFTS 
+1. Convention  relating  to  the  Limitation  of  the  Liability  of  Owners  of  Inland  Navigation 
+Vessels (CLN), adopted in Geneva in 1973 under the auspices of the Economic Commission for 
+Europe  of  the  United  Nations.  The  Convention  is  based  on  the  draft  Convention  relating  to  the 
+Limitation of the Liability of Owners of Inland Navigation Vessels (CLN), the drafting of which was 
+completed by UNIDROIT in 1970. The Russian Federation is the sole Contracting State. 
+2. Convention on the Contract for the International Carriage of Passengers and Luggage by 
+Inland  Waterway  (CVN), adopted  in  Geneva  in  1976  under  the  auspices  of  the  Economic 
+Commission for Europe of the United Nations. The Convention is based on the draft Convention on 
+the Contract for the International  Carriage of Passengers and Luggage by Inland Waterway (CVN), 
+the  drafting  of  which  was  completed  by UNIDROIT in  1972.  The  Russian  Federation  is  the  sole 
+Contracting State. 
+3. European rules for investment funds, which were in 1972 recommended by the Committee of 
+Ministers of the Council of Europe as a model law for the member States of the Council of Europe. 
+The rules are based on the preliminary draft model law on investment funds, UNIDROIT’s drawing up 
+of which was completed in 1969. 
+4. European  Convention  providing  a  Uniform  Law  on  Arbitration,  adopted  in  1966  under  the 
+auspices of the Council of Europe. The Convention is based on the preliminary draft uniform law on 
+arbitration  in  private  law  matters  in  international  relations, UNIDROIT’s drawing up of which was 
+completed in 1954. Belgium is the sole Contracting State. 
+5. European  Convention  of  1973  on  Civil  Liability  for  Damage  caused  by  Motor  Vehicles, 
+adopted  under  the  auspices  of the  Council  of  Europe.  The  Convention  is  based  on  the  draft  of  a 
+uniform law on the civil liability of motorists, UNIDROIT’s drawing up of which was completed in 1938. 
+No Contracting State. 
+6. United  Nations  Convention  on  International  Multimodal  Transport  of  Goods,  adopted  in 
+Geneva in 1980. The origin of the Convention is to be found in the draft Convention on Contracts 
+for the Combined International Carriage of Goods, UNIDROIT’s drawing up of which was completed 
+in  1965.  The UNIDROIT draft  also  provided one  of  the  bases  for  the  draft  Convention  on  the 
+International Combined Carriage of Goods (TCM), drawn up at a round table convened by UNIDROIT 
+at  the  request  of  the  Economic  Commission  for  Europe  of  the  United  Nations  in  1969  and  1970, 
+
+Annex III 
+ 49 
+which  was  itself  revised  at  meetings  convened  jointly  by  the  Intergovernmental  Maritime 
+Consultative Organisation (IMCO) and the Economic Commission for Europe of the United Nations. 
+The  Contracting  States  are:  Burundi,  Chile,  Georgia,  Lebanon,  Liberia,  Malawi,  Mexico,  Morocco, 
+Rwanda, Senegal and Zambia. 
+7. Convention on Civil Liability for Damage caused during Carriage of Dangerous Goods by 
+Road,  Rail  and  Inland  Navigation  Vessels  (CRTD), adopted  in  Geneva  in  1989  under  the 
+auspices of the Economic Commission for Europe of the United Nations. The Convention is based on 
+the draft articles for a Convention on civil liability for damage caused during carriage of dangerous 
+goods by road, rail and inland navigation vessels, UNIDROIT’s drawing up of which was completed in 
+1986. Liberia is the sole Contracting State. 
+8. United  Nations  Convention  on  the  Liability  of  Operators  of  Transport  Terminals  in 
+International Trade, adopted in Vienna in April 1991. The Convention is based on the preliminary 
+draft Convention on Operators of Transport Terminals, UNIDROIT’s work on which was completed in 
+1983. The Contracting States are: Egypt, Gabon, Georgia and Paraguay. 
+ 
+ 
+C. EUROPEAN DIRECTIVE BASED ON A PRELIMINARY DRAFT UNIDROIT CONVENTION 
+ Council Directive 93/7/EEC of 15 March 1993 on the return of cultural objects unlawfully 
+removed from the territory of a Member State. 
+ 
+ 
+D. EUROPEAN DIRECTIVE BASED ON A UNIDROIT CONVENTION 
+ Directive 2014/60/EU of the European Parliament and of the Council of 15 May 2014 on 
+the  return  of  cultural  objects  unlawfully  removed from  the  territory  of  a  Member  State 
+and amending Regulation (EU) No 1024/2012 (Recast). 
+ 
+ 
+E. UNIFORM RULES PUBLISHED BY THE INTERNATIONAL CHAMBER OF COMMERCE AND BASED ON A DRAFT 
+UNIDROIT CONVENTIOn 
+ Uniform  Rules  for  a  Multimodal  Transport  Document first  published  by  the  International 
+Chamber of Commerce in 1973 and subsequently revised. The origin of the Rules is the same as 
+that of the United Nations Convention on International Multimodal Transport of Goods (see above 
+Section B. 6.). 
+ 
+ 
+F. INTERNATIONAL INSTRUMENTS BASED ON PRELIMINARY STUDIES PREPARED BY UNIDROIT  
+1. European Convention on Products Liability in regard to Personal Injury and Death of 27 
+January 1977. 
+ No Contracting State. 
+2. Resolution (78)3 on Penalty Clauses in Civil Law adopted by the Committee of Ministers of the 
+Council of Europe on 20 January 1978. 
+ 
+ 
+
+Annex IV 
+50 
+ANNEX IV 
+ 
+ 
+DE POSITO RY LI B RA RIES  FO R UNID ROIT  DOCUMENTA TION 
+ 
+ 
+Argentina: Corte Suprema de Justicia de la Nación, Secretaría de Investigación de Derecho comparado  
+<http://www.csjn.gov.ar> 
+Australia: National Library of Australia 
+<http://www.nla.gov.au/> 
+Austria: Universität Wien, Universitäts Bibliothek, Fachbereichsbibliothek Rechtswissenschaften  
+<http://bibliothek.univie.ac.at/fb-rewi/>  
+Belgium: Federale Overheidsdienst Justitie 
+<http://just.fgov.be/> 
+Bolivia: Biblioteca Central de la Cancillería de la República 
+<http://www.rree.gob.bo> 
+Brazil: Serviço de Biblioteca e documentação - SBD, Universidad de São Paulo, Faculdade de Direito  
+<http://www.usp.br/bibliotecadireito/biblioteca.htm> 
+Bulgaria: Bulgarian National Library "St. Cyrill and St. Methodius" 
+<http://www.nationallibrary.bg/> 
+Canada: Nahum Gelber Law Library, McGill University <http://www.mcgill.ca/library/>; 
+University of British Columbia Law Library http://www.library.ubc.ca/law/ 
+Chile: Academia Diplomática  
+http://www.academiadiplomatica.cl/> 
+Colombia: Biblioteca Luis Angel Arango 
+<http://www.banrepcultural.org/blaa> 
+Czech Republic: Library of the International Law Department, Ministry of Industry and Trade  
+<http://www.mpo.cz> 
+Egypt: Documentation Center, General Directorate of International and Cultural Co-operation, Ministry 
+of Justice, Cairo http://www.jp.gov.eg/ar/Default.aspx  
+Estonia: Eesti Rahvusraamatukogu 
+<http://www.nlib.ee/> 
+Finland: Eduskunnan Kurjasto 
+<http://lib.eduskunta.fi/Resource.phx/kirjasto/index.htx>  
+France: Bibliothèque Inter-universitaire Cujas 
+<http://cujas-front.univ-paris1.fr/repons/portal/bookmark?Global=0&MenuItemSelected 
+=nomenu&startingNews=1&howManyNews=1&withDbidNews=&ChanPathNews=> 
+Germany: Staatsbibliothek zu Berlin, Abteilung Amtsdruckschriften und Internationaler Amtlicher 
+Schriftentausch   
+<http://staatsbibliothek-berlin.de/> 
+Greece: Library of the Hellenic Institute of International and Foreign Law 
+<http://www.hiifl.gr/>  
+Holy See: Biblioteca della Facoltà di Giurisprudenza, Libera Università Maria Ss. Assunta, Rome 
+<http://www.lumsa.it/Lumsa/> 
+Hungary: Országgyűlési Könyvtár  
+<http://www.ogyk.hu> 
+India: Library of the Indian Society of International Law 
+<http://www.isil-aca.org/library.htm> 
+Indonesia: Departemen Luar Negeri (Directorate for Economic, Social and Cultural Treaties Affairs, 
+Directorate General of Legal and Treaties Affairs, Ministry of Foreign Affairs) 
+https://www.kemlu.go.id/id/Default.aspx  
+Iran: Institute of Comparative Law, Faculty of Law and Political Science, University of Tehran  
+
+Annex IV 
+ 51 
+<http://complaw.ut.ac.ir/en/ 
+Ireland: National Library of Ireland 
+<http://www.nli.ie/> 
+Japan: Ministry of Justice Library (Branch of National Diet Library) 
+<http://www.moj.go.jp/> 
+Latvia: Department of European and International Law, Ministry of Justice of the Republic of Latvia 
+<http://www.tm.gov.lv/lv/> 
+Luxembourg: Bibliothèque Nationale  <http://www.bnl.public.lu/fr/index.html>; 
+University of Luxembourg  <http://wwwen.uni.lu/university/library>  
+Malta: Library Services, University of Malta   
+<http://www.um.edu.mt/library/> 
+Mexico: Instituto de Investigaciones Jurídicas, Universidad Nacional Autónoma de México  
+<http://www.unam.mx>;  
+Academia Mexicana de Derecho Internacional Privado y Comparado, México City; 
+Biblioteca Loyola, Universidad Iberoamericana Tijuana  <http://www.loyola.tij.uia.mx> 
+Netherlands: Library of the Ministry of Justice   
+<http://www.rijksoverheid.nl/#ref-justitie> 
+Norway: Det juridiske fakultetsbibliotek, Universiteitsbiblioteket i Oslo  
+<http://www.ub.uio.no> 
+Paraguay: Facultad de Derecho y Ciencias Sociales de la Universidad Nacional de Asunción  
+<http://www.der.una.py/> 
+People's Republic of China: Ministry of Commerce (MOFCOM)  
+<http://www.mofcom.gov.cn/index.shtml>  
+Poland: Biblioteka Sejmowa 
+<http://libr.sejm.gov.pl/bibl/> 
+Portugal: Serviço de Biblioteca e Documentaçao Diplomática do Ministério dos Negócios Estrangeiros - 
+Instituto Diplomático  
+<http://www.portugal.gov.pt/pt/os-ministerios/ministerio-dos-negocios-estrangeiros.aspx>;  
+Gabinete de Documentação e Direito Comparado, Procuradoria Geral da República  
+<http://www.gddc.pt/> 
+Republic of Korea: Library of the Korea National Diplomatic Academy  
+<http://www.mofat,go.kr/ifanslib.html>  
+Romania: Biblioteca Nationala 
+<http://www.bibnat.ro/> 
+Russian Federation: Library of the Russian Academy of Foreign Trade   
+<http://www.vavt.ru/> 
+Slovak Republic: Právnická faculta Trnavskej Univerzity 
+<http://www.truni.sk> 
+Slovenia: Univerza v Mariboru Pravna fakulteta 
+<http://www.pf.uni-mb.si/sl/> 
+South Africa: Library of the Department of Justice, Directorate: Internal Affairs, Pretoria 
+University of Johannesburg 
+<http://www.uj.ac.za/EN/Library/Pages/Home.aspx> 
+Spain: Universidad San Pablo CEU 
+<http://www.ceu.es> 
+  
+
+UNIDROIT – Annual Report – 2017 
+52 
+Sweden: Riksdagsbiblioteket 
+<http://www.riksdagen.se/templates/R_SubStartPage____448.aspx> 
+Switzerland: Library of the Swiss Institute of Comparative Law   
+<http://isdc.ch> 
+Turkey: Banca ve Ticaret Hukuku Arastirma Enstitüsü, Hukuk Fakültesi, Ankara Üniversitesi  
+<http://bthae.ankara.edu.tr/?bil=bil_icerik&icerik_id=207&kat_id=12> 
+United Kingdom: Library of the Institute of Advanced Legal Studies 
+<http://ials.sas.ac.uk/> 
+United States of America: Arthur W. Diamond Law Library Columbia University in the City of New York 
+<http://www.law.columbia.edu/library>; 
+Underwood Law Library, Dedman School of Law, Southern Methodist University 
+<http://library.law.smu.edu/> 
+Uruguay: Facultad de Derecho de la Universidad de la República  
+https://www.fder.edu.uy/  
+ 
+ 
+ 
