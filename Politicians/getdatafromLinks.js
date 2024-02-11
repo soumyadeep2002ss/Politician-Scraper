@@ -114,4 +114,4 @@ async function getDataFromLinks() {
 }
 
 module.exports = getDataFromLinks;
-getDataFromLinks();
+// getDataFromLinks();
