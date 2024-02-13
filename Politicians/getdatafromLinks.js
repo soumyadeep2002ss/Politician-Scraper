@@ -5,6 +5,7 @@ const axios = require('axios');
 const pdf = require('pdf-parse');
 
 const readFileAsync = util.promisify(fs.readFile);
+const translateText = require('./translate')
 
 async function getDataFromLinks() {
   const browser = await puppeteer.launch({ headless: true });
@@ -38,13 +39,16 @@ async function getDataFromLinks() {
 
       if (pdfData) {
         // Read text content from the downloaded PDF using pdf-parse
-        const data = await pdf(pdfData);
-        console.log(data.text);
+        const data = await pdf(pdfData, { max: 3 });
+        // console.log(data.text);
         // Save text content to the specified file
+        // const textdata = await translateText(data.text, 'auto', 'en');
         fs.writeFileSync(fileName, data.text);
-      } else {
+        console.log(fileName)
+      } else if (!fileName.includes("CV")) {
         // If it's not a PDF, extract text content directly
         const textContent = await page.evaluate(() => document.body.innerText);
+        // const translatedText = await translateText(textContent, 'auto', 'en');
         fs.writeFileSync(fileName, textContent);
       }
     } catch (error) {

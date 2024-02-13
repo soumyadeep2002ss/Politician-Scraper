@@ -28,7 +28,7 @@ const languageMapping = {
 };
 
 const translateText = async (text, sourceLanguage, targetLanguage) => {
-    const browser = await puppeteer.launch({ headless: true });
+    const browser = await puppeteer.launch({ headless: false });
     const page = await browser.newPage();
 
     try {
@@ -52,8 +52,9 @@ const translateText = async (text, sourceLanguage, targetLanguage) => {
             return translationElement.innerText;
         });
 
-        console.log(`Original Text (${sourceCountry}): ${text}`);
-        console.log(`Translated Text (${targetCountry}): ${translatedText}`);
+        // console.log(`Original Text (${sourceCountry}): ${text}`);
+        // console.log(`Translated Text (${targetCountry}): ${translatedText}`);
+        return translatedText;
     } catch (error) {
         console.error('Error:', error);
     } finally {
@@ -61,35 +62,4 @@ const translateText = async (text, sourceLanguage, targetLanguage) => {
     }
 };
 
-// Example usage:
-translateText(`Tommaso Amodeo
-Dati personali
-Data e luogo di nascita: 25 Maggio 1966, Roma
-Città di residenza: Roma
-email: info@tommasoamodeo.it
-Facebook: Tommaso Amodeo @tommaso-amodeo
-Instagram: @tommaso_amodeo
-https://www.instagram.com/tommaso_amodeo/
-URL sito:
-www.tommasoamodeo.it
-Esperienze lavorative
-● dal 1993 al 1995 – Ancitel S.p.A.
-Società di servizi dell’ANCI (Associazione nazionale comuni italiani).
-Ricercatore di banca dati, responsabile commerciale
-Ancitel era in quegli anni una brillante società all’avanguardia tecnologica, che erogava servizi di
-vario genere ai comuni sia in modalità telematica che in modalità cartacea. Ho acquisito
-esperienza sul mondo degli Enti Locali e sul loro funzionamento. Ho maturato le prime esperienze
-di marketing e di vendita.
-● dal 1996 al 2013 – Gruppo Engineering
-Società di ingegneria informatica.
-Dopo un breve apprendistato tecnico, sono stato avviato alla carriera commerciale, e ho ricoperto
-mansioni di importanza crescente. Al momento delle dimissioni, ero consigliere di amministrazione
-e Vicepresidente, con delega alle attività internazionali, della capogruppo Engineering Ingegneria
-Informatica S.p.A., nonché amministratore delegato di Engineering International Belgium, con sede
-a Bruxelles.
-L’esperienza maturata in questa azienda è stata fondamentale nella mia crescita umana e
-professionale; mi ha permesso nel corso degli anni una forte responsabilizzazione lavorativa e ho
-acquisito competenze manageriali e imprenditoriali, anche con proiezione internazionale. Sono stato
-immmerso nell’innovazione tecnologica e ho sperimentato in prima persona quanto questa sia
-fondamentale per il buon funzionamento di ogni organizzazione.
-Engineering è un’importante società di ingegneria informatica`, "auto", "en");
+module.exports = translateText;

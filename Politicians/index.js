@@ -1,245 +1,92 @@
 // const puppeteer = require('puppeteer-extra');
-// const { Cluster } = require('puppeteer-cluster'); // Added puppeteer-cluster import
 // const StealthPlugin = require('puppeteer-extra-plugin-stealth');
 // const { readCSVFile } = require('./csvReader');
 // const fs = require('fs');
 // const getDataFromLinks = require('./getdatafromLinks');
-
-// puppeteer.use(StealthPlugin());
-
-// var k = 3;
-// const field_names = ["address", "dob", "deceased date", "sex", "languages", "citizenship", "nationality", "occupation"];
-
-// async function run() {
-//   const browser = await puppeteer.launch({ headless: false });
-//   const page = await browser.newPage();
-
-//   try {
-//     // Read data from the CSV file
-//     const csvFilePath = 'sample.csv'; // Replace with your actual CSV file path
-//     const csvData = await readCSVFile(csvFilePath);
-//     console.log(csvData);
-
-//     // Use the data from the CSV to perform Google searches
-//     let allResults = {};
-
-//     const cluster = await Cluster.launch({
-//       concurrency: Cluster.CONCURRENCY_CONTEXT,
-//       maxConcurrency: 8,
-//     });
-
-//     await cluster.task(async ({ page, data: { query, country, position, field } }) => {
-//       const searchQuery = `${query} ${country} ${position} ${field}`;
-//       await page.goto(`https://www.google.com/search?q=${encodeURIComponent(searchQuery)}`);
-
-//       // Wait for the results page to load
-//       await page.waitForSelector('h3');
-
-//       // Extract the top k results
-//       const results = await page.evaluate(() => {
-//         const anchors = Array.from(document.querySelectorAll('h3'));
-//         return anchors.slice(0, 3).map(anchor => {
-//           const url = anchor.parentElement.href;
-//           return url !== 'null' ? url : null; // Exclude null values
-//         });
-//       });
-
-//       // Filter out null values
-//       const filteredResults = results.filter(result => result !== null);
-
-//       const final_query = `${query} ${country} ${position} ${field}`;
-//       // Display the results for the current query
-//       console.log(final_query)
-//       console.log(`Top ${k} Google Search Results for "${final_query}":`);
-//       filteredResults.forEach((result, index) => {
-//         console.log(`${index + 1}. ${result}`);
-//       });
-
-//       const fieldResults = { [field]: filteredResults };
-//       cluster.emit('fieldResults', { query, country, position, fieldResults });
-//     });
-
-//     cluster.on('fieldResults', ({ query, country, position, fieldResults }) => {
-//       if (!allResults[`${query} ${country} ${position}`]) {
-//         allResults[`${query} ${country} ${position}`] = {};
-//       }
-//       Object.assign(allResults[`${query} ${country} ${position}`], fieldResults);
-//     });
-
-//     for (const { name: query, country, position_Description: position } of csvData) {
-//       for (const field of field_names) {
-//         cluster.queue({ page, query, country, position, field });
-//       }
-//     }
-
-//     await cluster.idle();
-//     await cluster.close();
-
-//     // Save all results as JSON
-//     const allResultsJson = JSON.stringify(allResults, null, 2);
-//     fs.writeFileSync('all_search_results.json', allResultsJson);
-
-//     await runGetDataFromLinks();
-//   } catch (error) {
-//     console.error('Error:', error.message);
-//   } finally {
-//     await browser.close();
-//   }
-// }
-
-// async function runGetDataFromLinks() {
-//   // Your code for the other module here
-//   console.log('Starting the getDataFromLinks.js module...');
-//   await getDataFromLinks();
-// }
-
-// run();
-
-
-// const puppeteer = require('puppeteer-extra');
-// const StealthPlugin = require('puppeteer-extra-plugin-stealth');
-// const { readCSVFile } = require('./csvReader'); // Importing the CSV reader
-// const fs = require('fs');
-// const getDataFromLinks = require('./getdatafromLinks');
-
-// puppeteer.use(StealthPlugin());
-
-// var k = 3;
-// const field_names = ["address", "dob", "deceased date", "sex", "languages", "citizenship", "nationality", "occupation"];
-
-// async function run() {
-//   const browser = await puppeteer.launch({ headless: true });
-//   const page = await browser.newPage();
-
-//   try {
-//     // Read data from the CSV file
-//     const csvFilePath = 'sample.csv'; // Replace with your actual CSV file path
-//     const csvData = await readCSVFile(csvFilePath);
-//     // console.log(csvData);
-//     // Use the data from the CSV to perform Google searches
-//     let allResults = {};
-//     let x=0;
-//     for (const { uniqueID: uniqueID, name: query, country: country, position_Description: position } of csvData) {
-//       const currentProgress = x + 1;
-//       const remainingProgress = csvData.length - currentProgress;
-//       process.stdout.write(`\rProgress: ${currentProgress}/${csvData.length}, Remaining: ${remainingProgress}`);
-//       x++;
-//       let field_results = {};
-//       for(const field of field_names){  
-//         const searchQuery = `${query} ${country} ${position} ${field}`;
-//         await page.goto(`https://www.google.com/search?q=${encodeURIComponent(searchQuery)}`);
-
-//         // Wait for the results page to load
-//         await page.waitForSelector('h3');
-
-//         // Extract the top k results
-//         const results = await page.evaluate(() => {
-//           const anchors = Array.from(document.querySelectorAll('h3'));
-//           return anchors.slice(0, 3).map(anchor => {
-//             const url = anchor.parentElement.href;
-//             return url !== 'null' ? url : null; // Exclude null values
-//           });
-//         });
-
-//         // Filter out null values
-//         const filteredResults = results.filter(result => result !== null);
-
-//         const final_query = query+" "+country+" "+position+" "+field;
-//         // Display the results for the current query
-//         // console.log(`Top ${k} Google Search Results for "${final_query}":`);
-//         filteredResults.forEach((result, index) => {
-//           // console.log(`${index + 1}. ${result}`);
-//         });
-
-//         field_results[field] = filteredResults;
-//         // Wait for a short duration between queries
-//         await new Promise(resolve => setTimeout(resolve, 2000));
-//       }
-//       allResults[uniqueID]=field_results;
-//     }
-
-//     // Save all results as JSON
-//     const allResultsJson = JSON.stringify(allResults, null, 2);
-//     fs.writeFileSync('all_search_results.json', allResultsJson);
-//     await runGetDataFromLinks();
-//   } catch (error) {
-//     console.error('Error:', error.message);
-//   } finally {
-//     await browser.close();
-//   }
-// }
-
-// async function runGetDataFromLinks() {
-//   // Your code for the other module here
-//   console.log('Starting the getDataFromLinks.js module...');
-//   await getDataFromLinks();
-// }
-
-// run();
-
-// const puppeteer = require('puppeteer-extra');
-// const StealthPlugin = require('puppeteer-extra-plugin-stealth');
-// const { readCSVFile } = require('./csvReader'); // Importing the CSV reader
-// const fs = require('fs');
-// const getDataFromLinks = require('./getdatafromLinks');
+// const path = require('path');
 
 // puppeteer.use(StealthPlugin());
 
 // const k = 3;
-// const field_names = ["address", "dob", "deceased date", "sex", "languages", "citizenship", "nationality", "occupation"];
+// const field_names = ["Indirizzo", "Data di nascita", "deceased date", "sesso", "languages", "citizenship", "nationality"];
 
 // async function run() {
 //   const browser = await puppeteer.launch({ headless: true });
 //   const page = await browser.newPage();
 
 //   try {
-//     // Read data from the CSV file
-//     const csvFilePath = 'sample.csv'; // Replace with your actual CSV file path
+//     const csvFilePath = 'sample.csv';
 //     const csvData = await readCSVFile(csvFilePath);
 
+//     let allResults = {};
+//     let startTime = Date.now();
 //     let x = 0;
-//     let totalElapsedTime = 0;
+//     let checkpointIndex = 0;
 
-//     for (const { uniqueID, name: query, country, position_Description: position } of csvData) {
+//     for (const { uniqueID, name: query, country, position_Description: position, sourceLink } of csvData.slice(checkpointIndex)) {
 //       const currentProgress = x + 1;
 //       const remainingProgress = csvData.length - currentProgress;
+
 //       process.stdout.write(`\rProgress: ${currentProgress}/${csvData.length}, Remaining: ${remainingProgress}`);
 
-//       const startTime = new Date();
+//       const elapsedTime = (Date.now() - startTime) / 1000;
+//       const estimatedTimeRemaining = (elapsedTime / currentProgress) * remainingProgress;
+
+//       if (currentProgress === 1) {
+//         process.stdout.write(` - Estimated Time Remaining: 99:99:99`);
+//       } else {
+//         process.stdout.write(` - Estimated Time Remaining: ${formatTime(estimatedTimeRemaining)}`);
+//       }
+
+//       x++;
 //       let field_results = {};
 
 //       for (const field of field_names) {
-//         const searchQuery = `${query} ${country} ${position} ${field}`;
+//         const searchQuery = `"${query}" ${country} ${position} ${field}`;
 //         await page.goto(`https://www.google.com/search?q=${encodeURIComponent(searchQuery)}`);
-//         await page.waitForSelector('h3');
 
-//         const results = await page.evaluate(() => {
-//           const anchors = Array.from(document.querySelectorAll('h3'));
-//           return anchors.slice(0, 3).map(anchor => {
-//             const url = anchor.parentElement.href;
-//             return url !== 'null' ? url : null;
+//         try {
+//           await page.waitForSelector('h3');
+//           const results = await page.evaluate(() => {
+//             const anchors = Array.from(document.querySelectorAll('h3'));
+//             return anchors.slice(0, 3).map(anchor => anchor.parentElement.href || null);
 //           });
-//         });
 
-//         const filteredResults = results.filter(result => result !== null);
-//         field_results[field] = filteredResults;
+//           const filteredResults = results.filter(result => result !== null);
+
+//           const final_query = `${query} ${country} ${position} ${field}`;
+//           filteredResults.push(sourceLink);
+//           field_results[field] = filteredResults;
+//         } catch (error) {
+//           console.error(`Error processing ${query}/${field}: ${error.message}`);
+//           continue;
+//         }
 
 //         await new Promise(resolve => setTimeout(resolve, 2000));
 //       }
 
-//       const elapsedTime = (new Date() - startTime) / 1000; // in seconds
-//       totalElapsedTime += elapsedTime;
+//       allResults[uniqueID] = field_results;
 
-//       const averageTimePerIteration = totalElapsedTime / currentProgress;
-//       const estimatedRemainingTime = averageTimePerIteration * remainingProgress;
+//       const folderName = 'All_Links_Output';
+//       const filePath = path.join(folderName, `${uniqueID}_res.json`);
 
-//       console.log(` - Elapsed Time: ${formatTime(elapsedTime)}, Estimated Remaining Time: ${formatTime(estimatedRemainingTime)}`);
+//       if (!fs.existsSync(folderName)) {
+//         fs.mkdirSync(folderName);
+//       }
 
-//       x++;
+//       fs.writeFileSync(filePath, JSON.stringify({ [uniqueID]: field_results }, null, 2));
+
+//       checkpointIndex = x; // Update the checkpoint index
+
+//       process.stdout.write(` - Checkpoint Index: ${checkpointIndex}`);
 //     }
+
+//     const totalTimeTaken = (Date.now() - startTime) / 1000;
+//     console.log(`\nTotal Time Taken: ${formatTime(totalTimeTaken)}`);
 
 //     const allResultsJson = JSON.stringify(allResults, null, 2);
 //     fs.writeFileSync('all_search_results.json', allResultsJson);
+
 //     await runGetDataFromLinks();
 //   } catch (error) {
 //     console.error('Error:', error.message);
@@ -248,111 +95,121 @@
 //   }
 // }
 
-// function formatTime(seconds) {
-//   const minutes = Math.floor(seconds / 60);
-//   const remainingSeconds = Math.floor(seconds % 60);
-//   return `${minutes}m ${remainingSeconds}s`;
+// async function runGetDataFromLinks() {
+//   console.log('\nStarting the getDataFromLinks.js module...');
+//   await getDataFromLinks();
 // }
 
-// async function runGetDataFromLinks() {
-//   console.log('Starting the getDataFromLinks.js module...');
-//   await getDataFromLinks();
+// function formatTime(seconds) {
+//   const hours = Math.floor(seconds / 3600);
+//   const minutes = Math.floor((seconds % 3600) / 60);
+//   const remainingSeconds = Math.floor(seconds % 60);
+
+//   return `${hours}h ${minutes}m ${remainingSeconds}s`;
 // }
 
 // run();
 
 const puppeteer = require('puppeteer-extra');
 const StealthPlugin = require('puppeteer-extra-plugin-stealth');
-const { readCSVFile } = require('./csvReader'); // Importing the CSV reader
+const { readCSVFile } = require('./csvReader');
 const fs = require('fs');
 const getDataFromLinks = require('./getdatafromLinks');
+const path = require('path');
+const translateText = require('./translate')
 
 puppeteer.use(StealthPlugin());
 
-var k = 3;
-const field_names = ["Indirizzo", "Data di nascita", "deceased date", "sesso", "languages", "citizenship", "nationality"];
+const k = 4;
+// const field_names = ["Indirizzo", "Data di nascita", "deceased date", "sesso", "languages", "citizenship", "nationality"];
+const field_names = ["CV", "Address", "Date of birth", "Experience"];
 
 async function run() {
   const browser = await puppeteer.launch({ headless: false });
   const page = await browser.newPage();
 
   try {
-    // Read data from the CSV file
-    const csvFilePath = 'sample.csv'; // Replace with your actual CSV file path
+    const csvFilePath = 'sample.csv';
     const csvData = await readCSVFile(csvFilePath);
-    // console.log(csvData);
-    // Use the data from the CSV to perform Google searches
+
     let allResults = {};
-    let startTime = Date.now(); // Track start time
+    let startTime = Date.now();
     let x = 0;
+    let checkpointIndex = readCheckpointIndex();
 
-    // process.stdout.write('\rCalculating estimated time...');
-
-    for (const { uniqueID: uniqueID, name: query, country: country, position_Description: position, sourceLink } of csvData) {
+    for (const { uniqueID, name: query, country, position_Description: position, sourceLink } of csvData.slice(checkpointIndex)) {
       const currentProgress = x + 1;
       const remainingProgress = csvData.length - currentProgress;
 
       process.stdout.write(`\rProgress: ${currentProgress}/${csvData.length}, Remaining: ${remainingProgress}`);
 
-      // Calculate estimated time
-      const elapsedTime = (Date.now() - startTime) / 1000; // elapsed time in seconds
+      const elapsedTime = (Date.now() - startTime) / 1000;
       const estimatedTimeRemaining = (elapsedTime / currentProgress) * remainingProgress;
+
       if (currentProgress === 1) {
         process.stdout.write(` - Estimated Time Remaining: 99:99:99`);
-      }
-      else {
+      } else {
         process.stdout.write(` - Estimated Time Remaining: ${formatTime(estimatedTimeRemaining)}`);
       }
+
       x++;
       let field_results = {};
+
+      // Check if the output file for this uniqueID already exists, skip if it does
+      const existingFilePath = path.join('All_Links_Output', `${uniqueID}_res.json`);
+      if (fs.existsSync(existingFilePath)) {
+        console.log(`\nSkipping ${uniqueID} - Already processed`);
+        continue;
+      }
+      const trPos = await translateText(position, 'en', 'it');
       for (const field of field_names) {
-        const searchQuery = `"${query}" ${country} ${position} ${field}`;
+        const searchQuery = `${query} ${country} ${trPos} ${field}`;
+        console.log(searchQuery);
         await page.goto(`https://www.google.com/search?q=${encodeURIComponent(searchQuery)}`);
 
         try {
-          // Wait for the results page to load
           await page.waitForSelector('h3');
-
-          // Extract the top k results
           const results = await page.evaluate(() => {
             const anchors = Array.from(document.querySelectorAll('h3'));
-            return anchors.slice(0, 3).map(anchor => {
-              const url = anchor.parentElement.href;
-              return url !== 'null' ? url : null; // Exclude null values
-            });
+            return anchors.slice(0, 2).map(anchor => anchor.parentElement.href || null);
           });
-
-          // Filter out null values
+          console.log(results)
           const filteredResults = results.filter(result => result !== null);
 
-          const final_query = query + " " + country + " " + position + " " + field;
-          // Display the results for the current query
-          // console.log(`Top ${k} Google Search Results for "${final_query}":`);
-          filteredResults.forEach((result, index) => {
-            // console.log(`${index + 1}. ${result}`);
-          });
+          const final_query = `${query} ${country} ${position} ${field}`;
           filteredResults.push(sourceLink);
           field_results[field] = filteredResults;
         } catch (error) {
           console.error(`Error processing ${query}/${field}: ${error.message}`);
-          // Continue to the next iteration if the 'h3' selector is not found
           continue;
         }
-        // Wait for a short duration between queries
+
         await new Promise(resolve => setTimeout(resolve, 2000));
       }
+
       allResults[uniqueID] = field_results;
 
-      // Print estimated time
-      // process.stdout.write(` - Estimated Time Remaining: ${formatTime(estimatedTimeRemaining)}`);
+      const folderName = 'All_Links_Output';
+      const filePath = path.join(folderName, `${uniqueID}_res.json`);
+
+      if (!fs.existsSync(folderName)) {
+        fs.mkdirSync(folderName);
+      }
+
+      fs.writeFileSync(filePath, JSON.stringify({ [uniqueID]: field_results }, null, 2));
+
+      checkpointIndex = x;
+      writeCheckpointIndex(checkpointIndex);
+
+      process.stdout.write(` - Checkpoint Index: ${checkpointIndex}`);
     }
 
     const totalTimeTaken = (Date.now() - startTime) / 1000;
     console.log(`\nTotal Time Taken: ${formatTime(totalTimeTaken)}`);
 
-    // Save all results as JSON
     const allResultsJson = JSON.stringify(allResults, null, 2);
     fs.writeFileSync('all_search_results.json', allResultsJson);
+
     await runGetDataFromLinks();
   } catch (error) {
     console.error('Error:', error.message);
@@ -362,7 +219,6 @@ async function run() {
 }
 
 async function runGetDataFromLinks() {
-  // Your code for the other module here
   console.log('\nStarting the getDataFromLinks.js module...');
   await getDataFromLinks();
 }
@@ -373,6 +229,29 @@ function formatTime(seconds) {
   const remainingSeconds = Math.floor(seconds % 60);
 
   return `${hours}h ${minutes}m ${remainingSeconds}s`;
+}
+
+function readCheckpointIndex() {
+  try {
+    const checkpointIndexFile = 'checkpointIndex.txt';
+    if (fs.existsSync(checkpointIndexFile)) {
+      const content = fs.readFileSync(checkpointIndexFile, 'utf-8');
+      return parseInt(content);
+    }
+    return 0;
+  } catch (error) {
+    console.error('Error reading checkpoint index:', error.message);
+    return 0;
+  }
+}
+
+function writeCheckpointIndex(index) {
+  try {
+    const checkpointIndexFile = 'checkpointIndex.txt';
+    fs.writeFileSync(checkpointIndexFile, index.toString());
+  } catch (error) {
+    console.error('Error writing checkpoint index:', error.message);
+  }
 }
 
 run();
