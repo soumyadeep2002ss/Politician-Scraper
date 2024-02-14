@@ -120,14 +120,14 @@ const translateText = require('./translate')
 
 puppeteer.use(StealthPlugin());
 
-const k = 4;
+
 // const field_names = ["Indirizzo", "Data di nascita", "deceased date", "sesso", "languages", "citizenship", "nationality"];
-const field_names = ["CV", "Address", "Date of birth", "Experience"];
+const field_names = ["CV", "Address", "Data di nascita", "Date of Birth", "Positions"];
 
 async function run() {
-  const browser = await puppeteer.launch({ headless: false });
+  const browser = await puppeteer.launch({ headless: true });
   const page = await browser.newPage();
-
+  // const Topk = 3;
   try {
     const csvFilePath = 'sample.csv';
     const csvData = await readCSVFile(csvFilePath);
@@ -171,7 +171,7 @@ async function run() {
           await page.waitForSelector('h3');
           const results = await page.evaluate(() => {
             const anchors = Array.from(document.querySelectorAll('h3'));
-            return anchors.slice(0, 2).map(anchor => anchor.parentElement.href || null);
+            return anchors.slice(0, 3).map(anchor => anchor.parentElement.href || null);
           });
           console.log(results)
           const filteredResults = results.filter(result => result !== null);

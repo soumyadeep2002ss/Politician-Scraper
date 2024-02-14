@@ -6,9 +6,11 @@ const pdf = require('pdf-parse');
 
 const readFileAsync = util.promisify(fs.readFile);
 const translateText = require('./translate')
+const LanguageDetect = require('languagedetect');
+const lngDetector = new LanguageDetect();
 
 async function getDataFromLinks() {
-  const browser = await puppeteer.launch({ headless: true });
+  const browser = await puppeteer.launch({ headless: false });
   const page = await browser.newPage();
 
   // Load the JSON file
@@ -16,7 +18,7 @@ async function getDataFromLinks() {
   const linksData = JSON.parse(jsonData);
 
   // Function to open a page, wait for page load, extract text, and save it to a file
-  const scrapeAndSave = async (url, fileName) => {
+  const scrapeAndSave = async (url, fileName, outputDirectory, i) => {
     try {
       let pdfData;
 
@@ -30,7 +32,6 @@ async function getDataFromLinks() {
 
         // Check if the page contains a PDF
         const isPDF = await page.evaluate(() => document.contentType === 'application/pdf');
-
         if (isPDF) {
           // If the page is a PDF, download it
           pdfData = await page.pdf({ format: 'A4' });
@@ -42,13 +43,25 @@ async function getDataFromLinks() {
         const data = await pdf(pdfData, { max: 3 });
         // console.log(data.text);
         // Save text content to the specified file
-        // const textdata = await translateText(data.text, 'auto', 'en');
-        fs.writeFileSync(fileName, data.text);
+        let textdata = data.text;
+        if (textdata.trim() === '' && fileName.includes("CV")) {
+          // console.log(url);
+          const storeUrl = {
+            url
+          }
+          fs.writeFileSync(`${outputDirectory}/nonReadableCv${i + 1}.json`, JSON.stringify(storeUrl, null, 2));
+        }
+        if (textdata.trim() !== '') {
+          textdata = await translateText(data.text, 'auto', 'en');
+        }
+        fs.writeFileSync(fileName, textdata);
         console.log(fileName)
       } else if (!fileName.includes("CV")) {
         // If it's not a PDF, extract text content directly
-        const textContent = await page.evaluate(() => document.body.innerText);
-        // const translatedText = await translateText(textContent, 'auto', 'en');
+        let textContent = await page.evaluate(() => document.body.innerText);
+        if (textContent.trim() !== '') {
+          textContent = await translateText(data.text, 'auto', 'en');
+        }
         fs.writeFileSync(fileName, textContent);
       }
     } catch (error) {
@@ -85,7 +98,7 @@ async function getDataFromLinks() {
         if (link && !processedLinks.has(link)) {
           const fileName = `${outputDirectory}/result_${i + 1}.txt`;
           try {
-            await scrapeAndSave(link, fileName);
+            await scrapeAndSave(link, fileName, outputDirectory, i);
             // console.log(`Saved text content for ${query}/${field} - Result ${i + 1}`);
 
             // Increment completedLinks count
@@ -106,6 +119,7 @@ async function getDataFromLinks() {
         }
       }
     }
+
 
     // Increment completedQueries count
     completedQueries += 1;

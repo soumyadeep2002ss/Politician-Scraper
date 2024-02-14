@@ -28,7 +28,7 @@ const languageMapping = {
 };
 
 const translateText = async (text, sourceLanguage, targetLanguage) => {
-    const browser = await puppeteer.launch({ headless: false });
+    const browser = await puppeteer.launch({ headless: true });
     const page = await browser.newPage();
 
     try {
