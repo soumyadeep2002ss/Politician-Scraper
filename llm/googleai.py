@@ -4,6 +4,7 @@ import time
 from dotenv import load_dotenv
 import google.generativeai as genai
 import os
+from genderCheck.gender_extraction import identify_gender_from_file
 
 load_dotenv()
 
