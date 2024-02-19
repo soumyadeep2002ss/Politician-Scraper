@@ -1,0 +1,77 @@
+import cv2
+import numpy as np
+import base64
+
+
+def identify_gender_from_base64(base64_image):
+    # Check if the base64 string includes the data URI scheme and strip it if present
+    if base64_image.startswith("data:image"):
+        # Find the start of the base64 string
+        base64_str_idx = base64_image.find("base64,") + 7
+        # Extract the actual base64 string
+        base64_image = base64_image[base64_str_idx:]
+
+    # Decode base64 image to a NumPy array
+    image_data = base64.b64decode(base64_image)
+    nparr = np.frombuffer(image_data, np.uint8)
+    image = cv2.imdecode(nparr, cv2.IMREAD_COLOR)
+
+    # Ensure the image was decoded successfully
+    if image is None:
+        print("Failed to decode the image.")
+        return []
+
+    # Pre-trained model files paths
+    face_model = "opencv_face_detector_uint8.pb"
+    face_config = "opencv_face_detector.pbtxt"
+    gender_model = "gender_net.caffemodel"
+    gender_config = "gender_deploy.prototxt"
+
+    # Model mean values
+    MODEL_MEAN_VALUES = (78.4263377603, 87.7689143744, 114.895847746)
+
+    # Gender list
+    genders = ["Male", "Female"]
+
+    # Load models
+    face_net = cv2.dnn.readNet(face_model, face_config)
+    gender_net = cv2.dnn.readNet(gender_model, gender_config)
+
+    # Perform face detection
+    blob = cv2.dnn.blobFromImage(image, 1.0, (300, 300), [104, 117, 123], True, False)
+    face_net.setInput(blob)
+    detections = face_net.forward()
+    face_boxes = []
+
+    for i in range(detections.shape[2]):
+        confidence = detections[0, 0, i, 2]
+        if confidence > 0.7:
+            x1 = int(detections[0, 0, i, 3] * image.shape[1])
+            y1 = int(detections[0, 0, i, 4] * image.shape[0])
+            x2 = int(detections[0, 0, i, 5] * image.shape[1])
+            y2 = int(detections[0, 0, i, 6] * image.shape[0])
+            face_boxes.append([x1, y1, x2, y2])
+
+    # Identify gender for detected faces
+    genders_detected = []
+    for box in face_boxes:
+        face = image[
+            max(0, box[1] - 15) : min(box[3] + 15, image.shape[0] - 1),
+            max(0, box[0] - 15) : min(box[2] + 15, image.shape[1] - 1),
+        ]
+        blob = cv2.dnn.blobFromImage(
+            face, 1.0, (227, 227), MODEL_MEAN_VALUES, swapRB=False
+        )
+        gender_net.setInput(blob)
+        gender_preds = gender_net.forward()
+        gender = genders[gender_preds[0].argmax()]
+        genders_detected.append(gender)
+
+    return genders_detected
+
+
+# Example usage with a base64 image string
+# Make sure to replace the base64_image_string with your actual base64 string
+# base64_image_string = "data:image/jpeg;base64,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"
+# genders_result = identify_gender_from_base64(base64_image_string)
+# print("Genders detected:", genders_result)
