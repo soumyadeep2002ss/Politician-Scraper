@@ -27,30 +27,46 @@ const languageMapping = {
     // Add more language mappings as needed
 };
 
-const translateText = async (text, sourceLanguage, targetLanguage) => {
-    const browser = await puppeteer.launch({ headless: true });
-    const page = await browser.newPage();
+const translateText = async (page, text, sourceLanguage, targetLanguage) => {
+    // const browser = await puppeteer.launch({ headless: false });
+    // const page = await browser.newPage();
 
     try {
         const sourceCountry = languageMapping[sourceLanguage] || 'Unknown';
         const targetCountry = languageMapping[targetLanguage] || 'Unknown';
 
-        // Navigate to Google Translate
-        await page.goto(`https://translate.google.com/?sl=${sourceLanguage}&tl=${targetLanguage}&op=translate`, { waitUntil: 'domcontentloaded' });
+        // Encode the text for the URL
+        const urlEncodedText = encodeURIComponent(text);
 
-        // Type the text into the input field
-        await page.type('#yDmH0d > c-wiz > div > div.ToWKne > c-wiz > div.OlSOob > c-wiz > div.ccvoYb.EjH7wc > div.AxqVh > div.OPPzxe > c-wiz.rm1UF.UnxENd > span > span > div > textarea', text);
+        // If the text length is greater than 5000 characters, break it into chunks
+        const chunkSize = 5000;
+        const chunks = [];
+        for (let i = 0; i < urlEncodedText.length; i += chunkSize) {
+            chunks.push(urlEncodedText.slice(i, i + chunkSize));
+        }
 
-        // await page.waitForTimeout(5000);
+        // Array to store translated chunks
+        const translatedChunks = [];
 
-        // Wait for translation to appear
-        await page.waitForSelector('#yDmH0d > c-wiz > div > div.ToWKne > c-wiz > div.OlSOob > c-wiz > div.ccvoYb.EjH7wc > div.AxqVh > div.OPPzxe > c-wiz.sciAJc > div > div.usGWQd > div > div.lRu31 > span.HwtZe > span > span');
+        // Iterate through chunks and translate
+        for (const chunk of chunks) {
+            // Navigate to Google Translate with the encoded chunk
+            await page.goto(`https://translate.google.com/?sl=${sourceLanguage}&tl=${targetLanguage}&text=${chunk}`, { waitUntil: 'domcontentloaded' });
 
-        // Extract the translated text
-        const translatedText = await page.evaluate(() => {
-            const translationElement = document.querySelector('#yDmH0d > c-wiz > div > div.ToWKne > c-wiz > div.OlSOob > c-wiz > div.ccvoYb.EjH7wc > div.AxqVh > div.OPPzxe > c-wiz.sciAJc > div > div.usGWQd > div > div.lRu31');
-            return translationElement.innerText;
-        });
+            // Wait for translation to appear
+            await page.waitForSelector('#yDmH0d > c-wiz > div > div.ToWKne > c-wiz > div.OlSOob > c-wiz > div.ccvoYb.EjH7wc > div.AxqVh > div.OPPzxe > c-wiz.sciAJc > div > div.usGWQd > div > div.lRu31 > span.HwtZe > span > span');
+
+            // Extract the translated text
+            const translatedChunk = await page.evaluate(() => {
+                const translationElement = document.querySelector('#yDmH0d > c-wiz > div > div.ToWKne > c-wiz > div.OlSOob > c-wiz > div.ccvoYb.EjH7wc > div.AxqVh > div.OPPzxe > c-wiz.sciAJc > div > div.usGWQd > div > div.lRu31');
+                return translationElement.innerText;
+            });
+
+            translatedChunks.push(translatedChunk);
+        }
+
+        // Combine translated chunks
+        const translatedText = translatedChunks.join('');
 
         // console.log(`Original Text (${sourceCountry}): ${text}`);
         // console.log(`Translated Text (${targetCountry}): ${translatedText}`);
@@ -58,7 +74,7 @@ const translateText = async (text, sourceLanguage, targetLanguage) => {
     } catch (error) {
         console.error('Error:', error);
     } finally {
-        await browser.close();
+        // await browser.close();
     }
 };
 

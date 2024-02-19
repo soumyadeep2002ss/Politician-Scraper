@@ -116,17 +116,19 @@ const { readCSVFile } = require('./csvReader');
 const fs = require('fs');
 const getDataFromLinks = require('./getdatafromLinks');
 const path = require('path');
-const translateText = require('./translate')
+const translateText = require('./translateBasedOnCountry')
 
 puppeteer.use(StealthPlugin());
 
 
 // const field_names = ["Indirizzo", "Data di nascita", "deceased date", "sesso", "languages", "citizenship", "nationality"];
-const field_names = ["CV", "Address", "Data di nascita", "Date of Birth", "Positions"];
+const field_names = ["CV", "Address", "Data di nascita", "Date of Birth", "Positions", "Nationality", "Citizenship", "Languages"];
 
 async function run() {
-  const browser = await puppeteer.launch({ headless: true });
+  const browser = await puppeteer.launch({ headless: false });
   const page = await browser.newPage();
+  const browser1 = await puppeteer.launch({ headless: true });
+  const page1 = await browser1.newPage();
   // const Topk = 3;
   try {
     const csvFilePath = 'sample.csv';
@@ -161,7 +163,8 @@ async function run() {
         console.log(`\nSkipping ${uniqueID} - Already processed`);
         continue;
       }
-      const trPos = await translateText(position, 'en', 'it');
+      const trPos = await translateText(page, position, 'USA', country);
+      // console.log(trPos)
       for (const field of field_names) {
         const searchQuery = `${query} ${country} ${trPos} ${field}`;
         console.log(searchQuery);

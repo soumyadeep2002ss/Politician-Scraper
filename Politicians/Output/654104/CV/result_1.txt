@@ -70,4 +70,97 @@ GRANTS & FELLOWSHIPS
 Supervised: 1 EMBO, 2 Marie Curie, 1 NARSAD, 3 EIPOD, 1 Branco Weiss, 1 IFCR, 1 SNF, 1 Croucher 
 fellow since 2003 
 2020-2025 Horizon 2020 International Training Network (261K EUR) “Serotonin & Beyond”, Co-
-Pri
+Principal Investigator; funds one PhD fellow (ESR) working on the role of serotonin in social 
+defeat  
+2019-2021 EMBL Rome Interface Grant (250K EUR) “Role of KRAB-ZnF in neuron identity”, Co-
+Principal Investigator; funds one postdoctoral fellow developing in vivo neuron cell-type 
+specific Cut & Run and knockout of KRAB-ZnF factors 
+2014-2019  ERC Advanced Grant (2.5M EUR) “COREFEAR”, Principal Investigator; functional 
+description of the hypothalamic defensive instinct behavior system 
+2011-2013  NIH R21 Grant (120K USD) “Pharmacogenetic tool for the manipulation of functional brain 
+connectivity,” Principal Investigators: C. Gross and J. Gordon (Columbia University, NY, 
+USA); funded the design, construction, and validation of a novel hM4D receptor trafficked 
+exclusively to axons as a pharmacogenetic tool to rapidly inhibit neurotransmitter release 
+in genetically defined neurons in behaving mice 
+2010-2012 IRSF Grant (100K USD), “A mouse model of CDKL5 Rett Syndrome,” Principal 
+Investigator; funded the construction, validation, and phenotying of a Cdkl5 conditional 
+knockout mouse, production of monoclonal antibodies against Cdkl5, and a biochemical 
+screen for Cdkl5 targets  
+2008-2013 EC FP7 Multi-PI Collaborative Grant (340K EUR) NEUROCYPRES, Co-Principal 
+Investigator; funded the production and validation of mice expressing a novel FRET-based 
+genetically encoded chloride ion sensor 
+2008-2012 EC FP7 Multi-PI Collaborative Grant (534K EUR) DEVANX, Co-Principal Investigator; 
+funded a series of experiments to dissect hippocampal and amygdala circuits controlling 
+anxiety and fear using the Htr1a/8-OH-DPAT pharmacogenetic tool  
+2007-2011 ESF Neuro-Network Grant (600K EUR), Co-Principal Investigator  
+2006-2008 NIEHS R21 Grant (297K USD), Principal Investigator  
+2006-2007 Fritz Thyssen Stiftung Award (67K EUR), extension, Principal Investigator  
+2006-2008 NARSAD Young Investigator Award (60K USD), Principal Investigator  
+2004-2006 Fritz Thyssen Stiftung Award (100K EUR), Principal Investigator  
+2004-2006 NARSAD Young Investigator Award (60K USD), Principal Investigator  
+2002-2003  NIH K01 Career Development Award (709K USD), Principal Investigator – declined due 
+to rules barring transfer to a foreign institution  
+1999-2001 NIH F32 Postdoctoral Fellowship 
+1998-1999 NIH Institutional Postdoctoral Fellowship 
+1990-1993 NSF Predoctoral Fellowship 
+MEMBERSHIP ON EXTERNAL ADVISORY/REVIEW BOARDS 
+2021- Chair, ERC Consolidator Grant LS5 Neuroscience study section 
+2021- SAB Member, Institute of Neuroscience, CSIC, Alicante, Spain 
+2020- SAC Member, DANDRITE, Danish Institute for Translational Neuroscience, Aarhus, Denmark 
+
+Curriculum Vitae – Cornelius GROSS 
+ 
+ 
+ 
+ 
+2019- SAB Member, GIS Autism and Neurodevelopmental Disorders Foundation, Paris, France 
+2019- Chair, International Scientific Committee, Braincity, EMBL-Nencki Partnership, Poland 
+2019  Member, Neurogenetics Search Committee, Human Technopole, Milano, Italy 
+2017  Simons Foundation for Research in Autism (SFARI) grant study section member 
+2017-19 ERC Consolidator Grant LS5 Neuroscience study section member 
+2017  Member, French National Scientific Review Board (hCERES) 5-year review & site visit – 
+IGBMC, Strasbourg, France 
+2017  Chair, Lundbeck Foundation 5-year review & site visit – DANDRITE, Aarhus, Denmark 
+2016  Chair, EMBL-Poland Twining Proposal Committee 
+2014  Faculty review panel member, Italian Institute of Technology (IIT), Genova, Italy 
+2014  Search committee member for Neurobiology faculty search, DANDRITE, Aarhus, Denmark 
+2013  Search committee member for Neurobiology faculty search, DANDRITE, Aarhus, Denmark 
+2012  Review panel member for ERC Synergy Grants 
+2012  Search committee member for Neurophysiology faculty search, University of Basel, CH 
+2012  Member of Max Planck Society Presidential Private Colloquium – Future of Psychiatry, 
+Frankfurt, Germany 
+2012  Review board member for Danish EMBL Node, Copenhagen, Denmark 
+SUPERVISION OF FELLOWS 
+Mentored 17 postdoctoral fellows, 15 PhD fellows, and >50 Masters students since 2003: 
+Name (year departed) Position at EMBL Current Position 
+Depino, Amaicha (2006) Postdoctoral Fellow 
+Professor, University of Buenos Aires, Buenos 
+Aires, Argentina 
+Maggi, Laura (2006) Postdoctoral Fellow Researcher, Sapienza University, Rome, Italy 
+Frazzetto, Giovanni (2007) Postdoctoral Fellow Science writer and novelist, Dublin, Ireland  
+Tsetsenis, Thodoris (2008) PhD fellow 
+Research Associate, University of Pennsylvania, 
+Philadelphia, USA 
+Lo Iacono, Luisa (2008) PhD fellow Researcher, Sapienza University, Rome, Italy 
+Mirabeau, Olivier (2008) PhD fellow Engineer, Curie Institute, Paris, France 
+Tiago Ferreira (2009) PhD fellow 
+Research Staff Member, Janelia Research 
+Campus, Ashburn, USA 
+Raffaella Bosurgi (2009) Postdoctoral Fellow Editor, BMC Neuroscience, London, UK 
+Valeria Carola (2010) Postdoctoral Fellow 
+Tenured Researcher, Sapienza University, Rome, 
+Italy 
+Olga Ermakova (2010) Postdoctoral Fellow 
+Tenured Research Scientist, CNR, Monterotondo, 
+Italy  
+Apar Jain (2010) PhD fellow 
+Elected politician and entrepreneur, Heidelberg, 
+Germany 
+Rosa Paolicelli (2011) PhD fellow Assistant Professor, University of Lausanne, CH 
+Enrica Audero (2011) 
+Postdoc/lab 
+manager 
+Entrepreneur, Alentejo, Portugal 
+Lukasz Piszczek (2013) PhD fellow Postdoctoral fellow, IMP, Vienna, Austria 
+Elena Amendola (2013) Postdoctoral fellow Researcher, University of Naples, Naples, Italy 
+Yang Zhan (2014) Postdoctoral fellow Assistant Professor, SIAT, Shenzhen, PRC

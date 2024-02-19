@@ -6,13 +6,12 @@ const pdf = require('pdf-parse');
 
 const readFileAsync = util.promisify(fs.readFile);
 const translateText = require('./translate')
-const LanguageDetect = require('languagedetect');
-const lngDetector = new LanguageDetect();
 
 async function getDataFromLinks() {
-  const browser = await puppeteer.launch({ headless: false });
+  const browser = await puppeteer.launch({ headless: true });
   const page = await browser.newPage();
-
+  const browser1 = await puppeteer.launch({ headless: true });
+  const page1 = await browser1.newPage();
   // Load the JSON file
   const jsonData = fs.readFileSync('all_search_results.json', 'utf8');
   const linksData = JSON.parse(jsonData);
@@ -23,9 +22,15 @@ async function getDataFromLinks() {
       let pdfData;
 
       // Check if the URL ends with '.pdf'
-      if (url.toLowerCase().endsWith('.pdf')) {
+      if (url.toLowerCase().endsWith('pdf')) {
         // If it's a direct link to a PDF, download it using axios
-        const response = await axios.get(url, { responseType: 'arraybuffer' });
+        const response = await axios.get(url, {
+          responseType: 'arraybuffer',
+          headers: {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
+            // Add any other required headers here
+          },
+        });
         pdfData = response.data;
       } else {
         await page.goto(url, { waitUntil: 'domcontentloaded' });
@@ -52,7 +57,7 @@ async function getDataFromLinks() {
           fs.writeFileSync(`${outputDirectory}/nonReadableCv${i + 1}.json`, JSON.stringify(storeUrl, null, 2));
         }
         if (textdata.trim() !== '') {
-          textdata = await translateText(data.text, 'auto', 'en');
+          textdata = await translateText(page1, data.text, 'auto', 'en');
         }
         fs.writeFileSync(fileName, textdata);
         console.log(fileName)
@@ -60,7 +65,7 @@ async function getDataFromLinks() {
         // If it's not a PDF, extract text content directly
         let textContent = await page.evaluate(() => document.body.innerText);
         if (textContent.trim() !== '') {
-          textContent = await translateText(data.text, 'auto', 'en');
+          textContent = await translateText(page1, data.text, 'auto', 'en');
         }
         fs.writeFileSync(fileName, textContent);
       }
@@ -129,6 +134,7 @@ async function getDataFromLinks() {
   }
   console.log('\nData extraction completed!');
   await browser.close();
+  await browser1.close();
 }
 
 module.exports = getDataFromLinks;
