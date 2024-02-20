@@ -122,10 +122,10 @@ puppeteer.use(StealthPlugin());
 
 
 // const field_names = ["Indirizzo", "Data di nascita", "deceased date", "sesso", "languages", "citizenship", "nationality"];
-const field_names = ["CV", "Address", "Data di nascita", "Date of Birth", "Positions", "Nationality", "Citizenship", "Languages"];
+const field_names = ["CV", "Address", "Date of Birth1", "Date of Birth", "Positions", "Nationality", "Citizenship", "Languages"];
 
 async function run() {
-  const browser = await puppeteer.launch({ headless: false });
+  const browser = await puppeteer.launch({ headless: true });
   const page = await browser.newPage();
   const browser1 = await puppeteer.launch({ headless: true });
   const page1 = await browser1.newPage();
@@ -166,7 +166,15 @@ async function run() {
       const trPos = await translateText(page, position, 'USA', country);
       // console.log(trPos)
       for (const field of field_names) {
-        const searchQuery = `${query} ${country} ${trPos} ${field}`;
+        let translatedDob;
+        let searchQuery;
+        if (field === "Date of Birth1") {
+          translatedDob = await translateText(page, "Date of Birth", 'USA', country);
+          searchQuery = `${query} ${country} ${trPos} ${translatedDob}`;
+        }
+        else {
+          searchQuery = `${query} ${country} ${trPos} ${field}`;
+        }
         console.log(searchQuery);
         await page.goto(`https://www.google.com/search?q=${encodeURIComponent(searchQuery)}`);
 
@@ -181,7 +189,12 @@ async function run() {
 
           const final_query = `${query} ${country} ${position} ${field}`;
           filteredResults.push(sourceLink);
-          field_results[field] = filteredResults;
+          if (field === "Date of Birth1") {
+            field_results[translatedDob] = filteredResults;
+          }
+          else {
+            field_results[field] = filteredResults;
+          }
         } catch (error) {
           console.error(`Error processing ${query}/${field}: ${error.message}`);
           continue;
