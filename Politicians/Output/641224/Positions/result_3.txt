@@ -1,0 +1,133 @@
+00-PRINCIPIOS.indd 127/10/11 17:22:22
+ 
+      
+   
+  
+   
+  
+   
+   
+   
+ 
+   
+   
+  
+   
+ 
+   
+   
+  
+   
+  
+  
+   
+  
+    
+   
+   
+ 
+ 
+ 
+  
+   
+  
+Articles:
+5
+29
+51
+73
+93
+117
+N
+or t a s:
+141
+153
+P
+A N O R A M A Y DE B A T E S:
+165
+195
+r
+E s e ñ a d e li b r o s:
+221
+n
+o t i c i a s d e l i b r o s
+Y o t r a s p u b l i c a c i o n e s
+225
+No. 20 • Autumn 2011
+ISSN: 1695-7253
+Manca, F.
+Education, Catch-Up and Growth in Spain
+Benítez, J. and Cabrera, S.
+Analysis of National Tourism in the Autonomous Communities
+Spanish peninsular
+Cadaval, M.
+Capital. A centrality cost? Study of a case
+Gorenstein, S. and Moltoni, L.
+Knowledge, learning and proximity in agglomerations
+peripheral industrialists. Case study on industry
+of agricultural machinery in Argentina
+Torrent-Sellens, J. and Ficapal-Cusí, P.
+ICT, qualification, organization and productivity of work:
+An empirical analysis of the new sources of efficiency
+Business in Catalonia
+Trueba, M. C.
+Local imposition on property: international experience
+and lessons for Spain
+Calvo, R.
+A critical look at the economic development model
+at the Valencian local level. Est
+Ategias for your possible
+redefinition
+CARDENETE, M. A. and Ordóñez, M.
+Methodology of the causal matrix for change analysis
+Structur
+AL: an application for the Andalusian economy
+Suriñach, J. and Moreno, R.
+The Role of Intangible Assets in the Regional Economic Growth
+BOSCÁ, J. E.; Escribá, J. and Murgui, M. J.
+The effectiveness of investment in public infrastructure:
+A panoramic for the Spanish economy and its regions
+Multicriterium decision methods and their application to analysis
+of the unreason
+local ollo. Application of a case in the municipalities
+from the Autonomous Community of Castilla y León,
+By Colino, A.
+
+01-Manca.indd 527/10/11 09:21:36
+ 
+ 
+ 
+ 
+ 
+ 
+© Regional research. 20 - Pages 5 to 28
+Section A
+rticles
+Education, Catch-Up and Growth in Spain
+Fabio Manca *
+Abstract: the debate over the impact of education on economic growth has re
+Cently Led to Disagraement When, At the Empirical Level, The Effect of Average Human
+Capital on Economic Growth Has Been Found To Be Weak. With This Paper We review
+these results by arguing how different education attainment levels (rather Than the
+avenge human capital stock) impact heterogenously different regions ’economic
+Performance We Build and Test A Catch-Up Model Where Technology Adoption Takes
+Place as a function of each region’s human capital composition. We Show for 50
+NUTS3 SPANISH PROVINES IN BETWEEN 1965 and 1997, How Convergence to The
+Frontier Is Driven By Higher Education and, to a lesser extensive, by vocational training.
+Both theoretical and empirical results are alternative to the well known formalizes
+Tion proposed by Vandenbussche, Aghion and Meghir (2006). Severe Endogneity
+ISSUES, AS well as small sample biasa, are Tackled by using system gmm estimates
+tors and the correction proposed by Windmeijer (2005).
+Jel Classification: I25, 030, 040.
+Keywords: Human Capital%20composition%2C%20regional%20growth%2C%20convergence%2C%20adoption.%20%0ALa%20educaci%C3%B3n%2C%20Catch-up%20y%20crecimiento%20en%20Espa%C3%B1a%20%0ARESUMEN%3A%20El%20debate%20sobre%20el%20impacto%20de%20la%20educaci%C3%B3n%20en%20el%20crecimiento%20econ%C3%B3%C2%AD%0Amico%20ha%20recientemente%20evidenciado%20la%20escasa%20significatividad%20emp%C3%ADrica%20del%20efecto%20%0Adel%20capital%20humano%20medio%20sobre%20el%20crecimiento%20econ%C3%B3mico.%20Con%20este%20trabajo%20nos%20%0Aproponemos%20revisar%20estos%20resultados%20con%20el%20objetivo%20de%20analizar%20c%C3%B3mo%20inciden%20los%20%0Adiferentes%20niveles%20educativos%20(m%C3%A1s%20que%20el%20stock%20de%20capital%20humano%20promedio)%20sobre%20%0Ael%20%20crecimiento%20%20econ%C3%B3mico%20%20de%20%20las%20%20regiones.%20%20Con%20%20este%20%20objetivo%20%20construimos%20%20y%20%20ana%C2%AD%0Alizamos%20%20un%20%20modelo%20%20de%20technology%20%20catch-up%20en%20%20el%20%20que%20%20la%20%20adopci%C3%B3n%20%20de%20%20tecnolog%C3%ADa%20%0A*%20The%20%20author%20%20acknowledges%20%20the%20%20financial%20%20support%20%20of%20%20the%20%20Spanish%20%20Ministry%20%20of%20%20Science%2C%20%20ECO2009%C2%AD%0A12678.%20All%20the%20views%20expressed%20in%20this%20paper%20do%20not%20necessarily%20represent%20those%20of%20the%20affiliated%20institutions.%20%0AThe%20usual%20disclaimer%20applies.%20%0AAQR-IREA%2C%20Universidad%20de%20Barcelona%2C%20Avenida%20Diagonal%20690%2C%2008023%2C%20Barcelona%20y%20IPTS-Joint%20Re%C2%AD%0Asearch%20%0ACentre%2C%20European%20Commission%2C%20c%2F%20Inca%20Garcilaso%203%2C%2041092%2C%20Sevilla.%20Tel.%3A%20%2B34%20954048557.%20E-mail%3A%20%0Afabio.manca%40ec.europa.eu.%20%0ARecibido%3A%208%20de%20febrero%20de%202010%20%2FAceptado%3A%2017%20de%20febrero%20de%202011.%20%0A5%20%0A%0A01-MANCA.indd%20%20%20627%2F10%2F11%20%20%2009%3A21%3A36%0A%20%0A%20%0A%20%20%20%0A6%20Manca%2C%20F.%20%0Ase%20lleva%20a%20cabo%20en%20funci%C3%B3n%20de%20la%20composici%C3%B3n%20del%20capital%20humano%20de%20cada%20regi%C3%B3n.%20%0ANuestros%20%20resultados%20%20demuestran%20%20para%20%2050%20%20provincias%20%20espa%C3%B1olas%20%20(NUTS3)%20%20c%C3%B3mo%20%20la%20%0Aconvergencia%20%20hacia%20%20la%20%20frontera%20%20tecnol%C3%B3gica%20%20se%20%20debe%20%20mayoritariamente%20%20a%20%20la%20%20educa%C2%AD%0Aci%C3%B3n%20superior%20y%2C%20en%20menor%20medida%2C%20a%20la%20formaci%C3%B3n%20profesional%20entre%20los%20a%C3%B1os%201965%20%0Ay%201997.%20Tanto%20los%20resultados%20te%C3%B3ricos%20como%20los%20emp%C3%ADricos%20son%20una%20alternativa%20a%20la%20%0Aformalizaci%C3%B3n%20del%20modelo%20propuesto%20por%20Vandenbussche%2C%20Aghion%20y%20Meghir%20(2006).%20%0ALos%20importantes%20problemas%20de%20endogeneidad%2C%20as%C3%AD%20como%20los%20sesgos%20debidos%20al%20uso%20%0Ade%20una%20muestra%20peque%C3%B1a%2C%20se%20abordan%20mediante%20el%20uso%20de%20estimadores%20system%20GMM%20%0Ay%20de%20la%20correcci%C3%B3n%20propuesta%20por%20Windmeijer%20(2005).%20%0AClasificaci%C3%B3n%20JEL%3A%20I25%2C%20030%2C%20040.%20%0APalabras%20%20clave%3A%20Composici%C3%B3n%20capital%20%20humano%2C%20%20crecimiento%20%20regional%2C%20%20convergen%C2%AD%0Acia%2C%20adopci%C3%B3n.%20%0A1.%20Introduction%20%0AEducation%20%20and%20%20its%20%20impact%20%20on%20%20economic%20%20growth%20%20has%20%20been%20%20the%20%20focus%20%20of%20%20economic%20%0Aliterature%20for%20a%20long%20time.%20From%20a%20theoretical%20point%20of%20view%2C%20starting%20from%20the%20seminal%20%0Acontribution%20of%20new%20growth%20theory%20by%20Romer%20(1990)%2C%20human%20capital%20has%20been%20argued%20%0Ato%20be%20one%20of%20the%20main%20long-run%20determinants%20of%20economic%20growth%20at%20the%20country%20level%20%0Asince%20it%20would%20foster%20technology%20creation%20or%2C%20as%20in%20Behnabib%20and%20Spiegel%20(2005)%2C%20the%20%0Aadoption%20of%20foreign%20technology.%20%0ASimilarly%2C%20%20more%20%20dynamic%20%20regions%20%20are%20%20usually%20%20those%20%20fully%20%20taking%20%20advantage%20%20of%20%0Atechnological%20%0Aopportunities%20and%20renewing%20their%20productive%20structures%20by%20technology%20%0Aimplementation.%20Acemoglu%20%20and%20%20Dell%20%20(2009)%20%20argue%20%20how%20%20%C2%ABbetween-municipality%20%20%5Bre%C2%AD%0Agional%5D%20differences%20in%20labor%20income%20are%20about%20twice%20the%20size%20of%20between-country%20dif%C2%AD%0Aferences%C2%BB%20such%20that%20%C2%ABsimilar%20to%20the%20residual%20in%20cross-country%20exercises%2C%20these%20regional%20%0Aresidual%20%20differences%20%20can%20%20be%20%20ascribed%20%20to%20%20differences%20%20in%20%20the%20%20efficiency%20%20of%20%20production%20%0Aacross%20sub-national%20units-i.e.%20to%20%E2%80%9Ctechnology%20differences%E2%80%9D%C2%BB.%20%0AWhat%20matters%20for%20regional%20economic%20growth%20is%2C%20hence%2C%20the%20relative%20efficiency%20with%20%0Awhich%20%0Aeconomic%20agents%20in%20each%20region%20are%20capable%20of%20implementing%20and%20adopting%20the%20%0Aavailable%20know-how%20(technology)%20and%20taking%20advantage%20of it profitably. Hence, edu­
+cation is usually argued to be the channel through which technology is exploited also 
+at the regional level leading to growth differentials across regions. 
+Nonetheless, recently, some doubts on the positive impact of human capital on 
+economic 
+growth have arisen as pointed out by de la Fuente and Doménech (2006), 
+Pritchett (1996) and Krueger and Lindhal (2001) who argue how, especially in dy­
+namic panel data context, the econometric relation between human capital and eco­
+nomic growth is almost null or very weak. 
+On the one hand, an explanation to this odd result has led to questioning the qual­
+ity 
+and homogeneity of the data on international educational levels used in growth re­

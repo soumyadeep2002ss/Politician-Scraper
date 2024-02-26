@@ -1,0 +1,478 @@
+Jump to content
+Main menu
+Search
+Create account
+Log in
+Personal tools
+Toggle the table of contents
+Innovation
+68 languages
+Article
+Talk
+Read
+Edit
+View history
+Tools
+From Wikipedia, the free encyclopedia
+For other uses, see Innovation (disambiguation) and Innovators (disambiguation).
+Thomas Edison with phonograph in the late 1870s. Edison was one of the most prolific inventors in history, holding 1,093 U.S. patents in his name.
+
+Innovation is the practical implementation of ideas that result in the introduction of new goods or services or improvement in offering goods or services.[1] ISO TC 279 in the standard ISO 56000:2020 defines innovation as "a new or changed entity, realizing or redistributing value".[2] Others have different definitions; a common element in the definitions is a focus on newness, improvement, and spread of ideas or technologies.
+
+Innovation often takes place through the development of more-effective products, processes, services, technologies, art works[3] or business models that innovators make available to markets, governments and society.
+
+Innovation is related to, but not the same as, invention:[4] innovation is more apt to involve the practical implementation of an invention (i.e. new / improved ability) to make a meaningful impact in a market or society,[5] and not all innovations require a new invention.[6]
+
+Technical innovation often manifests itself via the engineering process when the problem being solved is of a technical or scientific nature. The opposite of innovation is exnovation.
+
+Definition[edit]
+
+Surveys of the literature on innovation have found a variety of definitions. In 2009, Baregheh et al. found around 60 definitions in different scientific papers, while a 2014 survey found over 40.[7] Based on their survey, Baragheh et al. attempted to formulate a multidisciplinary definition and arrived at the following:
+
+"Innovation is the multi-stage process whereby organizations transform ideas into new/improved products, service or processes, in order to advance, compete and differentiate themselves successfully in their marketplace"[8]
+
+In a study of how the software industry considers innovation, the following definition given by Crossan and Apaydin was considered to be the most complete. Crossan and Apaydin built on the definition given in the Organisation for Economic Co-operation and Development (OECD) Oslo Manual:[7]
+
+Innovation is production or adoption, assimilation, and exploitation of a value-added novelty in economic and social spheres; renewal and enlargement of products, services, and markets; development of new methods of production; and the establishment of new management systems. It is both a process and an outcome.
+
+American sociologist Everett Rogers, defined it as follows:
+
+"An idea, practice, or object that is perceived as new by an individual or other unit of adoption"[9]
+
+According to Alan Altshuler and Robert D. Behn, innovation includes original invention and creative use. These writers define innovation as generation, admission and realization of new ideas, products, services and processes.[10]
+
+Two main dimensions of innovation are degree of novelty (i.e. whether an innovation is new to the firm, new to the market, new to the industry, or new to the world) and kind of innovation (i.e. whether it is process or product-service system innovation).[7] Organizational researchers have also distinguished innovation separately from creativity, by providing an updated definition of these two related constructs:
+
+Workplace creativity concerns the cognitive and behavioral processes applied when attempting to generate novel ideas. Workplace innovation concerns the processes applied when attempting to implement%20new%20ideas.%20Specifically%2C%20innovation%20involves%20some%20combination%20of%20problem%2Fopportunity%20identification%2C%20the%20introduction%2C%20adoption%20or%20modification%20of%20new%20ideas%20germane%20to%20organizational%20needs%2C%20the%20promotion%20of%20these%20ideas%2C%20and%20the%20practical%20implementation%20of%20these%20ideas.%5B11%5D%0A%0APeter%20Drucker%20wrote%3A%0A%0AInnovation%20is%20the%20specific%20function%20of%20entrepreneurship%2C%20whether%20in%20an%20existing%20business%2C%20a%20public%20service%20institution%2C%20or%20a%20new%20venture%20started%20by%20a%20lone%20individual%20in%20the%20family%20kitchen.%20It%20is%20the%20means%20by%20which%20the%20entrepreneur%20either%20creates%20new%20wealth-producing%20resources%20or%20endows%20existing%20resources%20with%20enhanced%20potential%20for%20creating%20wealth.%5B12%5D%0A%0ACreativity%20and%20innovation%5Bedit%5D%0A%0AIn%20general%2C%20innovation%20is%20distinguished%20from%20creativity%20by%20its%20emphasis%20on%20the%20implementation%20of%20creative%20ideas%20in%20an%20economic%20setting.%20Amabile%20and%20Pratt%20in%202016%2C%20drawing%20on%20the%20literature%2C%20distinguish%20between%20creativity%20(%22the%20production%20of%20novel%20and%20useful%20ideas%20by%20an%20individual%20or%20small%20group%20of%20individuals%20working%20together%22)%20and%20innovation%20(%22the%20successful%20implementation%20of%20creative%20ideas%20within%20an%20organization%22).%5B13%5D%0A%0AEconomics%20and%20innovation%5Bedit%5D%0A%0AIn%201957%20the%20economist%20Robert%20Solow%20was%20able%20to%20demonstrate%20that%20economic%20growth%20had%20two%20components.%20The%20first%20component%20could%20be%20attributed%20to%20growth%20in%20production%20including%20wage%20labour%20and%20capital.%20The%20second%20component%20was%20found%20to%20be%20productivity.%20Ever%20since%2C%20economic%20historians%20have%20tried%20to%20explain%20the%20process%20of%20innovation%20itself%2C%20rather%20than%20assuming%20that%20technological%20inventions%20and%20technological%20progress%20result%20in%20productivity%20growth.%5B14%5D%0A%0AThe%20concept%20of%20innovation%20emerged%20after%20the%20Second%20World%20War%2C%20mostly%20thanks%20to%20the%20works%20of%20Joseph%20Schumpeter%20(1883%E2%80%931950)%20who%20described%20the%20economic%20effects%20of%20innovation%20processes%20as%20Constructive%20destruction.%20Today%2C%20consistent%20neo-Schumpeterian%20scholars%20see%20innovation%20not%20as%20neutral%20or%20apolitical%20processes.%5B15%5D%5B16%5D%20Rather%2C%20innovation%20can%20be%20seen%20as%20socially%20constructed%20processes.%20Therefore%2C%20its%20conception%20depends%20on%20the%20political%20and%20societal%20context%20in%20which%20innovation%20is%20taking%20place.%5B17%5D%20According%20to%20Shannon%20Walsh%2C%20%22innovation%20today%20is%20best%20understood%20as%20innovation%20under%20capital%22%20(p.%C2%A0346).%5B18%5D%20This%20means%20that%20the%20current%20hegemonic%20purpose%20for%20innovation%20is%20capital%20valorisation%20and%20profit%20maximization%2C%20exemplified%20by%20the%20appropriation%20of%20knowledge%20(e.g.%2C%20through%20patenting)%2C%20the%20widespread%20practice%20of%20Planned%20obsolescence%20(incl.%20lack%20of%20repairability%20by%20design)%2C%20and%20the%20Jevons%20paradox%2C%20that%20describes%20negative%20consequences%20of%20eco-efficiency%20as%20energy-reducing%20effects%20tend%20to%20trigger%20mechanisms%20leading%20to%20energy-increasing%20effects.%5B19%5D%0A%0ATypes%5Bedit%5D%0A%0ASeveral%20frameworks%20have%20been%20proposed%20for%20defining%20types%20of%20innovation.%5B20%5D%5B21%5D%0A%0ASustaining%20vs%20disruptive%20innovation%5Bedit%5D%0AAn%201880%20penny-farthing%20(left)%2C%20and%20a%201886%20Rover%20safety%20bicycle%20with%20gearing%0A%0AOne%20framework%20proposed%20by%20Clayton%20Christensen%20draws%20a%20distinction%20between%20sustaining%20and%20disruptive%20innovations.%5B22%5D%20Sustaining%20innovation%20is%20the%20improvement%20of%20a%20product%20or%20service%20based%20on%20the%20known%20needs%20of%20current%20customers%20(e.g.%20faster%20microprocessors%2C%20flat%20screen%20televisions).%20Disruptive%20innovation%20in%20contrast%20refers%20to%20a%20process%20by%20which%20a%20new%20product%20or%20service%20creates%20a%20new%20market%20(e.g.%20transistor%20radio%2C%20free%20crowdsourced%20encyclopedia%2C%20etc.)%2C%20eventually%20displacing%20established%20competitors.%5B23%5D%5B24%5D%20According%20to%20Christensen%2C%20disruptive%20innovations%20are%20critical%20to%20long-term%20success%20in%20business.%5B25%5D%0A%0ADisruptive%20innovation%20is%20often%20enabled%20by%20disruptive%20technology.%20Marco%20Iansiti%20and%20Karim%20R.%20Lakhani%20define%20foundational%20technology%20as%20having%20the%20potential%20to%20create%20new%20foundations%20for%20global%20technology%20systems%20over%20the%20longer%20term.%20Foundational%20technology%20tends%20to%20transform%20business%20operating%20models%20as%20entirely%20new%20business models emerge over many years, with gradual and steady adoption of the innovation leading to waves of technological and institutional change that gain momentum more slowly.[26][additional citation(s) needed] The advent of the packet-switched communication protocol TCP/IP—originally introduced in 1972 to support a single use case for United States Department of Defense electronic communication (email), and which gained widespread adoption only in the mid-1990s with the advent of the World Wide Web—is a foundational technology.[26]
+
+Four types of innovation model[edit]
+
+Another framework was suggested by Henderson and Clark. They divide innovation into four types;
+
+Radical innovation: "establishes a new dominant design and, hence, a new set of core design concepts embodied in components that are linked together in a new architecture." (p. 11)[27]
+Incremental innovation: "refines and extends an established design. Improvement occurs in individual components, but the underlying core design concepts, and the links between them, remain the same." (p. 11)[27]
+Architectural innovation: "innovation that changes only the relationships between them [the core design concepts]" (p. 12)[27]
+Modular Innovation: "innovation that changes only the core design concepts of a technology" (p. 12)[27]
+
+While Henderson and Clark as well as Christensen talk about technical innovation there are other kinds of innovation as well, such as service innovation and organizational innovation.
+
+Non-economic innovation[edit]
+
+As distinct from business-centric views of innovation concentrating on generating profit for a firm, other types of innovation include: social innovation, religious innovation,[28] sustainable innovation (or green innovation),[29] and responsible innovation.[30]
+
+Open innovation[edit]
+
+One type of innovation that has been the focus of recent literature is open innovation or "crowd sourcing." Open innovation refers to the use of individuals outside of an organizational context who have no expertise in a given area to solve complex problems.[31]
+
+User innovation[edit]
+
+Similar to open innovation, user innovation is when companies rely on users of their goods and services to come up with, help to develop, and even help to implement new ideas.[31]
+
+History[edit]
+See also: Innovation economics
+
+Innovation must be understood in the historical setting in which its processes were and are taking place.[17] The first full-length discussion about innovation was published by the Greek philosopher and historian Xenophon (430–355 BCE). He viewed the concept as multifaceted and connected it to political action. The word for innovation that he uses, kainotomia, had previously occurred in two plays by Aristophanes (c. 446 – c. 386 BCE). Plato (died c. 348 BCE) discussed innovation in his Laws dialogue and was not very fond of the concept. He was skeptical to it both in culture (dancing and art) and in education (he did not believe in introducing new games and toys to the kids).[32] Aristotle (384–322 BCE) did not like organizational innovations: he believed that all possible forms of organization had been discovered.[33]
+
+Before the 4th century in Rome, the words novitas and res nova / nova res were used with either negative or positive judgment on the innovator. This concept meant "renewing" and was incorporated into the new Latin verb word innovo ("I renew" or "I restore") in the centuries that followed. The Vulgate version of the Bible (late 4th century CE) used the word in spiritual as well as political contexts. It also appeared in poetry, mainly with spiritual connotations, but was also connected to political, material and cultural aspects.[32]
+
+Machiavelli's The Prince (1513) discusses innovation in a political setting. Machiavelli portrays it as a strategy a Prince may employ in order to cope with a constantly changing world as well as the corruption within it. Here innovation is described as introducing change in government (new laws and institutions); Machiavelli's later book The Discourses (1528) characterises innovation as imitation, as a return to the original that has been corrupted by people and by time.[citation needed] Thus for Machiavelli innovation came with positive connotations. This is however an exception in the usage of the concept of innovation from the 16th century and onward. No innovator from the renaissance until the late 19th century ever thought of applying the word innovator upon themselves, it was a word used to attack enemies.[32]
+
+From the 1400s[citation needed] through the 1600s, the concept of innovation was pejorative – the term was an early-modern synonym for "rebellion", "revolt" and "heresy".[34][35][36][37][38] In the 1800s[timeframe?] people promoting capitalism saw socialism as an innovation and spent a lot of energy working against it. For instance, Goldwin Smith (1823-1910) saw the spread of social innovations as an attack on money and banks. These social innovations were socialism, communism, nationalization, cooperative associations.[32]
+
+In the 20th century, the concept of innovation did not become popular until after the Second World War of 1939–1945. This is the point in time when people started to talk about technological product innovation and tie it to the idea of economic growth and competitive advantage.[39] Joseph Schumpeter (1883–1950), who contributed greatly to the study of innovation economics, is seen as the one who made the term popular. Schumpeter argued that industries must incessantly revolutionize the economic structure from within, that is: innovate with better or more effective processes and products, as well as with market distribution (such as the transition from the craft shop to factory). He famously asserted that "creative destruction is the essential fact about capitalism".[40] In business and in economics, innovation can provide a catalyst for growth when entrepreneurs continuously search for better ways to satisfy their consumer base with improved quality, durability, service and price - searches which may come to fruition in innovation with advanced technologies and organizational strategies.[41] Schumpeter's findings coincided with rapid advances in transportation and communications in the beginning of the 20th century, which had huge impacts for the economic concepts of factor endowments and comparative advantage as new combinations of resources or production techniques constantly transform markets to satisfy consumer needs. Hence, innovative behaviour becomes relevant for economic success.[42]
+
+Process of innovation[edit]
+
+An early model included only three phases of innovation. According to Utterback (1971), these phases were: 1) idea generation, 2) problem solving, and 3) implementation.[43] By the time one completed phase 2, one had an invention, but until one got it to the point of having an economic impact, one did not have an innovation. Diffusion was not considered a phase of innovation. Focus at this point in time was on manufacturing.
+
+A prime example of innovation involved the boom of Silicon Valley start-ups out of the Stanford Industrial Park. In 1957, dissatisfied employees of Shockley Semiconductor, the company of Nobel laureate William Shockley, co-inventor of the transistor, left to form an independent firm, Fairchild Semiconductor. After severalyears, Fairchild developed into a formidable presence in the sector.[which?] Eventually, these founders left to start their own companies based on their own unique ideas, and then leading employees started their own firms. Over the next 20 years this process resulted in the momentous startup-company explosion of information-technology firms.[citation needed] Silicon Valley began as 65 new enterprises born out of Shockley's eight former employees.[44]
+
+All organizations can innovate, including for example hospitals, universities, and local governments.[45] The organization requires a proper structure in order to retain competitive advantage. Organizations can also improve profits and performance by providing work groups opportunities and resources to innovate, in addition to employee's core job tasks.[46] Executives and managers have been advised to break away from traditional ways of thinking and use change to their advantage.[47] The world of work is changing with the increased use of technology and companies are becoming increasingly competitive. Companies will have to downsize or reengineer their operations to remain competitive. This will affect employment as businesses will be forced to reduce the number of people employed while accomplishing the same amount of work if not more.[48]
+
+For instance, former Mayor Martin O'Malley pushed the City of Baltimore to use CitiStat, a performance-measurement data and management system that allows city officials to maintain statistics on several areas from crime trends to the conditions of potholes. This system aided in better evaluation of policies and procedures with accountability and efficiency in terms of time and money. In its first year, CitiStat saved the city $13.2 million.[49] Even mass transit systems have innovated with hybrid bus fleets to real-time tracking at bus stands. In addition, the growing use of mobile data terminals in vehicles, that serve as communication hubs between vehicles and a control center, automatically send data on location, passenger counts, engine performance, mileage and other information. This tool helps to deliver and manage transportation systems.[50]
+
+Still other innovative strategies include hospitals digitizing medical information in electronic medical records. For example, the U.S. Department of Housing and Urban Development's HOPE VI initiatives turned severely distressed public housing in urban areas into revitalized, mixed-income environments; the Harlem Children's Zone used a community-based approach to educate local area children; and the Environmental Protection Agency's brownfield grants facilitates turning over brownfields for environmental protection, green spaces, community and commercial development.
+
+Further information: Demand articulation
+Sources of innovation[edit]
+
+Innovation may occur due to effort from a range of different agents, by chance, or as a result of a major system failure. According to Peter F. Drucker, the general sources of innovations are changes in industry structure, in market structure, in local and global demographics, in human perception, in the amount of available scientific knowledge, etc.[12]
+
+Original model of three phases of the process of Technological Change
+
+In the simplest linear model of innovation the traditionally recognized source is manufacturer innovation. This is where a person or business innovates in order to sell the innovation.
+
+Another source of innovation is end-user innovation. This is where a person or company develops an innovation for their own (personal or in-house) use because existing products do not meet their needs. MIT economist Eric von Hippel identified end-user innovation as the most important source in his classic book on the subject, "The Sources of Innovation".[51]
+
+The robotics engineer Joseph F. Engelberger asserts that innovations require only three things:
+
+a recognized need
+competent people with relevant technology
+financial support[52]
+
+The Kline chain-linked model of innovation[53] places emphasis on potential market needs as drivers of the innovation process, and describes the complex and often iterative feedback loops between marketing, design, manufacturing, and R&D.
+
+In the 21st century the Islamic State (IS) movement, while decrying religious innovations, has innovated in military tactics, recruitment, ideology and geopolitical activity.[54][55]
+
+Facilitating innovation[edit]
+
+Innovation by businesses is achieved in many ways, with much attention now given to formal research and development (R&D) for "breakthrough innovations". R&D help spur on patents and other scientific innovations that leads to productive growth in such areas as industry, medicine, engineering, and government.[56] Yet, innovations can be developed by less formal on-the-job modifications of practice, through exchange and combination of professional experience and by many other routes. Investigation of relationship between the concepts of innovation and technology transfer revealed overlap.[57] The more radical and revolutionary innovations tend to emerge from R&D, while more incremental innovations may emerge from practice – but there are many exceptions to each of these trends.
+
+Information technology and changing business processes and management style can produce a work climate favorable to innovation.[58] For example, the software tool company Atlassian conducts quarterly "ShipIt Days" in which employees may work on anything related to the company's products.[59] Google employees work on self-directed projects for 20% of their time (known as Innovation Time Off). Both companies cite these bottom-up processes as major sources for new products and features.
+
+An important innovation factor includes customers buying products or using services. As a result, organizations may incorporate users in focus groups (user centered approach), work closely with so-called lead users (lead user approach), or users might adapt their products themselves. The lead user method focuses on idea generation based on leading users to develop breakthrough innovations. U-STIR, a project to innovate Europe's surface transportation system, employs such workshops.[60] Regarding this user innovation, a great deal of innovation is done by those actually implementing and using technologies and products as part of their normal activities. Sometimes user-innovators may become entrepreneurs, selling their product, they may choose to trade their innovation in exchange for other innovations, or they may be adopted by their suppliers. Nowadays, they may also choose to freely reveal their innovations, using methods like open source. In such networks of innovation the users or communities of users can further develop technologies and reinvent their social meaning.[61][62]
+
+One technique for innovating a solution to an identified problem is to actually attempt an experiment with many possible solutions.[63] This technique was famously used by Thomas Edison's laboratory to find a version of the incandescent light bulb economically viable for home use, which involved searching through thousands of possible filament designs before settling on carbonized bamboo.
+
+This technique is sometimes used in pharmaceutical drug discovery. Thousands of chemical compounds are subjected to high-throughput screening to see if they have any activity against a target molecule which has been identified as biologically significant to a disease. Promising compounds can then be studied; modified to improve efficacy and reduce side effects, evaluated for cost of manufacture; and if successful turned into treatments.
+
+The related technique of A/B testing is often used to help optimize the design of web sites and mobile apps. This is used by major sites such as amazon.com, Facebook, Google, and Netflix.[64] Procter & Gamble uses computer-simulated products and online user panels to conduct larger numbers of experiments to guide the design, packaging, and shelf placement of consumer products.[65] Capital One uses this technique to drive credit card marketing offers.[64]
+
+Goals and failures of innovation[edit]
+
+Scholars have argued that the main purpose for innovation today is profit maximization and capital valorisation.[66][17] Consequently, programs of organizational innovation are typically tightly linked to organizational goals and growth objectives, to the business plan, and to market competitive positioning. Davila et al. (2006) note, "Companies cannot grow through cost reduction and reengineering alone... Innovation is the key element in providing aggressive top-line growth, and for increasing bottom-line results".[67] One survey across a large number of manufacturing and services organizations found that systematic programs of organizational innovation are most frequently driven by: improved quality, creation of new markets, extension of the product range, reduced labor costs, improved production processes, reduced materials cost, reduced environmental damage, replacement of products/services, reduced energy consumption, and conformance to regulations.[67]
+
+Different goals are appropriate for different products, processes, and services. According to Andrea Vaona and Mario Pianta, some example goals of innovation could stem from two different types of technological strategies: technological competitiveness and active price competitiveness. Technological competitiveness may have a tendency to be pursued by smaller firms and can be characterized as "efforts for market-oriented innovation, such as a strategy of market expansion and patenting activity."[68] On the other hand, active price competitiveness is geared toward process innovations that lead to efficiency and flexibility, which tend to be pursued by large, established firms as they seek to expand their market foothold.[68] Whether innovation goals are successfully achieved or otherwise depends greatly on the environment prevailing in the organization.[69]
+
+Organization-internal innovation failures[edit]
+
+Failure of organizational innovation programs has been widely researched and the causes vary considerably. Some causes are external to the organization and outside its influence of control. Others are internal and ultimately within the control of the organization. Internal causes of failure can be divided into causes associated with the cultural infrastructure and causes associated with the innovation process itself. David O'Sullivan wrote that causes of failure within the innovation process in most organizations can be distilled into five types: poor goal definition, poor alignment of actions to goals, poor participation in teams, poor monitoring of results, and poor communication and access to information.[70]
+
+Environmental and social innovation failures[edit]
+
+Innovation is generally framed as an inherently positive force, delivering growth and prosperity for all, and is often deemed as both inevitable and unstoppable.[17] In this sense, future innovations are often hailed as solutions to current problems, such as climate change. This business-as-usual approach would mean continued and increased globalization as well as quick innovation cycles which supposedly will maximize the competitiveness of processes, in the end leading to Eco-economic decoupling or Green growth. Yet, it is unclear whether innovative solutions will be capable of solving the climate crisis: According to Mario Giampietro and Silvio Funtowicz (2020), this positive framing of innovation "demonstrates [a] lack of understanding of the biophysical roots of the economic process and the seriousness of the sustainability crisis".[71] This is due to the fact that innovation can be understood in its specific historic and cultural context: The prevailing hegemonic view on innovation, as emphasized by Ben Robra et al. (2023), aligns closely with capitalist mode of production, shown by the mantra of 'innovate or die.'[17] From this viewpoint, innovation is primarily driven by the imperative of capital accumulation, serving the sole purpose of increasing returns, neglecting societal needs such as a clean environment or social equality and in general the biophysical limits of our planet.[72][73]
+
+Diffusion[edit]
+Main article: Diffusion of innovations
+
+Diffusion of innovation research was first started in 1903 by seminal researcher Gabriel Tarde, who first plotted the S-shaped diffusion curve. Tarde defined the innovation-decision process as a series of steps that include:[74]
+
+knowledge
+forming an attitude
+a decision to adopt or reject
+implementation and use
+confirmation of the decision
+
+Once innovation occurs, innovations may be spread from the innovator to other individuals and groups. This process has been proposed that the lifecycle of innovations can be described using the 's-curve' or diffusion curve. The s-curve maps growth of revenue or productivity against time. In the early stage of a particular innovation, growth is relatively slow as the new product establishes itself. At some point, customers begin to demand and the product growth increases more rapidly. New incremental innovations or changes to the product allow growth to continue. Towards the end of its lifecycle, growth slows and may even begin to decline. In the later stages, no amount of new investment in that product will yield a normal rate of return.
+
+The s-curve derives from an assumption that new products are likely to have "product life" – i.e., a start-up phase, a rapid increase in revenue and eventual decline. In fact, the great majority of innovations never get off the bottom of the curve, and never produce normal returns.
+
+Innovative companies will typically be working on new innovations that will eventually replace older ones. Successive s-curves will come along to replace older ones and continue to drive growth upwards. In the figure above the first curve shows a current technology. The second shows an emerging technology that currently yields lower growth but will eventually overtake current technology and lead to even greater levels of growth. The length of life will depend on many factors.[75]
+
+Measuring innovation[edit]
+
+Measuring innovation is inherently difficult as it implies commensurability so that comparisons can be made in quantitative terms. Innovation, however, is by definition novelty. Comparisons are thus often meaningless across products or service.[76] Nevertheless, Edison et al.[77] in their review of literature on innovation management found 232 innovation metrics. They categorized these measures along five dimensions; i.e. inputs to the innovation process, output from the innovation process, effect of the innovation output, measures to access the activities in an innovation process and availability of factors that facilitate such a process.[77]
+
+There are two different types of measures for innovation: the organizational level and the political level.
+
+Organizational-level[edit]
+The measure of innovation at the organizational level relates to individuals, team-level assessments, and private companies%20from%20the%20smallest%20to%20the%20largest%20company.%20Measure%20of%20innovation%20for%20organizations%20can%20be%20conducted%20by%20surveys%2C%20workshops%2C%20consultants%2C%20or%20internal%20benchmarking.%20There%20is%20today%20no%20established%20general%20way%20to%20measure%20organizational%20innovation.%20Corporate%20measurements%20are%20generally%20structured%20around%20balanced%20scorecards%20which%20cover%20several%20aspects%20of%20innovation%20such%20as%20business%20measures%20related%20to%20finances%2C%20innovation%20process%20efficiency%2C%20employees%27%20contribution%20and%20motivation%2C%20as%20well%20benefits%20for%20customers.%20Measured%20values%20will%20vary%20widely%20between%20businesses%2C%20covering%20for%20example%20new%20product%20revenue%2C%20spending%20in%20R%26D%2C%20time%20to%20market%2C%20customer%20and%20employee%20perception%20%26%20satisfaction%2C%20number%20of%20patents%2C%20additional%20sales%20resulting%20from%20past%20innovations.%5B78%5D%0APolitical-level%5Bedit%5D%0AFor%20the%20political%20level%2C%20measures%20of%20innovation%20are%20more%20focused%20on%20a%20country%20or%20region%20competitive%20advantage%20through%20innovation.%20In%20this%20context%2C%20organizational%20capabilities%20can%20be%20evaluated%20through%20various%20evaluation%20frameworks%2C%20such%20as%20those%20of%20the%20European%20Foundation%20for%20Quality%20Management.%20The%20OECD%20Oslo%20Manual%20(1992)%20suggests%20standard%20guidelines%20on%20measuring%20technological%20product%20and%20process%20innovation.%20Some%20people%20consider%20the%20Oslo%20Manual%20complementary%20to%20the%20Frascati%20Manual%20from%201963.%20The%20new%20Oslo%20Manual%20from%202018%20takes%20a%20wider%20perspective%20to%20innovation%2C%20and%20includes%20marketing%20and%20organizational%20innovation.%20These%20standards%20are%20used%20for%20example%20in%20the%20European%20Community%20Innovation%20Surveys.%5B79%5D%0A%0AOther%20ways%20of%20measuring%20innovation%20have%20traditionally%20been%20expenditure%2C%20for%20example%2C%20investment%20in%20R%26D%20(Research%20and%20Development)%20as%20percentage%20of%20GNP%20(Gross%20National%20Product).%20Whether%20this%20is%20a%20good%20measurement%20of%20innovation%20has%20been%20widely%20discussed%20and%20the%20Oslo%20Manual%20has%20incorporated%20some%20of%20the%20critique%20against%20earlier%20methods%20of%20measuring.%20The%20traditional%20methods%20of%20measuring%20still%20inform%20many%20policy%20decisions.%20The%20EU%20Lisbon%20Strategy%20has%20set%20as%20a%20goal%20that%20their%20average%20expenditure%20on%20R%26D%20should%20be%203%25%20of%20GDP.%5B80%5D%0A%0AIndicators%5Bedit%5D%0A%0AMany%20scholars%20claim%20that%20there%20is%20a%20great%20bias%20towards%20the%20%22science%20and%20technology%20mode%22%20(S%26T-mode%20or%20STI-mode)%2C%20while%20the%20%22learning%20by%20doing%2C%20using%20and%20interacting%20mode%22%20(DUI-mode)%20is%20ignored%20and%20measurements%20and%20research%20about%20it%20rarely%20done.%20For%20example%2C%20an%20institution%20may%20be%20high%20tech%20with%20the%20latest%20equipment%2C%20but%20lacks%20crucial%20doing%2C%20using%20and%20interacting%20tasks%20important%20for%20innovation.%5B81%5D%0A%0AA%20common%20industry%20view%20(unsupported%20by%20empirical%20evidence)%20is%20that%20comparative%20cost-effectiveness%20research%20is%20a%20form%20of%20price%20control%20which%20reduces%20returns%20to%20industry%2C%20and%20thus%20limits%20R%26D%20expenditure%2C%20stifles%20future%20innovation%20and%20compromises%20new%20products%20access%20to%20markets.%5B82%5D%20Some%20academics%20claim%20cost-effectiveness%20research%20is%20a%20valuable%20value-based%20measure%20of%20innovation%20which%20accords%20%22truly%20significant%22%20therapeutic%20advances%20(i.e.%20providing%20%22health%20gain%22)%20higher%20prices%20than%20free%20market%20mechanisms.%5B83%5D%20Such%20value-based%20pricing%20has%20been%20viewed%20as%20a%20means%20of%20indicating%20to%20industry%20the%20type%20of%20innovation%20that%20should%20be%20rewarded%20from%20the%20public%20purse.%5B84%5D%0A%0AAn%20Australian%20academic%20developed%20the%20case%20that%20national%20comparative%20cost-effectiveness%20analysis%20systems%20should%20be%20viewed%20as%20measuring%20%22health%20innovation%22%20as%20an%20evidence-based%20policy%20concept%20for%20valuing%20innovation%20distinct%20from%20valuing%20through%20competitive%20markets%2C%20a%20method%20which%20requires%20strong%20anti-trust%20laws%20to%20be%20effective%2C%20on%20the%20basis%20that%20both%20methods%20of%20assessing%20pharmaceutical%20innovations%20are%20mentioned%20in%20annex%202C.1%20of%20the%20Australia-United%20States%20Free%20Trade%20Agreement.%5B85%5D%5B86%5D%5B87%5D%0A%0AIndices%5Bedit%5D%0A%0ASeveral%20indices%20attempt%20to%20measure%20innovation%20and%20rank%20entities%20based%20on%20these%20measures%2C%20such%20as%3A%0A%0ABloomberg%20Innovation%20Index%0A%22Bogota%20Manual%22%5B88%5D%20similar%20to%20the%20Oslo0Manual, is focused on Latin America and the Caribbean countries.[citation needed]
+"Creative Class" developed by Richard Florida[citation needed]
+EIU Innovation Ranking[89]
+Global Competitiveness Report
+Global Innovation Index (GII), by INSEAD[90]
+Information Technology and Innovation Foundation (ITIF) Index
+Innovation 360 – From the World Bank. Aggregates innovation indicators (and more) from a number of different public sources
+Innovation Capacity Index (ICI) published by a large number of international professors working in a collaborative fashion. The top scorers of ICI 2009–2010 were: 1. Sweden 82.2; 2. Finland 77.8; and 3. United States 77.5[91]
+Innovation Index, developed by the Indiana Business Research Center, to measure innovation capacity at the county or regional level in the United States[92]
+Innovation Union Scoreboard, developed by the European Union
+innovationsindikator for Germany, developed by the Federation of German Industries (Bundesverband der Deutschen Industrie) in 2005[93]
+INSEAD Innovation Efficacy Index[94]
+International Innovation Index, produced jointly by The Boston Consulting Group, the National Association of Manufacturers (NAM) and its nonpartisan research affiliate The Manufacturing Institute, is a worldwide index measuring the level of innovation in a country; NAM describes it as the "largest and most comprehensive global index of its kind"[citation needed][95]
+Management Innovation Index – Model for Managing Intangibility of Organizational Creativity: Management Innovation Index[96]
+NYCEDC Innovation Index, by the New York City Economic Development Corporation, tracks New York City's "transformation into a center for high-tech innovation. It measures innovation in the City's growing science and technology industries and is designed to capture the effect of innovation on the City's economy"[97]
+OECD Oslo Manual is focused on North America, Europe, and other rich economies
+State Technology and Science Index, developed by the Milken Institute, is a U.S.-wide benchmark to measure the science and technology capabilities that furnish high paying jobs based around key components[98]
+World Competitiveness Scoreboard[99]
+Rankings[edit]
+
+Common areas of focus include: high-tech companies, manufacturing, patents, post secondary education, research and development, and research personnel. The left ranking of the top 10 countries below is based on the 2020 Bloomberg Innovation Index.[100] However, studies may vary widely; for example the Global Innovation Index 2016 ranks Switzerland as number one wherein countries like South Korea, Japan, and China do not even make the top ten.[101]
+
+Bloomberg Innovation Index 2021[102]
+Rank	Country/Territory	Index
+1	 South Korea	90.49
+2	 Singapore	87.76
+3	  Switzerland	87.60
+4	 Germany	86.45
+5	 Sweden	86.39
+6	 Denmark	86.12
+7	 Israel	85.50
+8	 Finland	84.86
+9	 Netherlands	84.29
+10	 Austria	83.93
+Global Innovation Index 2020[103]
+Rank	Country/Territory	Index
+1	  Switzerland	66.08
+2	 Sweden	62.47
+3	 United States	60.56
+4	 United Kingdom	59.78
+5	 Netherlands	58.76
+6	 Denmark	57.53
+7	 Finland	57.02
+8	 Singapore	56.61
+9	 Germany	56.55
+10	 South Korea	56.11
+Innovation Indicator 2020[104]
+Rank	Country/Territory	Index
+1	  Switzerland	74
+2	 Singapore	70
+3	 Belgium	60
+4	 Germany	54
+5	 Sweden	54
+6	 Denmark	52
+7	 Ireland	52
+8	 United States	52
+9	 Austria	50
+10	 Finland	50
+Rate of innovation[edit]
+
+In 2005 Jonathan Huebner, a physicist working at the Pentagon's Naval Air Warfare Center, argued on the basis of both U.S. patents and world technological breakthroughs, per capita, that the rate ofhuman technological innovation peaked in 1873 and has been slowing ever since.[105][106] In his article, he asked "Will the level of technology reach a maximum and then decline as in the Dark Ages?"[105] In later comments to New Scientist magazine, Huebner clarified that while he believed that we will reach a rate of innovation in 2024 equivalent to that of the Dark Ages, he was not predicting the reoccurrence of the Dark Ages themselves.[107]
+
+John Smart criticized the claim and asserted that technological singularity researcher Ray Kurzweil and others showed a "clear trend of acceleration, not deceleration" when it came to innovations.[108] The foundation replied to Huebner the journal his article was published in, citing Second Life and eHarmony as proof of accelerating innovation; to which Huebner replied.[109] However, Huebner's findings were confirmed in 2010 with U.S. Patent Office data.[110] and in a 2012 paper.[111]
+
+Innovation and development[edit]
+
+The theme of innovation as a tool to disrupting patterns of poverty has gained momentum since the mid-2000s among major international development actors such as DFID,[112] Gates Foundation's use of the Grand Challenge funding model,[113] and USAID's Global Development Lab.[114] Networks have been established to support innovation in development, such as D-Lab at MIT.[115] Investment funds have been established to identify and catalyze innovations in developing countries, such as DFID's Global Innovation Fund,[116] Human Development Innovation Fund,[117] and (in partnership with USAID) the Global Development Innovation Ventures.[118]
+
+The United States has to continue to play on the same level of playing field as its competitors in federal research. This can be achieved being strategically innovative through investment in basic research and science".[119]
+
+Government policies[edit]
+50 W. San Fernando Street in downtown San Jose is the site of the world's first radio broadcasting station, created in 1909 by Charles Herrold, the "Father of Broadcasting".[120]
+
+Given its effects on efficiency, quality of life, and productive growth, innovation is a key driver in improving society and economy. Consequently, policymakers have worked to develop environments that will foster innovation, from funding research and development to establishing regulations that do not inhibit innovation, funding the development of innovation clusters, and using public purchasing and standardisation to 'pull' innovation through.
+
+For instance, experts are advocating that the U.S. federal government launch a National Infrastructure Foundation, a nimble, collaborative strategic intervention organization that will house innovations programs from fragmented silos under one entity, inform federal officials on innovation performance metrics, strengthen industry-university partnerships, and support innovation economic development initiatives, especially to strengthen regional clusters. Because clusters are the geographic incubators of innovative products and processes, a cluster development grant program would also be targeted for implementation. By focusing on innovating in such areas as precision manufacturing, information technology, and clean energy, other areas of national concern would be tackled including government debt, carbon footprint, and oil dependence.[56] The U.S. Economic Development Administration understand this reality in their continued Regional Innovation Clusters initiative.[121] The United States also has to integrate her supply-chain and improve her applies research capability and downstream process innovation.[122]
+
+Many countries recognize the importance of innovation including Japan's Ministry of Education, Culture, Sports, Science and Technology (MEXT);[123] Germany's Federal Ministry of Education and Research;[124] and the Ministry of Science and Technology in the People's Republic of China. Russia's innovation programme is the Medvedev modernisation programme which aims to create a diversified economy based on high technology and innovation. The Government of Western Australia has established a number of innovation incentives for government departments. Landgate was the first Western Australian government agency to establish its Innovation Program.[125]
+
+Some regions have taken a proactive role in supporting innovation. Many regional governments are setting up innovation agencies to strengthen regional capabilities.[126] Business incubators were first introduced in 1959 and subsequently nurtured by governments around the world. Such "incubators", located close to knowledge clusters (mostly research-based) like universities or other government excellence centres – aim primarily to channel generated knowledge to applied innovation outcomes in order to stimulate regional or national economic growth.[127]
+
+In 2009, the municipality of Medellin, Colombia created Ruta N to transform the city into a knowledge city.[128]
+
+Counter-hegemonic views on innovation[edit]
+
+Innovation in the prevailing hegemonic view today mostly refers to 'innovation under capital',[18] due to the prevailing capitalist nature of the global economy. In contrast, Robra et al. (2023) propose a counter-hegemonic view on innovation.[17] This alternative lens revises the centrality of capital accumulation as the primary goal of innovation. Instead of being solely driven by profit motives, a counter-hegemonic understanding sees innovation as a means to create user-value, with a focus on satisfying societal needs. This view on innovation is underpinned by open access to knowledge, adaptability, repairability, and maintenance of products as well as Eco-sufficiency, defining progress not by efficiency but by staying within planetary boundaries, thereby challenging the hegemonic belief in limitless growth. This perspective is exemplified by commons-based peer production (CBPP), offering an alternative vision of innovation that prioritizes conviviality over relentless competition. In essence, this counter-hegemonic view describes a more socially and ecologically conscious approach to innovation, striving for a balance between technological progress and human wellbeing.
+
+Hegemonic innovation vs. counter-hegemonic innovation (taken from Robra et al., 2023)[17]
+	Hegemonic view	Counter-hegemonic view
+Purpose	Capital valorisation and profit-making/maximizing	Use-value creation and focus on societal needs
+Underpinning common senses	Fencing off and appropriation of knowledge	Open access to knowledge
+Planned obsolescence (incl. lack of repairability by design)	Adaptability, repairability, and maintenance
+Eco-Efficiency	Eco-Sufficiency
+See also[edit]
+Look up innovation in Wiktionary, the free dictionary.
+Communities of innovation
+Creative problem solving
+Diffusion (anthropology)
+Ecoinnovation
+Hype cycle
+Induced innovation
+Information revolution
+Innovation leadership
+Innovation system
+International Association of Innovation Professionals
+ISO 56000
+Knowledge economy
+Obsolescence
+Open Innovation
+Open Innovations (Forum and Technology Show)
+Outcome-Driven Innovation
+Participatory design
+Product innovation
+Pro-innovation bias
+Sustainable Development Goals (Agenda 9)
+Technology Life Cycle
+Technological innovation system
+Theories of technology
+Timeline of historic inventions
+Toolkits for User Innovation
+UNDP Innovation Facility
+User Innovation
+Virtual product development
+References[edit]
+^ Schumpeter, Joseph A., 1883–1950 (1983). The theory of economic development: an inquiry into profits, capital, credit, interest, and the business cycle. Opie, Redvers,, Elliott, John E. New Brunswick, New Jersey. ISBN 0-87855-698-2. OCLC 8493721.
+^ "ISO 56000:2020(en)Innovation management — Fundamentals and vocabulary". ISO. 2020.
+^ Lijster, Thijs, ed. (2018). The Future of the New: Artistic Innovation in Times of Social Acceleration. Arts in society. Valiz. ISBN 978-94-92095-58-9. Retrieved 10 September 2020.
+^ Bhasin, Kim (2 April 2012). "This Is The Difference Between 'Invention' And 'Innovation'". Business Insider.
+^ "What's the Difference Between Invention and Innovation?", Forbes, 10 September 2015
+^ Schumpeter, Joseph Alois (1939). Business Cycles. Vol. 1. p. 84. Innovation is possible without anything we should identify as invention, and invention does not necessarily induce innovation.
+^ a b c Edison, H., Ali, N.B., & Torkar, R. (2014). Towards innovation measurement in the software industry. Journal of Systems and Software 86(5), 1390–407.
+^ Baregheh, Anahita; Rowley, Jennifer; Sambrook, Sally (4 September 2009). "Towards a multidisciplinary definition of innovation". Management Decision. 47 (8): 1323–1339. doi:10.1108/00251740910984578. ISSN 0025-1747.
+^ Rogers, Everett M. (2003). Diffusion of innovations (5th ed.). New York: Free Press. ISBN 0-7432-2209-1. OCLC 52030797.
+^ Innovation in American Government: Challenges, Opportunities, and Dilemmas. Brookings Inst Pr. 1 June 1997. ISBN 978-0-8157-0358-7.
+^ Hughes, D. J.; Lee, A.; Tian, A. W.; Newman, A.; Legood, A. (2018). "Leadership, creativity, and innovation: A critical review and practical recommendations" (PDF). The Leadership Quarterly. 29 (5): 549–569. doi:10.1016/j.leaqua.2018.03.001. hdl:10871/32289. S2CID 149671044. Archived (PDF) from the original on 24 December 2019.
+^ a b Drucker, Peter F. (August 2002). "The Discipline of Innovation". Harvard Business Review. Retrieved 13 October 2013.
+^ Amabile, Teresa M.; Pratt, Michael G. (2016). "The dynamic componential model of creativity and innovation in organizations: Making progress, making meaning". Research in Organizational Behavior. 36: 157–183. doi:10.1016/j.riob.2016.10.001. S2CID 44444992.
+^ Leonard Dudley (2012). Mothers of Innovation: How Expanding Social Networks Gave Birth to the Industrial Revolution. Cambridge Scholars Publishing. p. 4. ISBN 9781443843126.
+^ Jasanoff, Sheila; Kim, Sang-Hyun (2015). Dreamscapes of Modernity. University of Chicago Press. doi:10.7208/chicago/9780226276663.001.0001. ISBN 978-0-226-27652-6.
+^ Papaioannou, Theo (3 May 2020). "Innovation, value-neutrality and the question of politics: unmasking the rhetorical and ideological abuse of evolutionary theory". Journal of Responsible Innovation. 7 (2): 238–255. doi:10.1080/23299460.2019.1605484. ISSN 2329-9460. S2CID 159275720.
+^ a b c d e f g Robra, Ben; Pazaitis, Alex; Giotitsas, Chris; Pansera, Mario (1 July 2023). "From creative destruction to convivial innovation - A post-growth perspective". Technovation. 125: 102760. doi:10.1016/j.technovation.2023.102760. hdl:11093/4788. ISSN 0166-4972.
+^ a b Walsh, Shannon (21 May 2021). "Marx, subsumption and the critique of innovation". Organization. 30 (2): 345–360. doi:10.1177/13505084211015377. ISSN 1350-5084. S2CID 236375680.
+^ Lange, Steffen; Pohl, Johanna; Santarius, Tilman (1 October 2020). "Digitalization and energy consumption. Does ICT reduce energy demand?". Ecological Economics. 176: 106760. doi:10.1016/j.ecolecon.2020.106760. ISSN 0921-8009. S2CID 224947774.
+^ Blank, Steve (1 February 2019). "McKinsey's Three Horizons Model Defined Innovation for Years. Here's Why It No Longer Applies". Harvard Business Review. ISSN 0017-8012. Retrieved 16 August 2020.
+^ Satell, Greg (21 June 2017). "The 4 Types of Innovation and the Problems They Solve". Harvard Business Review. ISSN 0017-8012. Retrieved 16 August 2020.
+^ Bower, Joseph L.; Christensen, Clayton M. (1 January 1995). "Disruptive Technologies: Catching the Wave". Harvard Business Review. No. January–February 1995. ISSN 0017-8012. Retrieved 16 August 2020.
+^ Christensen, Clayton M.; Raynor, Michael E.; McDonald, Rory (1 December 2015). "What Is Disruptive Innovation?". Harvard Business Review. No. December 2015. ISSN 0017-8012. Retrieved 16 August 2020.
+^ "Disruptive Innovations". Christensen Institute. Retrieved 16 August 2020.
+^ Christensen, Clayton & Overdorf, Michael (2000). "Meeting the Challenge of Disruptive Change". Harvard Business Review.
+^ a b Iansiti, Marco; Lakhani, Karim R. (January 2017). "The Truth About Blockchain". Harvard Business Review. Harvard University. Retrieved 17 January 2017. a foundational technology: It has the potential to create new foundations for our economic and social systems.
+^ a b c d Henderson, Rebecca M.; Clark, Kim B. (March 1990). "Architectural Innovation: The Reconfiguration of Existing Product Technologies and the Failure of Established Firms". Administrative Science Quarterly. 35 (1): 9. doi:10.2307/2393549. ISSN 0001-8392. JSTOR 2393549. S2CID 6255046.
+^ Williams, Michael A.; Cox, Collett; Jaffee, Martin S., eds. (1992). Innovation in Religious Traditions: Essays in the Interpretation of Religious Change. Religion and society (volume 31). Berlin: Walter de Gruyter. ISBN 9783110127805. Retrieved 16 February 2024.
+^ Schiederig, Tim; Tietze, Frank; Herstatt, Cornelius (22 February 2012). "Green innovation in technology and innovation management – an exploratory literature review". R&D Management. 42 (2): 180–192. doi:10.1111/j.1467-9310.2011.00672.x. ISSN 0033-6807. S2CID 153958119.
+^ Blok, Vincent; Lemmens, Pieter (2015), "The Emerging Concept of Responsible Innovation. Three Reasons Why It is Questionable and Calls for a Radical Transformation of the Concept of Innovation", Responsible Innovation 2, Cham: Springer International Publishing, pp. 19–35, doi:10.1007/978-3-319-17308-5_2, hdl:2066/150613, ISBN 978-3-319-17307-8
+^ a b Amabile, Teresa (December 2017). "In Pursuit of Everyday Creativity" (PDF). Journal of Creative Behavior: 2–3 – via Harvard Business School.
+^ a b c d Godin, Benoit (2015). Innovation contested: the idea of innovation over the centuries. Routledge. ISBN 9781315855608. OCLC 903958473.
+^ Politics II as cited by Benoît Godin (2015)
+^ Mazzaferro, Alexander (2018). "Such a Murmur": Innovation, Rebellion, and Sovereignty in William Strachey's "True Reportory". Early American Literature. 53 (1): 3–32. doi:10.1353/eal.2018.0001. S2CID 166005186.
+^ Mazzaferro, Alexander McLean (2017). "No newe enterprize" (Doctoral dissertation) (Thesis). Rutgers University. doi:10.7282/T38W3HFQ. Retrieved 19 February 2019.
+^ Lepore, Jill (23 June 2014). "The Disruption Machine: What the gospel of innovation gets wrong". The New Yorker. Retrieved 19 February 2019.
+^ Green, Emma (20 June 2013). "Innovation: The History of a Buzzword". The Atlantic. Retrieved 19 February 2019.
+^ "innovation". Oxford English Dictionary (Online ed.). Oxford University Press. (Subscription or participating institution membership required.)
+^ Benoit Godin (2019). The invention of technological innovation: languages, discourses and ideology in historical perspective. Edward Elgar Publishing. ISBN 9781789903348. OCLC 1125747489.
+^ Schumpeter, J. A. (1943). Capitalism, Socialism, and Democracy (6 ed.). Routledge. pp. 81–84. ISBN 9780415107624.
+^ Heyne, P., Boettke, P. J., and Prychitko, D. L. (2010). The Economic Way of Thinking. Prentice Hall, 12th ed. pp. 163, 317–18.
+^ Swedberg, Richard (30 January 2009), "Rebuilding Schumpeter's Theory of Entrepreneurship", Marshall and Schumpeter on Evolution, Edward Elgar Publishing, doi:10.4337/9781848446168.00018, ISBN 978-1-84844-616-8, retrieved 25 December 2023
+^ Utterback, James (1971). "The Process of Technological Innovation Within the Firm". Academy of Management Journal. 14 (1): 78. doi:10.2307/254712. JSTOR 254712.
+^ "Silicon Valley History & Future". Netvalley.com. Retrieved 14 March 2016.
+^ Salge, T. O.; Vera, A. (2009). "Hospital innovativeness and organizational performance: Evidence from English public acute care". Health Care Management Review. 34 (1): 54–67. doi:10.1097/01.HMR.0000342978.84307.80. PMID 19104264.
+^ West, Michael A. (2002). "Sparkling Fountains or Stagnant Ponds: An Integrative Model of Creativity and Innovation Implementation in Work Groups". Applied Psychology. 51 (3): 355–387. doi:10.1111/1464-0597.00951.
+^ MIT Sloan Management Review Spring 2002. "How to identify and build New Businesses"
+^ Anthony, Scott D.; Johnson, Mark W.; Sinfield, Joseph V.; Altman, Elizabeth J. (2008). Innovator's Guide to Growth. "Putting Disruptive Innovation to Work". Harvard Business School Press. ISBN 978-1-59139-846-2.
+^ Perez, T. and Rushing R. (2007). "The CitiStat Model: How Data-Driven Government Can Increase Efficiency and Effectiveness". Center for American Progress Report. pp. 1–18.
+^ Transportation Research Board (2007). "Transit Cooperative Research Program (TCRP) Synthesis 70: Mobile Data Terminals". pp. 1–5. TCRP (PDF).
+^ Von Hippel, Eric (1988). The Sources of Innovation (PDF). Oxford University Press. Archived from the original (PDF) on 12 October 2006. Retrieved 3 December 2015.
+^ Engelberger, J. F. (1982). "Robotics in practice: Future capabilities". Electronic Servicing & Technology magazine.
+^ Kline (1985). Research, Invention, Innovation and Production: Models and Reality, Report INN-1, March 1985, Mechanical Engineering Department, Stanford University.
+^ Hashim, Ahmed S. (2018). The Caliphate at War: The Ideological, Organisational and Military Innovations of Islamic State. Oxford University Press. p. 7. ISBN 9781849046435.
+^ Scott Ligon, Gina; Derrick, Douglas C.; Harms, Mackenzie (15 November 2017). "Destruction Through Collaboration: How Terrorists Work Together Toward Malevolent Innovation". In Reiter-Palmon, Roni (ed.). Team Creativity and Innovation. Oxford University Press. ISBN 9780190695323.
+^ a b Mark, M., Katz, B., Rahman, S., and Warren, D. (2008) MetroPolicy: Shaping A New Federal Partnership for a Metropolitan Nation. Brookings Institution: Metropolitan Policy Program Report. pp. 4–103.
+^ Dubickis, M., Gaile-Sarkane, E. (2015). "Perspectives on Innovation and Technology Transfer". Procedia - Social and Behavioral Sciences. 213: 965–970. doi:10.1016/j.sbspro.2015.11.512.
+^ "New Trends in Innovation Management". Forbesindia.com. Forbes India Magazine. Retrieved 14 March 2016.
+^ "ShipIt Days". Atlassian. Retrieved 14 March 2016.
+^ "U-STIR". U-stir.eu. Archived from the original on 18 September 2011. Retrieved 7 September 2011.
+^ Tuomi, I. (2002). Networks of Innovation. Oxford University Press. Networks of Innovation Archived 5 November 2007 at the Wayback Machine
+^ Siltala, R. (2010). Innovativity and cooperative learning in business life and teaching. PhD thesis. University of Turku.
+^ Forget The 10,000-Hour Rule; Edison, Bezos, & Zuckerberg Follow The 10,000-Experiment Rule. Medium.com (26 October 2017). Retrieved 16 October 2018.
+^ a b Why These Tech Companies Keep Running Thousands Of FailedExperiments. Fast Company.com (21 September 2016). Retrieved 16 October 2018.
+^ Simulation Advantage. Bcgperspectives.com (4 August 2010). Retrieved 16 October 2018.
+^ MacKenzie, Donald (1984). "Marx and the Machine". Technology and Culture. 25 (3): 473–502. doi:10.2307/3104202. ISSN 0040-165X. JSTOR 3104202. S2CID 113106929.
+^ a b Davila, T., Epstein, M. J., and Shelton, R. (2006). "Making Innovation Work: How to Manage It, Measure It, and Profit from It." Upper Saddle River: Wharton School Publishing.
+^ a b Vaona, Andrea; Pianta, Mario (March 2008). "Firm Size and Innovation in European Manufacturing". Small Business Economics. 30 (3): 283–299. doi:10.1007/s11187-006-9043-9. hdl:10419/3843. ISSN 0921-898X. S2CID 153525567.
+^ Khan, Arshad M.; Manopichetwattana, V. (1989). "Innovative and Noninnovative Small Firms: Types and Characteristics". Management Science. 35 (5): 597–606. doi:10.1287/mnsc.35.5.597.
+^ O'Sullivan, David (2002). "Framework for Managing Development in the Networked Organisations". Journal of Computers in Industry. 47 (1): 77–88. doi:10.1016/S0166-3615(01)00135-X.
+^ Giampietro, Mario; Funtowicz, Silvio O. (1 July 2020). "From elite folk science to the policy legend of the circular economy". Environmental Science & Policy. 109: 64–72. doi:10.1016/j.envsci.2020.04.012. hdl:11250/2730163. ISSN 1462-9011.
+^ Hoekstra, Arjen Y.; Wiedmann, Thomas O. (6 June 2014). "Humanity's unsustainable environmental footprint". Science. 344 (6188): 1114–1117. Bibcode:2014Sci...344.1114H. doi:10.1126/science.1248365. ISSN 0036-8075. PMID 24904155. S2CID 206553617.
+^ Rockström, Johan; Steffen, Will; Noone, Kevin; Persson, Åsa; Chapin, F. Stuart; Lambin, Eric F.; Lenton, Timothy M.; Scheffer, Marten; Folke, Carl; Schellnhuber, Hans Joachim; Nykvist, Björn; de Wit, Cynthia A.; Hughes, Terry; van der Leeuw, Sander; Rodhe, Henning (September 2009). "A safe operating space for humanity". Nature. 461 (7263): 472–475. Bibcode:2009Natur.461..472R. doi:10.1038/461472a. ISSN 0028-0836. PMID 19779433.
+^ Tarde, G. (1903). The laws of imitation (E. Clews Parsons, Trans.). New York: H. Holt & Co.
+^ Rogers, E. M. (1962). Diffusion of Innovation. New York, NY: Free Press.
+^ The Oxford handbook of innovation. Fagerberg, Jan., Mowery, David C., Nelson, Richard R. Oxford: Oxford University Press. 2005. ISBN 978-0-19-926455-1. OCLC 56655392.
+^ a b Edison, H.; Ali, N.B.; Torkar, R. (2013). "Towards innovation measurement in the software industry". Journal of Systems and Software. 86 (5): 1390–1407. doi:10.1016/j.jss.2013.01.013 – via ResearchGate.
+^ Davila, Tony; Marc J. Epstein and Robert Shelton (2006). Making Innovation Work: How to Manage It, Measure It, and Profit from It. Upper Saddle River: Wharton School Publishing
+^ OECD The Measurement of Scientific and Technological Activities. Proposed Guidelines for Collecting and Interpreting Technological Innovation Data. Oslo Manual. 2nd edition, DSTI, OECD / European Commission Eurostat, Paris 31 December 1995.
+^ "Industrial innovation – Enterprise and Industry". European Commission. Archived from the original on 27 August 2011. Retrieved 7 September 2011.
+^ "DEVELOPMENT OF INNOVATION - European Journal of Natural History (scientific magazine)". world-science.ru. Retrieved 7 April 2021.
+^ Chalkidou, K.; Tunis, S.; Lopert, R.; Rochaix, L.; Sawicki, P. T.; Nasser, M.; Xerri, B. (2009). "Comparative effectiveness research and evidence-based health policy: Experience from four countries". The Milbank Quarterly. 87 (2): 339–67. doi:10.1111/j.1468-0009.2009.00560.x. PMC 2881450. PMID 19523121.
+^ Roughead, E.; Lopert, R.; Sansom, L. (2007). "Prices for innovative pharmaceutical products that provide health gain: a comparison between Australia and the United States". Value in Health. 10 (6): 514–20. doi:10.1111/j.1524-4733.2007.00206.x. PMID 17970935.
+^ Hughes, B. (2008). "Payers Growing Influence on R&D Decision Making". Nature Reviews Drug Discovery. 7 (11): 876–78. doi:10.1038/nrd2749. PMID 18974741. S2CID 10217053.
+^ Faunce, T.; Bai, J.; Nguyen, D. (2010). "Impact of the Australia-US Free Trade Agreement on Australian medicines regulation and prices". Journal of Generic Medicines. 7 (1): 18–29. doi:10.1057/jgm.2009.40. S2CID 154433476. Archived from the original on 16 April 2021.
+^ Faunce TA (2006). "Global intellectual property protection of 'innovative' pharmaceuticals: Challenges for bioethics and health law in B Bennett and G Tomossy" (PDF). Law.anu.edu.au. Globalization and Health Springer. Archived from the original (PDF) on 14 April 2011. Retrieved 18 June 2009.
+^ Faunce, T. A. (2007). "Reference pricing for pharmaceuticals: is the Australia-United States Free Trade Agreement affecting Australia's Pharmaceutical Benefits Scheme?". Medical Journal of Australia. 187 (4): 240–42. doi:10.5694/j.1326-5377.2007.tb01209.x. PMID 17564579. S2CID 578533.
+^ Hernán Jaramillo; Gustavo Lugones; Mónica Salazar (March 2001). "Bogota Manual. Standardisation of Indicators of Technological Innovation in Latin American and Caribbean Countries". Iberoamerican Network of Science and Technology Indicators (RICYT) Organisation of American States (OAS) / CYTED PROGRAM COLCIENCIAS/OCYT. p. 87.
+^ "Social Innovation Index 2016". Economist Impact | Perspectives. Retrieved 7 April 2021.
+^ "The INSEAD Global Innovation Index (GII)". INSEAD. 28 October 2013.
+^ "Home page". Innovation Capacity Index.
+^ "Tools". Statsamerica.org. Retrieved 7 September 2011.
+^ Innovations Indikator retrieved 7 March 2017
+^ "The INSEAD Innovation Efficiency Inndex". Technology Review. February 2016.
+^ Adsule, Anil (2015). "INNOVATION LEADING THE WAY TO REVOLUTION" (PDF). International Journal of Business and Administration Research Review. 2, Issue.11. Archived (PDF) from the original on 1 August 2020 – via Google scholar.
+^ Kerle, Ralph (2013). "Model for Managing Intangibility of Organizational Creativity: Management Innovation Index". Encyclopedia of Creativity, Invention, Innovation and Entrepreneurship. pp. 1300–1307. doi:10.1007/978-1-4614-3858-8_35. ISBN 978-1-4614-3857-1.
+^ "Innovation Index". NYCEDC.com.
+^ "Home page". statetechandscience.org.
+^ "The World Competitiveness Scoreboard 2014" (PDF). IMD.org. 2014. Archived (PDF) from the original on 30 June 2014.
+^ "Germany Breaks Korea's Six-Year Streak as Most Innovative Nation". Bloomberg L.P. Retrieved 17 March 2021.
+^ "Infografik: Schweiz bleibt globaler Innovationsführer". Statista Infografiken. Statista (In German). Retrieved 25 November 2016.
+^ Jamrisko, Michelle; Lu, Wei; Tanzi, Alexandre (3 February 2021). "South Korea Leads World in Innovation as U.S. Exits Top Ten". Bloomberg.
+^ "GII 2020 Report". Global Innovation Index. Retrieved 19 October 2020.
+^ innovations indikator 2020 (PDF) (in German). Bundesverband der Deutschen Industrie, Fraunhofer ISI, Zentrum für Europäische Wirtschaftsforschung. 2020. Archived (PDF) from the original on 8 April 2021.
+^ a b Huebner, J. (2005). "A possible declining trend for worldwide innovation". Technological Forecasting and Social Change. 72 (8): 980–986. doi:10.1016/j.techfore.2005.01.003.
+^ Hayden, Thomas (7 July 2005). "Science: Wanna be an inventor? Don't bother". U.S. News & World Report. Archived from the original on 1 November 2013. Retrieved 10 June 2013.
+^ Adler, Robert (2 July 2005). "Entering a dark age of innovation". New Scientist. Retrieved 30 May 2013.
+^ Smart, J. (2005). "Discussion of Huebner article". Technological Forecasting and Social Change. 72 (8): 988–995. doi:10.1016/j.techfore.2005.07.001.
+^ Huebner, Jonathan (2005). "Response by the Authors". Technological Forecasting and Social Change. 72 (8): 995–1000. doi:10.1016/j.techfore.2005.05.008.
+^ Strumsky, D.; Lobo, J.; Tainter, J. A. (2010). "Complexity and the productivity of innovation". Systems Research and Behavioral Science. 27 (5): 496. doi:10.1002/sres.1057.
+^ Gordon, Robert J. (2012). "Is U.S. Economic Growth Over? Faltering Innovation Confronts the Six Headwinds". NBER Working Paper No. 18315. doi:10.3386/w18315.
+^ "Jonathan Wong, Head of DFID's Innovation Hub | DFID bloggers". Government of the United Kingdom. 24 September 2014. Retrieved 14 March 2016.
+^ "Bill & Melinda Gates Foundation and Grand Challenge Partners Commit to Innovation with New Investments in Breakthrough Science – Bill & Melinda Gates Foundation". Gatesfoundation.org. 7 October 2014. Retrieved 14 March 2016.
+^ "Global Development Lab | U.S. Agency for International Development". Usaid.gov. 5 August 2015. Retrieved 14 March 2016.
+^ "International Development Innovation Network (IDIN) | D-Lab". D-lab.mit.edu. Retrieved 14 March 2016.
+^ "Global Innovation Fund International development funding". Government of the United Kingdom. Retrieved 14 March 2016.
+^ "Human Development Innovation Fund (HDIF)". Hdif-tz.org. 14 August 2015. Retrieved 14 March 2016.
+^ "USAID and DFID Announce Global Development Innovation Ventures to Invest in Breakthrough Solutions to World Poverty | U.S. Agency for International Development". Usaid.gov. 6 June 2013. Archived from the original on 4 May 2017. Retrieved 14 March 2016.
+^ "StackPath". industryweek.com. 22 January 2020. Retrieved 28 April 2020.
+^ "Bay Area Radio Museum: The Charles Herrold Story". 12 August 2014.
+^ "U.S. Economic Development Administration: Fiscal Year 2010 Annual Report" (PDF). Eda.gov. Archived (PDF) from the original on 22 September 2011. Retrieved 14 March 2016.
+^ "The American Way of Innovation and Its Deficiencies". American Affairs Journal. 20 May 2018. Retrieved 28 April 2020.
+^ "Science and Technology". MEXT. Archived from the original on 5 September 2011. Retrieved 7 September 2011.
+^ "BMBF " Ministry". Bmbf.de. Retrieved 7 September 2011.
+^ "Home". Landgate.wa.gov.au. Landgate Innovation Program. Retrieved 14 March 2016.
+^ Morisson, A. & Doussineau, M. (2019). Regional innovation governance and place-based policies: design, implementation and implications. Regional Studies, Regional Science,6(1),101–116. https://rsa.tandfonline.com/doi/full/10.1080/21681376.2019.1578257.
+^ Rubin, Tzameret H.; Aas, Tor Helge; Stead, Andrew (1 July 2015). "Knowledge flow in Technological Business Incubators: Evidence from Australia and Israel". Technovation. 41–42: 11–24. doi:10.1016/j.technovation.2015.03.002.
+^ Morisson, Arnault (2018). "Knowledge Gatekeepers and Path Development on the Knowledge Periphery: The Case of Ruta N in Medellin, Colombia". Area Development and Policy. 4: 98–115. doi:10.1080/23792949.2018.1538702. S2CID 169689111.
+Further reading[edit]
+Bloom, Nicholas, Charles I. Jones, John Van Reenen, and Michael Webb. 2020. "Are Ideas Getting Harder to Find?", American Economic Review, 110 (4): 1104–44.
+Steven Johnson (2011). Where Good Ideas Come From. Riverhead Books. ISBN 978-1-59448-538-1.
+Sonenshein, Scott (2017). Stretch: Unlock the Power of Less and Achieve More Than You Ever Imagined. Harper Business. ISBN 978-0-06-245722-6.
+vte
+Inventions and discoveries
+
+Lists of inventions or discoveries
+by country/region	
+AustraliaAustriaAzerbaijanBangladeshBrazilBritain EnglandScotlandWalesCanadaChina inventionsdiscoveriesCroatiaCzech RepublicEgyptFranceGermanyGreeceIndiaIndonesiaIrelandIsraelItalyJamaicaJapanKoreaMalaysiaMexicoNetherlands InventionsdiscoveriesexplorationsPakistanPhilippinesPolandPortugal inventionsdiscoveriesRussiaSerbiaSouth AfricaSpainSwitzerlandTaiwanThailandVietnamUnited States inventions before 18901890–1945after 1991discoveries
+
+by topic	
+chemistrycosmologymultiple discoveriesscienceHistoric inventions Analog-to-digitalByzantine EmpireIndus ValleyMedieval IslamicMilitaryNative AmericanLost inventions
+
+Lists of inventors or discoverers
+by country/region	
+WorldwideAfricanAmerican African-AmericanPuerto RicanArmenianAustrianBritish EnglishWelshBulgarianGermanItalianNew ZealandPolishRomanianRussianSerbianSpanishSwedishSwiss
+vte
+Science and technology studies
+vte
+Major industries
+
+
+Natural sector
+
+
+Industrial sector
+
+
+Service sector
+
+
+Information sector
+
+
+Related
+
+
+ Category Commons Outline
+Authority control databases 
+
+National	
+GermanyJapanCzech Republic
+
+Other	
+Encyclopedia of Modern Ukraine
+Categories: InnovationDesignInnovation economicsProduct managementScience and technology studies
+This page was last edited on 19 February 2024, at 03:15 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike License 4.0; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view

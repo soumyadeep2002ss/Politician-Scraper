@@ -1,0 +1,10 @@
+block
+Web Page Blocked!
+
+The page cannot be displayed. Please contact the administrator for additional information.
+
+URL: revistes.eapc.gencat.cat/index.php/rcdp/oai
+
+Client IP: 122.163.42.90
+Attack ID: 20000051
+Message ID: 000048712010

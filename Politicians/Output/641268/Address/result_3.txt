@@ -1,0 +1,124 @@
+Corazón de María, 8 – 28002 MADRID –   Spain, Espagne, España – Tel: +34 91 416 56 00 –   Fax +34 91 415 26 12 – iccat.int-  info@iccat.int 
+ 
+  
+ 
+Madrid, 9 November 2023 
+  
+ 
+ICCAT CIRCULAR # 12092 / 2023 
+ 
+ 
+SUBJECT: CALL  FOR  TENDERS  -  EVALUATION  OF  SOUTHERN  ATLANTIC  SWORDFISH CLOSED-
+LOOP SIMULATION SETUP AND CODE 
+ 
+ 
+In 2022, the SCRS did a set of closed-loop simulation studies that examined the performance of a small set 
+of   Management   Procedures   for   the   southern   Swordfish   stock.   The   2022   Atlantic   Swordfish   Stock   
+Assessment Meeting  of  the  Swordfish  Species Group  recommended  that  an  expanded  set  of  closed-loop 
+simulations  be  conducted  for  the  southern  swordfish  stock  using  Operating  Models  tailored  to  that  stock  
+and that there be a review of the simulation setup and the code used for the analysis. 
+ 
+I would like to transmit to you the attached Call for Tenders announcement for the evaluation of southern 
+swordfish closed-loop simulation setup and code. 
+ 
+I would be grateful if you could distribute this Call for Tenders to qualified people and institutions that might 
+be interested. 
+ 
+Please accept the assurances of my highest consideration. 
+ 
+Executive Secretary 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Camille Jean Pierre Manel 
+ 
+ 
+ 
+ 
+DISTRIBUTION: 
+−    Commission Officers: 
+Commission Chair: E. Penas Lado COC Chair: D. Campbell  
+First Vice Chair: Z. Driouich PWG Chair:  N. Ansell 
+Second Vice Chair: 
+Chairs Panels 1-4 
+R. Chong STACFAD Chair: D. Warner-Kramer 
+SCRS Chair: 
+ 
+C. Brown   
+−    Head Delegates and Head Scientists 
+ 
+−    Cooperating Parties, Entities or Fishing Entities 
+ 
+ 
+Attachment: Terms of Reference for the Call for Tenders (English version only). 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Corazón de María, 8   – 28002 MADRID – Spain, Espagne, España – Tel: +34 91 416 56 00 – Fax +34 91 415 26 12 – www.iccat.int- info@iccat.int 
+ 
+  
+COMISION INTERNACIONAL PARA LA 
+CONSERVACION DEL ATUN ATLANTICO 
+COMMISSION INTERNATIONALE POUR LA 
+CONSERVATION DES THONIDES DE L’ATLANTIQUE 
+INTERNATIONAL COMMISSION FOR THE 
+CONSERVATION OF ATLANTIC TUNAS 
+Terms of Reference  
+ 
+Code Review for Southern Swordfish Closed Loop Simulations 
+ 
+ 
+1. Background and objectives 
+ 
+Work on a set of closed-loop simulations for southern Swordfish began in 2022. The basic approach was to 
+develop multi-variate priors on steepness (Mace and Doonan, 1988), natural mortality, and growth (Taylor 
+et  al.,  2022a)  that  would  form  the  basis  for  a  set  of  closed-loop  simulations  (Taylor et  al.,  2022b).  These  
+demonstrated the performance of a set of Management Procedures like the historical surplus-production 
+modeling approaches that have been applied to the stock. The 2022 Atlantic Swordfish Stock Assessment 
+Meeting of the Swordfish Species Group recommended that an expanded set of closed-loop simulations be 
+conducted for the southern swordfish stock using Operating Models tailored to that stock and that there be 
+a review of the simulation setup and the code used for the analysis. 
+ 
+In  2023,  a  broader  set  of  simulations  was  done  including Operating  Models  based  on  cluster  analyses  
+(Taylor 2023) that estimated sets of catch per unit effort (CPUE) indices with similar trends, modification%20%0Aof%20%20the%20%20initial%20%20Taylor%20%20et%20%20al.%2C%202022a%20%20prior%20%20to%20%20include%20%20covariance%20%20in%20%20the%20%20growth%20%20parameters%2C%20%20development%20%20of%20%20a%20%20%0Asecond%20prior%20based%20the%20FishLife%20database%2C%20and%20evaluating%20an%20expanded%20set%20of%20Management%20Procedures.%20%0A%20%0A%20%0A2.%20Activities%20%0A%20%0AOver%20the%20contract%E2%80%99s%20duration%2C%20the%20contractor%20will%20review%20the%20simulation%20set-up%20and%20code%20and%20provide%20a%20brief%20%0Areport%20on%20the%20validity%20of%20the%20technical%20approach%20used%20and%20suggest%20areas%20of%20improvement.%20%0A%20%0A%20%0A3.%20Contractor%20Qualifications%20%0A%20%0AThe%20Contractor%20shall%20have%20the%20following%20minimum%20qualifications%3A%20%0A%20%0A%E2%88%92%20A%20Ph.D.%20in%20fisheries%20science%20or%20related%20field%3B%20%0A%E2%88%92%20A%20minimum%20of%20five%20years%E2%80%99%20experience%20developing%20open-source%20management%20strategy%20evaluation%20in%20R%20%0Awith%20up-to-date%20repositories%20on%20CRAN%20and%2For%20GitHub%20using%20the%20OpenMSE%20set%20of%20packages%3B%20%0A%E2%88%92%20An%20%20established%20%20history%20%20(greater%20%20than%20%20five%20%20years)%20%20or%20%20interactive%20%20participation%20%20in%20%20MSE%20%20processes%20%20at%20%20%0ARegional%20Fisheries%20Management%20Organizations%20(RFMOs)%20or%20bilateral%20management%20organizations.%20%0A%20%0A%20%0A4.%20Deliverables%20%20%0A%20%0ADeliverables%20and%20the%20due%20date%20are%20provided%20below%3A%20%0A%20%0ADeliverable%20Delivery%20Date%20%20%0A%231%20%20An%20SCRS%20document%20detailing%20the%20Contractor%E2%80%99s%20review%20and%20analysis%20of%20the%20code%20%0Aand%20simulation%20setup%20including%20any%20code%20modifications%20identified%20as%20potential%20%0Aimprovements.%20%0A26%2F04%2F2024%20%0A%20%0A%20%0A%232%20A%20draft%20final%20%20technical%20%20report%20%20formatted%20%20as%20%20an%20SCRS%20%20document%20%20(updated%20of%20%0Adeliverable%20%231)%20that%20%20addresses%20%20any%20%20comments%20%20or%20%20edits%20%20provided%20%20by%20%20the%20%20%0ASwordfish%20Species%20Group%2C%20the%20SCRS%20Chair%20and%2For%20the%20Secretariat.%20%0A28%2F06%2F2024%20%0A%233%20%20A%20final%20technical%20report%20formatted%20as%20a%20SCRS%20document%20in%20case%20any%20additional%20%0Aminor%20comments%20or%20edits%20are%20provided%20by%20the%20SCRS%20and%2For%20the%20Secretariat.%20%0A11%2F10%2F2024%20%0A%20%0A%20%0A%0A%20%0A%20%0A%20%0A%20%0A%20%0A%20%0A%20%0A%20%0A%20%0ACoraz%C3%B3n%20de%20Mar%C3%ADa%2C%208%20%20%20%E2%80%93%2028002%20MADRID%20%E2%80%93%20Spain%2C%20Espagne%2C%20Espa%C3%B1a%20%E2%80%93%20Tel%3A%20%2B34%2091%20416%2056%2000%20%E2%80%93%20Fax%20%2B34%2091%20415%2026%2012%20%E2%80%93%20www.iccat.int-%20info%40iccat.int%20%0A%20%0A%20%20%0ACOMISION%20INTERNACIONAL%20PARA%20LA%20%0ACONSERVACION%20DEL%20ATUN%20ATLANTICO%20%0ACOMMISSION%20INTERNATIONALE%20POUR%20LA%20%0ACONSERVATION%20DES%20THONIDES%20DE%20L%E2%80%99ATLANTIQUE%20%0AINTERNATIONAL%20COMMISSION%20FOR%20THE%20%0ACONSERVATION%20OF%20ATLANTIC%20TUNAS%20%0A5.%20Payment%20details%20%0A%20%0ADisbursements%20will%20be%20made%20according%20to%20the%20following%20schedule%3A%20%0A%20%0A1)%2030%25%20of%20the%20total%20amount%20of%20the%20contract%20upon%20signing%20of%20the%20contract%20and%20after%20receiving%20a%20regular%20%0Ainvoice%20which%20may%20be%20submitted%20at%20the%20latest%2030%20days%20after%20the%20signature%20of%20the%20contract%3B%20%0A%20%0A2)%2030%25%20of%20the%20total%20amount%20of%20the%20contract%20upon%20the%20provision%20by%2026%20April%202024%20of%20an%20SCRS%20document%20%0A(deliverable%20%20%231)%20%20detailing%20%20the%20%20Contractor%E2%80%99s%20review%20%20and%20%20analysis%20%20of%20%20the%20%20code%20%20and%20%20simulation%20%20setup%20%20%0Aincluding%20any%20code%20modifications%20identified%20as%20potential%20improvements%20signing%20of%20the%20contract%20and%20%0Aafter%20receiving%20a%20regular%20invoice%3B%20%0A%20%0A%202)%2040%25%20%20after%20%20the%20%20acceptance%20of%20%20the%20%20final%20%20report%20%20(deliverable%20%20%233)%20%20that%20%20should%20%20be%20%20submitted%20%20by%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%0A11%20October%202024%2C%20upon%20incorporation%20of%20comments%20made%20by%20the%20Swordfish%20Species%20Group%2C%20the%20SCRS%20%0AChair%20and%2For%20the%20Secretariat%20to%20the%20draft%20final%20report%20(deliverable%20%232%2C%20submitted%20by%2028%20June%202024).%20%0A%20%0A%20%0A6.%20Submission%20of%20proposals%20%0A%20%0AScientists%20of%20public%20or%20private%20Scientific%20Institutes%20or%20companies%20interested%20shall%20submit%20detailed%20offer(s)%20only%20%0Ato%20the%20attention%20of%20Mr.%20Camille%20Jean%20Pierre%20Manel%2C%20the%20Executive%20Secretary%20of%20ICCAT%2C%20at%20the%20following%20address%3A%20%0Acamille.manel%40iccat.int%20and%20%20Cc%E2%80%99ing%20%20Ms.%20%20Ana%20%20Martinez  (ana.martinez@iccat.int)  by  8  December  2023 
+(18:00h Madrid time) at the latest, including: 
+ 
+1. A description of methodology to be used; 
+2. The detailed budget proposal, including number of days of work and daily rate; 
+3. A   short   Curriculum   Vitae of   the   Tender detailing   the   experience   regarding   the   minimum   
+qualifications defined above; 
+4. The name, address, and telephone number of the tendering body; 
+5. The  institutional  and  administrative  background  of  the  tendering  body  (e.g.,  statutes,  type  of  
+institution, annual budget, budget control procedures, etc.), if applicable; 
+6. Acknowledgement of this Quotation request; 
+7. A statement specifying the extent of agreement with all terms, conditions, and provisions herein 
+included. 
+ 
+Offers sent after the deadline and/or that fail to furnish the required documentation or information or reject 
+the terms and conditions of the Call for Tenders will not be considered. 
+ 
+Applicants shall provide a detailed budget and clearly identify costs related to main activities of the work 
+(e.g.,  labour,  including  estimated  number  of  days  of  work,  travelling  and  subsistence,  equipment,  system  
+setting and maintenance). 
+ 
+ 
+7. Selection of proposals 
+ 
+The ICCAT Secretariat will review the bid(s). Following the revision process, the ICCAT Executive Secretary 
+will notify the entity selected for the contract as soon as the selection process is completed. Contract will be 
+awarded  on  the  basis  of  competitive  tendering  and  the  evaluation  of  proposals  will  be  undertaken  
+objectively,  consistently  and  without  bias  towards  particular  suppliers.  Proposal(s)  will  be  evaluated  
+against a pre-determined set of criteria, which include: (i) cost; (ii) proven track record; (iii) technical merit 
+based on work plan; and (iv) flexibility to future changes to requirements.

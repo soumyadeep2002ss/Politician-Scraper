@@ -368,10 +368,10 @@ load_dotenv()
 character_limit = 120000
 
 # Load JSON data from file
-with open('../Politicians/csv_results.json', "r") as f:
+with open('../Politicians/csv_results.json', "r",encoding='utf-8') as f:
     json_data = json.load(f)
 
-with open('../Politicians/all_search_results.json', "r") as f:
+with open('../Politicians/all_search_results.json', "r", encoding='utf-8') as f:
     urls_json_data = json.load(f)
 
 def read_and_combine_text_files(folder_path, field):
@@ -472,6 +472,7 @@ def query_using_gemini(text, politician, api_keys):
 
 # Fields to extract
 fields = ["CV", "Address", "Data di nascita", "Date of birth", "Positions"]
+# Make these filed dynamic ############# Yathart
 csv_fields = ["Address", "Date of birth", "Positions", "Non-Readable CV",
               "Nationality", "Citizenship", "Languages", "Gender", "Source URLs"]
 

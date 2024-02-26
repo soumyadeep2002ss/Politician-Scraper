@@ -30,6 +30,6 @@ const mergeJsonFiles = (directoryPath, outputFileName) => {
 
 // Example usage:
 const inputDirectoryPath = 'All_Links_Output'; // Replace with your actual directory path
-const outputFileName = 'allRes.json';
+const outputFileName = 'allRes1.json';
 
 mergeJsonFiles(inputDirectoryPath, outputFileName);

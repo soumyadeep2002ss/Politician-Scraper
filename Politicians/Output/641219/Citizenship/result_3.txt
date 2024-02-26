@@ -1,0 +1,6 @@
+Your access to H1 Connect has been temporarily revoked
+This may be caused by various reasons including a suspicion of abuse by scraping or denial of service attack
+
+If you think that your access has been revoked wrongly, please contact us on: connect@h1.co
+
+We apologize for any inconvenience caused.
