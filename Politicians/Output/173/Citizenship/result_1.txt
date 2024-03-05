@@ -1,0 +1,10 @@
+block
+Web Page Blocked!
+
+The page cannot be displayed. Please contact the administrator for additional information.
+
+URL: elegalix.allahabadhighcourt.in/elegalix/WebShowJudgment.do
+
+Client IP: 106.212.10.121
+Attack ID: 20000051
+Message ID: 004223720242

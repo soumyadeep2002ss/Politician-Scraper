@@ -64,8 +64,9 @@ async function getDataFromLinks() {
       } else if (!fileName.includes("CV")) {
         // If it's not a PDF, extract text content directly
         let textContent = await page.evaluate(() => document.body.innerText);
+        // console.log(textContent)
         if (textContent.trim() !== '') {
-          textContent = await translateText(page1, data.text, 'auto', 'en');
+          textContent = await translateText(page1, textContent, 'auto', 'en');
         }
         fs.writeFileSync(fileName, textContent);
       }

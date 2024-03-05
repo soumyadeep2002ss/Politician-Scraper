@@ -122,13 +122,13 @@ puppeteer.use(StealthPlugin());
 
 
 // const field_names = ["Indirizzo", "Data di nascita", "deceased date", "sesso", "languages", "citizenship", "nationality"];
-const field_names = ["CV", "Address", "Date of Birth1", "Date of Birth", "Positions", "Nationality", "Citizenship", "Languages"];
+const field_names = ["CV", "Address", "Date of Birth1", "Date of Birth", "Positions", "Nationality", "Citizenship", "Languages", "Images"];
 
 async function run() {
   const browser = await puppeteer.launch({ headless: true });
   const page = await browser.newPage();
-  const browser1 = await puppeteer.launch({ headless: true });
-  const page1 = await browser1.newPage();
+  // const browser1 = await puppeteer.launch({ headless: true });
+  // const page1 = await browser1.newPage();
   // const Topk = 3;
   try {
     const csvFilePath = 'sample.csv';
@@ -139,7 +139,59 @@ async function run() {
     let x = 0;
     let checkpointIndex = readCheckpointIndex();
 
-    for (const { uniqueID, name: query, country, position_Description: position, sourceLink } of csvData.slice(checkpointIndex)) {
+    function extractLinks(linkString) {
+      // Split the linkString into an array of links
+      const links = linkString.split('\n');
+
+      // Use a Set to store unique links
+      const uniqueLinks = new Set();
+
+      // Iterate through the links and add them to the Set
+      for (const link of links) {
+        // Trim whitespace from the link
+        const trimmedLink = link.trim();
+
+        // Check if the link is not an empty string
+        if (trimmedLink !== '') {
+          // Add the trimmedLink to the Set
+          uniqueLinks.add(trimmedLink);
+        }
+      }
+
+      // Convert the Set back to an array
+      const uniqueLinksArray = Array.from(uniqueLinks);
+
+      return uniqueLinksArray;
+    }
+
+    function getFirstPos(posString) {
+      // Split the linkString into an array of links
+      const pos = posString.split('\n');
+
+      // Use a Set to store unique links
+      const uniquePos = new Set();
+
+      // Iterate through the links and add them to the Set
+      for (const x of pos) {
+        // Trim whitespace from the link
+        const trimmedPos = x.trim();
+
+        // Check if the link is not an empty string
+        if (trimmedPos !== '') {
+          // Add the trimmedLink to the Set
+          uniquePos.add(trimmedPos);
+        }
+      }
+
+      // Convert the Set back to an array
+      const uniquePosArray = Array.from(uniquePos);
+
+      return uniquePosArray[0];
+    }
+
+    for (const { uniqueID, name: query, country, position_Description: position1, sourceLink } of csvData.slice(checkpointIndex)) {
+      let position = position1;
+      position=getFirstPos(position)||'';
       const currentProgress = x + 1;
       const remainingProgress = csvData.length - currentProgress;
 
@@ -163,44 +215,86 @@ async function run() {
         console.log(`\nSkipping ${uniqueID} - Already processed`);
         continue;
       }
-      const trPos = await translateText(page, position, 'USA', country);
+      let trPos = await translateText(page, position, 'USA', country);
+      trPos = trPos !== undefined ? trPos : position;
+
       // console.log(trPos)
       for (const field of field_names) {
         let translatedDob;
         let searchQuery;
         if (field === "Date of Birth1") {
           translatedDob = await translateText(page, "Date of Birth", 'USA', country);
-          searchQuery = `${query} ${country} ${trPos} ${translatedDob}`;
+          translatedDob = translatedDob !== undefined ? translatedDob : field;
+          searchQuery = `${query} ${country} ${position} ${translatedDob}`;
+          console.log(searchQuery);
+          await page.goto(`https://www.google.com/search?q=${encodeURIComponent(searchQuery)}`);
+        }
+        else if (field === "Images") {
+          const img_query = `${query} ${country} ${position}`;
+          await page.goto(`https://www.google.com/search?q=${img_query}&tbm=isch`);
         }
         else {
           searchQuery = `${query} ${country} ${trPos} ${field}`;
-        }
-        console.log(searchQuery);
-        await page.goto(`https://www.google.com/search?q=${encodeURIComponent(searchQuery)}`);
-
-        try {
-          await page.waitForSelector('h3');
-          const results = await page.evaluate(() => {
-            const anchors = Array.from(document.querySelectorAll('h3'));
-            return anchors.slice(0, 3).map(anchor => anchor.parentElement.href || null);
-          });
-          console.log(results)
-          const filteredResults = results.filter(result => result !== null);
-
-          const final_query = `${query} ${country} ${position} ${field}`;
-          filteredResults.push(sourceLink);
-          if (field === "Date of Birth1") {
-            field_results[translatedDob] = filteredResults;
-          }
-          else {
-            field_results[field] = filteredResults;
-          }
-        } catch (error) {
-          console.error(`Error processing ${query}/${field}: ${error.message}`);
-          continue;
+          console.log(searchQuery);
+          await page.goto(`https://www.google.com/search?q=${encodeURIComponent(searchQuery)}`);
         }
 
-        await new Promise(resolve => setTimeout(resolve, 2000));
+        if (field === "Images") {
+          try {
+            await page.waitForSelector('.islrc img');
+            const results = await page.evaluate(() => {
+              const images = document.querySelectorAll('.islrc img');
+              const imageSources = [];
+
+              for (let i = 0; i < Math.min(1, images.length); i++) {
+                imageSources.push(images[i].src);
+              }
+
+              return imageSources;
+            });
+            console.log(results)
+            const filteredResults = results.filter(result => result !== null);
+
+            const final_query = `${query} ${country} ${position} ${field}`;
+            if (field === "Date of Birth1") {
+              field_results[translatedDob] = filteredResults;
+            }
+            else {
+              field_results[field] = filteredResults;
+            }
+          } catch (error) {
+            console.error(`Error processing ${query}/${field}: ${error.message}`);
+            continue;
+          }
+
+          await new Promise(resolve => setTimeout(resolve, 2000));
+        }
+        else {
+          try {
+            await page.waitForSelector('h3');
+            const results = await page.evaluate(() => {
+              const anchors = Array.from(document.querySelectorAll('h3'));
+              return anchors.slice(0, 3).map(anchor => anchor.parentElement.href || null);
+            });
+            console.log(results)
+            const filteredResults = results.filter(result => result !== null);
+
+            const final_query = `${query} ${country} ${position} ${field}`;
+            // filteredResults.push(sourceLink);
+            if (field === "Date of Birth1") {
+              field_results[translatedDob] = filteredResults;
+            }
+            else {
+              field_results[field] = filteredResults;
+              field_results["SourceURL"] = extractLinks(sourceLink);
+            }
+          } catch (error) {
+            console.error(`Error processing ${query}/${field}: ${error.message}`);
+            continue;
+          }
+
+          await new Promise(resolve => setTimeout(resolve, 2000));
+        }
       }
 
       allResults[uniqueID] = field_results;

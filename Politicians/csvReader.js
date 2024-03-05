@@ -10,14 +10,14 @@ function readCSVFile(csvFilePath) {
       .pipe(csv())
       .on('data', (row) => {
         const name = row['Name'];
-        const country=row['Country'];
+        const country = row['Country'];
         const position_Description = row['Position_Description'];
         const uniqueID = row['UniqueId'];
         const sourceLink = row['Source_Url'];
         // const house = row['House'];
         // const year = row['Year'];
         // const concentration = row['Concentration'];
-        result[uniqueID] = {Name: name, Country: country, Position_Description: position_Description}
+        result[uniqueID] = { Name: name, Country: country, Position_Description: position_Description }
         jsonData.push({ uniqueID, name, country, position_Description, sourceLink });
       })
       .on('end', () => {

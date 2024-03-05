@@ -23,7 +23,12 @@ const languageMapping = {
     'vi': 'Vietnamese',
     'fi': 'Finnish',
     'el': 'Greek',
-    'bn': 'Bengali'
+    'bn': 'Bengali',
+    'ru': 'Russian',
+    'fa': 'Persian',
+    'iw': 'Hebrew',
+    'ja': 'Japanese',
+    'th': 'Thai'
     // Add more language mappings as needed
 };
 
@@ -56,6 +61,16 @@ const countryToLanguageMapping = {
     'Sweden': 'sv',
     'Slovenia': 'sl',
     'Ireland': 'en',        // English for Ireland
+    'Honduras': 'es',
+    'Canada': 'en',
+    'Russia': 'ru',
+    'Guatemala': 'es',
+    'Iran': 'fa',
+    'United Kingdom': 'en',
+    'Maldives': 'en',
+    'Japan': 'ja',
+    'Ecuador': 'es',
+    'Thailand': 'th',
     // Add more country to language mappings as needed
 };
 
@@ -64,7 +79,7 @@ module.exports = countryToLanguageMapping;
 
 const translateText = async (page, text, sourceCountry, targetCountry) => {
     const sourceLanguage = countryToLanguageMapping[sourceCountry] || 'auto';
-    const targetLanguage = countryToLanguageMapping[targetCountry] || 'auto';
+    const targetLanguage = countryToLanguageMapping[targetCountry] || 'en';
 
     try {
         const sourceLanguageName = languageMapping[sourceLanguage] || 'Unknown';
