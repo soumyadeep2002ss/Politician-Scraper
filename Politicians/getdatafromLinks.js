@@ -20,7 +20,7 @@ async function getDataFromLinks() {
   const scrapeAndSave = async (url, fileName, outputDirectory, i) => {
     try {
       let pdfData;
-
+      let textContent;
       // Check if the URL ends with '.pdf'
       if (url.toLowerCase().endsWith('pdf')) {
         // If it's a direct link to a PDF, download it using axios
@@ -61,9 +61,9 @@ async function getDataFromLinks() {
         }
         fs.writeFileSync(fileName, textdata);
         console.log(fileName)
-      } else if (!fileName.includes("CV")) {
+      } else {
         // If it's not a PDF, extract text content directly
-        let textContent = await page.evaluate(() => document.body.innerText);
+        textContent = await page.evaluate(() => document.body.innerText);
         // console.log(textContent)
         if (textContent.trim() !== '') {
           textContent = await translateText(page1, textContent, 'auto', 'en');
@@ -104,7 +104,14 @@ async function getDataFromLinks() {
         if (link && !processedLinks.has(link)) {
           const fileName = `${outputDirectory}/result_${i + 1}.txt`;
           try {
-            await scrapeAndSave(link, fileName, outputDirectory, i);
+            if (!link.toLowerCase().endsWith('jpg') &&
+              !link.toLowerCase().endsWith('mp4') &&
+              !link.toLowerCase().endsWith('mp3') &&
+              !link.toLowerCase().endsWith('png') &&
+              !link.toLowerCase().endsWith('gif')) {
+              await scrapeAndSave(link, fileName, outputDirectory, i);
+            }
+
             // console.log(`Saved text content for ${query}/${field} - Result ${i + 1}`);
 
             // Increment completedLinks count
