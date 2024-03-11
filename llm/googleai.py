@@ -119,12 +119,7 @@ def query_using_gemini(text, politician, api_keys):
             ]
             response = model.generate_content(
                 messages, safety_settings=safety_settings)
-
-            # Debugging: print the response received
-            print("Received response from Gemini:")
-            # Print the first 500 characters of the response
             print(response.text)
-
             json_match = re.search(r'\{[\s\S]*\}', response.text)
             # print(json_match)
             response_data = {}
@@ -181,14 +176,7 @@ def query_using_gemini(text, politician, api_keys):
                 "NA",
             )
             if isinstance(response_data, dict):
-                address_postal_code = response_data.get(
-                    "Address_Postal_Code", "NA")
-                address_country = response_data.get("Address_Country", "NA")
-                address_provinance = response_data.get(
-                    "Address_Provinance", "NA")
-                address_city = response_data.get("Address_City", "NA")
-                address_address1 = response_data.get("Address_Address1", "NA")
-
+                address = response_data.get('Address', 'NA')
                 get_positions = response_data.get('Positions held so far')
                 if isinstance(get_positions, list):
                     positions = '\n'.join(get_positions)
@@ -205,7 +193,7 @@ def query_using_gemini(text, politician, api_keys):
             if positions.strip() == "" or positions.strip() == "NA":
                 positions = f"{politician['Position_Description']}"
 
-            return address_postal_code, address_country, address_provinance, address_city, address_address1, positions, dob_year, dob_month, dob_day, nationality, citizenship, gender, language
+            return address, positions, date_of_birth, nationality, citizenship, gender, language
 
         except Exception as e:
             print(f"Error querying with API key {api_key}: {e}")
