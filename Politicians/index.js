@@ -122,7 +122,7 @@ puppeteer.use(StealthPlugin());
 
 
 // const field_names = ["Indirizzo", "Data di nascita", "deceased date", "sesso", "languages", "citizenship", "nationality"];
-const field_names = ["CV", "Address", "Date of Birth1", "Date of Birth", "Positions", "Nationality", "Citizenship", "Languages", "Images"];
+const field_names = ["CV"];
 
 async function run() {
   const browser = await puppeteer.launch({ headless: true });
