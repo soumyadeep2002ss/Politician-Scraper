@@ -42,11 +42,29 @@ Selected MLA
 90
 State Average
 80.7
+Attendance
+State
+Average
+0
+50
+100
+	
+Attendance	90
+State Average	80.7
 Questions
 Selected MLA
 80
 State Average
 40.2
+Question
+Question
+Average
+0
+50
+100
+	
+Question	80
+Question Average	40.2
 Follow Us   
 	
 

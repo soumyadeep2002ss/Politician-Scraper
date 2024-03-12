@@ -59,7 +59,7 @@ async function getDataFromLinks() {
         if (textdata.trim() !== '') {
           textdata = await translateText(page1, data.text, 'auto', 'en');
         }
-        fs.writeFileSync(fileName, textdata);
+        fs.writeFileSync(fileName, textdata, 'utf8');
         console.log(fileName)
       } else {
         // If it's not a PDF, extract text content directly
@@ -68,7 +68,7 @@ async function getDataFromLinks() {
         if (textContent.trim() !== '') {
           textContent = await translateText(page1, textContent, 'auto', 'en');
         }
-        fs.writeFileSync(fileName, textContent);
+        fs.writeFileSync(fileName, textContent, 'utf8');
       }
     } catch (error) {
       throw new Error(`Error processing ${url}: ${error.message}`);
