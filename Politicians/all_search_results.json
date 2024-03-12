@@ -1,25 +1,8 @@
 {
-  "43": {
-    "CV": [
-      "https://ballotpedia.org/Sean_Eberhart",
-      "https://en.wikipedia.org/wiki/Sean_Eberhart",
-      "https://justfacts.votesmart.org/candidate/biography/56955/sean-eberhart"
-    ],
-    "SourceURL": [
-      "https://www.justice.gov/usao-sdin/pr/former-indiana-state-representative-agrees-plead-guilty-federal-corruption-charge",
-      "https://en.wikipedia.org/wiki/Sean_Eberhart",
-      "https://www.indianahouserepublicans.com/",
-      "https://www.co.shelby.in.us/countycouncil/",
-      "https://justfacts.votesmart.org/candidate/biography/56955/sean-eberhart",
-      "https://www.onenewspage.com/current/mjbl2q40/Sean-Eberhart.htm",
-      "https://www.indystar.com/story/news/2023/11/09/indiana-lawmaker-sean-eberhart-republican-pleads-guilty-fraud-charges/71523462007/"
-    ]
-  },
   "44": {
     "CV": [
       "https://ballotpedia.org/Sean_Eberhart",
-      "https://en.wikipedia.org/wiki/Sean_Eberhart",
-      "https://justfacts.votesmart.org/candidate/biography/56955/sean-eberhart"
+      "https://en.wikipedia.org/wiki/Sean_Eberhart"
     ],
     "SourceURL": [
       "https://www.justice.gov/usao-sdin/pr/former-indiana-state-representative-agrees-plead-guilty-federal-corruption-charge",
@@ -29,43 +12,10 @@
       "https://justfacts.votesmart.org/candidate/biography/56955/sean-eberhart",
       "https://www.onenewspage.com/current/mjbl2q40/Sean-Eberhart.htm",
       "https://www.indystar.com/story/news/2023/11/09/indiana-lawmaker-sean-eberhart-republican-pleads-guilty-fraud-charges/71523462007/"
-    ]
-  },
-  "45": {
-    "CV": [
-      "https://en.wikipedia.org/wiki/Mohan_Yadav",
-      "https://indianexpress.com/article/political-pulse/mohan-yadav-bjp-pick-madhya-pradesh-chief-minister-9063718/",
-      "https://timesofindia.indiatimes.com/city/bhopal/focus-on-religious-tourism-in-state-with-mohan-yadav-as-cm/articleshow/105973349.cms"
     ],
-    "SourceURL": [
-      "http://mpvidhansabha.nic.in/14thvs/2014_217.pdf",
-      "http://mpvidhansabha.nic.in/",
-      "https://www.amarujala.com/election/vidhan-sabha-elections/madhya-pradesh/candidates/dr.-mohan-yadav-bjp-2018-ujjain-south-217",
-      "https://en.wikipedia.org/wiki/Mohan_Yadav",
-      "https://www.indiatoday.in/magazine/cover-story/story/20231225-madhya-pradesh-playing-the-obc-card-2476406-2023-12-15",
-      "http://zeenews.india.com/news/madhya-pradesh/case-against-bjp-candidate-for-distributing-cash-to-voters_889367.html",
-      "https://prsindia.org/mlatrack/mohan-yadav",
-      "https://timesofindia.indiatimes.com/city/bhopal/madhya-pradesh-cabinet-meet-the-ministers-of-team-yadav/articleshow/106277822.cms",
-      "https://mpvidhansabha.nic.in/15thvs/2019_217.pdf"
-    ]
-  },
-  "48": {
-    "CV": [
-      "https://en.wikipedia.org/wiki/Rajendra_Shukla_(politician)",
-      "https://zeenews.india.com/india/who-is-rajendra-shukla-from-engineer-to-deputy-cm-of-madhya-pradesh-2697872.html",
-      "https://www.ndtv.com/india-news/who-is-rajendra-shukla-the-new-deputy-cm-of-bjp-led-madhya-pradesh-4664688"
-    ],
-    "SourceURL": [
-      "http://mpvidhansabha.nic.in/",
-      "https://www.oneindia.com/politicians/rajendra-shukla-70514.html",
-      "https://myneta.info/madhyapradesh2018/candidate.php?candidate_id=3158",
-      "https://mpvidhansabha.nic.in/14thvs/2014_74.pdf",
-      "https://www.rewariyasat.com/rewa/rajendra-shukla-record-of-becoming-mla-and-minister-know-rewa-mla-since-1977-and-assembly-results-111233",
-      "https://www.elections.in/madhya-pradesh/assembly-constituencies/mlas-list.html",
-      "https://en.wikipedia.org/wiki/Rajendra_Shukla_(politician)",
-      "https://zeenews.india.com/india/who-is-rajendra-shukla-from-engineer-to-deputy-cm-of-madhya-pradesh-2697872.html",
-      "https://www.ndtv.com/india-news/who-is-rajendra-shukla-the-new-deputy-cm-of-bjp-led-madhya-pradesh-4664688",
-      "https://prsindia.org/mlatrack/rajendra-shukla"
+    "ONLY": [
+      "https://en.wikipedia.org/wiki/Sean_Eberhart",
+      "https://www.indystar.com/story/news/2023/11/09/indiana-lawmaker-sean-eberhart-republican-pleads-guilty-fraud-charges/71523462007/"
     ]
   }
 }

@@ -122,7 +122,7 @@ puppeteer.use(StealthPlugin());
 
 
 // const field_names = ["Indirizzo", "Data di nascita", "deceased date", "sesso", "languages", "citizenship", "nationality"];
-const field_names = ["CV", "Address"];
+const field_names = ["CV", "ONLY"];
 
 async function run() {
   const browser = await puppeteer.launch({ headless: true });
@@ -236,6 +236,11 @@ async function run() {
             const img_query = `${query} ${country} ${position}`;
             await page.goto(`https://www.google.com/search?q=${img_query}&tbm=isch`);
           }
+          else if (field === "ONLY") {
+            searchQuery = `${query} ${country} ${trPos}`;
+            console.log(searchQuery);
+            await page.goto(`https://www.google.com/search?q=${encodeURIComponent(searchQuery)}`);
+          }
           else {
             searchQuery = `${query} ${country} ${trPos} ${field}`;
             console.log(searchQuery);
@@ -277,7 +282,7 @@ async function run() {
               await page.waitForSelector('h3');
               const results = await page.evaluate(() => {
                 const anchors = Array.from(document.querySelectorAll('h3'));
-                return anchors.slice(0, 3).map(anchor => anchor.parentElement.href || null);
+                return anchors.slice(0, 2).map(anchor => anchor.parentElement.href || null);
               });
               console.log(results)
               const filteredResults = results.filter(result => result !== null);

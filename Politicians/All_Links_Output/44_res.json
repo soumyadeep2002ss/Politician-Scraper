@@ -2,8 +2,7 @@
   "44": {
     "CV": [
       "https://ballotpedia.org/Sean_Eberhart",
-      "https://en.wikipedia.org/wiki/Sean_Eberhart",
-      "https://justfacts.votesmart.org/candidate/biography/56955/sean-eberhart"
+      "https://en.wikipedia.org/wiki/Sean_Eberhart"
     ],
     "SourceURL": [
       "https://www.justice.gov/usao-sdin/pr/former-indiana-state-representative-agrees-plead-guilty-federal-corruption-charge",
@@ -12,6 +11,10 @@
       "https://www.co.shelby.in.us/countycouncil/",
       "https://justfacts.votesmart.org/candidate/biography/56955/sean-eberhart",
       "https://www.onenewspage.com/current/mjbl2q40/Sean-Eberhart.htm",
+      "https://www.indystar.com/story/news/2023/11/09/indiana-lawmaker-sean-eberhart-republican-pleads-guilty-fraud-charges/71523462007/"
+    ],
+    "ONLY": [
+      "https://en.wikipedia.org/wiki/Sean_Eberhart",
       "https://www.indystar.com/story/news/2023/11/09/indiana-lawmaker-sean-eberhart-republican-pleads-guilty-fraud-charges/71523462007/"
     ]
   }
