@@ -11,10 +11,10 @@ load_dotenv()
 character_limit = 120000
 
 # Load JSON data from file
-with open("../Politicians/csv_results.json", "r", encoding="utf-8") as f:
+with open("../csv_results.json", "r", encoding="utf-8") as f:
     json_data = json.load(f)
 
-with open("../Politicians/all_search_results.json", "r", encoding="utf-8") as f:
+with open("../all_search_results.json", "r", encoding="utf-8") as f:
     urls_json_data = json.load(f)
 
 
@@ -244,7 +244,7 @@ csv_fields = [
 
 # Directory paths
 llm_directory = os.path.dirname(__file__)
-main_folder_path = os.path.join(llm_directory, '..', 'Politicians', 'Output')
+main_folder_path = os.path.join(llm_directory, '..', 'Output')
 
 # List of API keys
 api_keys = [
