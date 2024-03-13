@@ -170,7 +170,7 @@
             formData.append('file', file);
 
             setStatus("Working...", "upload-status");
-            fetch('http://3.210.56.36//upload', {
+            fetch('http://3.210.56.36/upload', {
                 method: 'POST',
                 body: formData,
             }).then(response => response.json())
@@ -188,7 +188,7 @@
 
         function runNodeScript() {
             setStatus("Working...", "node-status");
-            fetch('http://3.210.56.36//run-node', { method: 'POST' })
+            fetch('http://3.210.56.36/run-node', { method: 'POST' })
                 .then(response => response.json())
                 .then(data => {
                     console.log(data);
