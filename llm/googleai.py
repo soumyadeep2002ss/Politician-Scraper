@@ -62,8 +62,8 @@ def query_using_gemini(text, politician, api_keys):
             You will be given a text, extracted from various sources, about a person PERSON_PEP.\n
             From the given text your task is to extract the following information: FIELDS_SET about the PERSON_PEP from the CONTEXT_TEXT text.
             If no data is present related to any field, return the value for that key as 'NA'. \n
-            The information will not be given directly in the text, you will analyze the text and extract the information for the FIELDS_SET for the PERSON_PEP.
-            For the Address fields in FIELDS_SET , print office address if personal address is not there in the CONTEXT_TEXT for PERSON_PEP.\n
+            The information will not be given directly in the text, you will analyze the text and extract the information for the FIELDS_SET for the PERSON_PEP. ADDRESS implies Residency address.
+            For the Address fields in FIELDS_SET , print office address if personal address or Residency address is not there in the CONTEXT_TEXT for PERSON_PEP.\n
 \n\n
             Here is an example of what you are expected to do:\n
             EXAMPLE:\n
