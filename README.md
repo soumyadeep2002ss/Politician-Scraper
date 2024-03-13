@@ -20,5 +20,19 @@ npm start
 
 # Using yarn
 yarn start
+```
+
+# To run the flask app :
+```bash
+cd llm
+
+python3 app.py
+```
+
+the flask app is deployed at localhost and port 8080.
+the button to download csv will be activated only when the three buttons above it are done with there tasks
+
+
+
 
 

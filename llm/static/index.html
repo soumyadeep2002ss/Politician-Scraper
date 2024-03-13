@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Script Runner</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+
+        .container {
+            text-align: center;
+        }
+
+        .upload-area {
+            border: 2px dashed #007bff;
+            padding: 20px;
+            width: 80%;
+            text-align: center;
+            margin: 10px auto;
+            cursor: pointer;
+            border-radius: 10px;
+        }
+
+        .upload-area:hover {
+            background-color: #f8f9fa;
+        }
+
+        button {
+            margin: 10px 5px;
+            padding: 10px 20px;
+            background-color: #007bff;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background-color: #0056b3;
+        }
+
+        .status {
+            display: inline-block;
+            margin-left: 10px;
+            padding: 5px;
+        }
+
+        .spinner {
+            border: 4px solid rgba(0, 0, 0, 0.1);
+            border-radius: 50%;
+            border-top: 4px solid #007bff;
+            width: 12px;
+            height: 12px;
+            animation: spin 2s linear infinite;
+        }
+
+        @keyframes spin {
+            0% {
+                transform: rotate(0deg);
+            }
+
+            100% {
+                transform: rotate(360deg);
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <h2>Upload CSV and Run Scripts</h2>
+        <div id="drag-area" class="upload-area">
+            Drag and drop a file here or click to upload
+        </div>
+        <input type="file" id="fileInput" hidden><br><br>
+        <button onclick="uploadFile()">Upload CSV</button><span id="upload-status" class="status"></span><br>
+        <button onclick="runNodeScript()">Run Node.js Script</button><span id="node-status" class="status"></span><br>
+        <button onclick="runPythonScript()">Run Python Script</button><span id="python-status" class="status"></span><br>
+        <button id="download-csv-btn" onclick="downloadCSV()" disabled>Download CSV</button><span id="download-status"
+            class="status"></span>
+
+    </div>
+
+    <script>
+        const fileInput = document.getElementById('fileInput');
+        const dragArea = document.getElementById('drag-area');
+
+        dragArea.addEventListener('click', () => {
+            fileInput.click();
+        });
+
+        fileInput.addEventListener('change', function () {
+            uploadFile(this.files[0]);
+        });
+
+        ['dragenter', 'dragover', 'dragleave', 'drop'].forEach(eventName => {
+            dragArea.addEventListener(eventName, (e) => {
+                e.preventDefault();
+                e.stopPropagation();
+            }, false);
+        });
+
+        ['dragenter', 'dragover'].forEach(eventName => {
+            dragArea.addEventListener(eventName, () => {
+                dragArea.classList.add('active');
+            }, false);
+        });
+
+        ['dragleave', 'drop'].forEach(eventName => {
+            dragArea.addEventListener(eventName, () => {
+                dragArea.classList.remove('active');
+            }, false);
+        });
+
+        dragArea.addEventListener('drop', (e) => {
+            fileInput.files = e.dataTransfer.files;
+            uploadFile(e.dataTransfer.files[0]);
+        });
+
+    function setStatus(message, id, isError = false) {
+        const status = document.getElementById(id);
+        status.textContent = message;
+        status.style.color = isError ? 'red' : 'green';
+        if (message === "Working...") {
+            status.innerHTML = `<div class="spinner"></div> ${message}`;
+            status.style.color = 'black';
+        } else if (message === "Completed") {
+            status.textContent = message;
+        }
+    }
+
+    let tasksCompleted = {
+            upload: false,
+            nodeScript: false,
+            pythonScript: false
+        };
+
+        function checkAllTasksCompleted() {
+            // Check if all tasks are completed
+            return tasksCompleted.upload && tasksCompleted.nodeScript && tasksCompleted.pythonScript;
+        }
+
+        function updateDownloadButtonState() {
+            // Enable the download button if all tasks are completed
+            if (checkAllTasksCompleted()) {
+                document.getElementById("download-csv-btn").disabled = false;
+            } else {
+                document.getElementById("download-csv-btn").disabled = true;
+            }
+        }
+
+        function downloadCSV() {
+            // Assuming your server is set to serve the CSV file on this endpoint
+            window.location.href = '/download-csv';
+            // Update the status for downloading the CSV
+            setStatus("Downloading...", "download-status");
+            setTimeout(() => setStatus("Completed", "download-status"), 1000); // Mock delay for download
+        }
+
+        function uploadFile(file) {
+            const formData = new FormData();
+            formData.append('file', file);
+
+            setStatus("Working...", "upload-status");
+            fetch('/upload', {
+                method: 'POST',
+                body: formData,
+            }).then(response => response.json())
+                .then(data => {
+                    console.log(data);
+                    setStatus("Completed", "upload-status");
+                    tasksCompleted.upload = true;
+                    updateDownloadButtonState();
+                })
+                .catch(error => {
+                    console.error('Error:', error);
+                    setStatus("Error during upload", "upload-status", true);
+                });
+        }
+
+        function runNodeScript() {
+            setStatus("Working...", "node-status");
+            fetch('/run-node', { method: 'POST' })
+                .then(response => response.json())
+                .then(data => {
+                    console.log(data);
+                    setStatus("Completed", "node-status");
+                    tasksCompleted.nodeScript = true;
+                    updateDownloadButtonState();
+                })
+                .catch(error => {
+                    console.error('Error:', error);
+                    setStatus("Error running Node.js script", "node-status", true);
+                });
+        }
+
+        function runPythonScript() {
+            setStatus("Working...", "python-status");
+            fetch('/run-python', { method: 'POST' })
+                .then(response => response.json())
+                .then(data => {
+                    console.log(data);
+                    setStatus("Completed", "python-status");
+                    tasksCompleted.pythonScript = true;
+                    updateDownloadButtonState();
+                })
+                .catch(error => {
+                    console.error('Error:', error);
+                    setStatus("Error running Python script", "python-status", true);
+                });
+        }
+    </script>
+</body>
+
+</html>

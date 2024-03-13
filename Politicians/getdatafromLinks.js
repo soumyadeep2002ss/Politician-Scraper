@@ -54,7 +54,7 @@ async function getDataFromLinks() {
           const storeUrl = {
             url
           }
-          fs.writeFileSync(`${outputDirectory}/nonReadableCv${i + 1}.json`, JSON.stringify(storeUrl, null, 2));
+          fs.writeFileSync(`${outputDirectory}/nonReadableCv${i + 1}.json`, JSON.stringify(storeUrl, null, 2), 'utf8');
         }
         if (textdata.trim() !== '') {
           textdata = await translateText(page1, data.text, 'auto', 'en');

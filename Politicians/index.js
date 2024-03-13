@@ -125,13 +125,13 @@ puppeteer.use(StealthPlugin());
 const field_names = ["CV", "ONLY"];
 
 async function run() {
-  const browser = await puppeteer.launch({ headless: true });
+  const browser = await puppeteer.launch({ headless: false });
   const page = await browser.newPage();
   // const browser1 = await puppeteer.launch({ headless: true });
   // const page1 = await browser1.newPage();
   // const Topk = 3;
   try {
-    const csvFilePath = 'sample.csv';
+    const csvFilePath = 'Politicians/sample.csv';
     const csvData = await readCSVFile(csvFilePath);
 
     let allResults = {};
@@ -318,7 +318,7 @@ async function run() {
         fs.mkdirSync(folderName);
       }
 
-      fs.writeFileSync(filePath, JSON.stringify({ [uniqueID]: field_results }, null, 2));
+      fs.writeFileSync(filePath, JSON.stringify({ [uniqueID]: field_results }, null, 2, 'utf8'));
 
       checkpointIndex = x;
       writeCheckpointIndex(checkpointIndex);
@@ -330,7 +330,7 @@ async function run() {
     console.log(`\nTotal Time Taken: ${formatTime(totalTimeTaken)}`);
 
     const allResultsJson = JSON.stringify(allResults, null, 2);
-    fs.writeFileSync('all_search_results.json', allResultsJson);
+    fs.writeFileSync('all_search_results.json', allResultsJson, 'utf8');
 
     await runGetDataFromLinks();
   } catch (error) {
@@ -370,7 +370,7 @@ function readCheckpointIndex() {
 function writeCheckpointIndex(index) {
   try {
     const checkpointIndexFile = 'checkpointIndex.txt';
-    fs.writeFileSync(checkpointIndexFile, index.toString());
+    fs.writeFileSync(checkpointIndexFile, index.toString(), 'utf8');
   } catch (error) {
     console.error('Error writing checkpoint index:', error.message);
   }

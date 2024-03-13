@@ -20,7 +20,7 @@ const mergeJsonFiles = (directoryPath, outputFileName) => {
 
     // Write the merged data to a new JSON file
     const outputPath = path.join(directoryPath, outputFileName);
-    fs.writeFileSync(outputPath, JSON.stringify(allResults, null, 2));
+    fs.writeFileSync(outputPath, JSON.stringify(allResults, null, 2), 'utf8');
 
     console.log(`Merged JSON files successfully. Result saved in ${outputFileName}`);
   } catch (error) {

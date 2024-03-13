@@ -23,7 +23,7 @@ function readCSVFile(csvFilePath) {
       .on('end', () => {
         resolve(jsonData);
         const resultsJson = JSON.stringify(result, null, 2);
-        fs.writeFileSync('csv_results.json', resultsJson);
+        fs.writeFileSync('csv_results.json', resultsJson, 'utf8');
         console.log('CSV file successfully processed');
       })
       .on('error', (error) => {

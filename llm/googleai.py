@@ -58,20 +58,21 @@ def query_using_gemini(text, politician, api_keys):
             politician_details = politician["Name"]
 
             prompt = f"""
-            You are analyseBOT, an award-winning data analyst, who can extract all the required information from a given text. 
-            You will be given a text, extracted from various sources, about a person PERSON_PEP.
+            You are analyseBOT, an award-winning data analyst, who can extract all the required information from a given text. \n
+            You will be given a text, extracted from various sources, about a person PERSON_PEP.\n
             From the given text your task is to extract the following information: FIELDS_SET about the PERSON_PEP from the CONTEXT_TEXT text.
-            If no data is present related to any field, return the value for that key as 'NA'. 
-            It might be possible that the information is not given directly in the provided text, you might need to analyse. 
-
-            Here is an example of what you are expected to do:
-            EXAMPLE:
-            PERSON_PEP: "Yasutoshi Nishimura",
+            If no data is present related to any field, return the value for that key as 'NA'. \n
+            The information will not be given directly in the text, you will analyze the text and extract the information for the FIELDS_SET for the PERSON_PEP.
+            For the Address fields in FIELDS_SET , print office address if personal address is not there in the CONTEXT_TEXT for PERSON_PEP.\n
+\n\n
+            Here is an example of what you are expected to do:\n
+            EXAMPLE:\n
+            PERSON_PEP: "Yasutoshi Nishimura",\n
             FIELDS_SET: "Gender", "Nationality", "Citizenship", "Languages", "Dob_Year", "Dob_Month", "Dob_Day", "Address_Postal_Code", "Address_Country", "Address_Provinance", "Address_City", "Address_Address1"
-
+\n
             CONTEXT_TEXT: "Yasutoshi Nishimura (西村 康稔, Nishimura Yasutoshi, born October 15, 1962) is a Japanese politician who served as the Minister of Economy, Trade and Industry from August 2022 until December 2023. Nishimura previously served as Minister of State for Economy...
-
-            EXPECTED_OUTPUT :
+\n
+            EXPECTED_OUTPUT :\n
             
             "Address_Postal_Code": "796001",
             "Address_Country": "India",
@@ -86,14 +87,14 @@ def query_using_gemini(text, politician, api_keys):
             "Citizenship": "Japan",
             "Languages": "Japanese"
             
-
+\n
             —--- end of example—-----
 
-            Now for the following PERSON_PEP, FIELDS_SET and CONTEXT_TEXT, generate the EXPECTED_OUTPUT in json format.
-            PERSON_PEP: "{politician_details}"
+            Now for the following PERSON_PEP, FIELDS_SET and CONTEXT_TEXT, generate the EXPECTED_OUTPUT in json format.\n
+            PERSON_PEP: "{politician_details}"\n
 
             FIELDS_SET="Gender, Nationality, Citizenship, Languages, Dob_Year, Dob_Month, Dob_Day, Address_Postal_Code, Address_Country, Address_Provinance, Address_City, Address_Address1",
-
+\n
             CONTEXT_TEXT: "{text}"
             """.strip()
 
