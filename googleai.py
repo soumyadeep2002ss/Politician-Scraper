@@ -11,10 +11,10 @@ load_dotenv()
 character_limit = 120000
 
 # Load JSON data from file
-with open("../csv_results.json", "r", encoding="utf-8") as f:
+with open("csv_results.json", "r", encoding="utf-8") as f:
     json_data = json.load(f)
 
-with open("../all_search_results.json", "r", encoding="utf-8") as f:
+with open("all_search_results.json", "r", encoding="utf-8") as f:
     urls_json_data = json.load(f)
 
 

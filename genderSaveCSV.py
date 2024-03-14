@@ -44,7 +44,7 @@ def process_json(json_data):
 
 
 # Load JSON data from the file
-with open('../Politicians/all_search_results.json', "r", encoding='utf-8') as f:
+with open('all_search_results.json', "r", encoding='utf-8') as f:
     json_data = json.load(f)
 
 # Process the JSON data and write to CSV

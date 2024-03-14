@@ -25,13 +25,11 @@ def upload_file():
         return jsonify(error="No selected file"), 400
     if file:
         # Specify the path to the folder outside the current directory
-        target_directory = os.path.join(os.path.dirname(__file__), "..", "Politicians")
-        # Ensure the target directory exists
-        os.makedirs(target_directory, exist_ok=True)
+        
         # Set the new filename
         new_filename = "sampleUploaded.csv"
         # Combine the target directory and new filename to create the full file path
-        filepath = os.path.join(target_directory, new_filename)
+        filepath = os.path.join(new_filename)
         # Save the uploaded file to the new filepath
         file.save(filepath)
         return jsonify(status="File uploaded", filepath=filepath), 200
@@ -40,7 +38,7 @@ def upload_file():
 @app.route("/run-node", methods=["POST"])
 def run_node_script():
     # Navigate to the directory containing your Node.js project
-    os.chdir(os.path.join(os.path.dirname(__file__), "..", "Politicians"))
+    
     # Run the npm start command
     result = subprocess.run(["npm", "start"], capture_output=True, text=True)
     # Optionally, navigate back to the original directory if needed
@@ -56,10 +54,10 @@ def run_node_script():
 def run_python_script():
     # Example: subprocess.run(['python', 'your_python_script.py', 'arg1', 'arg2'])
     # Load JSON data from file
-    with open("../Politicians/csv_results.json", "r", encoding="utf-8") as f:
+    with open("csv_results.json", "r", encoding="utf-8") as f:
         json_data = json.load(f)
 
-    with open("../Politicians/all_search_results.json", "r", encoding="utf-8") as f:
+    with open("all_search_results.json", "r", encoding="utf-8") as f:
         urls_json_data = json.load(f)
 
     def read_and_combine_text_files(folder_path, field):
@@ -322,8 +320,7 @@ Nishimura was running for the LDP presidential elections which was held Septembe
     ]
 
     # Directory paths
-    llm_directory = os.path.dirname(__file__)
-    main_folder_path = os.path.join(llm_directory, '..', 'Politicians', 'Output')
+    main_folder_path = os.path.join( 'Output')
 
     # List of API keys
     api_keys = [

@@ -57,7 +57,7 @@ async function getDataFromLinks() {
           fs.writeFileSync(`${outputDirectory}/nonReadableCv${i + 1}.json`, JSON.stringify(storeUrl, null, 2), 'utf8');
         }
         if (textdata.trim() !== '') {
-          textdata = await translateText(page1, data.text, 'auto', 'en');
+          textdata = data.text;
         }
         fs.writeFileSync(fileName, textdata, 'utf8');
         console.log(fileName)
@@ -66,7 +66,7 @@ async function getDataFromLinks() {
         textContent = await page.evaluate(() => document.body.innerText);
         // console.log(textContent)
         if (textContent.trim() !== '') {
-          textContent = await translateText(page1, textContent, 'auto', 'en');
+          textContent =  textContent;
         }
         fs.writeFileSync(fileName, textContent, 'utf8');
       }

@@ -13,13 +13,13 @@ puppeteer.use(StealthPlugin());
 const field_names = ["CV", "ONLY"];
 
 async function run() {
-  const browser = await puppeteer.launch({ headless: true });
+  const browser = await puppeteer.launch({ headless: false });
   const page = await browser.newPage();
   // const browser1 = await puppeteer.launch({ headless: true });
   // const page1 = await browser1.newPage();
   // const Topk = 3;
   try {
-    const csvFilePath = 'Politicians/sample.csv';
+    const csvFilePath = './sample.csv';
     const csvData = await readCSVFile(csvFilePath);
 
     let allResults = {};
@@ -108,13 +108,13 @@ async function run() {
 
       // console.log("pos: " + position)
       if (position !== null) {
-        let trPos = await translateText(page, position, 'USA', country);
+        let trPos = position;
         trPos = trPos !== undefined ? trPos : position;
         for (const field of field_names) {
           let translatedDob;
           let searchQuery;
           if (field === "Date of Birth1") {
-            translatedDob = await translateText(page, "Date of Birth", 'USA', country);
+            translatedDob =  "Date of Birth";
             translatedDob = translatedDob !== undefined ? translatedDob : field;
             searchQuery = `${query} ${country} ${position} ${translatedDob}`;
             console.log(searchQuery);
@@ -199,7 +199,7 @@ async function run() {
 
       allResults[uniqueID] = field_results;
 
-      const folderName = 'All_Links_Output';
+      const folderName = './All_Links_Output';
       const filePath = path.join(folderName, `${uniqueID}_res.json`);
 
       if (!fs.existsSync(folderName)) {
@@ -218,7 +218,7 @@ async function run() {
     console.log(`\nTotal Time Taken: ${formatTime(totalTimeTaken)}`);
 
     const allResultsJson = JSON.stringify(allResults, null, 2);
-    fs.writeFileSync('all_search_results.json', allResultsJson, 'utf8');
+    fs.writeFileSync('./all_search_results.json', allResultsJson, 'utf8');
 
     await runGetDataFromLinks();
   } catch (error) {
@@ -243,7 +243,7 @@ function formatTime(seconds) {
 
 function readCheckpointIndex() {
   try {
-    const checkpointIndexFile = 'checkpointIndex.txt';
+    const checkpointIndexFile = './checkpointIndex.txt';
     if (fs.existsSync(checkpointIndexFile)) {
       const content = fs.readFileSync(checkpointIndexFile, 'utf-8');
       return parseInt(content);
@@ -257,7 +257,7 @@ function readCheckpointIndex() {
 
 function writeCheckpointIndex(index) {
   try {
-    const checkpointIndexFile = 'checkpointIndex.txt';
+    const checkpointIndexFile = './checkpointIndex.txt';
     fs.writeFileSync(checkpointIndexFile, index.toString(), 'utf8');
   } catch (error) {
     console.error('Error writing checkpoint index:', error.message);
