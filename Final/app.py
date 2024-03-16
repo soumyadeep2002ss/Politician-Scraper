@@ -25,7 +25,7 @@ def upload_file():
         return jsonify(error="No selected file"), 400
     if file:
         # Specify the path to the folder outside the current directory
-        
+
         # Set the new filename
         new_filename = "sample.csv"
         # Combine the target directory and new filename to create the full file path
@@ -38,9 +38,10 @@ def upload_file():
 @app.route("/run-node", methods=["POST"])
 def run_node_script():
     # Navigate to the directory containing your Node.js project
-    
+
     # Run the npm start command
-    result = subprocess.run("/home/ubuntu/.nvm/versions/node/v18.19.0/bin/node", "index.js", capture_output=True, text=True)
+    result = subprocess.run(
+        ["/home/ubuntu/.nvm/versions/node/v18.19.0/bin/node", "index.js"], capture_output=True, text=True)
     # Optionally, navigate back to the original directory if needed
     # os.chdir(original_directory)
 
@@ -184,9 +185,12 @@ Nishimura was running for the LDP presidential elections which was held Septembe
                 model = genai.GenerativeModel("gemini-pro")
                 messages = [{"role": "user", "parts": [prompt]}]
                 safety_settings = [
-                    {"category": "HARM_CATEGORY_DANGEROUS", "threshold": "BLOCK_NONE"},
-                    {"category": "HARM_CATEGORY_HARASSMENT", "threshold": "BLOCK_NONE"},
-                    {"category": "HARM_CATEGORY_HATE_SPEECH", "threshold": "BLOCK_NONE"},
+                    {"category": "HARM_CATEGORY_DANGEROUS",
+                        "threshold": "BLOCK_NONE"},
+                    {"category": "HARM_CATEGORY_HARASSMENT",
+                        "threshold": "BLOCK_NONE"},
+                    {"category": "HARM_CATEGORY_HATE_SPEECH",
+                        "threshold": "BLOCK_NONE"},
                     {
                         "category": "HARM_CATEGORY_SEXUALLY_EXPLICIT",
                         "threshold": "BLOCK_NONE",
@@ -262,11 +266,13 @@ Nishimura was running for the LDP presidential elections which was held Septembe
                 if isinstance(response_data, dict):
                     address_postal_code = response_data.get(
                         "Address_Postal_Code", "NA")
-                    address_country = response_data.get("Address_Country", "NA")
+                    address_country = response_data.get(
+                        "Address_Country", "NA")
                     address_provinance = response_data.get(
                         "Address_Provinance", "NA")
                     address_city = response_data.get("Address_City", "NA")
-                    address_address1 = response_data.get("Address_Address1", "NA")
+                    address_address1 = response_data.get(
+                        "Address_Address1", "NA")
 
                     get_positions = response_data.get('Positions held so far')
                     if isinstance(get_positions, list):
@@ -320,7 +326,7 @@ Nishimura was running for the LDP presidential elections which was held Septembe
     ]
 
     # Directory paths
-    main_folder_path = os.path.join( 'Output')
+    main_folder_path = os.path.join('Output')
 
     # List of API keys
     api_keys = [
@@ -423,7 +429,8 @@ def download_csv():
     Endpoint to download the extracted_politician_data.csv file.
     """
     # Define the path to the CSV file
-    directory = os.path.dirname(__file__)  # Get the directory where the app is running
+    # Get the directory where the app is running
+    directory = os.path.dirname(__file__)
     filename = "extracted_politician_data.csv"  # The name of your CSV file
 
     try:
