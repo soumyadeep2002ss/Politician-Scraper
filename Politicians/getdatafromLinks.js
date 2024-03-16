@@ -57,16 +57,16 @@ async function getDataFromLinks() {
           fs.writeFileSync(`${outputDirectory}/nonReadableCv${i + 1}.json`, JSON.stringify(storeUrl, null, 2), 'utf8');
         }
         if (textdata.trim() !== '') {
-          textdata = await translateText(page1, data.text, 'auto', 'en');
+          textdata = await translateText(page1, data.text, 'auto', 'en') || textdata;
         }
         fs.writeFileSync(fileName, textdata, 'utf8');
         console.log(fileName)
       } else {
         // If it's not a PDF, extract text content directly
-        textContent = await page.evaluate(() => document.body.innerText);
+        textContent = await page.evaluate(() => document.body.innerText) || textContent;
         // console.log(textContent)
         if (textContent.trim() !== '') {
-          textContent = await translateText(page1, textContent, 'auto', 'en');
+          textContent = await translateText(page1, textContent, 'auto', 'en') || textContent;
         }
         fs.writeFileSync(fileName, textContent, 'utf8');
       }

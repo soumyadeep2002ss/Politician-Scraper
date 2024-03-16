@@ -159,7 +159,7 @@
 
         function downloadCSV() {
             // Assuming your server is set to serve the CSV file on this endpoint
-            window.location.href = 'http://3.210.56.36/download-csv';
+            window.location.href = '/download-csv';
             // Update the status for downloading the CSV
             setStatus("Downloading...", "download-status");
             setTimeout(() => setStatus("Completed", "download-status"), 1000); // Mock delay for download
@@ -170,7 +170,7 @@
             formData.append('file', file);
 
             setStatus("Working...", "upload-status");
-            fetch('http://3.210.56.36/upload', {
+            fetch('/upload', {
                 method: 'POST',
                 body: formData,
             }).then(response => response.json())
@@ -188,7 +188,7 @@
 
         function runNodeScript() {
             setStatus("Working...", "node-status");
-            fetch('http://3.210.56.36/run-node', { method: 'POST' })
+            fetch('/run-node', { method: 'POST' })
                 .then(response => response.json())
                 .then(data => {
                     console.log(data);
@@ -204,7 +204,7 @@
 
         function runPythonScript() {
             setStatus("Working...", "python-status");
-            fetch('http://3.210.56.36/run-python', { method: 'POST' })
+            fetch('/run-python', { method: 'POST' })
                 .then(response => response.json())
                 .then(data => {
                     console.log(data);

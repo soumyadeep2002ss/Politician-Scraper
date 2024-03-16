@@ -29,7 +29,7 @@ def upload_file():
         # Ensure the target directory exists
         os.makedirs(target_directory, exist_ok=True)
         # Set the new filename
-        new_filename = "sampleUploaded.csv"
+        new_filename = "sample.csv"
         # Combine the target directory and new filename to create the full file path
         filepath = os.path.join(target_directory, new_filename)
         # Save the uploaded file to the new filepath
@@ -42,7 +42,7 @@ def run_node_script():
     # Navigate to the directory containing your Node.js project
     os.chdir(os.path.join(os.path.dirname(__file__), "..", "Politicians"))
     # Run the npm start command
-    result = subprocess.run(["npm", "start"], capture_output=True, text=True)
+    result = subprocess.run(["node", "index.js"], capture_output=True, text=True)
     # Optionally, navigate back to the original directory if needed
     # os.chdir(original_directory)
 

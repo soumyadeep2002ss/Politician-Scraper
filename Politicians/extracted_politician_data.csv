@@ -1,0 +1,34 @@
+UniqueId,Politician,Country,Address_Postal_Code,Address_Country,Address_Provinance,Address_City,Address_Address1,Positions,Dob_Year,Dob_Month,Dob_Day,Gender,Non-Readable CV,Nationality,Citizenship,Languages,Gender,Source URLs
+1,Zhang Xiaoming,China,NA,NA,NA,NA,NA,"Alternate Member - 18th Central Committee, Communist Party of China, The People's Republic of China
+CPC Member - Hong Kong and Macao Affairs Office of the State Council, The People's Republic of China
+Member - Hong Kong Special Administrative Region (HKSAR) Basic Law Committee, National People's Congress, The People's Republic of China
+Deputy Director - Hong Kong and Macao Affairs Office of the State Council, The People's Republic of China
+Director - Comprehensive Department, Hong Kong and Macao Affairs Office of the State Council, The People's Republic of China
+Director - Planning Department, Hong Kong and Macao Affairs Office of the State Council, The People's Republic of China
+Secretary - Administrative Department, Hong Kong and Macao Affairs Office of the State Council, The People's Republic of China
+Deputy Director - Hong Kong and Macao Affairs Office of the State Council, The People's Republic of China
+Secretary - General Office, Hong Kong and Macao Affairs Office of the State Council, The People's Republic of China
+Director - Hong Kong Political Affairs Department, Hong Kong and Macao Affairs Office of the State Council, The People's Republic of China 
+Deputy Director - 2nd Department, Hong Kong and Macao Affairs Office of the State Council, The People's Republic of China
+Staff Member - Hong Kong and Macao Affairs Office of the State Council, The People's Republic of China
+Member - Communist Party of China (CPC), The People's Republic of China
+CPC Member - Central Committee, Central LSG for Hong Kong and Macao Work, The People's Republic of China
+Director - Hong Kong and Macao Affairs Office of the State Council, The People's Republic of China
+Member - 19th Central Committee, Communist Party of China, The People's Republic of China
+Member - (11th-13th) National People's Congress (Guangdong), The People's Republic of China
+Director - Liaison Office, Central People's Government, Hong Kong Special Administrative Region, The People's Republic of China
+Director - Hong Kong and Macau Affairs Office, Hong Kong Special Administrative Region, The People's Republic of China
+Deputy Director - Hong Kong and Macau Affairs Office, Hong Kong Special Administrative Region, The People's Republic of China",1963,September,3,Male,,Chinese,NA,NA,Male,"CV: [
+'https://en.wikipedia.org/wiki/Zhang_Xiaoming',
+'https://www.chinavitae.com/biography/Zhang_Xiaoming/full'
+]
+
+SourceURL: [
+'http://www.npc.gov.cn/englishnpc/iframe/contact_us.htm',
+'""http://www.gov.cn/xinwen/2018-02/24/content_5268538.htm'
+]
+
+ONLY: [
+'https://en.wikipedia.org/wiki/Zhang_Xiaoming',
+'https://en.wikipedia.org/wiki/18th_Politburo_of_the_Chinese_Communist_Party#:~:text=The%2018th%20Politburo%20of%20the,of%20the%2018th%20National%20Congress.'
+]"

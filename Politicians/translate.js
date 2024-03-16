@@ -54,11 +54,17 @@ const translateText = async (page, text, sourceLanguage, targetLanguage) => {
             await page.goto(`https://translate.google.com/?sl=${sourceLanguage}&tl=${targetLanguage}&text=${chunk}`, { waitUntil: 'domcontentloaded' });
 
             // Wait for translation to appear
-            await page.waitForSelector('#yDmH0d > c-wiz > div > div.ToWKne > c-wiz > div.OlSOob > c-wiz > div.ccvoYb.EjH7wc > div.AxqVh > div.OPPzxe > c-wiz.sciAJc > div > div.usGWQd > div > div.lRu31 > span.HwtZe > span > span');
+            await page.waitForXPath('/html/body/c-wiz/div/div[2]/c-wiz/div[2]/c-wiz/div[1]/div[2]/div[2]/c-wiz[2]/div/div[6]/div/div[1]/span[1]/span');
 
             // Extract the translated text
             const translatedChunk = await page.evaluate(() => {
-                const translationElement = document.querySelector('#yDmH0d > c-wiz > div > div.ToWKne > c-wiz > div.OlSOob > c-wiz > div.ccvoYb.EjH7wc > div.AxqVh > div.OPPzxe > c-wiz.sciAJc > div > div.usGWQd > div > div.lRu31');
+                const translationElement = document.evaluate(
+                    "/html/body/c-wiz/div/div[2]/c-wiz/div[2]/c-wiz/div[1]/div[2]/div[2]/c-wiz[2]/div/div[6]/div/div[1]/span[1]/span",
+                    document,
+                    null,
+                    XPathResult.FIRST_ORDERED_NODE_TYPE,
+                    null
+                ).singleNodeValue;
                 return translationElement.innerText;
             });
 

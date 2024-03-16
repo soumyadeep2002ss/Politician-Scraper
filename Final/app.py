@@ -40,7 +40,7 @@ def run_node_script():
     # Navigate to the directory containing your Node.js project
     
     # Run the npm start command
-    result = subprocess.run(["node", "index.js"], capture_output=True, text=True)
+    result = subprocess.run("/home/ubuntu/.nvm/versions/node/v18.19.0/bin/node", "index.js", capture_output=True, text=True)
     # Optionally, navigate back to the original directory if needed
     # os.chdir(original_directory)
 
