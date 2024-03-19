@@ -9,11 +9,15 @@ import google.generativeai as genai
 import os
 import re
 import sys
+import shutil
 
 load_dotenv()
 character_limit = 120000
 
 app = Flask(__name__, static_folder="static")
+
+# Define a global variable to track the progress status
+is_progress_running = False
 
 
 @app.route("/upload", methods=["POST"])
@@ -37,8 +41,28 @@ def upload_file():
 
 @app.route("/run-node", methods=["POST"])
 def run_node_script():
-    # Navigate to the directory containing your Node.js project
+    directory_path = 'Output'
+    csv_file_path = 'extracted_politician_data.csv'
+    # Check if the directory exists
+    if os.path.exists(directory_path):
+        # Remove the directory if it exists
+        shutil.rmtree(directory_path)
+        print(f"Directory '{directory_path}' removed successfully.")
 
+     # Check if the CSV file exists
+    if os.path.exists(csv_file_path):
+        # Remove the CSV file if it exists
+        os.remove(csv_file_path)
+        print(f"File '{csv_file_path}' removed successfully.")
+
+    global is_progress_running
+
+    # Check if progress is already running
+    if is_progress_running:
+        return jsonify(status="Progress is already running."), 200
+    # Set progress status to running
+    is_progress_running = True
+    # Navigate to the directory containing your Node.js project
     # Run the npm start command
     result = subprocess.run(
         ["/home/ubuntu/.nvm/versions/node/v18.19.0/bin/node", "index.js"], capture_output=True, text=True)
@@ -415,7 +439,8 @@ def run_node_script():
                 f_object.close()
 
         print("Data extraction complete. CSV file created.")
-
+        # Set progress status to not running
+        is_progress_running = False
         return jsonify(status="Python script completed"), 200
 
     else:
