@@ -100,10 +100,10 @@ async function run() {
 
       // Check if the output file for this uniqueID already exists, skip if it does
       const existingFilePath = path.join('All_Links_Output', `${uniqueID}_res.json`);
-      if (fs.existsSync(existingFilePath)) {
-        console.log(`\nSkipping ${uniqueID} - Already processed`);
-        continue;
-      }
+      // if (fs.existsSync(existingFilePath)) {
+      //   console.log(`\nSkipping ${uniqueID} - Already processed`);
+      //   continue;
+      // }
 
 
       // console.log("pos: " + position)
@@ -246,7 +246,7 @@ function readCheckpointIndex() {
     const checkpointIndexFile = 'checkpointIndex.txt';
     if (fs.existsSync(checkpointIndexFile)) {
       const content = fs.readFileSync(checkpointIndexFile, 'utf-8');
-      return parseInt(content);
+      // return parseInt(content);
     }
     return 0;
   } catch (error) {

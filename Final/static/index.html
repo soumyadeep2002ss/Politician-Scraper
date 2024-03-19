@@ -71,6 +71,11 @@
                 transform: rotate(360deg);
             }
         }
+
+        .warning {
+            color: red;
+            font-weight: bold;
+        }
     </style>
 </head>
 
@@ -82,17 +87,21 @@
         </div>
         <input type="file" id="fileInput" hidden><br><br>
         <button onclick="uploadFile()">Upload CSV</button><span id="upload-status" class="status"></span><br>
-        <button onclick="runNodeScript()">Run Node.js Script</button><span id="node-status" class="status"></span><br>
-        <button onclick="runPythonScript()">Run Python Script</button><span id="python-status"
+        <button id="run-scrapper-btn" onclick="runNodeScript()">Run Scrapper</button><span id="node-status"
             class="status"></span><br>
+        <!-- <button onclick="runPythonScript()">Run Python Script</button><span id="python-status"
+            class="status"></span><br> -->
         <button id="download-csv-btn" onclick="downloadCSV()" disabled>Download CSV</button><span id="download-status"
             class="status"></span>
-
+        <p id="warning-message" class="warning" style="display: none;">Task is running, please try again after some
+            time.</p>
     </div>
 
     <script>
         const fileInput = document.getElementById('fileInput');
         const dragArea = document.getElementById('drag-area');
+        const runScrapperBtn = document.getElementById('run-scrapper-btn');
+        const warningMessage = document.getElementById('warning-message');
 
         dragArea.addEventListener('click', () => {
             fileInput.click();
@@ -146,7 +155,8 @@
 
         function checkAllTasksCompleted() {
             // Check if all tasks are completed
-            return tasksCompleted.upload && tasksCompleted.nodeScript && tasksCompleted.pythonScript;
+            console.log(tasksCompleted)
+            return tasksCompleted.upload && tasksCompleted.nodeScript;
         }
 
         function updateDownloadButtonState() {
@@ -160,7 +170,7 @@
 
         function downloadCSV() {
             // Assuming your server is set to serve the CSV file on this endpoint
-            window.location.href = 'http://3.210.56.36/download-csv';
+            window.location.href = '/download-csv';
             // Update the status for downloading the CSV
             setStatus("Downloading...", "download-status");
             setTimeout(() => setStatus("Completed", "download-status"), 1000); // Mock delay for download
@@ -188,36 +198,45 @@
         }
 
         function runNodeScript() {
-            setStatus("Working...", "node-status");
-            fetch('http://3.210.56.36/run-node', { method: 'POST' })
-                .then(response => response.json())
-                .then(data => {
-                    console.log(data);
-                    setStatus("Completed", "node-status");
-                    tasksCompleted.nodeScript = true;
-                    updateDownloadButtonState();
-                })
-                .catch(error => {
-                    console.error('Error:', error);
-                    setStatus("Error running Node.js script", "node-status", true);
-                });
+            if (!tasksCompleted.nodeScript) {
+                setStatus("Working...", "node-status");
+                runScrapperBtn.disabled = true; // Disable the button
+                warningMessage.style.display = 'none'; // Hide the warning message if it's visible
+                fetch('http://3.210.56.36/run-node', { method: 'POST' })
+                    .then(response => response.json())
+                    .then(data => {
+                        console.log(data);
+                        setStatus("Completed", "node-status");
+                        tasksCompleted.nodeScript = true;
+                        updateDownloadButtonState();
+                    })
+                    .catch(error => {
+                        console.error('Error:', error);
+                        setStatus("Error running Node.js script", "node-status", true);
+                    })
+                    .finally(() => {
+                        runScrapperBtn.disabled = false; // Re-enable the button after task completion
+                    });
+            } else {
+                warningMessage.style.display = 'block'; // Show warning message if the task is already running
+            }
         }
 
-        function runPythonScript() {
-            setStatus("Working...", "python-status");
-            fetch('http://3.210.56.36/run-python', { method: 'POST' })
-                .then(response => response.json())
-                .then(data => {
-                    console.log(data);
-                    setStatus("Completed", "python-status");
-                    tasksCompleted.pythonScript = true;
-                    updateDownloadButtonState();
-                })
-                .catch(error => {
-                    console.error('Error:', error);
-                    setStatus("Error running Python script", "python-status", true);
-                });
-        }
+        // function runPythonScript() {
+        //     setStatus("Working...", "python-status");
+        //     fetch('/run-python', { method: 'POST' })
+        //         .then(response => response.json())
+        //         .then(data => {
+        //             console.log(data);
+        //             setStatus("Completed", "python-status");
+        //             tasksCompleted.pythonScript = true;
+        //             updateDownloadButtonState();
+        //         })
+        //         .catch(error => {
+        //             console.error('Error:', error);
+        //             setStatus("Error running Python script", "python-status", true);
+        //         });
+        // }
     </script>
 </body>
 
